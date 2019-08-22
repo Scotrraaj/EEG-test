@@ -26,9 +26,7 @@ for root, dirs, files in os.walk(r'S:\Testing Python\reports'):           #for l
             path1= os.path.join(root, file)
             wordcheck(path1 , ["alzheimer"])
 
-            cleaning up unnecessary bla blas
-            more blas
-            some more blas
+            full cleanup
 
 #########################
 """
