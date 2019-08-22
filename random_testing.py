@@ -28,6 +28,7 @@ for root, dirs, files in os.walk(r'S:\Testing Python\reports'):           #for l
 
             cleaning up unnecessary bla blas
             more blas
+            some more blas
 
 #########################
 """
