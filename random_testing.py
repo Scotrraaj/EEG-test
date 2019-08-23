@@ -7,26 +7,45 @@ def wordcheck(filename, listwords):
         file.close()
         for word in listwords:
             word = word.lower()
-            count = 0
+            count2 = 0
             for sentence in read:
                 sentence = sentence.lower()
                 if word in sentence:
-                    count+=1
+                    count2+=1
                     continue
-            if count >= 1:
-                print('Found approx. %d in %s' %(count, filename))
+            if count2 >= 1:
+                #print('Found approx. %d in %s' %(count2, filename))
+                matches.append('1')
+            else:
+                matches.append('0')
     except FileExistsError:
         print("The file is not there!")
 
-import os                                                                      #import os package
+import os
+import pandas as pd
 
-for root, dirs, files in os.walk(r'S:\Testing Python\reports'):           #for loop to 'walk' around the directory
-    for file in files:                                                         #a for loop to check every file in the subdirectories
-        if file.endswith('.txt'):                                              #setting up a condition for reading only textfiles
+count=0
+
+session_records_df = pd.DataFrame()
+file_path = []
+matches = []
+for root, dirs, files in os.walk(r'S:\Testing Python\reports'):
+    #for loop to 'walk' around the directory
+    for file in files:
+        #a for loop to check every file in the subdirectories
+        if file.endswith('.txt'):
+            count+=1#setting up a condition for reading only textfiles
             path1= os.path.join(root, file)
+            file_path.append(path1)
             wordcheck(path1 , ["alzheimer"])
+session_records_df["File Path"] = file_path
+session_records_df["matches_keyword"] = matches
+print('TOTAL NUMBER OF TEXT FILES:', count)
+print(session_records_df)
+print(session_records_df.loc[session_records_df["matches_keyword"]=='1'])
 
-            Something meaningful
+session_records_df.to_csv(r'S:\Testing Python\Filtered.csv')
+
 
 #########################
 """
