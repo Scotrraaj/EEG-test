@@ -1,0 +1,120 @@
+
+HISTORY:
+
+25 y.o. female with a history of epilepsy since childhood, seizure free x13
+years referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS: Lamictal
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 11 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and bursts of sharply contoured theta activity with diffuse background slowing are
+seen.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves.
+Stage II sleep transients are not captured.
+
+
+
+No generalized slowing is present.
+
+
+There is abundant bitemporal independent sharply contoured polymorphic slowing. The slowing is
+often quasi-rhythmic.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Occasional (1/hour to <1min) diffuse frontally predominant polyspike-and-wave activity. There is no
+asymmetry with respect to onset.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+mild diffuse symmetric background slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+
+1. Abundant bitemporal independent sharply contoured polymorphic slowing, which is often quasi-
+rhythmic
+
+
+2. Occasional diffuse frontally predominant polyspike-and-wave activity
+
+
+
+
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of a diffuse epileptogenic process which may be primarily
+generalized or secondarily so with rapid bisynchrony. There is additional evidence for bitemporal
+independent cerebral dysfunction. Previous EEGs have also demonstrated diffuse epileptogenic
+processes with evidence of temporal dysfunction.

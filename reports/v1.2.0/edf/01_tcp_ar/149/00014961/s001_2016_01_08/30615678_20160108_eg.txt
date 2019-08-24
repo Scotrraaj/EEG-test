@@ -1,0 +1,22 @@
+History:	25 year old male who presents with generalized convulsions.
+Medications:	Risperdal, Celexa
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, asleep
+Description:
+Patient is asleep throughout the majority of the recording.  With stimulation, during very brief 
+arousals, the background consists of 9.5 moderate amplitude alpha activity with poor AP gradient.  
+Symmetrical sleep spindles, vertex waves and K-complexes are seen.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+	Disorganization, mild
+	No epileptiform discharges
+	Sleep, stage 2
+Interpretation:
+This is an ABNORMAL mostly asleep and very briefly awake EEG due to mild background 
+disorganization that is seen during brief arousals. This finding is indicative of mild diffuse cerebral 
+dysfunction, which is etiologically nonspecific, but in this patient at least partially related to the 
+excessive drowsiness.
+	
+

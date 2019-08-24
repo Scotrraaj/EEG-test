@@ -1,0 +1,131 @@
+HISTORY:
+
+51 y.o. male with a history of seizures.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+polyethylene glycol (GLYCOLAX) 17 gram packet, Take 17 g by mouth daily.
+
+rosuvastatin (CRESTOR) 5 mg tablet, Take 1 tablet by mouth daily.
+
+hydrochlorothiazide (MICROZIDE) 12.5 mg capsule, Take 2 capsules by mouth daily.
+
+
+carvedilol (COREG) 25 mg tablet, Take 1 tablet by mouth 2 times daily (with meals).
+
+ranitidine (ZANTAC) 300 mg tablet, Take 1 tablet by mouth nightly.
+
+lisinopril (PRINIVIL,ZESTRIL) 20 mg tablet, Take 1 tablet by mouth daily.
+
+
+divalproex (DEPAKOTE) 250 mg EC tablet, Take 250 mg by mouth 2 times daily.
+
+zolpidem (AMBIEN) 5 mg tablet, Take 5 mg by mouth nightly as needed for Sleep.
+
+fluphenazine decanoate (PROLIXIN) 25 mg/mL injection,
+
+
+
+
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR).
+The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+Intermittent polymorphic theta and delta activity is seen over the left anterior temporal region.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Frequent (>1/min to <1/10s) left anterior temporal moderate amplitude spikes with aftergoing slow
+waves are seen (T1, F7, T3 max)
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+no effect.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+
+EVENTS:
+
+
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy 1 hour  routine EEG due to:
+
+1. Frequent left anterior temporal spikes with aftergoing slow waves
+
+
+
+CLINICAL CORRELATION:
+
+
+
+There is an epileptogenic focus over the left anterior temporal region.

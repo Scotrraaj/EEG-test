@@ -1,0 +1,28 @@
+History:	69 year old man with a history of a prior stroke and seizures, now presents after a 
+	suspected focal seizure.
+Medications:	CARBAMAZEPINE, Topamax, Neurontin
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, drowsy, asleep
+Description:
+There is no clear PDR or AP gradient.  The background consists of a mixture of polymorphic 
+moderate amplitude theta and delta activity with occasional polymorphic alpha activity.  
+Continuous polymorphic often sharply contoured delta activity is captured over left temporal region,
+ most pronounced over T3 lead.  Subtle underriding faster frequencies are captured over the left 
+midtemporal region.  During sleep, sleep spindles are seen.  They are higher in amplitude over the
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates heart 
+rate of ~45 bpm.
+Summary of Findings:
+	Diffuse slowing, polymorphic, moderate
+	Focal slowing, polymorphic, continuous, left temporal, moderate-to-severe
+	Breach artifact, left temporal, mid
+	Sleep, stage 2
+	No electrographic seizures
+Interpretation:
+This is an abnormal awake and asleep portable 27 minute EEG due to moderate diffuse slowing 
+and continuous moderate-to-severe focal slowing over the left temporal region. Diffuse slowing is 
+indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous 
+focal slowing is indicative of a focal structural lesion over the left temporal region.  Breach artifact 
+is secondary to a skull defect.  A single EKG lead demonstrates heart rate of ~45 bpm.
+

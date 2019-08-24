@@ -1,0 +1,27 @@
+History:	82 year old woman who presents with an episode concerning for a seizure.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, asleep, lethargic, obtunded
+Description:
+There is marked right-to-left interhemispheric asymmetry with slower waveforms over the left.  The 
+background over the right consists of fragmented 7 Hz PDR, poor AP gradient and excess 
+polymorphic theta activity.  The background over the left consists of attenuated slow delta activity.  
+Sleep spindles are captured.  They are better visualized over the right.
+  Gaze deviation towards the left is captured.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates an 
+irregular heart rate up to 120 bpm.
+Summary of Findings:
+	Diffuse slowing, polymorphic, mild-to-moderate
+	Focal slowing, polymorphic, continuous, marked, left hemispheric
+	Cardiac arrhythmia
+Interpretation:
+This is an ABNORMAL awake and asleep portable 21-minute EEG due to (1) mild-to-moderate 
+diffuse slowing and (2) marked left hemispheric focal slowing. Diffuse slowing is indicative of mild 
+to moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  Continuous focal 
+slowing is indicative of a focal structural lesion over the left - please correlate clinically.  Gaze 
+deviation towards the left is captured.  No clinical or electrographic seizures are present.  A single 
+EKG lead demonstrates an irregular heart rate up to 120 bpm.
+	
+

@@ -1,0 +1,139 @@
+HISTORY:
+
+85 y.o. female with a history of R PCA and
+
+L MCA infarcts, with a recent admit for altered mental status,
+
+
+referred for routine EEG as a follow up study for assessment of
+
+mental status change.
+
+
+
+MEDICATIONS: no antiepileptic drugs
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+NicOne system. This was a technically difficult record, with
+
+frequent periods of diffuse muscle artifact obscuring cerebral
+
+
+rhythms. The study included a single channel of EKG and photic
+
+
+
+
+stimulation.
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a
+
+
+fairly organized symmetric mixture of alpha, beta, and excess
+
+theta and delta frequencies, with a symmetric and reactive 9
+
+Hertz posterior dominant rhythm (PDR). The normal
+
+anterior-to-posterior gradient of frequency and amplitude is
+
+
+present but suboptimal.
+
+
+
+Drowsiness and sleep are not captured.
+
+
+Mild generalized slowing is present.
+
+Abundant right temporal polymorphic slowing is present.
+
+
+Very frequent left temporal polymorphic slowing is present, both
+
+synchronous and independent of the right temporal slowing.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+
+flashes per second (fps) does not produce any EEG changes.
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during
+
+
+this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+
+This is an abnormal, somewhat technically challenging, awake only
+
+routine EEG due to:
+
+
+1. Mild generalized slowing and suboptimal organization
+
+2. Abundant right temporal polymorphic slowing
+
+3. Very frequent left temporal polymorphic slowing, both
+
+synchronous and independent
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of right > left temporal
+
+cerebral dysfunction which may be structural or physiologic in
+
+origin, superimposed on mild diffuse cerebral dysfunction.

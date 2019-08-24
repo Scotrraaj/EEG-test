@@ -1,0 +1,154 @@
+HISTORY:
+
+69 y.o. female with a history of strokes, now presents with symptoms
+concerning for a stroke vs seizure.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+insulin lispro (HumaLOG) injection 40 Units
+
+dextrose 50% injection 25 mL
+
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+insulin lispro (HumaLOG) injection 3-15 Units
+
+
+aspirin EC tablet 81 mg
+
+atorvastatin (LIPITOR) tablet 80 mg
+
+benzonatate (TESSALON) capsule 100 mg
+
+
+clopidogrel (PLAVIX) tablet 75 mg
+
+dextrose 50% injection 25 mL
+
+
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+
+insulin glargine (LANTUS) injection 60 Units
+
+oxybutynin (DITROPAN) tablet 5 mg
+
+
+pantoprazole (PROTONIX) EC tablet 40 mg
+
+tolterodine (DETROL) tablet 2 mg
+
+traMADol (ULTRAM) tablet 50 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+heparin (5000 units/mL) injection 5,000 Units
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system  with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of up to 9 Hz alpha posteriorly, but no AP
+(anterior-to-posterior) gradient and excess diffuse polymorphic theta activity.  4-5 Hz activity is present
+anteriorly throughout the recording.
+
+
+Patient remains awake throughout the recording.
+
+
+
+For more than half of the recording there is high amplitude abundant EMG artifact over the left
+lateral leads - this obscures those portions of the recording.
+
+
+
+Occasional slow polymorphic delta activity is seen over the left anterior temporal region.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 80 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake only  routine EEG due to:
+
+1. Mild diffuse slowing and disorganization
+
+
+2. Occasional moderate left anterior temporal focal slowing
+
+
+
+CLINICAL CORRELATION:
+
+
+Diffuse slowing and disorganization are indicative of mild diffuse cerebral dysfunction, which is
+etiologically nonspecific.
+
+
+Focal slowing is indicative of a focal cerebral dysfunction, possibly structural in etiology.   Due to
+large amount of EMG artifact present in the area covering left temporal region, additional left
+temporal abnormalities might have been missed.

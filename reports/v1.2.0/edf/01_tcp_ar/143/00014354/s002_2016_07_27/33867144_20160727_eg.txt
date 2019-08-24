@@ -1,0 +1,97 @@
+HISTORY:
+
+78 y.o. male with a history of ARF, COPD, CVAs, altered mental status, and
+"seizure-like" activity, referred for routine EEG for assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+
+KEPPRA,  METFORMIN, LISINOPRIL, COREG, GABAPENTIN, ALBUTEROL, SPIRIVA, ADVAIR,
+ATORVASTATIN, NORVASC
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel portable electroencephalogram (EEG) was recorded at the bedside using
+the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a
+technically poor record with excessive muscle artifact and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+The patient was intubated and was noted to be biting on the ET tube. Early in the recording, he was
+described as awake and able to follow commands. Excessive muscle artifact obscures significant
+portions of the underlying cerebral electrical activity. Readable portions of the tracing demonstrate
+generalized low voltage 20-30 Hz activity and irregular low to medium amplitude widespread 3-5 Hz
+slowing.
+
+
+
+
+
+During these periods of increased drowsiness, attenuation of muscle artifact and beta activity were
+seen.
+
+
+
+Sleep is not captured
+
+
+
+No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 84 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+
+1. Diffuse background slowing and disorganization. As noted, the study was extremely limited
+secondary to excessive muscle artifact.
+
+
+
+These findings are suggestive of a diffuse disturbance of cerebral activity such as that seen with a
+variety of generalized encephalopathies of various etiologies. If clinically indicated, a repeat study
+with the patient sedated to eliminate muscle artifact may provide additional helpful information.

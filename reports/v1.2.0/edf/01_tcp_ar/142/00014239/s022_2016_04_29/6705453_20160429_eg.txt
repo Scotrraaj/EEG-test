@@ -1,0 +1,111 @@
+DATE OF STUDY: 04/29/16
+
+RECORDING ENVIRONMENT: ICU
+
+
+EEG TYPE: 20-40 min, asleep only
+
+
+
+
+
+HISTORY:
+
+a 78 y.o. female with a history of R temporal epilepsy in setting of R
+meningioma s/p removal on 4/25/2016, referred for EEG for evaluation of persistent altered mental
+status while undergoing reduction in phenobarbital.
+
+
+
+
+MEDICATIONS: Vimpat, Dilantin, Phenobarbital, VPA
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The background consists of disorganized theta and delta which is not clearly reactive.
+
+
+There is continuous polymorphic slowing, frequently with superimposed fast frequencies, noted over
+the right posterior temporal region, consistent with a right breach rhythm.
+
+
+
+
+
+Evidence of state change is not captured.
+
+
+Severe generalized slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Frequent (>1/min to <1/10s) right temporal (T4 max, but with broad field extending to right
+hemisphere) spike and wave discharges
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 78 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal asleep only routine EEG due to:
+
+1. Severe generalized slowing and background disorganization without reactivity
+
+
+2. Continuous right posterior temporal polymorphic slowing
+
+3. Superimposed fast frequencies over the right posterior temporal region, consistent with a breach
+rhythm
+
+
+4. Frequent right temporal spike and wave discharges
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of right temporal epileptogenic discharges superimposed on
+right posterior temporal cerebral dysfunction, likely structural in etiology, and severe diffuse cerebral
+dysfunction.
+
+
+A right posterior temporal breach rhythm is consistent with this patient's known history of craniotomy.
+
+

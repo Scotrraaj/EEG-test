@@ -1,0 +1,124 @@
+HISTORY:
+
+75 y.o. female with PMH stroke followed by seizures, presenting with syncope vs.
+seizure, referred for routine EEG for evaluation of paroxysmal events.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+levETIRAcetam (KEPPRA) tablet 500 mg
+
+albuterol (PROVENTIL) nebulizer solution 2.5 mg
+
+
+aspirin EC tablet 81 mg
+
+carvedilol (COREG) tablet 6.25 mg
+
+clopidogrel (PLAVIX) tablet 75 mg
+
+
+fluticasone-salmeterol (ADVAIR) 250-50 mcg/dose diskus inhaler 1 puff
+
+furosemide (LASIX) tablet 20 mg
+
+pantoprazole (PROTONIX) EC tablet 20 mg
+
+
+rosuvastatin (CRESTOR) tablet 20 mg
+
+tiotropium (SPIRIVA) inhalation capsule 18 mcg
+
+
+
+heparin (5000 units/mL) injection 5,000 Units
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+
+insulin lispro (HumaLOG) injection 1-5 Units
+
+lisinopril (PRINIVIL,ZESTRIL) tablet 5 mg
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+theta, alpha and beta frequencies, with a symmetric and reactive 7.5 Hertz posterior dominant
+rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+Sleep is not captured
+
+
+
+Generalized slowing in the theta frequency is present.
+
+Intermittent focal delta slowing is present in bilateral frontal and temporal region, L>R, noted in
+wakefulness and early drowsiness.
+
+
+
+EPILEPTIFORM ACTIVITY:None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead. Occ PVCs
+
+
+
+IMPRESSION:
+
+This is an abnormal awake only  routine EEG due to:
+
+
+
+1. Generalized theta slowing
+
+2. Intermittent focal delta slowing in bilateral frontal and temporal regions
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings are nonspecific in a subject of this age but are commonly seen in ischemic
+cerebrovascular disease.  The generalized slowing can be seen in toxic or metabolic encephalopathy
+as well

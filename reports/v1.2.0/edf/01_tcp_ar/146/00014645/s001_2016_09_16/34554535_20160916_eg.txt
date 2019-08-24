@@ -1,0 +1,121 @@
+DATE OF STUDY: 09/16/16
+
+RECORDING ENVIRONMENT: outpatient
+
+
+EEG TYPE: 20-40 min, awake and asleep
+
+
+
+
+
+HISTORY:
+
+ a 24 y.o. female with a history of teen onset epilepsy, only a handful of tonic-
+clonic seizures in her life.  Grandfather had epilepsy.  Past EEGs showed spike and wave or
+something similar.  Today, referred for routine EEG for characterization of seizures.
+
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+lamoTRIgine (LAMICTAL) 25 mg tablet,  75 mgNo current facility-administered medications for this
+visit.
+TECHNIQUE:
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically  satisfactory
+record and included a single channel of EKG, HV and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+
+
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.  Alpha squeak was noted During drowsiness, slow rolling
+eye movements, attenuation and fragmentation of the posterior dominant rhythm, and diffuse
+background slowing are seen.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+discrete epileptiform activity is present, only in drowsiness.  There is a pair of frontally predominant 5-
+6 Hz discrete spike and wave discharges with an additional after going slow wave.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):  None
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Produces an increase in amplitude of the background
+
+Photic Stimulation: Elicits a vigorous driving response
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 78 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormalroutine EEG.
+
+#1 frontally predominant discrete spike and wave activity
+
+
+CLINICAL CORRELATION:
+
+This  EEG pattern is similar to the one that the patient described.  It is typical of that seen in
+generalized epilepsy.  This EEG does  support the diagnosis of epilepsy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

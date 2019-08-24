@@ -1,0 +1,28 @@
+History:	62 year old man with left temporal tumor and seizures, now presents with high fever 
+	and recurrent episodes of tinnitus, concerning for seizures.
+Medications:	DEPAKOTE, KEPPRA, TEMOZOLOMIDE
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy
+Description:
+During maximal arousal the posterior dominant rhythm consists of low amplitude ~ 11 Hz alpha 
+activity with expected AP gradient.  Diffuse excess beta activity is captured.  During drowsiness, 
+brief bursts of diffuse delta activity and theta activity are captured.
+Frequent polymorphic and rhythmic (TIRDA) delta activity is captured over left temporal region.  
+Rare left midtemporal - posterior temporal very low amplitude sharp waves with aftergoing slow 
+waves are captured (maximal over T3 and T5 leads).
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates heart 
+rate of ~120-140 bpm.
+Summary of Findings:
+	Beta, excessive
+	Focal slowing, polymorphic, frequent, left temporal, moderate-to-severe
+	TIRDA (temporal intermittent rhythmic delta activity), frequent, left temporal
+	Sharp waves, rare, left temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy portable 21-minute EEG due to frequent focal left 
+temporal slowing, often rhythmic, and rare left temporal epileptiform discharges. These findings 
+indicate focal structural epileptogenic lesion.  Excessive beta activity could be secondary to the 
+medication effect, such as benzodiazepines or barbiturates.  A single EKG lead demonstrates heart 
+	
+

@@ -1,0 +1,118 @@
+HISTORY:
+
+37 y.o. male with a history of seizure since age of 16 years. Per the patient they
+always occur in the morning. referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS:
+
+
+carBAMazepine (TEGRETOL XR) 12 hr tablet 600 mg BID
+
+Lyrica 100 mg daily
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG, HV and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 10 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and significant diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves.
+Sleep spindles and K-complexes and slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.
+
+
+
+Frequent left anterior temporal polymorphic delta waves are present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No sharp waves seen.
+
+Temporal intermittent rhythmic delta activity seen at F7/T3.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and enhances
+focal slowing on the left anterior temporal region.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Temporal intermittent rhythmic delta activity seen at anterior temporal region.
+
+
+
+2. Frequent left anterior temporal focal slowing present.
+
+
+
+CLINICAL CORRELATION:
+
+
+
+The findings of TIRDA in the left anterior temporal region has a high association with epileptogenic
+focus in this region. In addition, the frequent left anterior temporal focal slowing indicates the
+presence of focal cerebral dysfunction.

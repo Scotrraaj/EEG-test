@@ -1,0 +1,28 @@
+:
+History:	30 year man who was found down with no pulse. He developed myoclonic jerks last night, cocnerning for seizures.
+Medications:	Versed and propofol - stopped in 9/4/2015 am Sedation:
+EEG Type:	Continuous (inpt, video), 24 hrs, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1fT2 electrodes and EKG electrodes, comatose
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 21 hours from 09/04/2015 till 09/05/2015 . Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns.  All automatically detected events were reviewed in detail by the attending neurologist.
+# Push button events
+Description of pushbutton events
+
+
+Description:
+There is no PDR or AP gradient. Early in the recording the background consists of attenuated diffuse slow delta activity and high amplitude bifrontalventi altor artifact (verified via video review). As the recording progresses, the background is replaced by the complete burst suppression pattern.  No normal sleep architecture is present.
+
+There is no change in the background activity to visual, auditory, tactile, or noxious stimuli. Sinus tachycardia is noted early in the recording.
+
+Summary of Findings:
+No reactivity
+Diffuse slowing, polymorphic, marked, early in the recorded Burst-suppression pattern, marked, by the end of the recording
+
+Interpretation:
+This is an ABNORMAL 21-hour continuous video EEG due to complete burst suppression pattern seen by the end of the recording. This finding indicates global profound cerebral dysfunction. These findings were conveyed to the primary team.
+
+
+
+
+

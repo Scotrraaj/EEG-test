@@ -1,0 +1,182 @@
+HISTORY:
+
+67 y.o. male with a history of seizures
+
+(last: 1 week ago) referred for routine EEG as a follow up study.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+carBAMazepine (TEGRETOL XR) 200 mg 12 hr tablet, 1 in AM 2 in PM
+
+phenytoin (DILANTIN) 100 mg ER capsule, 1 in AM 2 at bed
+
+multivitamin (DAILY-VITE) per tablet, Take 1 tablet by mouth
+
+
+daily.
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+
+
+
+NicOne system. This was a technically satisfactory record and
+
+included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a
+
+fairly organized symmetric mixture of alpha and beta frequencies,
+
+with excess of delta frequencies in wakefulness. Fragments of a
+
+symmetric, reactive 8.5 Hz posterior dominant rhythm (PDR) are
+
+
+occasionally seen.
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior
+
+dominant rhythm, and further background slowing are seen.
+
+
+Sleep transients are not captured.
+
+
+
+There is mild to moderate generalized slowing.
+
+
+There is frequent bifrontal polymorphic slowing.
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Frequent left temporal (F7/T1/T3 max) spike/polyspike and wave
+
+
+activity
+
+2. Frequent independent right temporal (F8/T2/T4 max)
+
+
+spike/polyspike and wave activity
+
+3. Occasional left fronto-temporal rhythmic delta activity at
+
+2-2.5 Hz for <3 seconds, at times spreading diffusely over
+
+bilateral fronto-temporal regions
+
+
+4. Occasional independent left frontal (Fp1) spikes
+
+5. Occasional independent right frontal (Fp2) spikes
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+flashes per second (fps) does not produce any EEG changes.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during
+
+this study.
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal Awake and drowsy  routine EEG due to:
+
+1. Mild to moderate generalized slowing with suboptimal
+
+organization
+
+
+2. Frequent bifrontal polymorphic slowing
+
+3. Frequent left temporal (F7/T1/T3 max) spike/polyspike and wave
+
+
+activity
+
+4. Frequent independent right temporal (F8/T2/T4 max)
+
+spike/polyspike and wave activity
+
+5. Occasional left fronto-temporal rhythmic delta activity at
+
+
+2-2.5 Hz for <3 seconds, at times spreading diffusely over
+
+bilateral fronto-temporal regions
+
+
+6. Occasional independent left frontal (Fp1) spikes
+
+7. Occasional independent right frontal (Fp2) spikes
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of multifocal epileptiform
+
+discharges (left temporal, independent right temporal,
+
+
+independent left frontal, independent right frontal) superimposed
+
+on bifrontal cerebral dysfunction and mild to moderate diffuse
+
+cerebral dysfunction. When compared to his prior routine EEG in
+
+2012, the current study demonstrates similar findings.

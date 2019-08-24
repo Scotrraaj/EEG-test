@@ -1,0 +1,88 @@
+HISTORY: 68 y.o. female with a history of DM, various tachyarrhythmias including afib in ICU, peripheral artery disease (stents in legs), scleroderma, Raynaud's, and neuropathy presenting for evaluation of episodes of nausea and deja vu followed by left thumb/arm twitching/numbness +/- right eye twitching +/- mild confusion, which have worsened since late 3/2016. She is referred for EEG for management of seizure exacerbation.  
+
+MEDICATIONS: Keppra 250 mg q12h, increased on admission to 750 mg q12h  
+
+SEDATION: None  
+
+TECHNIQUE: A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.   
+
+DAY 1 (4/28/2016, 09:58 - 4/29/2016, 06:00)  Keppra increased to 1500 mg q12h Ativan 1 mg IV in AM, PM Oxcarbazepine 300 mg at 18:00, 22:00, then q12h   
+
+BACKGROUND: The waking background is continuous and reactive but asymmetric. The left hemisphere consists of a well-organized mixture of alpha and frontal beta, with a posterior dominant rhythm of 10 Hz. The right hemisphere consists of a fairly organized mixture of alpha, theta, beta, and delta, with fragments of a posterior dominant rhythm of 10 Hz. The continuous slowing noted over the right hemisphere is quasi-rhythmic over the right temporal region.  Sleep is characterized by synchronous and symmetric spindles and K complexes.  
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):  None  
+
+EPILEPTIFORM ACTIVITY:  Frequent (1/min to <1/10sec) right temporal (T4 max, but broad field over R temporal chain) spike and wave discharges
+
+EVENTS: Multiple electroclinical seizures are captured on this day: 4/28/2016 at 09:59, 10:32, 10:39, 10:45, 10:51, 10:57, 11:03, 11:20, 12:13, 15: 56, 16:28, 16:31, 17:30, 19:24, 19:27, 22:22 4/29/2016 at 02:37, 03:14, 03:20 Clinical: patient notes nausea and deja vu. There is subtle right eye twitching and left thumb twitching. She is able to push the button (and sometimes does within 4 seconds of EEG onset). When tested, she remains alert and oriented and demonstrates full recall. 
+
+EEG: quasi-rhythmic theta slowing over right temporal region (posterior quadrant max at times) becomes more rhythmic and sharply contoured, increases in amplitude, and within 10 seconds spreads throughout the right hemisphere (posterior quadrant max, sometimes involving the left hemisphere (again, posterior quadrant max)). There are admixed right anterior temporal sharp waves (F8/T2 max). Ictal activity increases in frequency and amplitude before slowing to irregular sharply contoured delta.   
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION: This is an abnormal long-term video EEG due to: 1. Continuous right temporal slowing, at times quasi-rhythmic 2. Frequent right temporal spike and wave 3. Multiple electroclinical seizures of right temporal/right posterior quadrant origin 
+
+
+-----------------------------------------------------------------  
+
+DAY 2 (4/29/2016, 06:00 - 4/30/2016, 06:00)  Keppra 1500 q12h OXC 300 mg in AM, stopped in PM Topamax 50 mg q12h started in evening  
+
+BACKGROUND: No change  
+
+GENERALIZED SLOWING: No change  
+
+FOCAL SLOWING: No change  
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None  
+
+SPORADIC EPILEPTIFORM ACTIVITY: 1. Occasional right temporal (T4 max, but broad field over R temporal chain) spike and wave discharges 2. Occasional runs of rhythmic delta over R temporal region   
+
+EVENTS:  Electrographic seizures with similar pattern as noted above, on: 4/29/2016 at 07:55 (during sleep; no definite clinical change) 08:30 (during sleep; no definite clinical change) 18:43 (associated with dystonic posturing of LUE) 4/30/2016 at  02:32 (during sleep; no definite clinical change)  Duration 30-90 seconds.  
+
+EKG: A single EKG lead captured an irregular HR   
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION Right temporal/posterior quadrant seizures persist but have decreased in frequency.  
+
+-----------------------------------------------------------------  
+
+DAY 3 (4/30/2016, 06:00 - 5/1/2016, 06:00)  
+
+BACKGROUND: No change  
+
+GENERALIZED SLOWING: No change  
+
+FOCAL SLOWING: No change  
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None  
+
+SPORADIC EPILEPTIFORM ACTIVITY: No change  
+
+EVENTS: Electrographic seizures noted at: 4/30/2016 at 06:19 (during sleep, no clear clinical change on video review) 11:52 (arousal from sleep) 17:52 (lying in bed, uncovers herself, appears in mild distress, grabs handrail with R hand; LUE not clearly seen. Appears to ignore husband, who covers her back up.)  
+
+EKG: A single EKG lead captured an irregular HR   
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION Right temporal/posterior quadrant seizures continue to decrease in frequency.  
+
+-----------------------------------------------------------------  
+
+DAY 4 (5/1/2016, 06:00 - 5/2/2016, 06:00)  
+
+BACKGROUND: No change  
+
+GENERALIZED SLOWING: No change  
+
+FOCAL SLOWING: No change  
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None  
+
+SPORADIC EPILEPTIFORM ACTIVITY: No change  
+
+EVENTS: no clinical or electrographic events reported or detected  
+
+EKG: A single EKG lead captured an irregular HR   
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION No seizures on this day. Background and interictal findings unchanged from previous days.  
+
+-----------------------------------------------------------------  
+
+FINAL IMPRESSION:  This is an abnormal long term video EEG due to:  1. Continuous right temporal slowing, at times quasi-rhythmic 2. Frequent right temporal spike and wave, decreasing in prevalence by day 2 3. Occasional runs of rhythmic delta over R temporal region  4. Multiple electroclinical seizures of right temporal/right posterior quadrant origin, decreasing in prevalence over course of the study 5. Irregular heart rate seen on a single EKG lead.   
+
+FINAL CLINICAL CORRELATION:  These findings are diagnostic for localization related epilepsy of right temporal/posterior quadrant origin, superimposed on right temporal dysfunction. A single EKG lead captured an irregular heart rate. 

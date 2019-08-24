@@ -1,0 +1,152 @@
+DATE OF STUDY: 09/07/16
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 60 min - 3 hr, awake and drowsy
+
+
+
+HISTORY:
+
+a 68 y.o. male with a history of hypertension, CAD, cocaine abuse, found
+unresponsive, referred for routine EEG for assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+isosorbide mononitrate (IMDUR) 24 hr tablet 30 mg
+
+lisinopril (PRINIVIL,ZESTRIL) tablet 20 mg
+
+
+amLODIPine (NORVASC) tablet 10 mg
+
+LORazepam (ATIVAN) injection 2 mg
+
+niCARdipine (CARDENE) 20 mg in NaCl (iso-os) 200 mL infusion
+
+
+valproate (DEPACON) 500 mg in sodium chloride 0.9 % 100 mL IVPB
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+aspirin EC tablet 81 mg
+
+
+clopidogrel (PLAVIX) tablet 75 mg
+
+atorvastatin (LIPITOR) tablet 40 mg
+
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+docusate sodium (COLACE) capsule 100 mg
+
+
+heparin (5000 units/mL) injection 5,000 Units
+
+sodium chloride 0.9 % infusion
+
+
+aspirin chewable tablet 81 mg
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+The resting background demonstrates a large amount of low amplitude 18-25 Hz activity with
+significant amounts of superimposed muscle, movement, eye blink and prominent EKG artifact.
+Moderate amounts of irregular low to medium and medium amplitude 4-7 Hz activity were seen
+predominantly over the central and temporal regions. Mild amplitude asymmetry was noted with
+higher amplitudes on the left. At times, there also appeared to be some suppression of faster
+frequency activity over the right hemisphere. Frequent higher amplitude slowing and intermixed
+sharp waves were seen over the left temporal region at F7-T3.
+
+
+
+
+
+During drowsiness, amplitude attenuation and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Frequent (>1/min to <1/10s) left temporal sharp and slow activity was seen as detailed above.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+
+HEART RATE:
+
+
+EKG monitor demonstrated sinus rhythm at 84
+
+
+
+Minute with STT wave abnormalities.
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy EEG due to:
+
+
+1. Diffuse background slowing and disorganization
+
+2. Intermittent amplitude asymmetry with diminished amplitude and occasional suppression of faster
+frequency activity over the right hemisphere
+
+
+3. Frequent sharp and slow discharges over the left mid to anterior temporal region.
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate a bihemispheric functional disturbance with focal irritative activity over the
+left temporal region. No clinical or electrographic seizures were recorded.
+
+

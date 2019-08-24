@@ -1,0 +1,410 @@
+HISTORY:
+
+This is a 38 y.o. female admitted for continuous video-electroencephalography (VEEG) monitoring
+with a history of: paroxysmal events of unclear etiology.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+levETIRAcetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+losartan-hydrochlorothiazide (HYZAAR) 100-12.5 mg per tablet, Take 1 tablet by mouth daily.
+
+
+
+No current facility-administered medications for this visit.
+
+
+SEDATION: None
+
+
+
+DAY 1
+
+
+
+BACKGROUND:
+
+
+
+
+
+
+The waking background is continuous, symmetric, well-organized, and consists predominantly of 10
+Hz alpha activity posteriorly with the expected AP (anterior-to-posterior) gradient.
+
+
+
+There were no persistent asymmetries in amplitude and frequency.
+
+
+
+Sleep was characterized by symmetric sleep spindles and/or K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+Normal ~16 hour continuous video audio EEG monitoring with no events captured.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 2
+
+
+
+AEDs: Keppra dose decreased
+
+Induction: sleep deprivation
+
+
+
+INTERICTAL BACKGROUND:
+
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.
+
+
+
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep and REM sleep is captured.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+EKG: A single lead captured heart rate of 60 bpm.
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3
+
+
+
+AEDs: Keppra OFF
+
+
+INTERICTAL BACKGROUND:
+
+
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.
+
+
+Sleep architecture is normal.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+SEIZURES/EVENTS:
+
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4
+
+
+
+AEDs: Keppra OFF
+
+Induction: sleep deprivation
+
+
+
+INTERICTAL BACKGROUND:
+
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.
+
+
+
+Sleep architecture is normal.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 5
+
+
+
+AEDs: Keppra off
+
+
+INTERICTAL BACKGROUND:
+
+The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.
+
+
+
+Sleep architecture is normal.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+____________________________________________________________
+
+
+
+INDUCTION PROCEDURES:
+
+Sleep deprivation x2
+
+
+Exercise
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+Interictal Findings:  Normal awake and asleep recording.
+
+
+
+
+Ictal Findings:
+
+The patient had no clinical events while on continuous video EEG monitoring in the epilepsy
+monitoring unit.
+
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. Not established
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. Not established
+
+
+
+CONCLUSION:
+
+was admitted to the epilepsy monitoring unit for 5 days with continuous video
+EEG.  This was an inconclusive EMU monitoring session because of no events were captured.
+
+
+
+The interictal EEG is characterized by normal awake and asleep background with regular heart rate
+while monitored on telemetry.
+
+
+
+
+
+The patient was weaned off Keppra over the course of her admission. She was NOT restarted on her
+medication at the time of her discharge.
+
+
+
+
+Patient is follow-up at the Temple Epilepsy Center as an outpatient.
+
+
+
+
+

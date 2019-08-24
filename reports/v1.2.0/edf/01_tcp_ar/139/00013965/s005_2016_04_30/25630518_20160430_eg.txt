@@ -1,0 +1,520 @@
+START DATE OF STUDY: 04/29/16 at 16:11
+
+END DATE OF STUDY: 05/01/16 at 12:50
+
+
+
+RECORDING ENVIRONMENT: 
+
+EEG TYPE: Long term recording
+
+
+
+
+
+HISTORY:
+a 36 y.o. male admitted for continuous video-electroencephalography (VEEG) monitoring
+with a history of: paroxysmal events of unclear etiology.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+(9) there have been 13 reported deaths during various video-EEG monitoring procedures, so this is
+not a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Additionally, T1, F9, T9, P9, T2, F10, T10, and P10 electrodes were placed in this patient.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For approximately 8 hours each day the
+patient was attended by an EEG technician.  A neurologist was available in person or on call 24
+hours per day.  The patient was monitored via video 24 hours per day by a registered nurse with
+special training in seizure recognition and testing.  During times when a technician was not
+available, EEG recording, video recording, and computer analysis continued, and nursing performed
+seizure testing and electrode maintenance.
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+aspirin 81 mg EC tablet, Take 81 mg by mouth daily.
+
+
+escitalopram oxalate (LEXAPRO) 20 mg tablet, Take 20 mg by mouth daily.
+
+clonazePAM (KLONOPIN) 2 mg tablet, Take 2 mg by mouth 2 times daily as needed for Anxiety.
+
+gabapentin (NEURONTIN) 600 mg tablet, Take 600 mg by mouth 3 times daily.
+
+tiotropium (SPIRIVA) 18 mcg inhalation capsule, Inhale 18 mcg into the lungs daily.
+
+
+oxyCODONE (ROXICODONE) 5 mg immediate release tablet, Take 10 mg by mouth every 4 hours as
+needed for Pain.
+
+
+OXcarbazepine (TRILEPTAL) 150 mg tablet, Take 2 tablets by mouth 2 times daily.
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (4/29/2016, 16:11 - 4/30/2016, 06:00)
+
+
+
+BACKGROUND:
+
+
+The waking background is continuous, symmetric, well-organized, and consists predominantly of low
+voltage fast frequencies.
+
+
+
+Posterior dominant rhythm consisted of low voltage fast frequencies.
+
+
+
+The background is reactive and variable.
+
+
+
+There were no persistent asymmetries in amplitude and frequency.
+
+
+Sleep was characterized by synchronous and symmetric sleep spindles and K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Runs of theta activity, sharply contoured at times, seen over the central regions.
+
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+(1) DATE AND TIME:   4/29/2016 at 18:20
+
+EVENT TYPE: Event of unclear etiology
+
+CLINICAL: Patient lying in bed, reaches for event button, pushes it, tells nurse he had an event. He is
+able to answer nursing protocol questions/follow commands. Patient reports that he feels nauseas,
+dizzy, then shakes.
+
+
+
+EEG: No EEG changes from background were seen during the event
+
+DURATION: unclear
+
+POSTICTAL CHANGES:  none
+
+
+EKG: no change
+
+
+(2) DATE AND TIME:   4/29/2016 at 19:26
+
+
+EVENT TYPE: Non-epileptic event
+
+
+CLINICAL: lying in bed, begins to shake both hands/arms asynchronously. During this, he pushes
+button. Patient reports he is dizzy. He does not answer questions at first, but within seconds follows
+commands bilaterally.
+
+
+EEG: No EEG changes from background were seen during the event
+
+
+DURATION: 3 min 12 sec
+
+POSTICTAL CHANGES:  none
+
+EKG: no change
+
+
+
+(3) DATE AND TIME:   4/29/2016 at 19:30
+
+EVENT TYPE: Psychogenic non-epileptic seizure
+
+
+CLINICAL: Patient lying in bed with eyes closed, begins to shake head from side to side. Then stops
+shaking head and has asynchronous tremulous movements of hands/arms (at times more on the left).
+Eyes remain closed. Does not answer nurse or follow commands. After about 18 minutes his hands
+stop shaking but he does not open eyes or respond to nurse. By 21 minutes he follows commands
+bilaterally but keeps eyes closed. Patient reports that he feels nauseas, dizzy, then shakes.
+
+
+
+EEG: No EEG changes from background were seen during the event. The midline central theta
+rhythm persists and fluctuates in amplitude without evolution in frequency or spread at 19:31.
+
+
+DURATION: 24 min 8 sec
+
+POSTICTAL CHANGES:  none
+
+
+EKG: no change
+
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+This is a normal video EEG. A background consisting of low voltage fast frequencies can be a normal
+variant in the adult population.
+
+
+Excess beta activity can be seen in the setting of a medication effect (i.e., benzodiazepines or
+barbiturates).
+
+
+Runs of midline theta may represent a benign variant.
+
+The episodes described above are most likely nonepileptic behavioral events (no EEG changes,
+semiology consistent with behavioral events).
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (4/30/2016, 06:00 - 5/1/2016, 06:00)
+
+
+AEDs: Stopped OXC
+
+
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Runs of theta activity, sharply contoured at times, seen over the central regions.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+SEIZURES/EVENTS:
+
+(1) DATE AND TIME:   4/30/2016 at 08:01
+
+
+EVENT TYPE: Psychogenic non-epileptic seizure
+
+CLINICAL: Patient lying in bed, turns and reaches for event button. Takes him just under 2 minutes to
+find and push the button. He pushes it, positions himself back to lying down, and has asynchronous
+low amplitude tremulous movements of hands/wrists (at times L>R), with eyes closed. At one point he
+adjusts his gown with left hand. At 204 seconds, PCA enters and calls his name - he does not
+respond. Eyes remain closed. He does not answer or follow commands. Does not react to noxious
+stimuli. Tremulous movements of wrists/hands continue asynchronously, asymmetrically, in waxing
+and waning fashion. At 512 seconds MD enters, checks pupils, tone. Patient does not respond or
+follow commands; eyes remain closed. Patient opens eyes at end of episode.
+
+
+
+
+
+EEG: No EEG changes from background were seen during the event
+
+DURATION: ~16 min 13 sec
+
+
+POSTICTAL CHANGES:  none
+
+EKG: no change
+
+
+
+(2) DATE AND TIME:   4/30/2016 at 13:10
+
+EVENT TYPE: Psychogenic non-epileptic seizure
+
+CLINICAL: PCA in room adjusting blankets. He puts his left hand on forehead and closes eyes. Says
+something to PCA who pushes button (13:11). Patient blinks eyes. RN enters - patent attends to her
+and answers, but responses inaudible. Appears to nod appropriately to instructions. Staff leaves. By
+13:16, patietn begins having asynchronous waxing-waning hand/wrist movements as noted in prior
+events. PCA enters and pushes button (13:17). He does not clearly respond to PCA, but eyes are
+open and he blinks. RN enters and examines patient. He does not follow simple commands.   He
+does not respond to nail bed pressure in R finger. Stops shaking hands and appears more responsive
+at 13:22. Tech notes patient claims he feels faint (like he was going to "drop out"), has hand shaking.
+
+
+
+
+
+EEG: No EEG changes from background were seen during the event. Note there is T2 electrode
+artifact during this time patient shakes hands.
+
+
+DURATION: ~13 min 41 sec
+
+
+
+POSTICTAL CHANGES:  none
+
+EKG: no change
+
+
+
+
+
+EKG: A single lead captured a heart rate in the 70s.
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+
+Normal study as on Day 1.
+
+The episodes described above are most likely nonepileptic behavioral events (no EEG changes,
+semiology consistent with behavioral events).
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (5/1/2016, 06:00 - 5/1/2016, 12:50)
+
+
+AEDs: off OXC
+
+
+
+INTERICTAL BACKGROUND: No change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Runs of midline theta as on prior days
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+SEIZURES/EVENTS:
+
+
+(1) DATE AND TIME:   5/1/2016 at 12:01
+
+EVENT TYPE: Psychogenic non-epileptic seizure
+
+
+
+
+
+
+
+
+
+
+CLINICAL: similar to prior episodes - lying in bed awake, eyes closed, reaches for and pushes event
+button. RN examines at 96 seconds. He does not respond to verbal or noxious stimulation and does
+not follow commands. Patient has whole body tremors and eye fluttering and intermittent side-to-side
+head tremors, visible on video review as fine amplitude movements of waxing-waning quality. About
+470 seconds into event, the movements of the arms increase in amplitude - there is intermittent
+flexion-extension movement every second that is synchronous, but not rhythmic, and intermittently
+asynchronous, then synchronous again. Eyes remain closed. 100 seconds later he is rubbing his fists
+on his thighs. These movements gradually resolve into fine arm tremors, then patient eventually
+responds to nurse calling him. Does not remember the code word.
+
+
+
+
+
+EEG: No EEG changes from background, other than movement/electrode artifact, were seen during
+the event
+
+
+DURATION: ~12 min 2 sec
+
+
+POSTICTAL CHANGES:  none
+
+EKG: HR increases to 120s
+
+
+
+EKG: A single lead captured a heart rate in the 70s.
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+
+Normal study as on Days 1-2.
+
+The episodes described above are most likely nonepileptic behavioral events (no EEG changes,
+semiology consistent with behavioral events).
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+
+INTERICTAL FINDINGS:  The patients interictal findings showed a background consisting of low
+voltage fast frequencies, without any focal findings or epileptiform discharges.
+
+
+
+Runs of midline theta were captured in wakefulness and drowsiness, likely a benign variant (central
+midline theta).
+
+
+
+ICTAL FINDINGS:
+
+
+The patient had multiple prolonged events consisting of waxing and waning tremulous activity of the
+hands/wrists with unresponsiveness, associated with feeling faint.  His eyes often remained closed
+throughout the events.  There was no ictal EEG correlate.
+
+
+
+
+SEIZURE DIAGNOSIS:
+
+
+1. Nonepileptic behavioral events
+
+
+
+CONCLUSION:
+
+ was admitted to the  for 2.5 days with continuous video EEG.
+This was an elective monitoring session for characterization of paroxysmal episodes.
+
+
+
+The interictal EEG is remarkable only for runs of central theta, likely a benign variant.
+
+
+
+The patient was weaned off Oxcarbazepine over the course of his admission and discharged home
+without it after his typical habitual event was confirmed to be nonepileptic behavioral events.
+
+
+
+Patient will follow-up with as an outpatient.
+
+
+
+

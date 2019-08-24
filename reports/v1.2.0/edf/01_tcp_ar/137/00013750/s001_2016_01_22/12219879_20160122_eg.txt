@@ -1,0 +1,162 @@
+HISTORY:
+
+57 y.o. female who woke up from sleep in
+
+morning with left frontal laceration, bleeding w/o knowing what
+
+
+happened to her and no memory of that trauma, referred for
+
+routine EEG for characterization of probable first seizure.
+
+
+
+MEDICATIONS: no AEDs
+
+
+SEDATION: None listed
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+NicOne system. This was a technically suboptimal record; the
+
+technician noted that the patient wore hair gel and impedences <
+
+
+10 kOhm could not be obtained.  The study included a single
+
+
+
+
+channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+The waking background is continuous and symmetric but
+
+
+suboptimally organized. It consists of a mixture of alpha and
+
+beta frequencies with admixed excess of sharply contoured delta
+
+activity.
+
+Fragments of an irregular ~10 Hertz posterior dominant rhythm
+
+
+(PDR) are present and symmetric. The normal anterior-to-posterior
+
+gradient of frequency and amplitude is present but suboptimal.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and
+
+fragmentation of the posterior dominant rhythm, and diffuse
+
+background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+Mild generalized slowing is present.
+
+There is frequent polymorphic delta activity seen both
+
+independently and synchronously over the temporal regions.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+At times the delta slowing over both temporal regions appears
+
+rhythmic at 1-1.5 Hz (lateralized rhythmic delta activity, also
+
+known as temporal intermittent rhythmic delta activity).
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+
+flashes per second (fps) does not produce any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during
+
+
+this study.
+
+
+
+HEART RATE:
+
+A heart rate of 84 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal, though technically suboptimal, awake and
+
+drowsy  routine EEG due to:
+
+
+1. Mild generalized slowing, with excess of delta activity and
+
+suboptimal organization
+
+2. Frequent polymorphic delta activity seen both independently
+
+and synchronously over the temporal regions
+
+
+3. Rhythmic delta activity seen independently over both temporal
+
+regions, both synchronously and independently
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate the presence of bitemporal cerebral
+
+dysfunction superimposed on mild diffuse cerebral dysfunction.
+
+
+Rhythmic delta activity seen independently over the temporal
+
+regions is associated with epileptogenic potential from those
+
+
+regions.

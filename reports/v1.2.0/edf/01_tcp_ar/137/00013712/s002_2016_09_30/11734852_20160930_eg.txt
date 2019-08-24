@@ -1,0 +1,132 @@
+HISTORY:
+
+47 y.o. female with a history of seizures. ? focal seizures. EMU addmission for
+differential diagnosis.
+
+
+Episode during baseline.
+
+
+
+MEDICATIONS:
+
+No current facility-administered medications for this visit.
+
+No current outpatient prescriptions on file.
+
+
+Facility-Administered Medications Ordered in Other Visits:
+
+aspirin EC tablet 81 mg
+
+atorvastatin (LIPITOR) tablet 40 mg
+
+
+calcitRIOL (ROCALTROL) capsule 0.5 mcg
+
+ibuprofen (ADVIL,MOTRIN) tablet 800 mg
+
+levETIRAcetam (KEPPRA) tablet 2,000 mg
+
+
+levothyroxine (SYNTHROID) tablet 100 mcg
+
+multivitamin (THERA) tablet 1 tablet
+
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG, HV and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 11 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+no effect.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding. However the patient has a clinical event (see
+below).
+
+
+
+
+EVENTS:
+
+During photic stimulation the patient starts twitching her mouth and her tongue protrudes out of her
+mouth. She is tested with verbal and motor commands but she does not respond.
+
+
+
+
+
+The EEG does not reveal a correlate with this behavior.
+
+
+
+
+HEART RATE:
+
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+1. One event of mouth twitching and unresponsiveness with no EEG correlate.
+
+
+
+CLINICAL CORRELATION:
+
+
+This is a normal awake and drowsy routine EEG. The episode captured above had no EEG correlate
+and as such is most consistent with a psychogenic non-epileptic event.

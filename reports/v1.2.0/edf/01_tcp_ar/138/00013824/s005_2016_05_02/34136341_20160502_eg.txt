@@ -1,0 +1,110 @@
+HISTORY:
+
+33 y.o. female with a history of seizures referred for routine EEG for evaluation of
+paroxysmal events.
+
+
+
+MEDICATIONS:
+
+No current outpatient prescriptions on file.
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: lorazepam
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+As the record opens, and throughout the record there are epochs of muscle activity that obscure the
+background. When this activity ceases, the background activity is attenuated and exhibits only diffuse
+low voltage beta activity.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen. At 12:49:12PM, lorazepam is given
+intravenously and causes further suppression of the background.
+
+
+
+Sleep is not captured
+
+
+
+No generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study. However, the epochs of
+muscle artifact obscure the record so no judgment cn be made during these epochs.
+
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake only  routine EEG due to:
+
+1. Diffuse amplitude attenuation
+
+
+
+CLINICAL CORRELATION:
+
+
+
+
+These findings indicate an effect of benzodiazepine sedation. No clinical or electrographic seizures
+were seen.

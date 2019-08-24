@@ -1,0 +1,106 @@
+HISTORY:
+
+61 y.o. male with a history of left-sided subdural hematoma and status epilepticus
+with surgical drainage, referred for routine EEG for evaluation of paroxysmal events.
+
+
+
+MEDICATIONS:
+
+
+Keppra, Dilantin, Topamax, Toprol, promethazine, aspirin, Proventil, Ventolin, Lipitor, Xarelto,
+Symbicort, Prilosec
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+The waking background is characterized by the presence of nearly continuous irregular 1.5-5 Hz left
+frontal, central and temporal slowing. A small amount of low amplitude poorly sustained 9-10 Hz
+rhythmic activity was seen posteriorly, better developed on the right. Low-voltage widespread
+anteriorly predominant beta activity was seen which was attenuated over the left hemisphere.
+Moderate amounts of muscle, movement, and frontal eye blink artifact were seen.
+
+
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and diffuse right
+greater than left hemispheric background slowing are seen.
+
+
+
+Stage II sleep was characterized by the presence of asymmetric vertex waves phase reversing at C4,
+central and temporal sleep spindles which were most prominent on the right, and increased irregular
+left greater than right sided slowing.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Occasional (1/hour to <1min) sharp transients were seen over the left hemisphere at T5, T3, and F7.
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic seizures captured during this study.
+
+
+
+HEART RHYTHM:
+
+NSR at 66 bpm with infrequent PVCs and intraventricular conduction defect.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+
+1. Left hemispheric slowing
+
+2. Attenuation of beta activity over the left hemisphere
+
+3. Occasional sharp transients in the left central and temporal regions
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of a functional disturbance involving the left hemisphere,
+maximum over anterior regions, with infrequent central and temporal irritative discharges. In the
+setting of a patient with seizure disorder, the above changes would be consistent with localization-
+related seizures arising in the left anterior hemisphere.

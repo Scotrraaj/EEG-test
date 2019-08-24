@@ -1,0 +1,189 @@
+DATE OF STUDY: 09/06/16
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 20-40 min, awake only
+
+
+
+
+
+HISTORY:
+
+a 61 y.o. female with a history of altered mental status, referred for routine EEG for
+assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+QUEtiapine (SEROQUEL) tablet 25 mg
+
+dextrose 50% injection 25 mL
+
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+sodium chloride 0.9 % infusion
+
+
+multivitamin (THERAGRAN) per tablet 1 tablet
+
+atorvastatin (LIPITOR) tablet 80 mg
+
+NIFEdipine (PROCARDIA XL) 24 hr tablet 90 mg
+
+
+sodium chloride 0.9 % infusion
+
+nicotine (NICORETTE) gum 2 mg
+
+
+
+clopidogrel (PLAVIX) tablet 75 mg
+
+fluticasone (FLONASE) 50 mcg/actuation nasal spray 2 spray
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+heparin (5000 units/mL) injection 5,000 Units
+
+insulin lispro (HumaLOG) injection 1-5 Units
+
+
+SEDATION: Ativan
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically suboptimal record
+due to near continuous muscle artifact and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a poorly organized symmetric mixture of
+alpha, theta, and delta frequencies. Occasionally fragments of an 8 Hz posterior dominant rhythm
+(PDR) are visible. The normal anterior-to-posterior gradient of frequency and amplitude is absent.
+
+
+
+
+Drowsiness and sleep are not captured.
+
+
+
+Mild to moderate generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Occasional frontally predominant rhythmic delta activity (FIRDA / GRDA) at 2 Hz is present for <5
+seconds.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+
+
+
+A heart rate of 96 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal, technically limited, awake only  routine EEG due to:
+
+
+1. Mild to moderate generalized slowing
+
+2. Suboptimal organization
+
+3. Occasional frontally predominant rhythmic delta activity
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of a mild to moderate diffuse cerebral dysfunction.
+
+Frontally predominant generalized rhythmic delta activity (GRDA, also known as FIRDA) is a
+nonspecific but pathologic finding that is most commonly seen in toxic-metabolic states, but may
+also be seen with deep structural lesions or increased intracranial pressure. Clinical correlation is
+advised.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

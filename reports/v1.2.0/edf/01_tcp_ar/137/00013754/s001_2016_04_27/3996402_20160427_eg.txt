@@ -1,0 +1,106 @@
+DATE OF STUDY: 04/27/16
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 20-40 min, asleep only
+
+
+
+
+
+HISTORY:
+
+a 62 y.o. male with a history of cardiac arrest with subsequent coma.
+
+
+
+MEDICATIONS:
+
+Klonopin
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+There is no PDR or AP gradient.
+
+
+The background consists of attenuated slow polymorphic delta activity.
+
+
+
+
+
+No normal sleep architecture  is captured.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+ACTIVATION PROCEDURES: There is no reactivity to visual, auditory, tactile, or noxious stimuli.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+
+A heart rate of ~90 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+This is an abnormal comatose portable routine EEG due to:
+
+
+1. Marked background slowing
+
+2. Lack of background reactivity.
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate etiologically nonspecific marked diffuse cerebral dysfunction.
+
+
+
+
+
+
+
+
+
+
+
+

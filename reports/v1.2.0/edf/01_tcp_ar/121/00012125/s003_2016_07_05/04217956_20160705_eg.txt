@@ -1,0 +1,238 @@
+START DATE OF STUDY: 07/05/16 at 18:34
+
+END DATE OF STUDY: 07/06/16
+
+
+
+RECORDING ENVIRONMENT: 
+
+EEG TYPE: Long term recording
+
+
+
+
+
+
+HISTORY:
+
+This is a 46 y.o. FEMALE PRESENTS WITH H/O SCHIZOPHRENIA, SEIZURE DISORDER, STROKE
+3/2014 WITH LT SIDED WEAKNESS. NOW STATES SZ X 3 DAYS AGO WITH LOC AND
+POSTICTAL CONFUSION. PT STATES THAT SHE HAS A SZ EVERY THREE DAYS. TODAY HAD
+AN EVENT OF UNRESPONSIVENESS WHILE IN THE OFFICE.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events. Differential diagnosis.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+
+
+
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+KEPPRA, KLONOPIN, DOXEPIN, DRONABNOL, RISPERDAL, ATORVO QUONE, PERPHENAZINE
+
+
+SEDATION: None
+
+
+
+DAY 1 (7/05/2016, 18:34 - 7/06/2016, 09:00)
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+     Hyperventilation: Hyperventilation is not performed.
+
+
+     Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not
+produce any EEG changes.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+DAY 1 IMPRESSION:
+
+This is a normal awake and asleep only routine EEG.  There are no clinical or electrographic events
+reported or detected.
+
+
+
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+Interictal Findings:
+
+None
+
+
+
+
+
+Ictal Findings:
+
+The patient had no clinical events while hooked up to continuous video EEG monitoring in the
+epilepsy monitoring unit.
+
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. None
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. Possible PNES
+
+
+
+CONCLUSION:
+
+was admitted to the epilepsy monitoring unit for 1 day with continuous video EEG.  This
+was an inconclusive EMU monitoring session because no events were captured and the patient was
+not cooperating with the team.
+
+
+
+
+The patient had a discussion with about nonepileptic events and their association with
+underlying psychiatric co-morbidities and are not due to abnormal electrical discharges of the
+brain/cortex.
+
+
+
+We recommend that he/she to see a psychiatrist or therapist for assessment of underlying
+psychopathology and diagnosis.
+
+
+
+Patient is follow-up with as an outpatient.
+
+
+
+

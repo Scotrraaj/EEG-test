@@ -1,0 +1,154 @@
+HISTORY:
+
+71 y.o. female with a history of recent convulsions.
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+sodium chloride 0.9 % infusion
+
+aspirin chewable tablet 81 mg
+
+fluticasone (FLONASE) 50 mcg/actuation nasal spray 2 spray
+
+
+furosemide (LASIX) tablet 40 mg
+
+lisinopril (PRINIVIL,ZESTRIL) tablet 40 mg
+
+metoprolol tartrate (LOPRESSOR) tablet 25 mg
+
+
+montelukast (SINGULAIR) tablet 10 mg
+
+NIFEdipine (PROCARDIA XL) 24 hr tablet 30 mg
+
+nortriptyline (PAMELOR) capsule 25 mg
+
+
+sodium bicarbonate tablet 650 mg
+
+
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+LORazepam (ATIVAN) injection 2 mg
+
+
+heparin (5000 units/mL) injection 5,000 Units
+
+levETIRAcetam (KEPPRA) tablet 750 mg
+
+
+potassium chloride (K-DUR) CR tablet 10 mEq
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR).
+The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+Excess beta activity is present.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Patient rapidly transitions from wakefulness to sleep.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+FIRDA (frontal intermittent rhythmic delta activity) is captured.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 80 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Presence of FIRDA (frontal intermittent rhythmic delta activity)
+
+
+
+
+CLINICAL CORRELATION:
+
+
+
+FIRDA (frontal intermittent rhythmic delta activity) is seen in the setting of encephalopathy, increased
+ICP and bilateral white matter lesions.
+
+
+
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.
+
+
+
+Patient rapidly transitions from wakefulness to sleep - please correlate clinically with an excessively
+drowsy patient vs an underlying sleep disorder.

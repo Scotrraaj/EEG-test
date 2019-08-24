@@ -1,0 +1,240 @@
+HISTORY:
+
+55 y.o. male a history of migraine, HTN,
+
+prostate cancer, and stab wound to the femoral artery presents
+
+
+with episodes of arm/leg shaking with preserved consciousness; he
+
+is referred for routine EEG for evaluation of paroxysmal events.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+phenytoin (DILANTIN) 100 mg ER capsule, Take 1 capsule by mouth 3
+
+
+times daily.
+
+levETIRAcetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2
+
+times daily.
+
+
+hydrocortisone (ANUSOL-HC) 25 mg suppository, Place 1 suppository
+
+rectally 3 times daily.
+
+Ergocalciferol, Vitamin D2, (VITAMIN D) 50,000 unit Capsule, Take
+
+
+50,000 Units by mouth every 7 days.
+
+
+
+
+amLODIPine (NORVASC) 5 mg tablet, Take 5 mg by mouth daily.
+
+Calcium Carbonate-Vitamin D3 (CALCIUM 600 + D,3,) 600 mg(1,500mg)
+
+
+-200 unit Tablet, Take  by mouth daily.
+
+bicalutamide (CASODEX) 50 mg tablet, Take 50 mg by mouth daily.
+
+
+aliskiren (TEKTURNA) 150 mg tablet, Take 150 mg by mouth daily.
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+NicOne system. This was a technically satisfactory record and
+
+included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well
+
+
+organized symmetric mixture of alpha and beta frequencies, with a
+
+symmetric and reactive 8.5 Hertz posterior dominant rhythm (PDR).
+
+The normal anterior-to-posterior gradient of frequency and
+
+amplitude is present.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and
+
+
+fragmentation of the posterior dominant rhythm, and diffuse
+
+background slowing are seen.
+
+
+Sleep is characterized by normal sleep transients, with
+
+
+synchronous and symmetric vertex waves, sleep spindles and
+
+K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.
+
+Subtle occasional left temporal polymorphic slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180
+
+seconds with good cooperation and produces focal slowing in the
+
+left temporal region
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+flashes per second (fps) does not produce any EEG changes.
+
+
+
+EVENTS:
+
+The following events are captured:
+
+
+
+(1) DATE AND TIME:   12/28/2015 at 14:36
+
+EVENT TYPE: Non-epileptic event
+
+
+CLINICAL: While patient is resting in chair with eyes closed, he
+
+has intermittent waxing and waning
+
+internal-external/abduction-adduction movements of the right
+
+arm/forearm. He is able to raise both arms up without drift when
+
+
+asked by the tech; when he does so the left arm/forearm develops
+
+similar movements. These wax and wane while he correctly names
+
+
+and answers orientation questions; they subside when tech asks
+
+him to stop and come out when she says, "let it happen."
+
+EEG: No ictal epileptic EEG correlate is present; awake
+
+background with posterior dominant rhythm is seen
+
+
+DURATION: 2 min 27 sec
+
+POSTICTAL CHANGES:  none
+
+
+EKG: no change in a single EKG lead
+
+
+(2) DATE AND TIME:   12/28/2015 at 14:42
+
+EVENT TYPE: Non-epileptic event
+
+
+CLINICAL: Right arm jerk
+
+EEG: No EEG changes from background, aside from movement
+
+
+artifact, were seen
+
+DURATION: <400 msec
+
+
+POSTICTAL CHANGES:  Not applicable
+
+EKG: no change
+
+
+
+HEART RATE:
+
+
+A heart rate of 78 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep one hour EEG due to:
+
+
+1. Subtle occasional left temporal polymorphic slowing
+
+2. An episode of right, then bilateral arm waxing and waning
+
+
+tremors without EEG correlate
+
+3. A single right arm jerk without EEG correlate
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of left temporal cerebral
+
+dysfunction.
+
+
+The episode of right, then bilateral arm waxing and waning
+
+tremors had no EEG correlate; semiology is most consistent with a
+
+nonepileptic behavioral event.
+
+The single right arm jerk had no EEG correlate; however, a
+
+
+surface negative myoclonic seizure cannot entirely be excluded.

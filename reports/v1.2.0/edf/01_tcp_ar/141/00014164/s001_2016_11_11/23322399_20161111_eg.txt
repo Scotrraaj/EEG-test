@@ -1,0 +1,153 @@
+HISTORY:
+
+
+67 y.o. female with a history of depression, worsening cognitive impairment,
+and flexion abdominal movements referred for EEG for evaluation of paroxysmal events and
+screening for subclinical seizures.
+
+
+
+MEDICATIONS:
+
+
+No current facility-administered medications for this visit.
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+
+multivitamin (THERA) tablet 1 tablet
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+enoxaparin (LOVENOX) injection 40 mg
+
+LORazepam (ATIVAN) tablet 0.5 mg
+
+atorvastatin (LIPITOR) tablet 40 mg
+
+
+
+
+clonazePAM (KLONOPIN) tablet 1.5 mg
+
+QUEtiapine (SEROQUEL) tablet 25 mg
+
+
+vitamin E capsule 1,200 Units
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with
+T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and
+included a single channel of EKG.
+
+
+
+
+
+DAY 1 (11/11/2016, 22:36 - 11/12/2016, 09:50)
+
+
+BACKGROUND:
+
+
+The waking background is continuous, symmetric, fairly-organized, and consists predominantly of
+alpha and beta with admixed excess delta.
+
+
+
+Posterior dominant rhythm was present at 8.5-9 Hz
+
+
+
+The background is reactive and variable.
+
+
+There are no persistent asymmetries in amplitude and frequency.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured..
+
+
+
+There is mild generalized slowing.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Rare bitemporal independent sharp waves noted in drowsiness. These have appearance most
+consistent with benign variant (wicket waves)
+
+
+
+
+
+
+EVENTS:
+
+Intermittent abdominal twitching noted in wakefulness. Not noted in sleep.
+
+
+Example occurs 11/11 22:39
+
+Clinical: Irregular abdominal contractions
+
+
+EEG: Diffuse muscle artifact for <1 sec, no other change in background
+
+
+EKG: A single lead captured a heart rate in the 70s
+
+
+
+
+
+
+FINAL IMPRESSION:
+
+
+This is an abnormal long term video EEG due to:
+
+1. Mild generalized slowing and suboptimal organization
+
+
+2. Intermittent abdominal twitching noted in wakefulness, without ictal cerebral EEG correlate,
+resolving in sleep
+
+
+
+
+FINAL CLINICAL CORRELATION:
+
+
+
+These findings are etiologically nonspecific indicators of a mild diffuse cerebral dysfunction.
+
+Intermittent abdominal twitching noted in wakefulness resolved in sleep and did not correlate with
+any change in cerebral background activity, only muscle artifact. These movements do not represent
+seizure activity.
+
+
+
+Rare bitemporal sharp waves noted above are most consistent with a benign variant (wicket waves).

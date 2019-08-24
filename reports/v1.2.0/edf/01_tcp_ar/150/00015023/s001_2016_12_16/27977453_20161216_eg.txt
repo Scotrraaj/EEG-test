@@ -1,0 +1,93 @@
+HISTORY:
+
+32 y.o. female with a history of anaplastic oligodendroglioma, with MRI
+Cystic encephalomalacia/gliosis is in the right paramedian frontal lobe, recent seizure (not on AEDS)
+referred for routine EEG for characterization of seizures.
+
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+levETIRAcetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2 times daily for 10 days.
+
+
+temozolomide (TEMODAR) 250 mg capsule, TAKE 1 CAPSULE BY MOUTH ONCE DAILY FOR 5
+DAYS, EVERY 28 DAYS. TAKE WITH A FULL GLASS OF WATER.
+
+loperamide (IMODIUM A-D) 2 mg capsule, Take 1 capsule by mouth as needed for Diarrhea.
+
+
+acetaminophen (TYLENOL) 325 mg tablet, Take 650 mg by mouth every 6 hours as needed.
+Indications: Pain
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically  satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 11 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.  There is
+scant low voltage frontal 4 hz activity.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+Sleep is not sustained
+
+No generalized slowing is present.
+
+
+No major focal slowing is present.
+
+EPILEPTIFORM ACTIVITY:none
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): none
+
+ACTIVATION PROCEDURES:
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces scan t
+symmetric photic driving, which is a normal finding.
+
+
+
+
+EVENTS:
+
+There are  no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal routine EEG due to:
+
+1. Scant frontal theta in wakefulness
+
+
+
+CLINICAL CORRELATION:  These findings may be correlated with imaging. No epileptiform features
+were identified. If needed, consider a sleep deprived EEG.

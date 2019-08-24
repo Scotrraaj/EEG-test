@@ -1,0 +1,32 @@
+History:	37 year old woman who presents with new episodes concerning for seizures.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates 
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over 
+bilateral frontal regions.  Diffuse excess beta activity is present.  During brief drowsiness, the alpha 
+rhythm attenuates, and 5-7Hz slow waves appear diffusely.
+Frequent, often rhythmic, delta activity is captured over the right anterior temporal region.  It is 
+especially pronounced during hyperventilation and drowsiness.  Frequent right anterior temporal 
+(T2 maximal) moderate amplitude sharp waves with aftergoing slow waves are captured.  At times 
+they occur at runs with periodicity rate of ~1.5-2 Hz.  There is no evolution.
+Hyperventilation is performed for 240 seconds with good cooperation, and accentuates focal 
+slowing in the right anterior temporal region.  Stepped photic stimulation from 1-21 flashes per 
+second (fps) induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+	Focal slowing, polymorphic, frequent, right temporal, anterior
+	Focal slowing, rhythmic, frequent, right temporal, anterior
+	TIRDA (temporal intermittent rhythmic delta activity), intermittent, right temporal, anterior
+	Sharp waves, frequent, right temporal, anterior, T2 lead maximal
+	Beta, excessive
+	No stage 2 sleep
+	No electrographic seizures
+Interpretation:
+This is an ABNORMAL awake and drowsy 26-minute EEG due to frequent polymorphic and 
+rhythmic (TIRDA) focal slowing over the right anterior temporal region as well as frequent right 
+anterior temporal epileptiform discharges. These findings are indicative of a potentially 
+epileptogenic focus over the right anterior temporal region.
+

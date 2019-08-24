@@ -1,0 +1,118 @@
+DATE OF STUDY: 01/19/17
+
+RECORDING ENVIRONMENT: outpatient
+
+
+EEG TYPE: 20-40 min, awake and drowsy
+
+
+
+HISTORY:
+
+a 61 y.o. female with a history of epilepsy, orthopedic problems, referred for
+routine EEG for characterization of seizures.  Now seizure-free for at least 3 years
+
+
+
+MEDICATIONS: Tegretol, others
+
+TECHNIQUE:
+
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically  satisfactory
+record and included a single channel of EKG and photic stimulation.  She declined hyperventilation
+because of shortness of breath.  There were some technical challenges to this EEG adjusting that
+there may have been a minor error in head measurement.  Eye movement artifacts are not perfectly
+symmetric
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is symmetric, reactive, low voltage  and consists of a mixture of alpha and a
+moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.
+Wakefulness is characterized by a symmetric and reactive low-voltage record with scant alpha activity.
+There is prominent diffuse beta
+
+
+
+
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.  There is a question of some shifting
+slowing noted in the central regions, but this may represent measurement error
+
+
+Sleep includes generous vertex waves and delta
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+ACTIVATION PROCEDURES:
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION: This routine EEG is within normal limits
+
+CLINICAL CORRELATION: Scant alpha rhythm can be seen in normals.  The asymmetries noted in
+sleep with slight asymmetry in  delta may represent head measurement.  No epileptiform features
+were seen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,119 @@
+HISTORY:
+
+47 y.o. left handed male with a history of seizures since the age of 10 (last: 1 month
+ago, described as grand mal seizure), referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS: Tegretol, Phenobarbital
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR).
+The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves and
+K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.
+
+Abundant left temporal polymorphic slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Abundant (>1/10s) left anterior temporal (T1/F7 > T3) sharp-and-wave discharges that at times
+reflect over the right temporal region (T2 max). No independent right temporal sharp waves are seen.
+In sleep the left anterior temporal sharp waves develop a frontal field, including Fp1 and F3, and
+occasionally occur periodically at 1 Hz for runs ~5 seconds.
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+no effect.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 54 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+
+1. Abundant left temporal polymorphic slowing
+
+2. Abundant left anterior temporal sharp-and-wave discharges that occasionally become periodic at 1
+Hz in sleep for runs ~5 seconds.
+
+
+
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of left anterior temporal highly epileptogenic potentials
+superimposed on left temporal cerebral dysfunction.
+
+
+
+The patient had left the premises by the time the study was read; administrative staff was contacted
+to ensure close follow up was arranged.

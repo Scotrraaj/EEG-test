@@ -1,0 +1,33 @@
+
+	
+
+
+
+	
+History:		72 YR MALE S/P 4 CABG YESTERDAY. PT HAD EPISODES OF RIDGID JERKY MM B/L UE CONTRACT, LE FLEX. EYES GAZED UP. (PER NURSE), PMHX: STENT PROPOFOL STOPPED 9:15AM. PT WAS ON LOW DOSE PRESIDEX STOPPED 7 AM.
+
+Medications:
+Sedation: EEG Type: Technique:
+ PROPOFOL STOPPED 9:15 AM, CARDENE, EPINEPHRINE, NOREPINEPHRINE, (PRESIDEX STOPPED 7 AM)
+
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded
+
+Ambulatory EEG
+Continuous EEG monitoring was performed for 20 hours from 12/25/2015 to 12/26/2015. Nursing­ initiated event buttons were correlated with clinical behavior. Graphical representation of the EEG was available at the bedside and over the hospital network for continuous review by trained nurses and EEG technologists. Ongoing raw EEG data was reviewed at least twice daily by the EEG team for detection of seizures and changes in EEG patterns. All automatically detected events were reviewed in detail by the ICU monitoring technician or clinical neurophysiology fellow and the attending neurologist.
+# Push button events	1
+Description of pushbutton events
+
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.
+Diffuse, frontally maximal sharp waves with triphasic morphology are present throughout the recording. These waveforms demonstrate an anterior to posterior phase lag. No normal sleep architecture was present.
+No focal slowing is present. No epileptiform discharges are present. No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed. There was no reactivity to auditory, tactile, or painful stimuli.
+Summary of Findings:
+Triphasic waves, frequent anterior
+Diffuse slowing, polymorphic, continuous diffuse
+Interpretation:
+This is an ABNORMAL EEG because of frequent frontally-maximal triphasic waves and moderate diffuse background slowing. These findings are indicative of a severe diffuse encephalopathy, which is etiologically nonspecific, but suggestive of a metabolic origin. No clinical or electrographic seizures are present.
+
+ 
+

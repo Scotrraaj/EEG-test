@@ -1,0 +1,112 @@
+HISTORY:
+
+44 y.o. FEMALE WITH AHX OF SZ SINCE INFANT. LAST SZ WAS LAST
+MONTH.
+
+
+MEDICATIONS:
+
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG, HV and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 11 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Intermittent polymorphic delta activity is present in the T3 region during wakefulness, increasing
+during drowsiness.
+
+
+
+At one point the patient appears to arouse and there is a monomorphic left hemispheric maximal T3
+delta discharge lasting for 9 seconds. There is no clinical correlate seen. This is most consistent with
+temporal intermittent delta activity.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+diffuse slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+
+There are no clinical events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+1. Left mid-temporal focal slow.
+
+2. One rhythmic left mid-temporal discharge most consistent with TIRDA.
+
+
+
+
+
+CLINICAL CORRELATION:
+
+This is an abnormal awake and asleep routine 1 hour EEG due to left midtemporal TIRDA and focal
+slowing. TIRDA has a high correlation with epileptogenic activity arising from that region. The focal
+slowing is indicative of focal cerebral dysfunction, which is etiologically non-specific.

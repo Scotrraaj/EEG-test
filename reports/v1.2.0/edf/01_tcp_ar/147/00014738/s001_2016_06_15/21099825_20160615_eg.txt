@@ -1,0 +1,113 @@
+HISTORY:
+
+52 y.o. male with a history of a recent fall, concerning for a seizure.  Patient also
+has a history of a traumatic brain injury and alcohol use.
+
+
+
+
+
+MEDICATIONS:
+
+Ativan, librium
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by diffuse low amplitude beta activity.
+
+
+
+During drowsiness, there is decrease in the background voltages diffusely.
+
+
+
+Sleep is not captured
+
+
+Subtle excess beta activity is noted over the right frontocentral region.  Additionally, subtle
+polymorphic theta activity is noted over the right frontocentral region during drowsiness.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+1. Subtle occasional mild right frontocentral focal slowing that is noted during drowsiness
+
+2. No stage II sleep
+
+3. No epileptiform discharges
+
+
+4. Excess beta activity
+
+
+CLINICAL CORRELATION:
+
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+Subtle occasional mild right frontocentral focal slowing that is noted during drowsiness.
+
+
+
+This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly
+structural in origin.
+
+
+Breach effect is secondary to the skull defect.
+
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.

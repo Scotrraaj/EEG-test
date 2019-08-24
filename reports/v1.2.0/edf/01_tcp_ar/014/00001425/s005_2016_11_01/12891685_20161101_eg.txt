@@ -1,0 +1,130 @@
+HISTORY:
+
+68 y.o. female with a history of R frontal DVA, arachnoid cyst, LBBB s/p
+pacemaker, and cardiomyopathy referred for routine EEG for evaluation of paroxysmal events:
+episodes of head shaking without loss of consciousness.
+
+
+
+
+MEDICATIONS:
+
+No current facility-administered medications for this visit.
+
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+docusate sodium (COLACE) capsule 100 mg
+
+LORazepam (ATIVAN) injection 2 mg
+
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and excess beta frequencies, with a symmetric and reactive 9-10 Hertz posterior dominant
+rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+There is near continuous 4-5 Hz electrode artifact occurring in isolation over O1 and O2 electrodes.
+
+
+
+Drowsiness and sleep are not captured.
+
+
+No generalized slowing is present.
+
+
+No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Occasional bitemporal sharp waves (T3/T4 max) seen independently, at times occurring in runs,
+with morphology most consistent with a benign variant (wicket waves)
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes. Tech noted head tremor during this time (see below under
+
+
+
+EVENTS:
+
+
+Tech notes head tremor during photic stimulation. On video a
+
+
+HEART RATE:
+
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is a normal awake only routine EEG. The head movements described by the tech during photic
+stimulation appear most consistent with tremor, and movement artifact correlates during this time.
+
+
+Bitemporal sharp waves as described above are most consistent with a benign variant (wicket waves).
+
+
+
+CLINICAL CORRELATION:
+
+
+This is a normal awake-only routine EEG.  The artifact described above is most consistent with head
+tremor.
+
+
+
+Excess beta can be seen in the setting of medications such as benzodiazepines.

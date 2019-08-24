@@ -1,0 +1,30 @@
+
+History: Medications: Sedation:
+ 24 year old man with a history of seizures. He now has episodes of dizziness. Keppra.
+
+EEG Type:	Awake & asleep
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep, hyperventilation, photic
+
+Description:
+	
+Waking background is characterized by a 25-40uV, 10-10.5Hz alpha rhythm, which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness, the background slows to central theta activity, frontal beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent. During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric sleep spindles and K complexes appear
+No focal slowing is present. Several low amplitude generalized frontally predominant polyspikes are captured. Their frequency increases during photic stimulation and sleep. The best example occurs at 348:13pm.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse symmetric background slowing. Patient falls asleep during stepped photic stimulation. Stepped photic stimulation from 1-21 flashes per second (fps) results in appearance of generalized polyspikes. A single EKG lead demonstrates heart rate of <60 bpm.
+
+Summary of Findings:
+Polyspike-and-wave complexes, one Polyspikes, few
+Sleep, stage 2
+Interpretation:
+This is an ABNORMAL 27-minute awake and asleep EEG due to several generalized polyspikes and a single polyspike-and-wave complex captured during photic stimulation and sleep. These findings are suggestive of a diagnosis of primary generalized epilepsy. A single EKG lead demonstrates heart rate of
+
+<60bpm
+
+
+
+
+
+
+
+
+
+

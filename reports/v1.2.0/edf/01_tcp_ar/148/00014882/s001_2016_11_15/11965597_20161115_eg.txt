@@ -1,0 +1,119 @@
+HISTORY:
+
+63 y.o. female with a history of Hep C, COPD, HTN, asthma, and OSA referred
+for routine EEG for assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+diltiazem (CARDIZEM) tablet 30 mg
+
+QUEtiapine (SEROQUEL) tablet 25 mg
+
+
+midazolam (VERSED) 1 mg/mL injection 2 mg
+
+propofol (DIPRIVAN) 1000 mg/100 mL IV infusion
+
+methylPREDNISolone sodium succinate (PF) (Solu-MEDROL) injection 40 mg
+
+
+albuterol (PROVENTIL) nebulizer solution 5 mg
+
+enoxaparin (LOVENOX) injection 40 mg
+
+famotidine (PEPCID) tablet 20 mg
+
+
+oxyCODONE (ROXICODONE) immediate release tablet 5 mg
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+
+ipratropium (ATROVENT) 0.02 % nebulizer solution 0.5 mg
+
+budesonide (PULMICORT) nebulizer solution 0.5 mg
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+
+SEDATION: versed, propofol
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+The background is nearly continuous with ~10% periods of attenuation admixed with delta and
+superimposed alpha/beta. There is no reactivity to noxious stimulation, variability, or state change.
+
+
+
+Severe generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 108 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal coma study bedside portable EEG due to:
+
+1. Severe generalized slowing, with disorganized background and lack of reactivity
+
+
+2. Tachycardia
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of a severe diffuse cerebral dysfunction, which may at least in
+part be associated with sedating medications (versed, propofol).

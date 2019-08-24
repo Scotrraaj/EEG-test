@@ -1,0 +1,169 @@
+HISTORY:
+
+54 y.o. female who presented with acute
+
+unresponsiveness and was found to have a left facial droop, eye
+
+
+twitching, and eye/head deviation towards the left. MRI brain
+
+shows a lesion at the right frontal pole. She is referred for
+
+routine EEG for evaluation of paroxysmal events.
+
+
+
+MEDICATIONS: Keppra
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+NicOne system. This was a technically satisfactory record and
+
+
+included a single channel of EKG and photic stimulation.
+
+
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well
+
+organized symmetric mixture of mostly low voltage fast
+
+
+frequencies. The normal anterior-to-posterior gradient of
+
+frequency and amplitude is present.
+
+
+During drowsiness, slow rolling eye movements, attenuation and
+
+
+fragmentation of the posterior dominant rhythm, and diffuse
+
+background slowing are seen.
+
+
+
+Sleep transients are not captured.
+
+
+Throughout the study, there are continuous sharply contoured
+
+
+theta waves seen bisynchronously over the frontal pole (Fp2 >
+
+Fp1), with little field elsewhere in the frontal leads (though
+
+
+they are noted in lower amplitude over F4). They do not clearly
+
+phase reverse on eye leads LOC and ROC, but they do phase reverse
+
+at Fp2 on a circumferential montage. They occur periodically
+
+every 1-2 seconds while the eyes are closed and resolve when the
+
+
+patient opens her eyes.  At times they have the morphology of
+
+sharp-and-wave discharges.
+
+
+
+No generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY, OTHER PAROXYSMAL ACTIVITY
+
+(NON-EPILEPTIFORM):
+
+
+See above under
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+flashes per second (fps) does not produce additional
+
+
+abnormalities.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during
+
+
+this study.
+
+
+HEART RATE:
+
+A heart rate of 84 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION / CLINICAL CORRELATION:
+
+
+This EEG demonstrates a normal adult waking and drowsy
+
+background.
+
+
+There are no clinical or electrographic seizures reported or
+
+
+detected.
+
+
+
+The bifrontal sharply contoured theta waves described above raise
+
+the question of whether these represent eye flutter artifact
+
+(they have little field beyond the frontal leads and resolve when
+
+the patient opens her eyes) vs periodic discharges (they do not
+
+
+clearly phase reverse in the eye leads and do phase reverse over
+
+a region that correlates with her clinical history and with
+
+
+structural pathology on imaging, and at times have the appearance
+
+of epileptiform discharges).
+
+
+A follow up study may be of benefit for clarification if
+
+
+clinically indicated.

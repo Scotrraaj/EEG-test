@@ -1,0 +1,828 @@
+
+HISTORY:
+
+This is a 39 y.o. right handed man presenting with episodes of strange smell, abdominal pain,
+diarrhea followed by loss of consciousness, shaking since age 7.
+
+
+
+
+Seizure semiology:
+
+Type 1: Starts with strange smells of burning, garbage, sometimes floating lights, metallic taste in
+mouth, abdominal pain and loss of bowels followed by loss of consciousness and left sided shaking,
+then generalized shaking. Occurs 1-2 times per month.
+
+
+
+
+
+Type 2: Feels aura symptoms with sweating followed by diarrhea.
+
+
+
+
+Type 3: Staring episodes for few seconds, sometimes followed by confusion.
+
+
+
+
+Current AEDs:
+
+
+Keppra 500mg - 1000mg
+
+Divalproex EC 1500mg BID
+
+
+Ativan 2mg for frequent auras.
+
+
+
+Prior AEDs: None.
+
+
+
+
+Epilepsy risk factors:
+
+Prolonged birth time, full term, no NICU admission, multiple hospital admissions with asthma,
+pneumonia and needed oxygen, no developmental delay, no intracranial infection, no family history
+of seizures, multiple mild head injuries, no alcohol or other drug use.
+
+
+
+
+
+PMHx: Epilepsy, leukemia on gleevac theapy, HTN, DM
+
+
+
+PSHx: Vasectomy, Appendectomy.
+
+
+
+
+Continuous video EEG is initiated for:  Characterization of seizures.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (08/08/2016, 04:51 - 8/9/2016, 08:00)
+
+
+
+MEDICATIONS:
+
+Keppra was stopped.
+
+divalproex (DEPAKOTE ER) 24 hr tablet 1,500 mg
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+A heart rate of 84 bpm is captured on a single EKG lead.
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is a normal awake and asleep EEG.
+
+
+
+
+
+
+--------------------------------------------------------------------------------------
+
+
+
+DAY 2 (08/09/2016, 08:00AM - 8/10/2016, 08:00AM)
+
+
+MEDICATIONS:
+
+
+Keppra was stopped.
+
+divalproex (DEPAKOTE ER) was stopped.
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There was a push button while patient was in bathroom at 01:36 PM, he felt the urge to go to the
+bathroom but was not his typical event.
+
+
+
+HEART RATE:
+
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is a normal awake and asleep EEG.
+
+
+Neurology resident:
+
+
+
+
+--------------------------------------------------------------------------------------
+
+
+
+DAY 3 (08/10/2016, 08:00AM - 8/11/2016, 08:00AM)
+
+
+
+MEDICATIONS:
+
+Keppra was stopped.
+
+divalproex (DEPAKOTE ER) was stopped.
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+None
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+This is a normal awake and asleep EEG.
+
+
+
+Neurology resident:
+
+
+
+
+--------------------------------------------------------------------------------------
+
+
+
+DAY 4 (08/11/2016, 08:00AM - 8/12/2016, 08:00AM)
+
+
+MEDICATIONS:
+
+
+Keppra was stopped.
+
+divalproex (DEPAKOTE ER) was stopped.
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+At 2AM while using exercise bike and pressed the button due to flashing lights for a minute. No EEG
+correlate.
+
+
+
+At 3:11AM he had a PB for
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+
+
+This is a normal awake and asleep EEG.
+
+
+Neurology resident:
+
+
+
+
+--------------------------------------------------------------------------------------
+
+
+
+
+DAY 5 (08/12/2016, 08:00AM - 8/13/2016, 08:00AM)
+
+
+
+MEDICATIONS:
+
+
+Keppra was stopped.
+
+divalproex (DEPAKOTE ER) was stopped.
+
+
+EEG BACKGROUND:
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+At 5 PM he PB due to dizziness. Room moving side to side and blurry vision. He also complains of
+tingling in arms, felt nauseous and full.
+
+
+There was no EEG correlate.
+
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION:
+
+
+
+This is a normal awake and asleep EEG.
+
+
+
+Neurology resident:
+
+
+
+
+
+--------------------------------------------------------------------------------------
+
+
+
+DAY 6 (08/13/2016, 08:00AM - 8/14/2016, 08:00AM)
+
+
+MEDICATIONS:
+
+Keppra was stopped.
+
+
+divalproex (DEPAKOTE ER) was stopped.
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+
+EVENTS:
+
+
+None
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+DAY 6 IMPRESSION & CLINICAL CORRELATION:
+
+
+
+This is a normal awake and asleep EEG.
+
+
+
+Neurology resident:
+
+
+
+
+--------------------------------------------------------------------------------------
+
+
+
+DAY 7 (08/14/2016, 08:00AM - 8/15/2016, 08:00AM)
+
+
+MEDICATIONS:
+
+Keppra was stopped.
+
+
+divalproex (DEPAKOTE ER) was stopped.
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+7:35Am- Flashing of lights on left side and felt dissociated from his body. No EEG correlate.
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+DAY 7 IMPRESSION & CLINICAL CORRELATION:
+
+
+
+This is a normal awake and asleep EEG.
+
+
+
+Neurology resident:
+
+
+
+
+--------------------------------------------------------------------------------------
+
+
+
+DAY 8 (08/15/2016, 08:00AM - 8/15/2016, 06:30PM)
+
+
+MEDICATIONS:
+
+Keppra was stopped.
+
+
+DEPAKOTE ER restarted
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+No events
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+DAY 8 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is a normal awake and asleep EEG.
+
+
+
+Neurology resident:
+
+
+
+
+
+Summary:
+
+
+Normal background awake and sleep.
+
+
+Interictal:
+
+
+No epileptiform activity.
+
+
+Ictal
+
+
+Multiple push buttons with type 2 semiology and no EEG correlate.
+
+
+
+
+Conclusion:
+
+1. Probable psychogenic non-epileptic seizures

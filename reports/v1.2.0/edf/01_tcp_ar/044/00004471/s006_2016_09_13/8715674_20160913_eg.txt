@@ -1,0 +1,124 @@
+HISTORY:
+
+32 y.o. female with a history of epilepsy referred for routine EEG for
+characterization of seizures and management of seizure exacerbation.
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+carBAMazepine (TEGRETOL) 100 mg chewable tablet, Take 5 tablets by mouth 3 times daily.
+
+Cholecalciferol, Vitamin D3, (VITAMIN D) 1,000 unit Capsule, Take 1 capsule by mouth daily.
+
+
+clobazam (ONFI) 10 mg Tablet, Take 1 tablet by mouth nightly.
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a fairly organized symmetric mixture of
+alpha and beta frequencies, with intermittent excess of theta, with a symmetric and reactive 9 Hertz
+posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and
+amplitude is present.
+
+
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and further
+background slowing, with diffuse semi-rhythmic delta, are seen.
+
+
+
+Sleep is not captured
+
+
+Mild generalized slowing is present.
+
+
+Occasional polymorphic left temporal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. One run of left temporal rhythmic delta activity at 2.5 Hz for ~6 sec that does not clearly evolve.
+There is no clinical correlate, but patient is not tested during this.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+mild diffuse symmetric background slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+1. Mild generalized slowing
+
+
+
+
+2. Occasional polymorphic left temporal slowing
+
+3. Left temporal intermittent rhythmic delta activity (TIRDA / left LRDA)
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of left temporal dysfunction superimposed on a mild diffuse
+cerebral dysfunction.
+
+
+Left temporal intermittent rhythmic delta activity is consistent with left temporal epileptogenic
+potential.

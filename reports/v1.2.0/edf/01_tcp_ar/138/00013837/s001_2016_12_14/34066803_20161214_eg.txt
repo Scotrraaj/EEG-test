@@ -1,0 +1,143 @@
+HISTORY:
+
+50 y.o. male with a history of a recent L MCA stroke with hemorrhagic conversion.
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+isosorbide dinitrate (ISORDIL) tablet 40 mg
+
+heparin (5000 units/mL) injection 5,000 Units
+
+carvedilol (COREG) tablet 25 mg
+
+
+hydralazine (APRESOLINE) tablet 50 mg
+
+nitroGLYCERIN (NITROGLYN) 2 % ointment 1 inch
+
+atorvastatin (LIPITOR) tablet 40 mg
+
+
+atovaquone (MEPRON) suspension 1,500 mg
+
+calcium acetate (PHOSLO) tablet 1,334 mg
+
+calcium carbonate (OS-CAL) tablet 1,250 mg
+
+
+gabapentin (NEURONTIN) capsule 100 mg
+
+
+
+
+nicotine (NICODERM CQ) patch 14 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+ondansetron (PF) (ZOFRAN) injection 4 mg
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+There is right-to-left interhemispheric asymmetry with slower waveforms over the left.
+
+
+
+The background over the right consists of 8.5 Hz alpha activity posteriorly with expected AP gradient.
+
+
+
+The background over the left consists of unstable posterior dominant rhythm that reaches 7.5 Hz, poor
+AP (anterior-to-posterior) gradient, diffuse polymorphic theta and delta activity that are especially
+prominent over the left temporal - temporoparietal region.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Continuous mild-to-moderate focal left hemispheric slowing that is especially pronounced over the
+left temporal - temporoparietal region.
+
+
+
+CLINICAL CORRELATION:
+
+
+
+Continuous focal slowing is indicative of a focal structural lesion over the left and is consistent with a
+known recent left MCA stroke.

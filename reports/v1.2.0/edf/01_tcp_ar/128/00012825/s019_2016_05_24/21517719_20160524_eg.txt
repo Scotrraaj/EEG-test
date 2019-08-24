@@ -1,0 +1,101 @@
+HISTORY:
+
+67 y.o. female with a history of traumatic brain injury presenting with altered
+mental status with Utox positive for opiates, s/p narcan, referred for routine EEG for assessment of
+mental status change.
+
+
+
+
+MEDICATIONS: Narcan
+
+
+
+SEDATION: none
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a somewhat technically limited
+study due to periods of muscle artifact affecting the temporal chains, and included a single channel
+of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+The waking background is characterized by the presence of a fairly organized symmetric mixture of
+theta and alpha frequencies, with a symmetric and reactive 7.5 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present but
+suboptimal.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and further background slowing are seen.
+
+
+
+Sleep is characterized by further background slowing. Rudimentary symmetric sleep transients
+including sleep spindles and K-complexes are captured. Slow wave sleep was not captured.
+
+
+
+Mild to moderate generalized slowing is present.
+
+No definite focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Occasional left temporal sharply contoured theta waves are seen, in one instance occurring in a
+run <1 second, not clearly pathologic. These may represent wicket waves, a benign variant.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal, somewhat technically limited, awake and asleep routine EEG due to:
+
+
+1. Mild to moderate generalized slowing and suboptimal organization
+
+
+CLINICAL CORRELATION:
+
+
+These findings are etiologically nonspecific indicators of mild to moderate diffuse cerebral
+dysfunction.
+The sharply contoured theta waves described above are not clearly pathologic; in fact they may
+represent a benign variant (wicket waves).

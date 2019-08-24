@@ -1,0 +1,131 @@
+HISTORY:
+
+50 y.o. male with a history of R MCA stroke and R craniotomy with seizures, referred
+for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+levETIRAcetam (KEPPRA) 750 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+gabapentin (NEURONTIN) 100 mg capsule, Take 100 mg by mouth 3 times daily.
+
+
+warfarin (COUMADIN) 5 mg tablet, Take 5 mg by mouth daily.
+
+cholecalciferol, vitamin D3, 25,000 unit Capsule, Take 2 mg by mouth daily.
+
+hydralazine (APRESOLINE) 50 mg tablet, Take 50 mg by mouth 3 times daily.
+
+
+atorvastatin (LIPITOR) 80 mg tablet, Take 80 mg by mouth daily.
+
+valsartan (DIOVAN) 160 mg tablet, Take 160 mg by mouth daily.
+
+FLUoxetine (PROZAC) 20 mg capsule, Take 20 mg by mouth daily.
+
+
+amLODIPine (NORVASC) 10 mg tablet, Take 10 mg by mouth daily.
+
+carvedilol (COREG) 25 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+
+
+baclofen (LIORESAL) 10 mg tablet, Take 1 tablet by mouth 2 times daily as needed.
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is continuous and reactive but asymmetric.
+
+The left hemisphere consists of a well organized symmetric mixture of alpha and beta frequencies,
+with a symmetric and reactive posterior dominant rhythm (PDR) that reached 9 Hz. The normal
+anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+The right hemisphere consists of a fairly organized mixture of more attenuated alpha, theta, and
+delta. There is no definite posterior dominant rhythm.
+
+
+
+
+Drowsiness and sleep are not captured.
+
+
+No generalized slowing is present.
+
+
+There is continuous right hemispheric polymorphic slowing and attenuation of faster frequencies.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+
+This is an abnormal awake only  routine EEG due to:
+
+1. Continuous right hemispheric polymorphic slowing and suboptimal organization
+
+2. Attenuation of faster frequencies on the right
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate the presence of right hemispheric dysfunction and cortical injury, likely
+structural in etiology.

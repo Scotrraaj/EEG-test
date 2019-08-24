@@ -1,0 +1,260 @@
+HISTORY:
+
+This is a 37 y.o. right handed male admitted electively (in other words, scheduled admission) for
+continuous video-electroencephalography (VEEG) monitoring with a history of: paroxysmal events of
+unclear etiology. After minor TBI patient developed seizures characterized by anxiety, then HA,then
+generalized shaking with blue lieps
+
+
+
+
+
+Continuous video EEG is initiated for:  Management of seizure exacerbation.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+
+
+
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patient's exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.  The  spike and seizure detection
+computer program was used to screen the EEG in real time for electrographic seizures and interictal
+discharges.  Samples of EEG were recorded periodically.  Detections were reviewed in detail by
+attending neurologist.  All events and detections, as well as selected samples, were stored to external
+hard drive media.
+
+
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+divalproex (DEPAKOTE ER) 24 hr tablet 500 mg
+
+
+diazePAM (VALIUM) tablet 10 mg was taking 10 TID
+
+levETIRAcetam (KEPPRA) tablet 250 mg
+
+pantoprazole (PROTONIX) EC tablet 40 mg
+
+
+He requested opiates which were not provided.
+
+DAY 1 (10/26/2016-10/27/2016, 10:00)
+
+BP 127/81 (BP Location: Right arm, Patient Position: Lying)  Pulse 99  Temp 98.1 °F (36.7 °C) (Oral)
+Resp 18  Ht 6' (1.829 m)  Wt 197 lb (89.4 kg)  SpO2 98%  BMI 26.72 kg/m2
+
+
+
+BACKGROUND:
+
+
+The waking background is  continuous,  symmetric,  well-organized, and consists predominantly of
+beta with admixed alpha.
+
+
+
+
+Posterior dominant rhythm was 10 Hz
+
+The background is  reactive,  variable.
+
+
+There were  no persistent asymmetries in amplitude and frequency.
+
+Seep was characterized by  Just a handful of drowsy bursts
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none
+
+EPILEPTIFORM ACTIVITY: none
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: no change
+
+Photic Stimulation: + driving. Patient stated that photic produced a HA, similar to those before his
+events.
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+Normal mostly wake pattern, remarkable for tachycardia
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (10/27, 06:00 - 10/28/2016, 10:00)
+
+
+medications
+
+diazepam (VALIUM) 2 mg tablet, 10 mg BID
+
+divalproex (DEPAKOTE DR) 500 mg tablet, Take 1 tablet by mouth nightly. Dose to be adjusted as
+needed
+
+
+levETIRAcetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2 times daily. Goal is to reduce
+
+BACKGROUND: Remained normal, little sleep, but some drowsiness
+
+
+GENERALIZED SLOWING: None
+
+FOCAL SLOWING: None
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+EVENTS: No epileptiform clinical or electrographic events reported or detected
+
+EKG: A single EKG lead captured  HR 120 BPM to 126 BPM
+
+
+ACTIVATION PROCEDURES:
+
+Hyperventilation: no change
+
+
+
+
+Photic Stimulation: + driving.
+
+On the morning of the 28th the patient withdrew his consent for EEG monitoring. He demanded
+removal the EEG electrodes and eloped from the hospital with his IV in place.
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+
+Normal record. The generous beta may be due to the patient's use of large doses of Valium.
+
+
+INDUCTION PROCEDURES:
+
+Sleep deprivation- patient does not sleep well
+
+
+Photic stimulation elicits normal driving
+
+Hyperventilation No change
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+Interictal Findings:  Normal study. Beta c/w medicines.
+
+
+
+
+Ictal Findings:
+
+The patient had ZERO  clinical events while hooked up to continuous video EEG monitoring in the
+epilepsy monitoring unit.
+
+
+
+SEIZURE DIAGNOSIS:
+
+
+1. Likely Non epileptiform events based on the history provided by the patient in that he only has
+events which are triggered by severe headache
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. Probable psychogenic non epileptiform events
+
+
+
+CONCLUSION:
+
+was admitted to the epilepsy monitoring unit for 2 days of continuous video EEG.  Under the
+guidance of psychiatry, his diazepam was reduced but he terminated the admission before we could
+continue the wean. He was NOT provided with opiates nor ritalin, given the clear history delineated
+by our consultant for drug abuse and concerns for secondary gain. He was offered outpatient therapy,
+but left before this could be arranged. Ideally, Keppra should be weaned.
+
+
+
+
+
+The patient was counseled during the first two days of his hospitalization that the current events
+appear to be emotional in nature.
+
+
+We recommend that he/she to see a psychiatrist or therapist for assessment of underlying
+psychopathology and diagnosis.
+
+
+
+
+No follow up was scheduled.

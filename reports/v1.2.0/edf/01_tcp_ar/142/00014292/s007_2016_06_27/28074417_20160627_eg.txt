@@ -1,0 +1,577 @@
+START DATE OF STUDY: 06/27/16 at 11:55
+
+END DATE OF STUDY:07/01/2016
+
+
+
+RECORDING ENVIRONMENT: Epilepsy Monitoring Unit
+
+EEG TYPE: Long term recording
+
+
+
+HISTORY:
+
+a 28 y.o. man with history of sz. He had a seizure once after he stopped drinking at
+the age of 24 and since then continues to have them. Now mainly nocturnal. Also complains of
+having issues with his left leg while walking. He is admitted to the EMU for differential diagnosis of
+the nocturnal events.
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+
+MEDICATIONS:
+
+
+CLONAZEPAM 1 mg bid
+
+
+SEDATION: None
+
+
+
+DAY 1 (6/27/2016, 11:55 - 6/28/2016, 08:00)
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+No generalized slowing is present.
+
+
+
+Intermittent polymorphic delta activity is present in the left parieto-occipital region during
+wakefulness, increasing during drowsiness.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+     Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and
+produces no effect.
+
+
+
+     Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not
+produce any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+There is intermittent focal slowing in the left parieto-occipital region.
+
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.
+
+
+
+
+
+
+Reading attending: 
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (6/28/2016, 08:00- 6/29/2016, 08:00)
+
+
+AEDs: clonopin 0.5mg bid
+
+
+
+INTERICTAL BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+No generalized slowing is present.
+
+
+
+Intermittent polymorphic delta activity is present in the left parieto-occipital region during
+wakefulness, increasing during drowsiness.
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+     Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and
+produces no effect.
+
+
+
+
+
+
+
+     Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not
+produce any EEG changes.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+There is intermittent focal slowing in the left parieto-occipital region.
+
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.
+
+
+
+Reading attending: 
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (6/29/2016, 08:00- 6/30/2016, 08:00)
+
+
+AEDs: clonopin stopped
+
+
+
+INTERICTAL BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+No generalized slowing is present.
+
+
+
+
+
+
+Intermittent polymorphic delta activity is present in the left parieto-occipital region during
+wakefulness, increasing during drowsiness.
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+     Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and
+produces no effect.
+
+
+
+     Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not
+produce any EEG changes.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+There is intermittent focal slowing in the left parieto-occipital region.
+
+
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.
+
+
+
+Reading attending: 
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4 (6/30/2016, 08:00- 7/01/2016, 14;00)
+
+
+
+AEDs: clonopin 0.5mg bid
+
+
+
+
+INTERICTAL BACKGROUND:
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+Diffuse, frontally predominant 5-10uV, 18-25Hz activity is also seen.
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+No generalized slowing is present.
+
+
+
+Intermittent polymorphic delta activity is present in the left parieto-occipital region during
+wakefulness, increasing during drowsiness.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+     Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and
+produces no effect.
+
+
+
+     Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not
+produce any EEG changes.
+
+
+
+EVENTS:
+
+On 06/30/2016 at 2:08PM the patient states that he feel he may have a seizure and complains of dry
+saliva around the mouth. No EEG changes were seen around this time.
+
+
+
+
+HEART RATE:
+
+
+
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+
+There is intermittent focal slowing in the left parieto-occipital region.
+
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.
+
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+Interictal Findings:
+
+Left occipito-parietal focal slowing seen intermittently
+
+
+
+Ictal Findings:
+
+The patient had no clinical events while hooked up to continuous video EEG monitoring in the
+epilepsy monitoring unit.
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. Possible focal vs Psychogenic events
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. Unclear.
+
+
+
+CONCLUSION:
+
+ was admitted to the epilepsy monitoring unit for 4 days with continuous video EEG.
+This was an unrevealing EMU monitoring session because of no typical events were captured. On the
+last day the patient felt anxious and wanted to leave.
+
+
+
+
+The interictal EEG is characterized by intermittent left parieto-occipital focal slow waves.  This
+finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+
+
+
+The patient was weaned off clonazepam over the course of his admission. He was restarted on his
+medication on the day of discharge from the hospital. No other medication changes were made
+during the hospitalization.
+
+
+
+
+The patient had a discussion with  about the possibility that these are nonepileptic
+events and their association with underlying psychiatric co-morbidities.
+
+
+
+
+
+
+Patient is follow-up with.
+
+
+
+I have personally reviewed and interpreted this study, and this report represents my findings and
+conclusions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

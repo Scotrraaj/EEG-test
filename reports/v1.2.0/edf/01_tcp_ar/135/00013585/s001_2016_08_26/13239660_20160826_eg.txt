@@ -1,0 +1,123 @@
+
+HISTORY:
+
+48 y.o. male with a history of epilepsy in the setting of gunshot wound to back of
+head (1996); last seizure 1.5 months ago (LOC, postictal) referred for routine EEG for characterization
+of seizures.
+
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+PHENobarbital (LUMINAL) 100 mg tablet, take 1 tablet by mouth once daily
+
+phenytoin (DILANTIN) 100 mg ER capsule,
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with mild excess of delta in wakefulness, with a symmetric and reactive
+10 Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and
+amplitude is present.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric sleep spindles
+and K-complexes. Slow wave sleep was not captured.
+
+
+
+Mild generalized slowing is present.
+
+There is continuous left posterior quadrant (T5/P3 max) polymorphic slowing.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Rare left posterior quadrant spike-and-wave
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and
+produces mild diffuse symmetric background slowing, with accentuation of focal slowing over the left
+posterior quadrant.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps), performed
+during sleep, does not produce any EEG changes.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and asleep routine EEG due to:
+
+
+
+
+1. Mild generalized slowing
+
+2. Continuous left posterior quadrant (T5/P3 max) polymorphic slowing
+
+
+3. Rare left posterior quadrant spike-and-wave
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of left posterior quadrant cerebral dysfunction, likely structural
+in etiology and with epileptogenic potential, superimposed on a mild diffuse cerebral dysfunction.

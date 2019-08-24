@@ -1,0 +1,541 @@
+HISTORY:
+
+This is a 37 y.o. right handed male admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: partial epilepsy.  Most seizures occur in the AM, with an aura.
+
+
+
+
+Continuous video EEG is initiated for:  Recording of seizures for presurgical evaluation.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+The  spike and seizure detection computer program  was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+No current facility-administered medications for this visit.
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+LORazepam (ATIVAN) injection 2 mg
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+[START ON 8/23/2016] enoxaparin (LOVENOX) injection 40 mg
+
+carBAMazepine (TEGRETOL XR) 12 hr tablet 600 mg
+
+Lyrica NONFORMULARY 100 mg
+
+
+
+DAY 1 (8/22/2016,  - 8/23/2016, 06:00)
+
+
+
+BACKGROUND:
+
+
+The waking background is  continuous,  symmetric,  well-organized, and consists predominantly of
+alpha with admixed theta on the left.
+
+
+
+Posterior dominant rhythm was  9 Hz, symmetric, reactive present.
+
+
+
+
+
+The background is  reactive,  variable.
+
+
+
+There was an asymmetry in amplitude and frequency.
+
+
+
+Sleep: Drowsiness is characterized by rhythmic, bilateral theta, characteristic of hypnagogic
+hypersynchrony. Stage II sleep was characterized by symmetric sleep spindles and/or K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+EPILEPTIFORM ACTIVITY: In wakefulness, there is nearly continuous rhythmic left temporal theta
+
+
+
+ACTIVATION PROCEDURES:
+
+None
+
+EVENTS: - NO clinical or electrographic events
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+No clinical seizures have been recorded yet.  The rhythmic left temporal slowing, and left temporal
+sharply contoured slowing was previously described for this young adult.  It is typical of that seen in
+temporal lobe epilepsy syndromes.
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+DAY 2 (8/23/2016, 06:00 - 8/24/2016, 06:00)
+
+
+
+BACKGROUND: No change
+
+
+GENERALIZED SLOWING: None
+
+
+
+FOCAL SLOWING: No change
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: Rare (<1hour) simple left temporal sharp waves, usually seen
+in association with the L TIRDA.
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+
+
+EKG: A single EKG lead captured HR 60-70 BPM
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+
+
+Focal slowing and rare simple left temporal sharp waves but no seizures
+
+
+
+
+
+-----------------------------------------------------------------
+
+DAY 3 (8/24/2016, 06:00 - 8/25/2016, 06:00)
+
+
+Medicine reduction continues, Lyrica on hold
+
+BACKGROUND: No change
+
+
+GENERALIZED SLOWING: None
+
+
+
+FOCAL SLOWING: No change
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: Rare (<1hour) simple left temporal sharp waves
+
+
+Activation procedures:
+
+4:40 PM
+
+
+Hyperventilation produces generalized, rhythmic, relatively symmetric slowing.
+
+Photic stimulation follows and elicits a bilateral driving response, more vigorous on the right.
+
+EVENTS:
+
+No  electrographic events reported or detected
+
+
+18:45 PM- pt reports the next day that he felt like he "took a blue pill". EEG reviewed. Normal wake
+pattern, patient awake, playing cards.  Seems to be not as talkative during part of this, and is relaxed
+back in his chair, then resumes the game, but no impairment in awareness.  The video/behavior
+could show response to internal stimuli or just responsiveness to the conversation.
+
+
+
+06:00- same time frame searched for seizure- no definitive behavioral changes noted consistent with
+the patient report and no electrographic seizure found.
+
+EKG: A single EKG lead captured HR 60 BPM
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+
+
+
+Focal slowing and sharp waves (fewer findings today) but no seizures
+
+
+
+
+
+________________________________________
+
+DAY 4 (8/25/2016, 06:00 - 8/262016, 06:00)
+
+
+Medicine reduction continues, Lyrica on hold
+
+BACKGROUND: No change
+
+GENERALIZED SLOWING: None
+
+
+
+FOCAL SLOWING: No change
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: Rare (<1hour) simple left temporal sharp waves
+
+Activation procedures:
+
+
+
+EVENTS:
+
+
+No  electrographic events reported or detected
+
+
+EKG: A single EKG lead captured HR 60 BPM
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION
+
+Focal slowing and sharp waves (fewer findings today) but no seizures
+
+
+
+______________________________________________________
+
+DAY 5 (8/26/2016, 06:00 - 8/27/2016,
+
+Medicine reduction continues, Lyrica on hold
+
+
+BACKGROUND: No change
+
+
+
+GENERALIZED SLOWING: None
+
+
+FOCAL SLOWING: No change
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: Rare (<1hour) simple left temporal sharp waves, some bursts
+irregular bitemporal slowing in sleep
+
+
+
+Activation procedures: none
+
+
+
+
+SEIZURE:
+
+6:04 AM Duration 03:00  this seizure occurred out of sleep with an arousal.  The initial localization is
+a bit unclear, but there is a clear arousal at 6:04:58 with fast activity present bilaterally but with
+underlying rhythmic theta in the left temporal region.  At 8 seconds, the patient is clearly moving
+about, looking for the seizure alarm and the EEG is then obscured by muscle. 6:05 , despite the
+artifact, there is underlying rhythmic theta noted in the left hemisphere including left temporal and
+left frontocentral region. There is evolution in frequency and amplitude with spread bilaterally at
+6:05:51 and then the EEG is obscured by prominent tissue and oral automatisms.  At 6:06:17 the
+EEG transitions to a tonic-clonic pattern, ending 06:07:18.  Although the EEG electrodes are quite
+tenuous after the tonic-clonic activity, there is prolonged post ictal slowing.
+
+
+
+
+
+CLINICAL: All seizures with motor component are stereotypic for this adult.  He arouses out of sleep,
+at 6:05:10 heat looks to the left and pushes the button for the alarm.  He then looks over to the right
+and has oral and bilateral manual automatisms.  He is fidgeting 20 seconds later when the nurse
+enters the room.  He makes eye contact with her although he is not able to answer questions
+correctly. He also mimics her motor behavior before going onto a tonic-clonic seizure.  Prior to the
+tonic-clonic seizure, he is mimicking her hand movements with his left hand, the right hand is
+motionless and he has prominent oral automatisms
+
+
+
+
+
+
+EKG: A single EKG lead captured HR 60 BPM
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION
+
+Single seizure out of sleep, with clinical characteristics typical of a temporal lobe seizure.  Despite
+the underlying artifacts and other challenges, the seizure seems to originate from the left temporal
+region.
+
+
+
+
+
+DAY 6 (8/27/2016, 06:00 - 8/28/2016)
+
+Medicine low dose resumes  Lyrica on hold
+
+BACKGROUND: No change
+
+
+
+GENERALIZED SLOWING: None
+
+FOCAL SLOWING: No change
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+SPORADIC EPILEPTIFORM ACTIVITY: Rare (<1hour) simple left temporal sharp waves, some bursts
+irregular bitemporal slowing in sleep
+
+
+Activation procedures: none
+
+
+
+
+SEIZURES:
+
+
+
+
+
+
+#1 1:47 AM, out of sleep- arousal followed by subtle fast activity in the left temporal region, 1:47:30-
+though there is bilateral rhythmic theta, it seems to be maximal in the left temporal region.  Patient
+is talking during the discharge but is confused, T1 Max  Seizure at 1:47:37 , prior to tonic-clonic
+seizure with right arm extended left arm flexed and then prolonged postictal slowing
+
+
+
+Clinical: he wakes up out of sleep, looks around turns to the left pushes the button on the left 1:47:16
+, then he turns to the right stiffens.  He makes eye contact with an examiner.  He is interactive with his
+mother and consolable but he has lip smacking movements.  He  turns to the right in a tonic-clonic
+seizure.  The figure of 4 sign is noted in the tonic-clonic seizure with right arm extended left arm
+flexed There is prolonged post ictal confusion with similar slowing in the EEG
+
+
+
+
+
+#2 5:56 AM out of sleep- arousal followed by clear fast activity in the left temporal region, then
+muscle artifact but rhythmic left temporal theta noted at 05:58.  There is clearly evolving theta delta
+noted in the left temporal region, T1 maximum but also involving the left frontal central region.
+Later, the EEG is obscured by muscle and motion artifact.  After the seizure, the patient drifts off to
+sleep and there is left temporal focal slowing noted
+
+
+
+Clinical: he wakes up out of sleep, looks around turns to the left pushes the button on the left 1:47:16
+, then he turns to the right stiffens.  He makes eye contact with an examiner.  He is interactive with his
+mother and consolable but he has lip smacking movements.
+
+
+HR >120 BPM
+
+
+
+#3: 10:13:30
+
+Despite the long prodrome before the first electrographic change, this is the most clearly left
+temporal seizure of the 4 seizures that were recorded.
+
+
+An initial pattern of beta activity muscle and tachycardia gives way to rhythmic theta from the left
+frontal region at 10:14:20.  The seizure ends with an evolution to delta frequency activity and high
+amplitude left temporal spiking.  Prolonged postictal slowing was noted
+
+
+CLINICAL: The patient's family is at the bedside.  They are able to identify the seizure before the first
+scalp EEG change and in fact, leave the room looking for the staff to  assist the patient, at a time
+with the EEG demonstrates a relatively normal awake pattern and slight tachycardia. The patient
+looks for PB 10:14:00.  This is followed by lip smacking and impairment of awareness with the patient
+turns to the right side where his mother is standing.  The mother states that she always stands on the
+right side and that the patient is somewhat consolable during the seizures although he has difficulty
+with verbal information and doesn't recall code word.
+
+
+
+
+The patient received 2 mg Ativan after the seizure
+
+
+
+# 4 15:35:39  PM , he demonstrates oral automatisms, L>R manual automaticisms, gestures with
+hands, makes eye contact but is confused. Mother holds the r arm which may mask dystonic posture of
+the motionless limb. He nods and smiles
+
+
+EEG: Ictal pattern- characterized by initially a well-organized normal alpha rhythm followed by
+tachycardia, disruption of the alpha rhythm, and increase in beta and a small amount of theta but no
+definitive ictal pattern
+
+
+
+CLINICAL: the patient is awake, relatively undressed in bed.  He turns red, takes off the covers, he
+looks to the left for the push button.  He is clearly confused, but is interactive .  He did not recall the
+code word.  This is the only seizure that differ substantially from the others and occurred in the
+afternoon after 2 previous seizures and treatment with Ativan
+
+
+EKG >120 BPM
+
+
+
+
+EKG: A single EKG lead captured HR 60-120 BPM  BPM
+
+
+
+DAY6 IMPRESSION & CLINICAL CORRELATION
+
+Multiple clinical seizures which begin with a typical complex partial seizures semiology and which
+appear to localize to the left temporal region.  Clinical features of the seizures localized to the left
+hemisphere including the figure of 4 sign and aphasia.
+
+
+_______________________________________________________________________
+
+
+Day 7- 8/28/2016- 6 AM to 1 PM
+
+BACKGROUND: No change
+
+FOCAL SLOWING: No change  intermittent left temporal rhythmic theta was noted
+
+
+No additional seizures were noted on the final day of recording
+
+Impression/clinical correlation: No seizures have been noted since 3 PM the day before.  Medications
+were restarted and the patient was considered safe for discharge
+
+
+
+___________________________________________________________
+
+
+CONCLUSION:
+
+Abnormal
+
+#1 L TIRDA
+
+
+#2 Infrequent L temporal sharp F7/T1
+
+3. Multiple seizures described below
+
+3a. Auras or SPS- one without clear clinical correlate and without EEG change.  Another, with clear
+clinical change, visible to others but without definitive ictal pattern
+
+
+3b. CPS, total 4, including one out of sleep. The first two were recorded with medication
+cessation/re-load and had TC component.  One was out of sleep. All wake seizures had long
+prodrome with out scalp change, but later T1 maxium, discernable under significant muscle artifact.
+For wake seizures, patient was able to find the push  button, and was able to speak early in the
+seizure, then had automatic speech and then ictal aphasia.  Family identified ictal behavior before
+the patient, in fact before the first scalp EEG change (+ Mom sign) .
+
+
+
+
+3bi: Duration of time before first EEG/ clinical change -can be as long as 30 seconds, if mother is at
+bedside

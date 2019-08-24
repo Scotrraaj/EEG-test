@@ -1,0 +1,440 @@
+HISTORY:
+
+This is a 23 y.o. right handed male admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: refractory epilepsy. He states that he has a long aura before all seizures,
+always knows that they are coming but can never take a rescue tablet. He feels a pressure in his head,
+and an indescribable sense.
+
+
+
+
+
+Continuous video EEG is initiated for:  Characterization of seizures.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+
+
+
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+Initial MEDICATIONS:levETIRAcetam (KEPPRA) topiramate (TOPAMAX) tablet 150 mgVPA
+
+
+
+
+DAY 1 (09/05/2016- 9/6/2016, 06:00)
+
+
+
+BACKGROUND:
+
+
+
+The waking background is  continuous,  symmetric,  well-organized, and consists predominantly of
+alpha with admixed frontocentral beta. 10 Hz Posterior dominant rhythm was   Present. The
+background is  reactive,  variable.
+
+
+There were  no persistent asymmetries in amplitude - there is subtle underlying left temporal slowing.
+
+Wicket is present bilaterally.
+
+
+
+
+
+Sleep was characterized by  symmetric sleep spindles and/or K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): Occasional wicket waves are noted during
+drowsiness over the temporal regions.
+
+
+
+EPILEPTIFORM ACTIVITY: in wakefulness, but more prominently in drowsiness and sleep there are
+bursts of frontal notched theta/delta of 0.5-3.0 seconds duration. Some have clear spike and wave
+morphology.  Others include a frontal sharp or spike or pair of discharges followed by slow wave
+
+
+
+Some are R frontal max, others clearly bifrontal and less frequent, left frontal. ACTIVATION
+PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+HR 100-130 BPM
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+Although there is subtle L temporal slowing, the interictal epileptiform activity is frontal-generalized.
+
+
+-----------------------------------------------------------------
+
+DAY  (9/6/2016 06:00 - 9/7/2016, 06:00)
+
+
+
+Current Facility-Administered Medications:
+
+  levETIRAcetam (KEPPRA) tablet 250 mg, 250 mg, Oral, Q12H SCH, 250
+mg at 09/06/16 2132
+
+
+  topiramate (TOPAMAX) tablet 150 mg, 150 mg, Oral, QHS, 150 mg at
+09/06/16 2132
+
+
+  LORazepam (ATIVAN) injection 2 mg, 2 mg, Intramuscular, Q6H PRN
+
+  topiramate (TOPAMAX) tablet 150 mg, 150 mg, Oral, Daily, 150 mg at
+09/06/16 0942
+
+
+BP 98/64 (BP Location: Left arm, Patient Position: Sitting)  Pulse 63  Temp 97 °F (36.1 °C) (Oral)
+Resp 18  Ht 1.956 m (6' 5")  Wt 77.1 kg (170 lb)  SpO2 100%  BMI 20.16 kg/m2
+
+
+BACKGROUND: No change
+
+GENERALIZED SLOWING: None
+
+FOCAL SLOWING: No change
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): Occasional wicket waves are noted during
+drowsiness over the temporal regions
+
+SPORADIC EPILEPTIFORM ACTIVITY: as described in the previous day- frontal spike and wave,
+notc  hed delta/theta, rarely 5-10 Hz but no temporal sharps or spi kes
+
+
+
+
+
+
+
+EVENTS: None
+
+
+
+EKG: A single EKG lead captured 70-124 BPM
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+interictal epileptiform activity is frontal-generalized. No seizures to date
+
+
+
+-----------------------------------------------------------------
+
+DAY 3 (9/7/2016, 06:00 - 9/8/2016, 06:00)
+
+
+Medicines were reduced and the patient had one beer
+
+BACKGROUND: Remained normal
+
+
+GENERALIZED SLOWING: None
+
+
+
+FOCAL SLOWING: No change
+
+
+l
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): Left temporal wicket
+
+
+SPORADIC EPILEPTIFORM ACTIVITY:
+
+
+Primarily in drowsiness:
+
+1. Isolated frontal sharps/spikes
+
+
+2. Infrequent bifrontal spike and wave with polyspike of ~12 Hz, total burst duration 3 seconds, no
+clinical change
+
+3. After the beer, burst duration increases to 4 seconds. Some bursts start with 12-15 Hz activity
+
+
+Activation:
+
+Hyperventilation did not elicit seizures but isolated poly spike wave was noted.
+
+EVENTS:
+
+
+
+EKG: A single EKG lead captured HR 70-100 BPM BPM
+
+
+
+DAY 3  IMPRESSION & CLINICAL CORRELATION
+
+No seizures, ongoing generalized spike and wave 5-7 Hz with associated 12-15 Hz activity
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4 (9/8/2016, 06:00 - 9/9/2016, 06:00)
+
+Medicines were reduced
+
+
+On the morning of the 8th, the patient felt like he was going to have a seizure, felt panicky and a bad
+sensation in his head
+
+
+BACKGROUND: Remained normal
+
+
+GENERALIZED SLOWING: None
+
+
+
+FOCAL SLOWING: No change
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): Left temporal wicket
+
+
+SPORADIC EPILEPTIFORM ACTIVITY:
+
+
+Spike and wave and polysike complexes increased in the two hours before the seizure with multiple
+bursts per hour, and longer duration than noted previously. Spike and wave increases to 12 Hz
+frequency
+
+
+1. Isolated frontal sharps/spikes
+
+2, Isolated 5-7 Hz s/w complexes, occur in pairs
+
+
+3.bifrontal spike and wave with polyspike of ~12 Hz, total burst duration 3-7 seconds, no clinical
+change
+3.Some bursts start with 12-15 Hz activity
+
+4. 12 Hz spike and wave activity
+
+
+EVENTS:
+
+Seizure:
+
+9:19 AM- prior to the seizure the patient has frequent brief bursts of high frequency spike and wave
+activity or frontal fast activity. He describes this as a painful bulge in his head and is fearful but
+always able to answer questions
+
+
+
+1 min 30 sec
+
+Behavior- 6 seconds after the first ictal change, patient has a scream, eyes open, turns R then
+symmetric flexion of all limbs followed by rotation to left, tonic and then tonic  Clonic activity.  The
+last jerk is the right arm.
+
+
+EEG: 5-6 Hz frontal high amplitude activity, then fast spike wave, slight beta asymmetry briefly then
+T-C artifact and prolonged post ictal slowing
+
+
+EKG: A single EKG lead captured HR 70-100 BPM BPM
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION
+
+One generalized seizure
+
+Increase in generalized spike and wave 5-7 Hz with associated 12-15 Hz activity prior to the seizure.
+
+
+Sustained tachycardia in the hour following the seizure
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 5 (Sept 9, 2016, 06:00 - 9/10/2016, 06:00)
+
+Meds: VPA and TPM with VPA bolus
+
+
+BACKGROUND: Remained normal
+
+GENERALIZED SLOWING: None
+
+
+FOCAL SLOWING: None
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): Occasional wicket waves are noted during
+drowsiness over the left regions
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: Occasional (1/hour to <1min)
+
+Similar to prior discharges, generally brief, less than 0.5 seconds, though rare 3 second bursts frontal
+s/w of 4-6 Hz, frontal fast, or 12 Hz s/w
+
+
+EVENTS: None
+
+EKG: A single EKG lead captured 90 BPM
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION
+
+
+Marked reduction of interictal epileptiform activity, no seizures
+
+
+
+EMU summary
+
+
+INDUCTION PROCEDURES:
+
+Alcohol- may have contributed to seizure
+
+Hyperventilation- no change
+
+
+Exercise- no change, tachycardia
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+Interictal Findings:
+
+1. Isolated frontal sharps/spikes
+
+2, Isolated 5-7 Hz s/w complexes, occur in pairs
+
+
+3.bifrontal spike and wave with polyspike of ~12 Hz, total burst duration 3-7 seconds, no clinical
+change
+3.Some bursts start with 12-15 Hz activity
+
+
+
+
+4. 12 Hz spike and wave activity or paroxysmal bursts
+
+
+
+Ictal Findings:
+
+The patient had 1 tonic clonic seizure while hooked up to continuous video EEG monitoring in the
+epilepsy monitoring unit.  This was a generalized discharge, with out clear lateralization.
+
+
+SEIZURE DIAGNOSIS:
+
+1. Generalized epilepsy with little evidence for focality
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1.Generalized epiepsy
+
+
+
+CONCLUSION:
+
+was admitted to the epilepsy monitoring unit for 5 days with continuous video EEG.  This
+was an  EMU monitoring session
+
+
+
+The interictal EEG is characterized by generalized spike and wave, with relatively little in the way of
+focal slowing or sharp waves. This data will be presented at surgical conference to discuss the
+possibility of surgical evaluation versus medical managment.
+
+
+
+
+Patient is follow-up at the Temple Epilepsy Center as an outpatient.

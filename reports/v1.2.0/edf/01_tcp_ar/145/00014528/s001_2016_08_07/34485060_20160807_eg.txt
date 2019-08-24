@@ -1,0 +1,145 @@
+HISTORY:
+
+38 y.o. male with a history of seizure, ICH s/p bilateral EVDs, with change in
+mental status (more lethargic today), referred for routine EEG for screening for subclinical seizures.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+[START ON 8/8/2016] enoxaparin (LOVENOX) injection 40 mg
+
+acetaminophen (OFIRMEV) injection 1,000 mg
+
+
+morphine injection 2 mg
+
+acetaminophen-codeine (TYLENOL #3) 300-30 mg per tablet 1 tablet
+
+aluminum & magnesium hydroxide-simethicone (MAALOX PLUS) 400-400-40 mg/5 mL suspension
+30 mL
+
+
+docusate sodium (COLACE) capsule 100 mg
+
+
+gentamicin PF 8 mg in sodium chloride 0.9 % 250 mL
+
+labetalol (NORMODYNE,TRANDATE) injection 20 mg
+
+levETIRAcetam (KEPPRA) tablet 500 mg
+
+
+
+
+magnesium hydroxide (MILK OF MAGNESIA) suspension 30 mL
+
+multivitamin (THERAPEUTIC-M) 9 mg iron-400 mcg per tablet 1 tablet
+
+
+ondansetron (PF) (ZOFRAN) injection 4 mg
+
+pantoprazole (PROTONIX) EC tablet 40 mg
+
+
+sodium phosphates (FLEET) enema 1 enema
+
+senna (SENOKOT) tablet 1 tablet
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is continuous and reactive but asymmetric.
+
+The right hemisphere consists of a fairly organized mixture of alpha, beta, and excess sharply
+contoured delta. There is an alpha rhythm in the posterior leads of 9 Hz; it is unclear whether this
+attenuate to eye opening and thus represents a posterior dominant rhythm.
+
+
+The left hemisphere consists of a less well organized, more attenuated mixture of alpha and beta,
+with excess theta and delta. There is no definite posterior dominant rhythm.
+
+
+
+
+In sleep, the background slows further. Sharply contoured delta slowing over the right hemisphere
+emerges. There are no well-defined sleep transients.
+
+
+
+Mild to moderate generalized slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+HEART RATE:
+
+
+A heart rate of 102 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Mild to moderate generalized slowing and suboptimal organization
+
+2. Attenuation of frequencies over the left hemisphere
+
+
+3. Tachycardia
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings are etiologically nonspecific indicators of left hemispheric cortical dysfunction
+superimposed on a bihemispheric cerebral dysfunction.
+
+
+
+There was no epileptiform activity, nor any clinical or electrographic events captured during this
+routine study. However, if subclinical status epilepticus remains a concern, long term EEG monitoring
+is more sensitive in the detection of subclinical seizures.

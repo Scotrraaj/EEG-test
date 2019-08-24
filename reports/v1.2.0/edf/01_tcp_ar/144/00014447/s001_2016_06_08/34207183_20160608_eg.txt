@@ -1,0 +1,117 @@
+HISTORY:
+
+26 y.o. female with a history of a single seizure.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+BUSPIRONE HCL (BUSPAR PO), Take 50 mg by mouth 2 times daily.
+
+IBUPROFEN (MOTRIN PO), Take  by mouth.
+
+NORTRIPTYLINE HCL (NORTRIPTYLINE PO), Take 125 mg by mouth at bedtime.
+
+
+SULFAMETHOXAZOLE/TRIMETHOPRIM (BACTRIM PO), Take  by mouth.
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: None
+
+
+
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 11 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During intermittent brief drowsiness, slow rolling eye movements, attenuation and fragmentation of
+the posterior dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+mild diffuse symmetric background slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 102 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+- No epileptiform discharges
+
+- no stage II sleep
+
+
+
+
+
+CLINICAL CORRELATION:
+
+
+This is a normal awake and drowsy 22-minute EEG.
+
+
+
+No epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.

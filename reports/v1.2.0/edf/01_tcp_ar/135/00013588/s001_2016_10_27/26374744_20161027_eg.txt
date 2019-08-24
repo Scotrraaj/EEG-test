@@ -1,0 +1,144 @@
+HISTORY:
+
+68 y.o. female with a history of seizures.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+telmisartan (MICARDIS) 80 mg tablet, Take 80 mg by mouth daily.
+
+multivitamin (THERAGRAN) per tablet, Take 1 tablet by mouth daily.
+
+DULoxetine (CYMBALTA) 30 mg capsule, Take 30 mg by mouth 2 times daily.
+
+
+zonisamide (ZONEGRAN) 100 mg capsule, Take 100 mg by mouth 4 times daily.
+
+metFORMIN (GLUCOPHAGE) 500 mg tablet, Take 500 mg by mouth daily.
+
+ezetimibe (ZETIA) 10 mg tablet, Take 10 mg by mouth daily.
+
+
+colesevelam (WELCHOL) 625 mg tablet, Take 1,250 mg by mouth 2 times daily.
+
+furosemide (LASIX) 20 mg tablet, Take 20 mg by mouth daily as needed.
+
+amLODIPine (NORVASC) 5 mg tablet, Take 5 mg by mouth 2 times daily.
+
+
+aspirin (BAYER) 325 mg Tablet tablet, Take 325 mg by mouth daily.
+
+
+
+
+rabeprazole (ACIPHEX) 20 mg tablet, Take 20 mg by mouth as needed.
+
+cholestyramine (QUESTRAN) 4 gram packet, Take 1 packet by mouth daily.
+
+
+levetiracetam (KEPPRA) 1,000 mg tablet, Take 1 tablet by mouth 2 times daily for 360 days.
+
+
+
+No current facility-administered medications for this visit.
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9.5 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Subtle nearly continuous polymorphic theta and delta activity is noted over the left anterior temporal
+region.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+additional abnormalities.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+1. Subtle nearly continuous mild focal left anterior temporal slowing.
+
+
+
+CLINICAL CORRELATION:
+
+
+This finding is indicative of a focal structural lesion in this region.
+
+
+
+No epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.

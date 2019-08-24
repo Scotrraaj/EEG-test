@@ -1,0 +1,151 @@
+HISTORY:
+
+54 y.o. female with a history of acute hepatic failure referred for routine EEG
+for assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+Custom Option CPN
+
+meropenem (MERREM) 1 g in sodium chloride 0.9 % 100 mL IVPB
+
+
+fentaNYL (PF) (SUBLIMAZE) injection 25 mcg
+
+chlorhexidine (PERIDEX) 0.12 % solution 15 mL
+
+sodium chloride 0.9 % infusion
+
+
+heparin (5000 units/mL) injection 5,000 Units
+
+linezolid (ZYVOX) 600 mg in 300 mL IVPB
+
+insulin regular 100 units in sodium chloride 0.9 % 100 mL infusion
+
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+
+
+HYDROmorphone (DILAUDID) injection 0.5 mg
+
+white petrolatum-mineral oil (LACRI-LUBE) ophthalmic ointment 1 Application
+
+
+norepinephrine (LEVOPHED) 16 mg/250 mL (64 mcg/mL) in NSS infusion
+
+pantoprazole (PROTONIX) injection 40 mg
+
+
+albuterol (PROVENTIL) nebulizer solution 5 mg
+
+ipratropium (ATROVENT) 0.02 % nebulizer solution 0.5 mg
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+nystatin (MYCOSTATIN) powder 1 Application
+
+
+polyvinyl alcohol (LIQUIFILM TEARS) 1.4 % ophthalmic solution 2 drop
+
+albuterol (PROVENTIL) nebulizer solution 2.5 mg
+
+
+white petrolatum-mineral oil (LACRI-LUBE) ophthalmic ointment 1 Application
+
+micafungin (MYCAMINE) 100 mg in sodium chloride 0.9 % 100 mL IVPB
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+
+
+
+
+SEDATION: Fentanyl
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically suboptimal record
+with excessive muscle artifact, and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+The patient was intubated during the tracing, intermittently biting on the ET tube. During the study,
+medical staff was at the bedside performing examination, stimulation and blood glucose monitoring.
+Background is characterized by the diffuse low to medium and medium amplitude poorly organized
+3-6 Hz activity intermixed with frequent triphasic waves and occasional frontal eye blink artifact. A
+large amount of muscle artifact was seen over predominantly frontotemporal regions, obscuring
+portions of the underlying cerebral electrical activity. No significant change in background activity
+was seen after tactile stimulation.
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None apart from triphasic activity noted above.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+A heart rate of 105 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+
+This is an abnormal drowsy and asleep  routine EEG due to:
+
+1. Background disorganization and diffuse irregular slowing.
+
+2. Frequent triphasic activity.
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate a moderate bihemispheric functional disturbance such as that seen with
+diffuse or multifocal encephalopathies of various etiologies. The triphasic activity noted is typically
+seen with metabolic disturbances including hepatic disease, hypoxia, or renal insufficiency, e.g. No
+clinical or electrographic seizure activity was noted.

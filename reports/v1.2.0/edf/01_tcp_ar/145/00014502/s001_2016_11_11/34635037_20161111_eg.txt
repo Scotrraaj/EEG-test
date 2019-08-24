@@ -1,0 +1,111 @@
+HISTORY:
+
+27 y.o. female with a history of seizure in 2003 referred for routine EEG for follow
+up EEG and medication management.
+
+
+
+MEDICATIONS:
+
+
+Keppra
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG, hyperventilation and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+
+The waking background demonstrates medium voltage symmetric and reactive 10-11 Hertz posterior
+dominant rhythm (PDR), which attenuates symmetrically with eye opening. Low voltage frontally
+predominant 18-30 Hz activity was seen. The patient was extremely anxious throughout the record,
+with nearly continuous muscle and frontal eye movement artifact obscuring portions of the underlying
+cerebral electrical activity. Occasional medium voltage bilateral temporal 6-7 Hz activity was seen
+with distinction between rhythmic temporal theta of drowsiness and movement artifact difficult to
+determine.
+
+
+
+
+
+
+Sleep is not captured
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+mild diffuse symmetric background slowing.
+
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 108 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+Probably normal awake EEG.  As noted, the patient was anxious with excessive muscle and
+movement artifact throughout the tracing. Intermittent theta frequency slowing may have represented
+mild drowsiness versus movement artifact. There are no clinical or electrographic events reported or
+detected.
+
+
+
+
+CLINICAL CORRELATION:
+
+
+
+
+
+
+
+A normal routine EEG does not support or refute the diagnosis of epilepsy. If clinically indicated, a
+sleep deprived or more prolonged tracing capturing stage II sleep may provide additional helpful
+information.

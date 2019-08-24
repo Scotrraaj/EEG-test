@@ -1,0 +1,131 @@
+HISTORY:
+
+24 y.o. female with a history of body jerks for 4 years, referred for routine EEG for
+evaluation of paroxysmal events.  She is currently in her first trimester of pregnancy.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+PNV,CA42/IRON/FA/LMEFOL CA/DHA (PNV-DHA PLUS PO), Take  by mouth.
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 10 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and diffuse
+background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+No generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None clearly present. See
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+
+
+EVENTS:
+
+There are multiple body jerks captured during this study, nearly every 10-20 seconds.
+
+
+
+CLINICAL: The patient is reclined in the chair and, within 400 msec, elevates both shoulders, thrusts
+out arms, then brings arms back to body with "shivering" movement.
+
+
+
+EEG: Each episode correlates with burst of diffuse muscle/movement artifact, obscuring underlying
+background. There are no definite spikes/polyspikes preceding this activity. Often there is a slow wave
+following the activity that correlates with the movement. Note that this burst of activity appears
+simultaneously in all EEG leads and the single EKG lead. Midway through the study, an EMG lead is
+placed on the arm, and EMG activity coincides with EEG and EKG activity.
+
+
+
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+1. Multiple body jerks captured as described above, without any clearly associated preceding EEG
+epileptiform activity. Note that the EEG during the movement itself is obscured by movement/muscle
+artifact.
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of diffuse body jerks without clearly associated epileptiform
+activity, although the EEG during the movement itself is obscured by artifact. A prolonged recording
+capturing sleep may be of benefit to assess whether these movements persist or resolve in sleep.
+There were no definite epileptiform discharges captured during this otherwise normal awake and
+drowsy study.

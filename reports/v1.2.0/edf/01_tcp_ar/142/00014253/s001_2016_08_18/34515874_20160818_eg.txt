@@ -1,0 +1,104 @@
+HISTORY:
+
+21 y.o. male with a history of 2 seizures this year.  Both preceded by vomiting,
+referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS:
+
+
+Keppra
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory record
+and included a single channel of EKG, HV and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR).
+The normal anterior-to-posterior gradient of frequency and amplitude is present.  Waking background
+is remarkable for generous, diffuse beta and a small amount of excess theta
+
+
+
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by vertex waves and spindles and generous beta.  The patient transitions in
+and out of stage II sleep frequently.
+
+
+
+Mild generalized slowing is present: Excess theta
+
+
+In transition to sleep, focal slowing is present.  This is characterized by some bursts of shifting, sharply
+contoured slowing but these are more prominent on the left, particularly left temporal region
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+Hyperventilation: Produces increase in amplitude of the background
+
+
+
+Photic Stimulation: Elicits a driving response, although the patient was falling asleep
+
+
+
+EVENTS:
+
+There are  no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1.  Mild background disorganization with excess theta
+
+
+2.  Infrequent left temporal focal slowing in drowsiness only
+
+CLINICAL CORRELATION:
+
+
+
+These findings may be correlated with clinical history.  The prominent beta and theta may be
+correlated with the patient's history and other factors.  The temporal features may be correlated with
+imaging.  No epileptiform features were identified in the sharply contoured record.  Please consider a
+one hour EEG.

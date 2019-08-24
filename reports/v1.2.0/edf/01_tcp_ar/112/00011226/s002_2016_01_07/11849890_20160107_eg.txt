@@ -1,0 +1,24 @@
+History:	41 year old woman with a history of seizures since the age of 22 yo.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, hyperventilation, photic
+Description:
+The awake background consists of diffuse moderate amplitude excess beta activity.  During 
+drowsiness, voltages attenuate and bursts of RMTD (rhythmic midtemporal theta activity of 
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.  
+Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at 
+multiple flash rates.  A single EKG lead demonstrates heart rate <60 bpm.
+Summary of Findings:
+	Beta, excessive
+	No epileptiform discharges
+	No stage 2 sleep
+	RMTD (rhythmic midtemporal theta activity of drowsiness)
+Interpretation:
+This is a NORMAL awake and drowsy 22-minute EEG. No epileptiform discharges are present, but 
+stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep recording may 
+provide additional information.  Excessive beta activity could be secondary to the medication 
+effect, such as benzodiazepines or barbiturates.  A single EKG lead demonstrates heart rate <60 
+	
+

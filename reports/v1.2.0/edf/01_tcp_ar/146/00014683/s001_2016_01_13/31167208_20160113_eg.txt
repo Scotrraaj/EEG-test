@@ -1,0 +1,28 @@
+History:	51 year old man with a history of alcohol abuse, now with witnessed mouth 
+	foaming, twitching and eyes rolling back.
+Medications:	Versed
+Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, comatose
+Description:
+There is no PDR or AP gradient.  For nearly first 60 minutes of the recording, the background 
+consists of moderate amplitude diffuse frontally predominant non-rhythmic fast EMG artifact with 
+occasional periods of very brief (seconds) quescence that are characterized by diffuse low  
+amplitude polymorphic slow delta activity.  By ~ 11:15 am, the degree of EMG artifact lessens and 
+by ~11:20 am it is no longer seen.  It reappearance after intense sternal rub.  Vecuronium is 
+administered at ~ 11:34 am - this results in resolution of EMG artifact.  The background consists of a
+ mixture of polymorphic low amplitue theta and delta activity with theta seen more predominantly 
+anteriorly.  With stimulation, faster frequencies appear anteriorly.  No normal sleep architecture is 
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+	Diffuse slowing, polymorphic, moderate-to-severe
+	No electrographic seizures
+	Artifact, EMG, abundant, first ~60 min of the recording.
+Interpretation:
+This is an ABNORMAL nearly 90 minutes continuous video EEG due to moderate-to-severe diffuse 
+slowing. This finding is indicative of moderate to severe diffuse cerebral dysfunction, which is 
+etiologically nonspecific.  EMG artifact is not ictal in etiology and is at least partially stimulus 
+induced.  There are subtle signs of the background reactivity.  No electrographic seizures are 
+	
+

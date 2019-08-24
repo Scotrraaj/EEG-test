@@ -1,0 +1,96 @@
+HISTORY:
+
+69 y.o. male with a history of cardiac disease, prolonged hospital course, including
+prolonged intubation, now with altered mental status.
+
+
+
+MEDICATIONS:
+
+
+No AEDs
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+There is no PDR or AP gradient.
+
+
+The background consists of a mixture of polymorphic low-to-moderate amplitude theta and delta
+activity.
+
+
+
+During sleep, subtle symmetrical sleep spindles are observed.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 72 bpm is captured on a single EKG lead.  Many abnormal QRS complexes are noted
+on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Moderate diffuse slowing
+
+
+
+CLINICAL CORRELATION:
+
+This finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+
+
+The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of
+epilepsy.

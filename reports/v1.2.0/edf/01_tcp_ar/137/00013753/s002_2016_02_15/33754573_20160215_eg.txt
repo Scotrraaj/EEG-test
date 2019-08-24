@@ -1,0 +1,35 @@
+History:	82 year old woman undergoing pulmonarythromboembolectomy.
+Incision: 8:39:20 AM
+Heparin: 9:01:39 AM
+Bypass: 9:12:17 AM
+Complete burst-suppression: ~10:08 AM Off Bypass: ~1 PM
+Medications:	FENTANYL, ISOFLURANE, MIDAZOLAM, ETOMIDATE
+Sedation:
+EEG Type:	Extended, >60 min. portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake. comatose
+
+Description:
+At the beginning of the recording, patient is awake and very tense. The background consists of low amplitude beta activity posteriorly and high amplitude overwhelming EMG artifact anteriorly. At~7:44:30 AM the background changes and diffuse slow underriding delta activity appears. Within~ 1 minute, the background changes further: EMG artifact disappears. periods of discontinuity appear and a mixture of polymorphic theta and delta activity with underriding fast activity is seen. As the recording progresses, there is gradual attenuation of the background amplitude and fast frequencies. Total burst suppression is achieved at~10:08 AM at~15.8 degrees Celsius. Rare bursts of EEG activity re-appear at~ 11:05 AM and QRS complexes re-appear at~ 11:35:38 AM.  By~11:37: 32 AM bursts of activity become longer and more frequent. By the end of the recording, the background is continuous. There is new focal polymorphic delta activity captured over the bilateral, left>right. anterior temporal regions. The attending surgeon was notified of this EEG change during the monitoring.
+
+
+Summary of Findings:
+
+Interpretation:
+This is a continuous intraoperative nearly 6-hour EEG with direct attending EEG supervision of~4.5 hours. New bilateral anterior temporal left>right, focal slowing is seen by the end of the recording. This change could correspond to the intraoperative ischemia to the bilateral anterior temporal regions. The attending surgeon was notified of this EEG change during the monitoring.
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+

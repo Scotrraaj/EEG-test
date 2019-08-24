@@ -1,0 +1,35 @@
+
+History:	58 year old woman with change in mental status.  Reportedly, patient is on 
+	peritoneal dialysis and is non-compliant.  Her neurological motor and sensory exam 
+	is nonfocal but she demonstrates aphasia.
+Medications:	No AEDs listed
+Sedation:
+EEG Type:	Extended, >60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, asleep, obtunded
+Description:
+There is no PDR or AP gradient.  The background consists of a mixture of moderate amplitude 
+often sharply contoured theta and delta activity, periods of discontinuity, high amplitude triphasic 
+waveforms with both AP and PA lag.  When patient falls asleep, the background voltages decrease,
+ waveforms become less sharply contoured, triphasic waveforms disappear, theta becomes more 
+prominent and periods of discontinuity increase in frequency and duration.
+No clear focal slowing is seen.  Occasional multifocal moderate-to-high amplitude sharp waves are 
+captured.  They are generalized, left midtemporal central, bi-occipital.
+Hyperventilation and photic stimulation are not performed.  At ~ 2:48 PM patient sits up and EEG 
+leads become disconnected.  Several minutes prior to that, patient wakes up, tries to sit, moans (she
+ has a pausy restrain on).  Her heart rate increases up to ~120 bpm.  After patient sits up and 
+disconnects the EEG, she continues to sit, moan, rock side-to-side, repeatedly say "please".
+Summary of Findings:
+	Diffuse slowing, polymorphic, moderate
+	Triphasic waves, intermittent
+	Sharp waves, occasional multifocal
+	Discontinuous background, intermittent
+Interpretation:
+This is an ABNORMAL nearly 2 hour continuous video EEG due to (1) moderate diffuse slowing; (2)
+ lack of organization and discontinuous background, (3) intermittent triphasic waveforms and (3) 
+occasional multifocal sharp waves. These findings are indicative of a moderate diffuse 
+encephalopathy, which is etiologically nonspecific, but suggestive of a metabolic origin.  Triphasic 
+waves are a nonspecific EEG finding that can be seen in hepatic encephalopathy, uremia and 
+anoxia.  Multifocal sharp waves could be seen in renal failure.  These findings were conveyed to 
+	
+

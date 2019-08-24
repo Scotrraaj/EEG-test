@@ -1,0 +1,24 @@
+History:	74 year old man with progressive cognitive decline.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, photic
+Description:
+The posterior dominant rhythm consists of 8 Hz low-to-moderate amplitude theta activity with 
+expected AP gradient.  Mild excess of polymorphic theta activity is present.  During drowsiness, the 
+background slows to diffuse polymorphic theta and, occasional, delta activity.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) 
+does not produce additional abnormalities.  A single EKG lead demonstrates heart rate of <60 bpm
+ and rare premature QRS complexes with subsequent pauses.
+Summary of Findings:
+	Diffuse slowing, polymorphic, mild
+	No epileptiform discharges
+	No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 24-minute EEG due to mild diffuse slowing. This finding 
+is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  No epileptiform
+ discharges are present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with
+ sleep recording may provide additional information.  A single EKG lead demonstrates heart rate of
+ <60 bpm and rare premature QRS complexes with subsequent pauses.
+

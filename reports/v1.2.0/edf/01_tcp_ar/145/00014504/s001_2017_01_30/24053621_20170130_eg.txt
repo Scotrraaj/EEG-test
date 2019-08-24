@@ -1,0 +1,296 @@
+HISTORY:
+
+This is a 65 y.o. Woman with seizures since her 50's
+
+
+
+Pt describes 3 types of episodes:
+
+
+
+#1 - convulsions
+
+
+- no warning
+
+- shakes all over
+
+- no incontinence or tongue biting; no muscle soreness
+
+
+- has fallen, hurting leg, knee --> walks with cane
+
+
+
+
+- describes agitation
+
+- may go 1-1.5 yrs w/o one (last episodes: 12/18/15, 11/2/16)
+
+
+
+
+#2 - staring
+
+
+- no warning
+
+- would be unaware of one
+
+- lasts 1 min
+
+- may go 1-1.5 yrs w/o one (last episodes: 12/18/15, 11/2/16)
+
+
+
+
+#3 - amnesia
+
+
+- disorganized, inappropriate behavior (describes sexual behavior towards her husband that she later
+doesn't remember, and then abruptly stops)
+
+- may go 1-1.5 yrs w/o one (last episodes: 12/18/15, 11/2/16)
+
+
+
+
+Had one witnessed episode of shaking during EEG with no correlate.
+
+
+
+Epilepsy Risk Factors: No complications during birth. Denies a family history of seizures, history of
+head trauma, previous CNS infection, febrile seizures or developmental delay.
+
+
+
+Continuous video EEG is initiated for:  Characterization of seizures.
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+
+CONDITIONS OF THE RECORDING:
+
+
+
+
+
+
+
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+amLODIPine (NORVASC) tablet 5 mg
+
+aspirin EC tablet 81 mg
+
+hydroCHLOROthiazide (HYDRODIURIL) tablet 12.5 mg
+
+
+ipratropium-albuterol (DUO-NEB) nebulizer solution 3 mL
+
+nitroGLYCERIN (NITROSTAT) SL tablet 0.4 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+alum-mag hydroxide-simeth (MYLANTA;MAALOX) 200-200-20 mg/5 mL suspension 30 mL
+
+LORazepam (ATIVAN) injection 2 mg
+
+
+pseudoephedrine (SUDAFED) liquid 15 mg
+
+levETIRAcetam (KEPPRA) tablet 1,500 mg
+
+topiramate (TOPAMAX) tablet 200 mg
+
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (1/30/2017, 11:30 - 1/31/2017, 06:00)
+
+
+
+BACKGROUND:
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 11 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by synchronous and symmetric sleep transients, including vertex waves, sleep
+spindles, and K complexes. Slow wave sleep is not captured.
+
+
+
+Intermittent polymorphic delta activity is present in the bilateral midtemporal regions.
+
+
+
+No generalized slowing is present.
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): Occasional wicket waves are noted during
+drowsiness over the
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Occasional (1/hour to <1min) T3,T4 and F8/T4, F7/T3 sharp/spikes waves are noted.  This at times
+have a large field with a more anterior prefrontal component and rarely a more posterior component.
+
+
+
+
+T3 Temporal intermittent rhythmic delta activity is also seen.
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+EKG: A single lead captured 84 with PVCs. Some skipped beats.
+
+
+DAY 1 IMPRESSION
+
+
+1. Left and right mid-temporal and anterior temporal occasional sharp waves and spikes
+
+2. Left TIRDA
+
+3. Intermittent bilateral mid-temporal focal slow waves.
+
+
+4. Abnormal EKG
+
+
+INDUCTION PROCEDURES:
+
+
+
+None
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+Interictal Findings:
+
+
+
+Ictal Findings:
+
+The patient had no clinical events while hooked up to continuous video EEG monitoring in the
+epilepsy monitoring unit.
+
+
+
+SEIZURE DIAGNOSIS:
+
+
+1. None captured
+
+
+EPILEPSY DIAGNOSIS:
+
+
+1. Localization related epilepsy possibly arising from the temporal regions.
+
+
+CONCLUSION:
+
+
+The patient was admitted to the epilepsy monitoring unit for 1 day with continuous video EEG.
+This was an uneventful EMU monitoring session.
+
+
+
+The interictal EEG is characterized occasional sharp waves and intermittent focal slowing in the
+bilateral mid-temporal and anterior temporal regions.  This finding is indicative of a potentially
+epileptogenic foci and additional focal cerebral dysfunction in those regions.

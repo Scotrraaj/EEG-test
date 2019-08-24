@@ -1,0 +1,104 @@
+HISTORY:
+
+58 y.o. woman admitted on 06/01/2016 for resection of recurrent meningioma.
+PMH: Right temporal tumor resection (2004), HTN, HIV
+
+
+
+MEDICATIONS:
+
+
+Insulin, Dexamethasone, Theragran, Protonix, Neurontin, Doxazocin, Nifedipine, Oxycodone,
+Amitriptyline, Keppra
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+The waking background is characterized by the presence of a poorly organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 8.5 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.  Excess 5-7
+Hz activity is seen in wakefulness.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is limited and characterized by asymmetric symmetric vertex waves, sleep spindles. Slow wave
+sleep was not captured.
+
+
+
+
+Continuous polymorphic delta activity is present in the fronto central region maximal at F4 during
+wakefulness, increasing during drowsiness. There is an increased amplitude and faster frequencies
+seen consistent with a breach rhythm.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+1. Continuous focal slowing in the right frontal region and breach.
+
+
+2. Mild excess theta in wakefulness.
+
+
+CLINICAL CORRELATION:
+
+
+This is an abnormal awake and asleep routine EEG due to continuous focal slowing in the right
+frontal region.  This finding is indicative of structural focal cerebral dysfunction in this region, which is
+consistent with the known surgery and tumor removal. In addition there is evidence of mild diffuse
+background slowing.  This findings is an etiologically nonspecific indicator of mild diffuse cerebral
+dysfunction.

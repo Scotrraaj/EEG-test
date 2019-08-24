@@ -1,0 +1,98 @@
+HISTORY:
+
+67 y.o. male with a history of twitching and altered mental status referred for
+routine EEG for evaluation of paroxysmal events and assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+
+Versed
+
+Vecuronium
+
+Keppra
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+
+EEG BACKGROUND:
+
+The background is continuous, symmetric, but poorly organized and consists of mostly disorganized
+theta, alpha, and beta.
+
+
+There is no posterior dominant rhythm.
+
+
+There is no reactivity, nor is there variability or state change.
+
+
+There is severe generalized slowing.
+
+
+There is no persistent focal slowing or focal attenuation.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Frequent (>1/min to <1/10s) right occipital sharp waves (O2>O1/T6 max)
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal asleep only routine EEG due to:
+
+
+1. Severe generalized slowing and disorganization, lack of reactivity
+
+2. Frequent (>1/min to <1/10s) right occipital sharp waves (O2>O1/T6 max)
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of right occipital epileptogenic potential superimposed on
+severe diffuse cerebral dysfunction.
+
+
+Following this study a more prolonged monitoring study was recommended.

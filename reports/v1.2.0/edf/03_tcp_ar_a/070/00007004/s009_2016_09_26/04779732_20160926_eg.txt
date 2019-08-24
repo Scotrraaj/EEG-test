@@ -1,0 +1,661 @@
+START DATE OF STUDY: 09/26/16 at 13:15
+
+END DATE OF STUDY: 10/01/16 at 11:09
+
+
+
+
+
+
+RECORDING ENVIRONMENT:
+
+
+
+
+
+HISTORY:
+
+a 44 year old localization related epilepsy possibly 2/2 right temporal AVM s/p
+clipping/resection in November 2010.
+
+
+
+Semiology CPS: The semiology of his seizures begins with staring, confusion and automatism when
+he is fumbling with stuff. He denies any shaking with these episodes or any warnings preceding his
+
+
+seizure. It begins with feeling light headed, feels a strange taste in mouth followed by automatism
+like lip smacking, touching other people or objects followed by stiffening/curling of his arms and legs,
+lasting for 5mins. Post ictal periods lasting for 15-20 minutes.
+
+
+
+
+
+Current AEDs : PHB 64.8 mg 2 tabs HS and Topamax 100 mg AM and 200 mg HS and Trileptal 300
+mg BID
+
+
+
+
+
+
+Prior AEDs :  Dilantin, Keppra, Tegretol
+
+
+
+
+He smokes Marijuana and smokes tobacco occasionally. Denies any other drug use.
+
+
+
+
+Epilepsy Risk Factors: No complications during birth. Denies a family history of seizures, history of
+head trauma, previous CNS infection, febrile seizures or developmental delay. Has AVM
+
+
+
+
+Continuous video EEG is initiated for:  Recording of seizures for presurgical evaluation.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+No current facility-administered medications for this visit.
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+
+PHENobarbital (LUMINAL) tablet 30 mg
+
+multivitamin (THERA) tablet 1 tablet
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+SEDATION: None
+
+
+
+DAY 1 (09/26/16, 13:15 - 9/27/2016, 08:00)
+
+
+
+Background
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+There is continuous polymorphic delta activity is present in the right posterior temporal region with
+an associated increase in amplitude an faster frequencies consistent with a breach.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Frequent  T4/T6 sharp waves, spikes and polyspikes are seen.
+
+
+Occasional Bifrontal Fp1/Fp2 sharp waves with a large field and a slight asymmetric right
+predominance.
+
+Rare F7/T3 sharp waves.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+Not performed
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+1. Focal sharp wave, spike and polyspike in the right posterior temporal region and mid-temporal
+region.
+
+
+2. Independent sharp waves in the bifrontal and left anterior temporal region.
+
+
+3. Continuous focal slowing in the right posterior temporal region and breach
+
+
+
+
+Reading attending: 
+
+
+------------------------------------------------------------------------
+
+
+DAY 2 (09/27/16, 08:00 - 9/28/2016, 08:00)
+
+
+
+Background
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is not captured
+
+
+
+
+
+There is continuous polymorphic delta activity is present in the right posterior temporal region with
+an associated increase in amplitude an faster frequencies consistent with a breach.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Frequent  T4/T6 sharp waves, spikes and polyspikes are seen.
+
+Occasional Bifrontal Fp1/Fp2 sharp waves with a large field and a slight asymmetric right
+predominance.
+
+
+Rare F7/T3 sharp waves.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+Not performed
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+1. Focal sharp wave, spike and polyspike in the right posterior temporal region and mid-temporal
+region.
+
+
+2. Independent sharp waves in the bifrontal and left anterior temporal region.
+
+3. Continuous focal slowing in the right posterior temporal region and breach
+
+
+
+
+Reading attending: 
+
+
+------------------------------------------------------------------------
+
+
+DAY 3 (09/28/16, 08:00 - 9/29/2016, 08:00)
+
+
+Background
+
+
+
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+There is continuous polymorphic delta activity is present in the right posterior temporal region with
+an associated increase in amplitude an faster frequencies consistent with a breach.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Frequent  T4/T6 sharp waves, spikes and polyspikes are seen.
+
+Occasional Bifrontal Fp1/Fp2 sharp waves with a large field and a slight asymmetric right
+predominance.
+
+
+Rare F7/T3 sharp waves.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+Not performed
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+1. Focal sharp wave, spike and polyspike in the right posterior temporal region and mid-temporal
+region.
+
+
+2. Independent sharp waves in the bifrontal and left anterior temporal region.
+
+3. Continuous focal slowing in the right posterior temporal region and breach
+
+
+
+
+
+
+Reading attending: 
+
+
+
+
+
+------------------------------------------------------------------------
+
+
+DAY 4 (09/29/16, 08:00 - 9/30/2016, 08:00)
+
+
+
+Background
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+There is continuous polymorphic delta activity is present in the right posterior temporal region with
+an associated increase in amplitude an faster frequencies consistent with a breach.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Frequent  T4/T6 sharp waves, spikes and polyspikes are seen.
+
+Occasional Bifrontal Fp1/Fp2 sharp waves with a large field and a slight asymmetric right
+predominance.
+
+
+Rare F7/T3 sharp waves.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+Not performed
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+
+1. Focal sharp wave, spike and polyspike in the right posterior temporal region and mid-temporal
+region.
+
+2. Independent sharp waves in the bifrontal and left anterior temporal region.
+
+
+3. Continuous focal slowing in the right posterior temporal region and breach
+
+
+
+
+Reading attending: 
+
+
+
+
+------------------------------------------------------------------------
+
+
+
+
+DAY 5 (09/30/16, 08:00 - 10/01/2016, 11:04)
+
+
+Background
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+There is continuous polymorphic delta activity is present in the right posterior temporal region with
+an associated increase in amplitude an faster frequencies consistent with a breach.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Frequent  T4/T6 sharp waves, spikes and polyspikes are seen.
+
+Occasional Bifrontal Fp1/Fp2 sharp waves with a large field and a slight asymmetric right
+predominance.
+
+
+Rare F7/T3 sharp waves.
+
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Not performed
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION:
+
+
+1. Focal sharp wave, spike and polyspike in the right posterior temporal region and mid-temporal
+region.
+
+
+2. Independent sharp waves in the bifrontal and left anterior temporal region.
+
+3. Continuous focal slowing in the right posterior temporal region and breach
+
+
+
+
+Reading attending: 
+
+Summary:
+
+
+INDUCTION PROCEDURES:
+
+Sleep deprivation
+
+Exercise
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+Interictal Findings:
+
+
+
+
+Ictal Findings:
+
+
+The patient had no clinical events while hooked up to continuous video EEG monitoring in the
+epilepsy monitoring unit.
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. Localization related epilepsy
+
+
+
+
+
+EPILEPSY DIAGNOSIS:
+
+
+1. Localization related epilepsy possibly arising from the temporal lobes.
+
+
+
+CONCLUSION:
+
+ was admitted to the epilepsy monitoring unit for 5 days with continuous video EEG.
+This was an non diagnostic EMU monitoring session due to not capturing any events.
+
+
+
+The interictal EEG is characterized by frequent sharp waves seen frequently in the right posterior and
+mid-temporal region as well as occasional bifrontal and left anterior temporal region . The
+epileptiform discharges indicate a potentially epileptogenic focus in that region. Focal slowing in the
+right posterior temporal region indicates a focal structural lesion in that region, which is consistent
+with the known AVM.
+
+
+
+
+
+
+The patient was weaned off his AEDs over the course of her admission. He was restarted on his
+medications on the day of discharge from the hospital along with an ativan taper as he wanted to
+leave despite understanding the risk of seizures.
+
+
+

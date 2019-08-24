@@ -1,0 +1,129 @@
+HISTORY:
+
+64 y.o. female with a history of seizures
+
+referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS: Depakote, Xanax
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+
+NicOne system. This was a technically satisfactory record and
+
+included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+
+
+The waking background is characterized by the presence of a
+
+fairly organized symmetric mixture of sharply contoured alpha and
+
+
+excess beta frequencies, with a symmetric and reactive 8 Hertz
+
+posterior dominant rhythm (PDR). The normal anterior-to-posterior
+
+
+gradient of frequency and amplitude is present but suboptimal.
+
+
+Drowsiness and sleep are not captured.
+
+
+
+Mild generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+1. Occasional sharp waves are noted over the left temporal
+
+
+region, likely a benign variant (wicket waves)
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180
+
+seconds with good cooperation and produces no effect.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+flashes per second (fps) does not produce any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during
+
+
+this study.
+
+
+HEART RATE:
+
+A heart rate of 84 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+
+This is an abnormal awake only routine EEG due to:
+
+1. Mild generalized slowing and suboptimal organization
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of mild diffuse cerebral
+
+dysfunction.
+
+
+Occasional sharp waves noted over the left temporal region likely
+
+represent wicket waves, a benign variant.
+
+If clinically warranted, a recording with sleep may be helpful.
+
+Excess of beta frequencies can be seen in the setting of a
+
+
+medication effect (benzodiazepines).

@@ -1,0 +1,831 @@
+START DATE OF STUDY: 08/15/16 at 11:19AM
+
+END DATE OF STUDY: 08/21/2016 10AM
+
+
+
+RECORDING ENVIRONMENT: 
+
+EEG TYPE: Long term recording
+
+
+
+HISTORY:
+
+a 61 y.o. right handed woman admitted to E for possible surgical
+evaluation for intractable localization related epilepsy since age 16 years old.
+
+
+
+
+Seizure types:
+
+
+Seizure type #1 Simple Partial seizures- She hears a buzzing sound for seconds. Currently none.
+
+
+
+Seizure type #2 Complex partial seizures -She hears a buzzing sound and feels strange for seconds
+then losses consciousness. The husband reported that she may then have rhythmic movements of her
+hands and stare. Sometimes she may walk around for 2-3 minutes. After the event she has difficulty
+speaking and confused for 15-20 minutes. She has had frequent urinary incontinence with the
+seizures.
+
+
+
+
+Current frequency is about 2-3/ month.
+
+
+
+
+Seizure type #3 Complex partial seizures with secondary tonic clonic: As above then tonic clonic
+seizure. Has bitten her tongue and had bladder incontinence. Last one on 01/07/12. Frequency 5 in
+life.
+
+
+
+Epilepsy Risk Factors: No complications during birth. Denies a family history of seizures, history of
+head trauma, previous CNS infection, febrile seizures or developmental delay.
+
+
+Sister with severe epilepsy since youth. Father with seizures only with alcohol abuse.
+
+
+
+Current AEDs:
+
+
+1. Depakote ER 500mg q12h.
+
+2. Vimpat 200 mg q12h.
+
+
+
+
+Prior AEDs:Gabapentin (dizziness), PHT, TPM, LEV, CBZ, OXC, LTG, VPA, LCM, ZNG. PHB caused
+anxiety and could not sleep.
+
+
+
+
+Prior EMU admission at Hanneman hospital (01/31/2011 to 02/13/2011). The interictal EEG
+revealed T1/T3 and T2-T4 slowing as well as T5/P3, T6, T1, T2 sharp waves. There were 4 events
+were not clearly localized one appears to have onset at T6 and a different seizure with onset at
+T5/P3. One appeared to be complex partial seizure (based on the notes) and the other one with
+secondary generalization.
+
+
+
+
+
+Continuous video EEG is initiated for:  Recording of seizures for presurgical evaluation.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+
+
+
+
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+LORazepam (ATIVAN) injection 2 mg
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+lacosamide (VIMPAT) tablet 200 mg
+
+divalproex (DEPAKOTE ER) 24 hr tablet 500 mg
+
+[START ON 8/16/2016] levothyroxine (SYNTHROID) tablet 88 mcg
+
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (08/15/16 11:19AM - 8/16/2016, 08:00)
+
+lacosamide (VIMPAT) tablet 200 mg q12hr
+
+
+divalproex (DEPAKOTE ER) stopped
+
+
+EEG BACKGROUND:
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Independent bitemporal focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Left anterior temporal sharp waves.
+
+
+Right fronto temporal spikes with a large field.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+This EEG reveals epileptiform activity in both left and right frontotemporal regions and is consistent
+with the history of localization related epilepsy.
+
+
+
+Reading attending: 
+
+
+
+----------------------------------------------------------------------------------------------
+
+
+DAY 2 (08/16/16 08:00AM - 8/17/2016, 08:00)
+
+
+lacosamide (VIMPAT) tablet 100 mg q12hr
+
+divalproex (DEPAKOTE ER) stopped
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+Independent bitemporal focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Left anterior temporal sharp waves.
+
+Right fronto temporal spikes with a large field.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+This EEG reveals epileptiform activity in both left and right frontotemporal regions and is consistent
+with the history of localization related epilepsy.
+
+
+
+Reading attending: 
+
+
+
+----------------------------------------------------------------------------------------------
+
+
+
+
+DAY 3 (08/17/16 08:00AM - 8/18/2016, 08:00)
+
+lacosamide (VIMPAT) tablet 50 mg q12hr
+
+
+divalproex (DEPAKOTE ER) stopped
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Independent bitemporal focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+F7, T3, F7/T3, T5  sharp waves. T5 polyspikes.
+
+
+F8/T4, T4,  F8, T6 sharp waves
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+
+This EEG reveals epileptiform activity in both left and right frontotemporal regions and is consistent
+with the history of localization related epilepsy.
+
+
+
+
+Reading attending: 
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------
+
+
+DAY 4 (08/18/16 08:00AM - 8/19/2016, 08:00)
+
+lacosamide (VIMPAT) tablet stopped
+
+
+divalproex (DEPAKOTE ER) stopped
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Independent bitemporal focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+F7, T3, F7/T3, T5  sharp waves. T5 polyspikes.
+
+
+F8/T4, T4,  F8, T6 sharp waves
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+CPS #1 on 08/18/2016 at 07:32PM
+
+
+
+
+
+
+
+
+EEG: Sudden rhythmic 12Hz- T6 discharge that continues for 5 seconds then slows down to a theta
+frequency with rapid spread seen in the bitemporal region. This discharge continues to slow down in
+frequency to delta and suddenly stops on the right first followed in about 10 seconds on the left.
+Seizure last 1:30 seconds.
+
+
+
+
+Clinical: While laying in bed suddenly starts lip smacking and appears to have right hand picking
+automatisms under the cover and moves around the bed slightly. About 19 seconds later she appears
+to exhibit left hand automatisms (alos under the bed cover) and moves around the bed. The RN
+comes in at the end of the seizure but only asks verbal question which the patient cannot answer.
+She is agitated and confused for about 10 minutes after the seizure.
+
+
+
+
+
+HR: prior to seizure 66 bps, during increased to 132 and after rapidly slow down to 114 some PVCs
+are noted.
+
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+
+This EEG reveals a single focal seizure with right posterior temporal onset. In addition there is
+epileptiform activity in both left and right frontotemporal regions and is consistent with the history of
+localization related epilepsy.
+
+
+
+Reading attending:
+
+
+
+
+----------------------------------------------------------------------------------------------
+
+
+
+DAY 5 (08/19/16 08:00AM - 8/20/2016, 08:00AM)
+
+lacosamide (VIMPAT) tablet stopped
+
+
+divalproex (DEPAKOTE ER) stopped
+
+
+EEG BACKGROUND:
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+
+Independent bitemporal focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+F7, T3, F7/T3, T5  sharp waves. T5 polyspikes.
+
+
+F8/T4, T4,  F8, T6 sharp waves
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+CPS #2 on 08/19/2016 at 02:19PM
+
+
+
+EEG: Sudden rhythmic low apmplitude beta discharge at T5/P3 that continues for 4 seconds  Then
+spreads to T6. It then slows down to a theta frequency with rapid spread seen in temporal regions
+with polyspikes. This discharge continues to slow down in frequency to delta and suddenly stops on
+the left first followed in about 5 seconds on the right. Seizure last 1:18 seconds.
+
+
+
+
+Clinical: While laying on the reclining chair suddenly appears to have right hand automatisms and
+picking, some lip smacking and then moves around the chair picking at thing with both hands. . The
+tech comes in at the end of the seizure but does not test her.  She is agitated and confused for about
+10 minutes after the seizure.
+
+
+
+
+HR: prior to seizure 72 bps, during increased to 132 and after rapidly slows down to 114.
+
+
+
+CPS #3 on 08/19/2016 at 08:18PM
+
+
+EEG: Sudden rhythmic  T5/P3 crisp beta discharge that continues for 1 second then spreading to T6
+and then slows down to a theta frequency with rapid spread seen in temporal regions with polyspikes.
+This discharge continues to slow down in frequency to delta and suddenly stops. Seizure last 1:09
+seconds.
+
+
+
+Clinical: Not on camera during the seizure (described later as picking). She is tested verbally(audio
+available)  in english and spanish and does not appear to answer.  She is agitated and confused for
+about 6 minutes after the seizure.
+
+
+
+
+HR: prior to seizure 66 bps, during increased to 174 and after rapidly slows down to 108.
+
+
+CPS #4 on 08/20/2016 at 05:50AM
+
+
+
+
+
+EEG: Sudden rhythmic  T6/P4>T5  beta discharge that then slows down to a theta frequency with
+rapid spread seen in temporal regions with polyspikes. This discharge continues to slow down in
+frequency to delta and suddenly stops. Seizure last 1:10 seconds.
+
+
+
+
+Clinical: While laying in bed suddenly appears to have right hand picking automatisms picking at the
+electrodes in her head.  About 30 seconds later she appears to exhibit left hand automatisms and
+moves around the bed. The RN and resident comes in at the end of the seizure and ask verbal
+questions which the patient cannot answer.  She is agitated and confused for about 11 minutes after
+the seizure.
+
+
+
+
+
+HR: prior to seizure 66 bps, during increased to 174 and after rapidly slows down to 108.
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION:
+
+
+This EEG reveals a three focal seizures, two with left posterior temporal onset and one with likely
+right posterior temporal onset. In addition there is epileptiform activity in both left and right
+frontotemporal regions and is consistent with the history of localization related epilepsy.
+
+
+
+Reading attending: 
+
+
+
+
+----------------------------------------------------------------------------------------------
+
+
+DAY 6 (08/20/16 08:00AM - 8/21/2016, 10:13AM)
+
+lacosamide (VIMPAT) tablet stopped
+
+divalproex (DEPAKOTE ER) stopped
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Independent bitemporal focal slowing is present.
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+F7, T3, F7/T3, T5  sharp waves. T5 polyspikes.
+
+
+F8/T4, T4,  F8, T6 sharp waves
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+
+CPS #5 on 08/20/2016 at 09:02AM
+
+
+EEG: Sudden rhythmic T6  beta discharge crisp beta discharge that continues to evolve over the
+temporal region for 8 seconds then spreading to T5 and then slows down to a theta frequency with
+rapid spread seen bilaterally temporal regions with polyspikes. This discharge continues to slow down
+in frequency to delta and suddenly stops. Seizure last 1:26 seconds.
+
+
+
+
+Clinical: While laying in bed suddenly appears to have right hand automatisms and lip smacking
+about 30 seconds later she appears to exhibit left hand automatisms and moves around the bed. The
+tech and RN comes in and the patient seems to not follow commands.  She is agitated and confused
+for minutes after the seizure.
+
+
+
+
+HR: prior to seizure 72 bps, during increased could not be counted.
+
+
+
+DAY 6 IMPRESSION & CLINICAL CORRELATION:
+
+This EEG reveals a one focal seizure with right posterior temporal onset. In addition there is
+epileptiform activity in both left and right frontotemporal regions and is consistent with the history of
+localization related epilepsy.
+
+
+
+
+Reading attending: 
+
+--------------------------------------------------------------------
+
+
+
+INDUCTION PROCEDURES:
+
+Sleep deprivation
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+Interictal Findings:
+
+
+F7, T3, F7/T3, T5  sharp waves. T5 polyspikes.
+
+
+
+
+F8/T4, T4,  F8, T6 sharp waves
+
+
+
+Ictal Findings:
+
+The patient had 5 clinical events while hooked up to continuous video EEG monitoring in the
+epilepsy monitoring unit.
+
+
+3 right posterior temporal complex partial seizures
+
+2 left posterior temporal complex partial seizures
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. Complex partial seizures.
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. Temporal lobe epilepsy arising from either posterior temporal region.
+
+
+
+CONCLUSION:
+
+was admitted to the epilepsy monitoring unit for 6 days with continuous video EEG. The
+interictal EEG is characterized by bitemporal epileptiform activity .  Focal slowing in the bitemporal
+regions is non-specific with regards to etiology. Frequent bilateral temporal epileptiform discharges
+indicate a potentially epileptogenic foci in those regions.
+
+
+
+
+The patient was weaned off Vimpat and Depakote over the course of her admission. She was
+restarted on her medication on the day prior to her discharge from the hospital. No other medication
+changes were made during the hospitalization.
+
+
+
+
+After this data is acquired she will be presented at surgical conference to discuss the possibility of
+intracranial monitoring / electrocorticography as a next step in her surgical evaluation.
+
+
+
+Patient is follow-up with as an outpatient.
+
+

@@ -1,0 +1,121 @@
+HISTORY:
+
+53 y.o. man with a history of seizures since 1992 s/p cerebral abscess removal
+(left skull defect). Patient states his last seizure was one day ago.
+
+
+PMH: breathing problems
+
+
+
+MEDICATIONS:
+
+Keppra, Dilantin, Percocet, Oxycodone
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR).
+The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen. Also see epileptiform activity below.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Bifrontal spike and wave discharges are seen. This discharges appear to have a mainly left prefrontal
+(Fp1) predominance at onset with rapid bifrontal spread.
+
+During drowsiness and sleep this spike and wave become more prominent followed by along run
+(~1min) of bi-frontal slowing with intermittent spike and wave. This runs stops with stimulation.
+
+
+
+
+Left fronto- temporal sharp waves at F7/T3.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+1. Left frontal spike and wave
+
+2. Left fronto-temporal sharp waves
+
+
+
+
+3. Bilatetral pre-frontal slow wave maximal on the left.
+
+
+
+CLINICAL CORRELATION:
+
+This is an abnormal awake and asleep routine EEG due to left prefronal spike and wave with rapid
+spread and slowing as well as left fronto temporal sharp waves. These findings indicate the presence
+of epileptogenic focus in that region.
+
+
+
+
+No clear seizures were seen.

@@ -1,0 +1,25 @@
+History:	72 year old woman with episodes concerning for seizures.
+Medications:	Depakote
+Sedation:SS
+
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, asleep, lethargic
+Description:
+During maximal arousal the posterior dominant rhythm consists of low-to-moderate amplitude 9 Hz 
+alpha activity that attenuates with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, 
+maximal over bilateral frontal regions.  Symmetrical sleep spindles and vertex waves are captured.
+Continuous polymorphic sharply contoured theta and delta activity and underriding faster 
+frequencies are noted over the right centroparietal region.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+	Focal slowing, polymorphic, continuous, moderate, right, centroparietal
+	Breach artifact, right, centroparietal
+	Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep portable 21-minuite EEG due to continuous focal 
+moderate focal slowing over the right centroparietal region. This finding is indicative of a focal 
+structural lesion in this region.  Breach artifact is a result of a skull defect.  The lack of epileptiform 
+discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+	
+

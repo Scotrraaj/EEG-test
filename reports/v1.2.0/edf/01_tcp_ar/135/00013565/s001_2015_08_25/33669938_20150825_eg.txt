@@ -1,0 +1,50 @@
+
+HISTORY:
+36 y.o. male referred for routine EEG after being found down unresponsive.
+
+MEDICATIONS: PROTONIX, CHLORHEXIDINE, LORAZEPAM
+
+
+TECHNIQUE:
+A 21 channel electroencephalogram (EEG) recording using the International 10-20 system with Tl/T2 electrodes was performed utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+
+EEG BACKGROUND :
+The waking background is symmetric and consists of a poorly organized mixture of predominately delta with superimposed theta and alpha activity.	There is no posterior dominant rhythm.
+Though the background is not clearly reactive or variable during the recording, spontaneous eye blinks are noted.
+
+Drowsiness and sleep transients are not captured.
+
+Moderate to severe generalized slowing is present. No focal slowing is present .
+
+
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM) :
+None
+
+EPILEPTIFORM ACTIVITY:
+No epileptiform activity is present.
+
+ACTIVATION PROCEDURES:
+Hyperventilation and photic stimulation are not performed.
+No tests of reactivity (visual, auditory, tactile, or painful stimuli) are performed.
+
+
+EVENTS:
+Clinical: Throughout the recording, there are numerous body jerks that are reported by the technician and seen on camera. These occur 1-3 times every ten seconds . The patient' s head and upper trunk are seen to jerk on camera.	The rest of the body is not in frame of camera.
+EEG: There is movement artifact that correlates with body jerks, but no underlying epileptiform activity.
+
+HEART RATE:
+A heart rate of 102 bpm is captured on a single EKG lead.
+
+IMPRESSION:
+This is an abnormal routine EEG due to:
+	•	Moderate-to-severe generalized slowing
+	•	Suboptimal organization
+	•	Numerous body jerks reported by the technician and seen on camera. These have no EEG correlate other than movement artifact.
+
+CLINICAL CORRELATION:
+These findings indicate the presence of moderate-to-severe diffuse cerebral dysfunction, which may in part be associated with a medication effect.	A follow up prolonged study may be performed as clinically indicated to assess for further background features (i.e., state changes, variability) and
+response to tests of reactivity.	The numerous body jerks seen by the tech and captured on video have no EEG correlate other than movement artifact.
+
+
+
+

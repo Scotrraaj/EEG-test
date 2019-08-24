@@ -1,0 +1,256 @@
+HISTORY:
+
+
+84 y.o. female with a history of advanced dementia, epilepsy.  Admitted with
+seizure followed by aspiration referred for EEG for treatment of status epilepticus.
+
+
+
+MEDICATIONS:
+
+Keppra, antibiotics
+
+SEDATION: None initially, then Midazolam
+
+
+
+TECHNIQUE:
+
+Continuous video 21 channel electroencephalogram (EEG) was recorded using the International 10-
+20 system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory
+record and included a single channel of EKG and  Stimulation.  Seizure and spike detection software
+was utilized.  She was intubated and poorly responsive.
+
+
+
+
+
+__________________________________________________
+
+DAY 1 (07/13/2016, 10 AM - 7/14/2016, 06:00)
+
+
+
+TECHNICAL:  The EEG machine was shut down briefly at 11 PM. The data from 11 PM to 8 AM can
+not be retrieved as of 07-15-2016
+
+
+BACKGROUND:
+
+The overall background is medium amplitude, mixed frequency with theta and smaller amounts of
+beta,
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+EPILEPTIFORM ACTIVITY: Intermittent sharp waves are noted independently from the right or left
+temporal region with variable maximum including left mid or posterior temporal and right posterior
+temporal.
+
+
+
+EVENTS:  Intermittent runs of periodic complexes maximum in the left hemisphere were noted.
+These periodic discharges have frequency evolution and often a clear start and stop.  These have a
+generous field of spread in the left central temporal and posterior temporal region.
+
+
+There is intermittent left central 11 Hz activity noted without clear frequency evolution.
+
+Over the course of 7/13 patient starts phenytoin and seizures start to spread out.
+
+
+Variable ictal patterns, with periodic or periodic and clearly evolving pattern.
+
+Localization: posterior temporal maximum.
+
+Seizure duration: 1-15 minutes
+
+
+Seizure free periods- by 10 PM has prolonged periods without seizures with theta background.
+
+
+EKG: A single lead captured
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+This is an abnormal long term video EEG due to:
+
+
+Status epilepticus with recurrent focal seizures.
+
+This pattern was discussed with the clinical team.
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (7/14/2016, 08:00 - 7/15/2016, 06:00)
+
+
+Meds: PHT, LEV, later Versed- 3 to 4 mg/hour .
+
+BACKGROUND: No change
+
+
+
+
+GENERALIZED SLOWING: no change - theta background.
+
+
+
+FOCAL SLOWING: No change
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: Frequent (>1/min to <1/10s) noted when patient not seizing
+
+Intermittent sharp waves are noted independently from the right or left temporal region with variable
+maximum including left mid or posterior temporal and right posterior temporal.
+
+
+
+
+EVENTS:onging seizures, maximum T5 with variable durations- 1-17 minutes. T5 periodic sharp
+waves 0.5 to 1.75 Hz with clear evolution and sometimes clear start or stop.
+
+Sometimes associated with tremor in R hand. Patient otherwise intubated and unresponsive.
+
+
+
+EEG pattern improved somewhat with additional phenytoin with longer seizure free intervals.
+
+Versed was added on the evening of 7/14 which blunted but did not entirely stop the seizures.
+
+
+
+EKG: A single EKG lead captured 80 BPM
+
+As discussed with the clinical team on 7/14 and 7/15 this is a refractory and worrisome pattern which
+is refractory to pharmacotherapy.
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+
+DAY 3 (07/15, 06:00 - 7/16/2016, 06:00)
+
+Meds: PHT, LEV, Versed-  4 mg/hour .
+
+
+BACKGROUND: longer seizure free periods in the PM on 7-15
+
+
+GENERALIZED SLOWING: in comparison to prior days, the overall pattern became lower voltage
+and more featureless, prior to Midazolam reduction
+
+
+
+FOCAL SLOWING: sections with theta on the left, and attenuated pattern on the right
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: Occasional (1/hour to <1min)  To Frequent (>1/min to
+<1/10s) Left posterior temporal or P3 as well as R mid temporal
+
+Brief, 7-10 second bursts, trains of periodic sharp waves seen, mostly or sometimes exclusively on L
+but occ Bilateral, L max.
+
+
+EVENTS: slower periodic discharges- P3 maximum with 0.5-2 Hz
+
+
+
+Duration 1 -17 minutes duration. Report of R hand trembling with some
+
+
+
+EKG: A single EKG lead captured HR 64 BPM
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+
+As reported to the team, seizures initially more blunted, shorter.  Longer seizure free period, but also
+a drop in amplitude and a slower pattern, occurring in the setting of stable AED therapy.
+
+
+Periodic activity more blunted, slowing in periodicity.  Longer seizure free intervals were noted early
+in this epoch, but ictal patterns recur later.
+
+
+These results were communicated to the clinical team at the time of service.
+
+-----------------------------------------------------------------
+
+
+
+DAY 4(07/16, 04:00 - 7/17/2016, 09:33)
+
+
+Clinical: The patient was made DNR with plans for hospice care
+
+
+Medications: PHT, LEV. Midazolam was discontinued.
+
+BACKGROUND: no change
+
+
+
+GENERALIZED SLOWING: no change
+
+FOCAL SLOWING: no change, more attenuated on the right
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): No change
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: isolated sharps less prominent
+
+
+EVENTS: electrographic discharges of 2-9 minutes duration, from T5 P3, without clear clinical
+correlate in this intubated poorly responsive patient. They can end abruptly and EEG transitions to
+theta pattern. Some briefer 7-10 second bursts
+
+
+
+EKG: A single EKG lead captured HR 84 BPM
+
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION
+
+
+
+
+
+Following cessation of Midazolam, in the context of withdrawal of care and transition to hospice level
+care  for this elderly woman with advanced dementia, the epileptiform bursts were increasing in
+comparison to the the evening of the 15, AM of the 16.
+
+
+EEG recording was discontinued as part of step down of care.
+
+
+IMPRESSION & CLINICAL CORRELATION:
+
+Overall: Initially, phenytoin did seem to slow the seizures. Stable doses of midazolam was partially
+effective in treating this highly refractory pattern.  However, the overall amplitude of the EEG began
+to drop.

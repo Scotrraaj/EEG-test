@@ -1,0 +1,15 @@
+
+
+CLINICAL HISTORY: A 50-year-old woman for thrombectomy with hypothermia.
+MEDICATIONS: Anesthetic medications, isoflurane. Versed, Fentanyl, Etomidate, Vecuronium, Phenylephrine. ROC.
+INTRODUCTION: Continuous digital EEG monitoring was performed using standard 10-20 system of electrode placement with standard CEA operative montage. The initial record began at 7:48 a.m. in the morning, concluding at after 3:00 p.m. Physician reviewed the EEG one-on-one remotely throughout the procedure.
+DESCRIPTION OF THE RECORD: The record is recorded in 2 sections, the first capturing in awake baseline.
+Part I: The first section of the EEG demonstrates an awake pattern with symmetric reactive 11.2 hertz, alpha rhythm of 40 microvolts.
+Heart rate: 60 bpm.
+Part II begins at 8:32 with the patient awake in the OR. The anesthetic medications are given at 9:15. This produces an initially sedated pattern, symmetric with mixed frequency activity including generous beta.
+The patient was placed on _bypass_ at 10:33. and cooling begins after this. With cooling, the EEG demonstrates a progressively slower and more attenuated background. The cooling apparatus is noted to be in the occipital region and on the right. Over the next hour, the EEG is progressively more attenuated. At 11:18, the Surgical team was informed that the EEG is essentially flat.
+Rewarming begins after 1 o'clock with gradual low voltage pattern and intermittent attenuation. EKG artifact is noted when the EKG lead returns at 1 :37. The EEG is increasingly continuous after 2:00 p.m. and by 3:00 p.m. has intermittent attenuations.
+Heart rate: 60 bpm.
+CLINICAL CORRELATION: EEG monitoring during this pulmonary thrombectomy with hypothermia was remarkable for transient EEG suppression with the use of hypothermia.
+
+

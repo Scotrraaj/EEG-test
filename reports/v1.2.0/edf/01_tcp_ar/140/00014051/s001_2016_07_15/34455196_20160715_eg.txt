@@ -1,0 +1,121 @@
+HISTORY:
+
+69 y.o. male with a history of TBI, Left frontal injury. Patient states he is not
+have seizures but is having headaches. NOW referred for routine EEG for characterization of seizures.
+Patient did not share medical records with EEG technician.
+
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+LYRICA 75 mg capsule,
+
+phenytoin (DILANTIN) 100 mg ER capsule, TK 2 CS PO BID
+
+OXcarbazepine (TRILEPTAL) 150 mg tablet, TK 1 T PO QD
+
+
+amLODIPine (NORVASC) 5 mg tablet, TK 1 T PO QD
+
+
+No current facility-administered medications for this visit.
+
+
+
+TECHNIQUE:
+
+
+
+
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a reasonably symmetric mixture of theta,
+alpha, and beta frequencies, with a symmetric and reactive 9-10 Hertz posterior dominant rhythm
+(PDR) with some theta noted in the Left occipital region as well. The normal anterior-to-posterior
+gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen. POSTS are present. In transition to
+drowsiness there is earlier slowing on the left.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Very mild generalized slowing is present.
+
+Intermittent, subtle, left focal slowing is present in drowsiness
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is a mildly abnormal awake and asleep routine EEG due to:
+
+
+
+1. Mild excess theta
+
+2. Shifting slowing, left greater than right, primarily of drowsiness
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings are non specific. The focal features on the left may be correlated with imaging and
+clinical history. No breach rhythm is noted.

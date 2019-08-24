@@ -1,0 +1,26 @@
+History:		78 year old man who presents with change in mental status, concerning for status epilepticus.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, lethargic
+
+
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.
+Diffuse, frontally maximal sharp waves with triphasic morphology are present intermittently the recording. These waveforms demonstrate an anterior to posterior phase lag. Patient remains awake throughout the recording.
+No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed. Profound anterior EMG artifact is present during some portions of the recording.
+
+Summary of Findings:
+Diffuse slowing, polymorphic, marked Triphasic waves, intermittent
+No electrographic seizures Artifact, EMG, intermittent
+Interpretation:
+This is an ABNORMAL portable 23-minute EEG because of moderate diffuse slowing and intermittent triphasics waveforms. These findings are indicative of a moderate diffuse encephalopathy, which is etiologically nonspecific, but suggestive of a metabolic origin. Triphasic waves are a nonspecific EEG finding that can be seen in hepatic encephalopathy, uremia and anoxia. Intermittent bilateral anterior EMG artifact limits the interpretation of the recording - subtle changes might have been missed
+
+
+
+
+
+
+
+

@@ -1,0 +1,138 @@
+START DATE OF STUDY: 01/07/17 at 11:48
+
+END DATE OF STUDY: 01/08/17 at 07:10
+
+
+
+RECORDING ENVIRONMENT: ICU
+
+EEG TYPE: long term monitoring
+
+
+
+
+HISTORY:
+
+a 32 y.o. male with a history of chronic static encephalopathy and epilepsy,
+presenting with epilepsy exacerbation, referred for EEG for screening for subclinical seizures.
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+lacosamide (VIMPAT) tablet 100 mg
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % infusion
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+LORazepam (ATIVAN) injection 2 mg
+
+fludrocortisone (FLORINEF) tablet 100 mcg
+
+levETIRAacetam (KEPPRA) solution 1,500 mg
+
+
+levothyroxine (SYNTHROID) tablet 25 mcg
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with
+T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and
+included a single channel of EKG.
+
+
+
+
+DAY 1 (1/7/2017, 11:48 - 1/8/2017, 07:10)
+
+
+
+BACKGROUND:
+
+The background is continuous and symmetric but consists of disorganized alpha, delta, and beta.
+The background is otherwise featureless. There is no clear reactivity, variability, or state change.
+
+
+There is no posterior dominant rhythm.
+
+
+There are no sleep transients.
+
+
+There is severe generalized slowing.
+
+
+There is no focal slowing.
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Frequent (>1/min to <1/10s) central (Cz max) spike-wave. At times these have centro-temporal field
+(C4-T4 max)
+
+2. Occasional (>1/10s to <1/min) right temporal (T4 max) spike-wave. At times these have diffuse bi-
+hemispheric field
+
+
+3. Occasional (>1/10s to <1/min) left frontal (Fp1 max) spikes
+
+4. Occasional (>1/10s to <1/min) right frontal (Fp2 max) spikes
+
+
+5. Occasional (>1/10s to <1/min) left frontal (Fp1 max) spikes. These occasionally occur in bursts of 5
+Hz for 1-2 sec at a time, without definite evolution
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single lead captured a heart rate in the 70s
+
+
+
+
+
+FINAL IMPRESSION:
+
+This is an abnormal long term video EEG due to:
+
+
+1. Multifocal spikes as above
+
+2. Severe generalized slowing and disorganization.
+
+
+
+FINAL CLINICAL CORRELATION:
+
+These findings are consistent with multifocal epileptiform potential.
+
+There is additional evidence for a severe diffuse cerebral dysfunction, which is etiologically
+nonspecific.
+
+

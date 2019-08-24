@@ -1,0 +1,20 @@
+
+
+CLINICAL HISTORY: This is a 53-year-old gentleman with new onset seizures, found to have GBM requiring left frontal awake craniotomy. The patient now with aphasia and repetitive language.
+
+MEDICATIONS: Keppra, oxycodone, Decadron, allopurinol, lisinopril, and Ofirmev.
+
+INTRODUCTION: A 20-minute digital video EEG was performed at bedside in the ICU using standard 10-20 system of electrode placement with 1 channel of EKG. This was an awake and drowsy record. Impedances were generally under 5 kilohms with the exception of the T1-T2 electrodes.  This is a technically satisfactory record.
+
+DESCRIPTION OF THE RECORD: The background EEG was abnormal with a markedly abnormal pattern noted from both hemispheres and a prominent asymmetry between the 2 hemispheres. The right hemisphere demonstrates a mixture of theta and delta as well as rhythmic slowing, but a 6.5 Hz posterior dominant rhythm can be identified, which is reactive to eye opening. The left hemisphere demonstrates continuous rhythmic slowing with sharply contoured slowing. As the patient drifts off to sleep, intermittent sharp waves and spikes are noted from the left hemisphere in the context of a breach rhythm. With stimulation, the patient is able to answer with repetitive answer, which is yes.  Drowsiness was characterized by an increase in rhythmic slowing present bilaterally.  Deeper stages of sleep were not achieved.
+
+Sharp waves:  Left mid temporal or anterior temporal, irrespective of the breach. Definitive seizures: None.
+Paroxysmal discharges:  Paroxysmal rhythmic delta from the left without definitive ictal pattern. Heart rate: 104 BPM.
+IMPRESSION: Abnormal EEG due:
+	•	Generalized background slowing.
+	•	Superimposed continuous focal slowing from the left hemisphere.
+	•	Intermittent paroxysmal rhythmic delta from the left.
+	•	Left mid temporal sharp waves in the context of a breach rhythm.
+
+CLINICAL CORRELATION: No definitive seizures were identified, but in this brief 20 minute EEG, subtle or infrequent subclinical seizures may be overlooked. Additional recording may be of value.
+

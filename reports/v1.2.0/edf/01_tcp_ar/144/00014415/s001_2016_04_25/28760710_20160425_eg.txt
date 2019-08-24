@@ -1,0 +1,109 @@
+DATE OF STUDY: 04/25/16
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 20-40 min, awake only
+
+
+
+
+
+HISTORY:
+
+a 56 y.o. MALE P/W APHASIA AND RIGHT SIDED WEAKNESS / STROKE ALERT.
+PMHX: SEVERE COPS, HLD, HYPOTHYROIDISM, ALCOHOL ABUSE
+
+
+
+CTH: NO ACUTE INTRACRANIAL ABNORMALITIES
+
+
+
+CTA HEAD/NECK: LEFT CAROTID OCCLUSION 100% BLOCKAGE
+
+
+MEDICATIONS:
+
+
+HEPARIN
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically limited record due
+to movement and included a single channel of EKG.
+
+
+
+
+
+EEG BACKGROUND:
+
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low
+voltage delta and theta activity with absence of the expected anterior to posterior gradient of
+frequencies.
+
+
+
+
+Sleep is not captured
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 77 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+1. Generalized slow waves, moderate to severe.
+
+
+CLINICAL CORRELATION:
+
+
+This is an abnormal awake only routine limited EEG due to diffuse background slowing and absent
+alpha rhythm.  These findings are etiologically nonspecific indicators of moderate to severe diffuse
+cerebral dysfunction.
+
+
+
+
+
+
+
+
+
+
+
+

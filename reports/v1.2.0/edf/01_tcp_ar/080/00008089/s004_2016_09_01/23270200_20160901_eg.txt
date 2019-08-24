@@ -1,0 +1,131 @@
+HISTORY:
+
+63 y.o. male admitted with hypoglycemia, found to have occipital CVA and
+anoxic changes on MRI, now with stimulus induced jerking of leg and abdomen referred for routine
+EEG for evaluation of paroxysmal events.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+ampicillin-sulbactam (UNASYN) 3 g in sodium chloride 0.9 % 100 mL IVPB MB+
+
+amLODIPine (NORVASC) tablet 10 mg
+
+vancomycin (VANCOCIN) 500 mg in sodium chloride 0.9 % 100 mL IVPB MB+
+
+
+levETIRAacetam (KEPPRA) 1,000 mg in sodium chloride 0.9 % 100 mL IVPB
+
+dextrose 5 % and sodium chloride 0.45 % infusion
+
+niCARdipine (CARDENE) 20 mg in NaCl (iso-os) 200 mL infusion
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+heparin (5000 units/mL) injection 5,000 Units
+
+
+
+
+dextrose 50% injection 25 mL
+
+dextrose 50% injection 50 mL
+
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+insulin lispro (HumaLOG) injection 1-5 Units
+
+
+pantoprazole (PROTONIX) injection 40 mg
+
+sodium chloride 0.9 % IV bolus
+
+Vec briefly
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+
+A portable  Digital Video 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a
+technically satisfactory record and included a single channel of EKG and tactile/ verbal stimulation.
+The patient had multiple episodes of trunk and leg twitching during the EEG.
+
+
+
+
+EEG BACKGROUND:
+
+The  background is characterized by the presence of a  symmetric mixture of 4-5 Hz theta and 2 Hz
+delta  frequencies, without  a symmetric and reactive Hertz posterior dominant rhythm (PDR). The
+normal anterior-to-posterior gradient of frequency and amplitude is absent.
+
+
+
+
+
+Marked generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Stimulation of the patient does not impact the EEG
+
+EVENTS:
+
+
+There are clinical events captured during this study.
+
+1. Multiple episodes of twitching without EEG change were recorded
+
+HEART RATE:
+
+
+A heart rate of 71 bpm is captured on a single EKG lead.
+
+
+
+
+
+IMPRESSION:
+
+This is an abnormal ICU COMA only  routine EEG due to:
+
+
+1. Slow, relatively invariant background
+
+2. Episodes of twitching without EEG change
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings are frequently found in association with anoxic or hypoglycemic insult. The overall
+background is a bit more vigorous than the first studies on admission, but remains markedly
+abnormal.

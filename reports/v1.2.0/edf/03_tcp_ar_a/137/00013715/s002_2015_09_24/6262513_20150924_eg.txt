@@ -1,0 +1,277 @@
+START DATE OF STUDY: 09/24/2015 at 12:07
+
+END DATE OF STUDY: 9/26/2015 at 13:36
+
+
+
+
+RECORDING ENVIRONMENT: ICU
+
+EEG TYPE: LTM
+
+
+
+
+
+
+HISTORY:
+
+
+a 55 y.o. female with a history of aphasia and
+
+right leg weakness, found to have a left frontal hemorrhagic
+
+lesion, noted to have leg twitching.
+
+
+
+
+MEDICATIONS: propofol, Keppra
+
+
+
+
+SEDATION: propofol
+
+
+
+TECHNIQUE:
+
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+NicOne system. This was a technically satisfactory record and
+
+
+included a single channel of EKG.
+
+
+
+
+
+
+DAY 1 (9/24/2015, 12:07 - 9/25/2015 08:00)
+
+
+
+
+BACKGROUND:
+
+
+The waking background is continuous, asymmetric, and poorly
+
+organized.
+
+The right hemisphere consists of a disorganized mixture of delta,
+
+with admixed theta and alpha.
+
+
+The left hemisphere consists of a disorganized mixture of theta
+
+and alpha with admixed delta, with somewhat attenuated faster
+
+
+frequencies.
+
+There is moderate diffuse slowing.
+
+
+
+There is no posterior dominant rhythm.
+
+
+
+
+The background is variable, and there are state changes. During
+
+
+periods of sleep (<15 min), the background consists of theta and
+
+alpha with 1-2 second periods of diffuse attenuation. Sleep
+
+transients are absent.
+
+
+
+
+Note that the leads are disconnected between 9/24 04:42 and 9/25
+
+07:29.
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Frequent right parasagittal sharp-and-wave complexes. As the
+
+record progresses, these can shift focus from frontal (F4/C4 max)
+
+
+to posterior (P4/T6 max). At times these become periodic at 1 Hz,
+
+without evolution, for runs of <15 sec.
+
+
+
+EVENTS: No clinical or electrographic events were reported or
+
+
+detected.
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+This is an abnormal video long term EEG due to:
+
+
+1. Moderate diffuse slowing and background disorganization
+
+2. Right hemisphere focal slowing
+
+
+3. Left hemisphere attenuation of faster frequencies
+
+4. Frequent right parasagittal sharp-and-wave complexes that
+
+
+become periodic for <15 second runs without evolution. There are
+
+no electrographic seizures.
+
+
+
+Reading attending: 
+
+
+
+
+
+
+
+DAY 2 (9/25/2015, 08:00 - 9/26/2015, 08:00)
+
+BACKGROUND: no change
+
+GENERALIZED SLOWING: no change
+
+FOCAL SLOWING: no change
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none
+
+SPORADIC EPILEPTIFORM ACTIVITY:
+
+
+1. Occasional right parasagittal sharp-and-wave complexes that
+
+become periodic at 1 Hz for <5 second runs without evolution.
+
+EVENTS: No clinical or electrographic events
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+Background is unchanged on this day.
+
+
+Epileptiform activity shows improvement in amount of epileptiform
+
+activity.
+
+
+
+Reading attending: 
+
+
+
+
+
+
+
+DAY 3 (9/26/2015, 08:00 - 9/26/2015, 13:36)
+
+BACKGROUND: no change
+
+GENERALIZED SLOWING: no change
+
+FOCAL SLOWING: no change
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none
+
+SPORADIC EPILEPTIFORM ACTIVITY: no change
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+
+
+No change from Day 2
+
+
+
+
+Reading attending: 
+
+
+
+
+------------------------------------------------------
+
+FINAL IMPRESSION:
+
+This is an abnormal video EEG due to:
+
+
+1. Moderate diffuse slowing and background disorganization
+
+2. Right hemisphere focal slowing
+
+
+3. Left hemisphere attenuation of faster frequencies
+
+4. Right parasagittal sharp-and-wave complexes, periodic at
+
+times, that improve in frequency and periodicity beginning on Day
+
+
+
+
+
+
+FINAL CLINICAL CORRELATION:
+
+
+These findings are consistent with right hemisphere dysfunction
+
+and independent left hemisphere dysfunction, with superimposed
+
+right parasagittal epileptogenic discharges.  Attenuation of
+
+faster frequencies seen over the left hemisphere can be
+
+
+consistent with cortical injury, or factors that increase the
+
+distance between the recording electrodes and brain parenchyma,
+
+
+such as subdural or scalp hematoma.
+
+There were no clinical or electrographic seizures reported or
+
+detected during this study.

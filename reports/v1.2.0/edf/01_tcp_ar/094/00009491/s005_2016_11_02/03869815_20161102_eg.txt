@@ -1,0 +1,316 @@
+HISTORY:
+
+This is a 45 y.o. male undergoing outpatient continuous video-electroencephalography (VEEG)
+monitoring with a history of: paroxysmal events of unclear etiology.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patient's exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+No current facility-administered medications for this visit.
+
+
+Current Outpatient Prescriptions:
+
+triamterene-hydrochlorothiazide (DYAZIDE) 37.5-25 mg per capsule, Take 1 capsule by mouth every
+morning.
+
+
+enalapril (VASOTEC) 20 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+
+Facility-Administered Medications Ordered in Other Visits:
+
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+zonisamide (ZONEGRAN) capsule 100 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+LORazepam (ATIVAN) injection 2 mg
+
+enoxaparin (LOVENOX) injection 40 mg
+
+triamterene-hydrochlorothiazide (DYAZIDE) 37.5-25 mg per capsule 1 capsule
+
+
+
+
+dextrose 50% injection 25 mL
+
+dextrose 50% injection 50 mL
+
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+
+
+
+SEDATION: None
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 1 (11/02/2016, 06:00 - 11/03/2016)
+
+
+
+INTERICTAL BACKGROUND:
+
+While the patient is normoglycemic, the background consists of 10 Hz PDR and expected AP
+(anterior-to-posterior) gradient.  When patient's blood glucose decreases into the hypoglycemic
+range, his background changes and consists of predominantly diffuse polymorphic theta and delta
+activity.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Rare bifrontal spikes with shifting predominance in sleep. During wakefulness, these become frequent
+during times of hypoglycemia.  Additionally, during periods of profound hypoglycemia, generalized
+occipitally predominant spikes with aftergoing slow waves appear.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+SEIZURES/EVENTS:
+
+
+Two events are captured.
+
+First event
+
+
+
+
+
+
+
+DAY 3 (11/4/2016, 16:30 - 11/5/2016, 06:00)
+
+
+
+BACKGROUND:
+
+
+
+The waking background is continuous, symmetric, well-organized, and consists predominantly of
+alpha with admixed beta. Occasionally, diffuse excess theta is seen in wakefulness.
+
+
+
+Drowsiness is characterized by attenuation and fragmentation of the posterior dominant rhythm and
+further slowing of the background.
+
+Sleep was characterized by symmetric sleep spindles and/or K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Rare bifrontal spikes with shifting predominance in sleep. During wakefulness, these become
+frequent during times of hypoglycemia.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+11/6/2016 08:03
+
+
+Accucheck documented as 29.
+
+EEG: background consists of suboptimally organized theta with frequent bifrontal spikes.
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+This is an abnormal video EEG due to:
+
+1. Occasional diffuse excess theta in wakefulness
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 4 (11/5/2016, 06:00 - 11/6/2016, 06:00)
+
+
+
+AEDs: Zonegran HELD
+
+
+
+INTERICTAL BACKGROUND:
+
+
+No change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No change
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+EKG: A single lead captured a heart rate in the 70s-90s
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 5 (11/6/2016, 06:00 - 11/6/2016, 20:45)
+
+
+
+AEDs: none
+
+
+
+INTERICTAL BACKGROUND:
+
+No change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No change
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Patient is sleep deprived until 11/7/2016 03:00
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 70s-90s

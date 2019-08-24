@@ -1,0 +1,136 @@
+HISTORY:
+
+25 y.o. male with a history of idiopathic generalized epilepsy.
+
+
+
+MEDICATIONS:
+
+No current facility-administered medications for this visit.
+
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+[START ON 2/9/2017] ergocalciferol (DRISDOL) drops 2,000 Units 0.25 mL
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % infusion
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+alum-mag hydroxide-simeth (MYLANTA;MAALOX) 200-200-20 mg/5 mL suspension 30 mL
+
+LORazepam (ATIVAN) injection 2 mg
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+levETIRAcetam (KEPPRA) tablet 1,500 mg
+
+
+
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 11 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+Patient remains awake throughout the recording.
+
+
+
+
+Mild underriding diffuse theta activity is seen.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Several low amplitude generalized frontally predominant spikes with aftergoing slow waves are
+captured.  Their frequency increases during photic stimulation.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+mild diffuse symmetric background slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) produces bursts
+of generalized irregular spike-and-wave and polyspike-and-wave discharges, lasting up to 9 seconds
+(photoparoxysmal response).  This response is most pronounced at 5, 7, 9 fps.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake only  routine EEG due to:
+
+(1) very mild diffuse slowing
+
+(2) several generalized frontally predominant spikes and wave complexes
+
+
+(3) robust photoparoxysmal response
+
+
+
+CLINICAL CORRELATION:
+
+These findings are consistent with patient's known diagnosis of idiopathic generalized epilepsy.
+
+
+Mild diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically
+nonspecific.

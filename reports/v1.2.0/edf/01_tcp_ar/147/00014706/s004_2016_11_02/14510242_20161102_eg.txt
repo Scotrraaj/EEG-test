@@ -1,0 +1,26 @@
+HISTORY: 74 y.o. male with a history of dementia and schizophrenia, with history of aggressive behavior, admitted with fever, altered mental status, rigidity, referred for long term EEG monitoring for screening for subclinical seizures and assessment of mental status change.   
+
+MEDICATIONS: Current Facility-Administered Medications: dextrose 5 % and sodium chloride 0.45 % infusion LORazepam (ATIVAN) injection 1 mg adenosine (ADENOCARD) injection 12 mg acetaminophen (TYLENOL) suppository 650 mg heparin (5000 units/mL) injection 5,000 Units piperacillin-tazobactam (ZOSYN) 3.375 g in sodium chloride 0.9 % 50 mL IVPB MB+ vancomycin (VANCOCIN) 1,250 mg in sodium chloride 0.9 % 250 mL IVPB cyanocobalamin injection 1,000 mcg midazolam (VERSED) 1 mg/mL injection 2 mg   
+
+SEDATION: meds as above  
+
+TECHNIQUE: A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically difficult record due to periods of muscle artifact impeding interpretation. The study included a single channel of EKG.   
+
+DAY 1 (11/2/2016, 04:00 - 11/2/2016, 15:43) *Note that the study was initiated on 11/1 at 12:15; however, due to technical problems, readable portion of EEG begins 11/2 at 04:00.  
+
+BACKGROUND: The background is continuous and symmetric, but poorly organized. Background consists of mostly theta and delta frequencies. There is no posterior dominant rhythm.  In drowsiness and sleep, theta activity becomes attenuated and background consists of mostly delta and alpha frequencies. Sleep transients are not seen.  There is moderate to severe generalized slowing. No focal slowing is present.   
+
+EPILEPTIFORM ACTIVITY: 1. Occasional (1/hour - 1/min) diffuse sharp waves with triphasic morphology, occasionally periodic at 1 Hz for periods up to 20 seconds (generalized periodic discharges)  
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):  None  
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.  
+
+EVENTS: There are no clinical or electrographic events captured during this study.  
+
+HEART RATE: A heart rate in the 80s is captured on a single EKG lead.  
+
+IMPRESSION: This is an abnormal long term continuous video EEG due to: 1. Moderate to severe generalized slowing and suboptimal organization 2. Occasional sharp waves with triphasic morphology, occasionally periodic (generalized periodic discharges)   
+
+CLINICAL CORRELATION:  These findings indicate the presence of a moderate to severe diffuse cerebral dysfunction, which is etiologically nonspecific.  Periodic diffuse sharp waves with triphasic morphology are a nonspecific but pathologic finding that have been most often associated with a toxic-metabolic process. Although a diffuse epileptogenic process cannot be fully excluded, during this long-term EEG monitoring study, these sharp waves never increased in amplitude or evolved into electrographic seizures, supportive of a toxic-metabolic etiology.
+

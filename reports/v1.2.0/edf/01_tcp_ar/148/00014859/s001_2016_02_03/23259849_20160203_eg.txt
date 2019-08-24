@@ -1,0 +1,25 @@
+
+History:	36 year old woman with a history of seizures.
+Medications:	Keppra, Depakote, Klonopin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, photic
+Description:
+The posterior dominant rhythm reaches 8-8.5 Hz.  The AP gradient is weak and there is excess 
+polymorphic theta activity.  During drowsiness, the degree of diffuse theta activity increases and 
+brief periods of backgroudn discontinuity are captured.
+  Two moderate amplitude right midtemporal (T4 maximal) sharp waves with aftergoing slow waves
+ are captured during drowsiness.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) 
+does not produce additional abnormalities.
+Summary of Findings:
+	Diffuse slowing, polymorphic, mild
+	Sharp waves, two, right temporal, mid, T4 maximal, during drowsiness
+Interpretation:
+This is an ABNORMAL awake and drowsy 21-minute EEG due to mild diffuse slowing and two right 
+midtemporal epileptiform discharges. Diffuse slowing is indicative of mild diffuse cerebral 
+dysfunction, which is etiologically nonspecific.  There is a potentially epileptogenic focus over the 
+right midtemporal region.
+	
+

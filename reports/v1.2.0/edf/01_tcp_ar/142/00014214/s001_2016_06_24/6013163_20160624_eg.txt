@@ -1,0 +1,121 @@
+DATE OF STUDY: 06/24/16
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 20-40 min, asleep only
+
+EEG #: 16-1177
+
+CPT: 95822              ICD: 780.97
+
+
+
+HISTORY:
+
+a 73 y.o. female with a history of ESRD presenting altered mental status referred
+for routine EEG for assessment of mental status change.
+
+
+
+MEDICATIONS: vancomycin, heparin
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND, EPILEPTIFORM ACTIVITY:
+
+The background consists of continuous 2-3 Hz generalized spike wave discharges, superimposed on
+occasional low amplitude disorganized theta.  There is no clear reactivity, variability, or state change.
+
+
+
+
+
+There is severe generalized slowing.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal asleep only routine EEG due to:
+
+1. Severe generalized slowing with lack of reactivity
+
+
+2. Continuous 2-3 Hz generalized spike wave discharges
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of highly epileptogenic generalized discharges superimposed
+on severe generalized slowing.
+
+
+The consulting team was notified and long term monitoring was recommended.
+
+
+
+
+Attending Epileptologist: 
+
+I have personally reviewed this study, and this report represents my findings and conclusions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

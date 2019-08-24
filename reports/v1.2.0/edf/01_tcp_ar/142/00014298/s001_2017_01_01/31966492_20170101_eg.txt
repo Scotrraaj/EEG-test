@@ -1,0 +1,16 @@
+HISTORY: 47 y.o. male with a history of ESRD on HD with possible air embolus with variable left sided weakness, referred for EEG for screening for subclinical seizures.  
+MEDICATIONS: Kayexylate, Proventil, Depakote, Tylenol, Protonix, Heparin  
+
+SEDATION: None  
+
+TECHNIQUE: A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.   
+
+DAY 1 (1/1/2017, 12:58 - 1/1/2017, 15:54)  
+
+BACKGROUND: The background consists of a disorganized mixture of theta and delta with superimposed fast frequencies. There is no posterior dominant rhythm.  Quieter states are characterized by disorganized delta with attenuated faster frequencies. Sleep transients are not captured.  There is continuous right hemisphere attenuation.  There is moderate generalized slowing.  The patient rips the leads off at 15:54. 
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):  None  EPILEPTIFORM ACTIVITY:  None  EVENTS: No clinical or electrographic events reported or detected  EKG: A single lead captured a heart rate in the 70s  
+
+FINAL IMPRESSION: This is an abnormal long term video EEG due to: 1. Moderate generalized slowing with suboptimal organization 2. Continuous right hemisphere attenuation  
+
+FINAL CLINICAL CORRELATION: These findings, given the clinical picture, are most consistent with right hemispheric cortical dysfunction. Correlation with imaging is recommended. Differential diagnosis of focal cortical attenuation also includes etiologies that increase the recording distance between cortical surface and EEG electrodes over the affected area, such as scalp hematoma, subdural hematoma, epidural hematoma, etc.  There is also evidence for a moderate diffuse cerebral dysfunction, which is etiologically nonspecific.  

@@ -1,0 +1,84 @@
+HISTORY:
+
+54 y.o. male with a history of a recent cardiac surgery, who currently remains
+unresponsive.
+
+
+
+MEDICATIONS:
+
+
+Fentanyl stopped <24 hours ago
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+There is no PDR or AP gradient.
+
+
+
+For the majority of the recording, the background consists of a mixture of low amplitude polymorphic
+theta and alpha activity with underrding delta activity.
+
+
+
+
+With stimulation, the background briefly changes and there is an increase in faster activities.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 96 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal comatose portable EEG due to:
+
+1. Moderate diffuse slowing
+
+
+
+CLINICAL CORRELATION:
+
+This finding is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.

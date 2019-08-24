@@ -1,0 +1,324 @@
+HISTORY:
+
+This is a 28 y.o. right handed female undergoing continuous inpatient video-
+electroencephalography (VEEG) monitoring, after being admitted via the ER, with a history of: focal
+seizures with dyscognitive features.
+
+
+
+
+
+Continuous video EEG is initiated for:  Characterization of seizures.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+(9) there have been 13 reported deaths during various video-EEG monitoring procedures, so this is
+not a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Additionally, T1, F9, T9, P9, T2, F10, T10, and P10 electrodes were placed in this patient.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For approximately 8 hours each day the
+patient was attended by an EEG technician.  A neurologist was available in person or on call 24
+hours per day.  The patient was monitored via video 24 hours per day by a registered nurse with
+special training in seizure recognition and testing.  During times when a technician was not
+available, EEG recording, video recording, and computer analysis continued, and nursing performed
+seizure testing and electrode maintenance.
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+Keppra 1500 mg q12h
+
+Vimpat 200 mg q12h
+
+
+
+SEDATION: None
+
+
+DAY 1 (4/25/2016, 15:45 - 4/26/2016, 06:00)
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a fairly organized symmetric mixture of
+alpha, theta, and delta frequencies, with a 7 Hertz posterior dominant rhythm (PDR) at best. The
+normal anterior-to-posterior gradient of frequency and amplitude is present but suboptimal.
+
+
+Diffuse, frontally predominant beta is also seen.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by sleep transients, with synchronous and symmetric high amplitude vertex
+waves and sleep spindles. Slow wave sleep was not captured.
+
+
+
+There is mild to moderate generalized slowing.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 86 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+1. Mild to moderate generalized slowing and suboptimal organization
+
+
+
+CLINICAL CORRELATION:
+
+These findings are etiologically nonspecific indicators of mild to moderate diffuse cerebral
+dysfunction.
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (4/26/2016, 06:00 - 4/26/2016, 10:12)
+
+
+
+AEDs: unchanged
+
+
+
+INTERICTAL BACKGROUND: unchanged
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 90s.
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+No change compared with day 1
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+FINAL IMPRESSION:
+
+
+
+This is an abnormal video EEG due to:
+
+
+
+1. Mild to moderate generalized slowing and suboptimal organization
+
+
+
+
+FINAL CLINICAL CORRELATION:
+
+
+
+These findings are etiologically nonspecific indicators of mild to moderate diffuse cerebral
+dysfunction.
+
+
+
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.
+
+
+This EEG does not support or refute the diagnosis of epilepsy.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

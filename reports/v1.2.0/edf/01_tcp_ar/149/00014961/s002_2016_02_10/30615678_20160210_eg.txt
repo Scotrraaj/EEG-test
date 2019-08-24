@@ -1,0 +1,376 @@
+HISTORY:
+
+This is a 26 y.o. right handed male admitted for continuous
+
+
+video-electroencephalography (VEEG) monitoring with a history of:
+
+paroxysmal events of unclear etiology.
+
+
+
+
+Inpatient continuous EEG monitoring required due to one or more
+
+of the following reasons:
+
+- The patient is having medically uncontrolled seizures or
+
+
+clinical events, which poses a significant mortality and
+
+morbidity risk.  Continuous monitoring will aid in diagnosis and
+
+determining best treatment options.  If seizures are left
+
+
+untreated, there is a 10-20% annual morbidity and 2% annual
+
+
+
+
+mortality rate.
+
+- Continuous monitoring is required to capture a sufficient
+
+
+number of clinical events or seizures, while medication are
+
+reduced or provoked, which increases the risk of severe seizures
+
+
+and at risk of seizures causing injury or status epilepticus;
+
+- The EMU is set up to monitor and record EEGs during seizures
+
+and it includes nurses trained to provide first aid and patient
+
+safety during seizures;
+
+
+- The full hospital team must be present to deal with these
+
+medical emergency situations should they arise, including nurses
+
+
+to document patients exam
+
+(9) there have been 13 reported deaths during various video-EEG
+
+monitoring procedures, so this is not a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of
+
+
+monitoring.  The patient then underwent continuous CCTV/EEG
+
+monitoring using a cable telemetry system.  Scalp electrodes were
+
+placed and secured with collodion according to the 10-20
+
+international electrode system. Sphenoidal electrodes were not
+
+
+used in this case.  Impedances were measured and verified to be
+
+below 5 Kohms.  EEG activity was recorded referentially to vertex
+
+
+reference, digitized, and stored to computer hard drive.  Periods
+
+of interest were subsequently reformatted to the montage of
+
+interest and reviewed in detail.
+
+
+
+
+Staff supervision, patient-initiated event buttons and
+
+computerized algorithms allowed detection of epileptiform EEG
+
+
+activity and correlation with behavior.  For approximately 24
+
+hours each day the patient was attended by an EEG technician.  A
+
+neurologist was available in person or on call 24 hours per day.
+
+The patient was monitored via video 24 hours per day by a
+
+
+registered nurse with special training in seizure recognition and
+
+testing.
+
+
+
+The Gotman spike and seizure detection computer program
+
+
+(trademark named
+
+time for electrographic seizures and interictal discharges.
+
+
+Samples of EEG were recorded periodically.  Detections were
+
+reviewed in detail by attending neurologist.  All events, as well
+
+
+as selected samples, were stored.
+
+
+MEDICATIONS:
+
+phenytoin (DILANTIN) 300 mg ER capsule, Take 1 capsule by mouth
+
+
+every evening.
+
+
+
+SEDATION: None
+
+
+DAY 1 (02/10/2016 - 2/11/2016, 08:00)
+
+
+
+BACKGROUND:
+
+The waking background is continuous, symmetric, well-organized.
+
+
+With a posterior dominant rhythm of 10Hz.
+
+
+Sleep was characterized by symmetric sleep spindles and/or
+
+K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+
+EPILEPTIFORM ACTIVITY: None present.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+
+are not performed.
+
+
+
+EVENTS:
+
+the patient has 2 clinical episodes.
+
+At 08:04PM while in bed he shakes his body minimally side to side
+
+for ~2 minutes but he is not tested. There is no correlate on
+
+
+EEG.
+
+At 08:11PM While in bed the patient has intermittent episodes
+
+
+where he clenches his jaw and appears to become stiff for 10-20
+
+seconds. He appears to follow commands soon after the events.
+
+
+This behavior lasts for about 5 minutes. There is no EEG
+
+correlate to the behavior.
+
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+Normal EEG awake and asleep. Two events with no EEG correlate.
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (02/11/2016, 08:00 - 2/12/2016, 08:00)
+
+
+
+BACKGROUND: The waking background is continuous, symmetric,
+
+well-organized. With a posterior dominant rhythm of 10Hz.
+
+
+
+Sleep was characterized by symmetric sleep spindles and/or
+
+K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+
+EPILEPTIFORM ACTIVITY: None present.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+are not performed.
+
+
+
+EVENTS: At 10:38PM the patient pushes the button and complained
+
+
+of right arm stiffening.
+
+
+EKG: A single EKG lead captured 84bpm.
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+Normal EEG awake and asleep. one events with no EEG correlate.
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (02/12/2016, 08:00AM - 2/12/2016, 07:44PM)
+
+
+
+BACKGROUND: The waking background is continuous, symmetric,
+
+well-organized. With a posterior dominant rhythm of 10Hz.
+
+
+
+Sleep was characterized by symmetric sleep spindles and/or
+
+K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY: None present.
+
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+
+are not performed.
+
+
+EVENTS: None
+
+
+
+EKG: A single EKG lead captured 84bpm.
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+
+Normal EEG awake and asleep. one events with no EEG correlate.
+
+FINAL IMPRESSION:
+
+
+
+INDUCTION PROCEDURES:
+
+1. None
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+Interictal Findings:  None
+
+
+
+
+Ictal Findings:
+
+
+The patient had 3 clinical events while hooked up to continuous
+
+video EEG monitoring in the epilepsy monitoring unit with no EEG
+
+correlate
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. Psychogenic non-epileptic events.
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. None
+
+
+
+CONCLUSION:
+
+was admitted to the epilepsy monitoring unit for 2.5
+
+
+days with continuous video EEG.   The patient was weaned off
+
+Dilantin on the day of admission.The patient typical events were
+
+captured with no EEG correlate.
+
+
+
+The Psychiatry department was consulted during this
+
+hospitalization. After the consultation the patient became
+
+
+agitated and decided to leave. He was discharged on Depakote for
+
+mood purposes. No other medication changes were made during the
+
+hospitalization.
+
+
+
+We recommend that he continues to see a psychiatrist or therapist
+
+for assessment of underlying psychopathology and diagnosis.
+
+
+
+Patient is follow-up at the Temple Epilepsy
+
+Center as an outpatient

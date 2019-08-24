@@ -1,0 +1,329 @@
+HISTORY:
+
+This is a 41 y.o.  female undergoing continuous inpatient video-electroencephalography (VEEG)
+monitoring with a history of: refractory epilepsy.  Patient had multiple unusual seizures on the day
+prior to this recording.
+
+
+
+
+
+Continuous video EEG is initiated for:  Characterization of seizures.
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+
+CONDITIONS OF THE RECORDING:
+
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.  **
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The spike and seizure detection computer program  was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+LORazepam (ATIVAN) injection 2 mg
+
+
+[START ON 8/23/2016] enoxaparin (LOVENOX) injection 40 mg
+
+levETIRAcetam (KEPPRA) tablet 2,000 mg
+
+lamoTRIgine (LAMICTAL) tablet 200 mg
+
+
+oxyCODONE-acetaminophen (PERCOCET) 5-325 mg per tablet 1 tablet
+
+ibuprofen (ADVIL,MOTRIN) tablet 600 mg
+
+DAY 1 (8/22/2016- 8/23/2016, 06:00)
+
+
+
+BACKGROUND:
+
+
+
+The waking background is continuous,  symmetric,  and consists predominantly of theta with scant 8
+Hz alpha rhythm
+
+Posterior dominant rhythm was  present.
+
+
+
+The background is  reactive,  variable.
+
+There were  no persistent asymmetries in amplitude and frequency.
+
+
+Sleep was characterized by  symmetric sleep spindles and/or K-complexes.
+
+PAROXSYMAL ACTIVITY
+
+
+EPILEPTIFORM ACTIVITY: Spike and wave, slow spike and wave and polyspike and wave
+complexes were identified.  They're much more prominent in sleep
+
+
+
+ACTIVATION PROCEDURES:
+
+EVENTS: in sleep electrographic events were detected.  Some examples are characterized below
+
+14:16 4-5 seconds of 2-3 Hz frontally predominant polyspike and slow wave activity
+
+
+16:58 5 seconds of 2.5 Hz frontally predominant polyspike and slow wave activity.  Patient seems to
+be asleep, head turn to the right in bed
+
+Additional discharges, similar all in sleep; without clinical correlate.
+
+
+21:32: slow spike and wave, polyspike wave of ,2.0 Hz, 2 bursts spanning  10 seconds
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+Markedly abnormal study due to:
+
+
+Slow background
+
+Slow spike and wave activity
+
+Poly spike and wave activity.
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (8/23/2016, 06:00 - 8/24/2016, 06:00)
+
+
+
+BACKGROUND: No change, alpha rhythm reaches 9 Hz. Patient more consistently wake (Percocet
+reduced)
+
+
+
+GENERALIZED SLOWING: No change
+
+
+
+FOCAL SLOWING: None
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: as above, almost exclusively in sleep brief bursts of poly
+spike and slow activity or GPFA, Bursts less than 5 seconds
+
+
+
+
+
+EVENTS:
+
+
+#1 2:32 AM out of sleep, feeling of dizzy, like she had a seizure-EEG pattern drowsy  Then wake,
+Normal wake behavior, though soft spoken.
+
+
+#2:4:16 AM  17 second slow spike wave- patient wakened by clinical team which seems to end the
+discharge. No clinical features noted.
+
+
+
+EKG: A single EKG lead captured NSR
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+No clear clinical seizures but frequent bursts s/w polyspike and wave in sleep
+
+
+
+-----------------------------------------------------------------
+
+Meds: LTG reduced, Zon added
+
+DAY 3(8/24/2016, 06:00 - 8/25/2016, 06:00)
+
+
+
+BACKGROUND: Remained normal
+
+GENERALIZED SLOWING: None
+
+
+FOCAL SLOWING: Remained normal
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+SPORADIC EPILEPTIFORM ACTIVITY: Occasional  similar to prior days with frontal spike and wave
+and poly spike wave
+
+
+EVENTS: none
+
+EKG: A single EKG lead captured 72 BPM
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+
+
+
+Ongoing spike and wave or polyspike, exclusively in sleep.
+
+
+
+
+-----------------------------------------------------------------
+
+
+MEDS:
+
+lamoTRIgine (LAMICTAL) 25 mg tablet, Take 2 tablets by mouth 2 times daily. Stop taking after one
+week when on 300 mg Zonisamide
+
+
+levetiracetam (KEPPRA) 1,000 mg tablet, Take 1.5 tablets by mouth 2 times daily for 360 days.
+
+polyethylene glycol (GLYCOLAX) 17 gram packet, Take 17 g by mouth 2 times daily for 3 days.
+
+
+senna (SENOKOT) 8.6 mg tablet, Take 1 tablet by mouth 2 times daily for 360 days.
+
+zonisamide (ZONEGRAN) 100 mg capsule, Take 3 capsules by mouth at bedtime for 360 days. Take
+2 capsules (200 mg) for one week than 3 capsules (300 mg) after that
+
+
+lisinopril (PRINIVIL,ZESTRIL) 40 mg tablet, Take 1 tablet by mouth daily for 360 days.
+
+lisinopril (PRINIVIL,ZESTRIL) 20 mg tablet, Take 2 tablets by mouth daily for 360 days.
+
+ibuprofen (ADVIL,MOTRIN) 600 mg tablet, Take 1 tablet by mouth every 6 hours as needed for Pain.
+
+
+docusate sodium (COLACE) 100 mg capsule, Take 1 capsule by mouth 2 times daily as needed for
+Constipation.
+
+
+ferrous sulfate 325 mg (65 mg iron) tablet, Take 1 tablet by mouth 2 times daily.
+
+Patient increasling OOB to chair
+
+DAY 4 (8/25/2016, 06:00 - 8/26/2016, 11:00)
+
+
+
+BACKGROUND: No change
+
+
+
+GENERALIZED SLOWING: Remained normal
+
+
+FOCAL SLOWING: Remained normal
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: there is an overall reduction in s/w and polyspike wave
+activity. It is now exclusively in sleep and less frequent.
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+EKG: A single EKG lead captured 80 BPM
+
+
+
+
+DAY4 IMPRESSION & CLINICAL CORRELATION
+
+
+
+
+
+Reduction in epileptiform activity
+
+No seizures.
+
+Overall conclusion:
+
+Supportive of a generalized mechanism for epilepsy. No tonic clonic or clear clinical seizures
+recorded
+Reported Aug 2016 with final sign off May 10 2017
+
+
+
+
+

@@ -1,0 +1,831 @@
+HISTORY:
+
+This is a 44 y.o. right handed female admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: refractory epilepsy.
+
+
+
+
+Continuous video EEG is initiated for:  Medication adjustment and recording of seizures for
+presurgical evaluation.
+
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Impedances were measured and verified to be below 5 Kohms.  EEG activity was recorded
+referentially to vertex reference, digitized, and stored to computer hard drive.  Periods of interest
+were subsequently reformatted to the montage of interest and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+carBAMazepine (TEGRETOL) 900 mg q12h
+
+
+lacosamide (VIMPAT) 200 mg q12h
+
+
+SEDATION: None
+
+
+
+DAY 1 (9/12/2016, 10:03 - 9/13/2016, 06:00)
+
+
+
+Meds:
+
+9/12:
+
+CBZ 900-900
+
+
+LCS 200-100
+
+
+BACKGROUND:
+
+
+
+The waking background is continuous, symmetric, fairly-organized, and consists predominantly of
+alpha with admixed excess theta. A posterior dominant rhythm of 7 Hz is present and symmetric.
+There are occasional bursts of 2 Hz delta activity that is quasirhythmic, with superimposed fast
+frequencies. Occasionally this delta activity is more prominent over the bilateral posterior quadrants.
+
+
+
+
+Drowsiness consists of attenuation and fragmentation of the posterior dominant rhythm, with further
+background slowing.
+
+
+
+Sleep was characterized by rudimentary K complexes, often with embedded bilatera
+spikes/polyspikes (dyshormia).
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Frequent right posterior temporal (T6 max) spike/polyspike-wave - may occur synchronously with #3
+and occasionally occur in runs of 1 Hz for <5 sec
+
+2. Frequent right occipital (O2 max) spike/polyspike-wave. These occasionally occur in runs of 1-1.5
+Hz for <5 sec
+
+
+3. Frequent right parietal (P4 max) spike/polyspike/sharp-wave
+
+4. Occasional sharp-wave activity seen broadly over right hemisphere (fronto-parietal field)
+
+
+5. Occasional diffuse, bi-frontally prominent spike-wave. When viewed in a circle montage, these
+frequently (but do not always) clearly phase reverse over the right frontal region (Fp2>F8/F4)
+
+
+6. In sleep, occasional bursts of generalized paroxysmal fast activity for <5 sec
+
+
+Epileptiform activity is activated by drowsiness.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+(1) DATE AND TIME:   9/12/2016 at 13:25
+
+EVENT TYPE: Push button - dizziness
+
+
+CLINICAL: Patient pushes button for dizziness.  Is lying in bed, holding head with hand. She remains
+fully oriented. Expresses that she wants to use the bathroom.
+
+EEG: No EEG changes from background were seen during the event
+
+
+DURATION: ~2 min 25 sec
+
+POSTICTAL CHANGES:  none
+
+EKG: no change
+
+
+
+(2) DATE AND TIME:   9/12/2016, unclear time (either 12 pm per husband, or 10 pm per patient)
+
+
+
+EVENT TYPE: Unresponsiveness
+
+CLINICAL: There is no button push. On rounds the following morning, patient/husband state that she
+was speaking on phone with husband and stopped responding. However, they cannot agree on what
+time this occurred (see above).
+
+
+
+EEG: the entire record is reviewed. There are no electrographic seizures on this day.
+
+DURATION: unclear
+
+POSTICTAL CHANGES:  none
+
+
+EKG: no change
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+This is an abnormal video EEG due to:
+
+1. Mild generalized slowing and suboptimal organization
+
+
+2. Occasional bursts of 2 Hz delta activity that is quasirhythmic, with superimposed fast frequencies.
+Occasionally this delta activity is more prominent over the bilateral posterior quadrants.
+
+
+3. Frequent right posterior temporal (T6 max) spike/polyspike-wave - may occur synchronously with #3
+and occasionally occur in runs of 1 Hz for <5 sec
+
+4. Frequent right occipital (O2 max) spike/polyspike-wave. These occasionally occur in runs of 1-1.5
+Hz for <5 sec
+
+
+5. Frequent right parietal (P4 max) spike/polyspike/sharp-wave
+
+6. Occasional sharp-wave activity seen broadly over right hemisphere (fronto-parietal field)
+
+
+7. Occasional diffuse, bi-frontally prominent spike-wave. When viewed in a circle montage, these
+frequently (but do not always) clearly phase reverse over the right frontal region (Fp2>F8/F4)
+
+
+8. In sleep, occasional bursts of generalized paroxysmal fast activity for <5 sec
+
+9. Push button for dizziness without EEG or EKG correlate
+
+10. Episode of unresponsiveness without EEG or EKG correlate
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (9/13/2016, 06:00 - 9/14/2016, 06:00)
+
+
+
+AEDs:
+
+9/13:
+
+
+CBZ 900-900
+
+LCS 100-0
+
+
+
+
+INTERICTAL BACKGROUND:
+
+The bursts of diffuse/posterior quadrant predominant delta activity in wakefulness are more frequent
+and last longer (<20 sec) on this day.
+
+
+
+
+EPILEPTIFORM ACTIVITY: as on day 1, +
+
+1. Runs of right hemispheric spike-wave at 2.5-3 Hz last up to 10 sec but do not clearly evolve.
+Patient is not tested during them.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Patient uses pedal bike 9/13 14:09, 20:04-20:19, 23:04-23:07, 23:33
+
+
+Patient is sleep deprived until 9/14 03:00
+
+
+SEIZURES/EVENTS:
+
+
+
+(1) DATE AND TIME:   9/13/2016 at 04:11
+
+EVENT TYPE: Push button - Jerk - body
+
+
+CLINICAL: Patient pushes button for single body jerk. On video a brief truncal jerk is seen
+
+EEG: No EEG changes from background were seen during the event. No associated preceding
+epileptiform discharge
+
+
+DURATION: 1 second
+
+POSTICTAL CHANGES:  none
+
+
+EKG: no change
+
+
+(2) DATE AND TIME:   9/13/2016 at 06:22
+
+
+EVENT TYPE: Jerk - back
+
+CLINICAL: Patient informs nurse that at 06:23 she had
+
+EEG: No EEG changes from background were seen during the event.
+
+
+DURATION: unclear
+
+POSTICTAL CHANGES:  none
+
+EKG: no change
+
+
+
+(3) DATE AND TIME:   9/13/2016 at 09:30
+
+EVENT TYPE: Push button - Dizziness
+
+
+
+
+
+CLINICAL: Patient off camera and pushes button for dizziness. At 09:31 she can be heard answering
+orientation questions; at 09:32 the camera shifts and she appears sitting in a chair, in no acute
+distress.
+
+EEG: No EEG changes from background were seen during the event.
+
+DURATION: unclear
+
+
+POSTICTAL CHANGES:  none
+
+EKG: no change
+
+
+
+(4) DATE AND TIME:   9/13/2016 at 15:09
+
+EVENT TYPE: Push button - Jerk - hands
+
+CLINICAL: Patient pushes button for
+
+
+EEG: No EEG changes from background were seen during the event. In the minutes preceding,
+background consists of runs of spike-wave
+
+DURATION: seconds
+
+
+POSTICTAL CHANGES:  none
+
+EKG: no change
+
+
+
+(5) DATE AND TIME:   9/13/2016 at 16:12
+
+EVENT TYPE: Push button - Jerk - hands
+
+CLINICAL: Patient pushes button for
+
+
+EEG: No EEG changes from background were seen during the event
+
+DURATION: seconds
+
+POSTICTAL CHANGES:  none
+
+
+EKG: no change
+
+
+
+
+EKG: A single lead captured a heart rate in the 60s-80s
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+
+Similar background and interictal findings as day 1, with:
+
+1. Longer runs of diffuse/posterior quadrant delta activity in wakefulness:
+
+2. Runs of right hemispheric spike-wave at 2.5-3 Hz last up to 10 sec
+
+
+3. Episodes as above without EEG correlate
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+
+DAY 3 (9/14/2016, 06:00 - 9/15/2016, 06:00)
+
+
+
+AEDs:
+
+
+9/14:
+
+CBZ 900-900
+
+LCS OFF
+
+
+
+INTERICTAL BACKGROUND: unchanged
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+unchanged
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+9/14/2016 at 11:24, 13:18 - uses exercise bike
+
+
+SEIZURES/EVENTS:
+
+
+(1) DATE AND TIME:   9/14/2016 at 10:28
+
+EVENT TYPE: Push button - dizziness
+
+
+CLINICAL: Patient pushes button for dizziness. She is lying in bed holding her head. She remains
+fully oriented.
+
+EEG: No EEG changes from background were seen during the event
+
+
+DURATION: unclear
+
+POSTICTAL CHANGES:  none
+
+EKG: no change
+
+
+
+(2) DATE AND TIME:   9/14/2016 at 11:16
+
+EVENT TYPE: Push button -
+
+
+CLINICAL: Patient pushes button for not feeling well. She is sitting in chair and appears mildly
+uncomfortable. She is not formally tested but does appropriately converse with nurse's aid.
+
+EEG: No EEG changes from background were seen during the event
+
+
+DURATION: unclear
+
+POSTICTAL CHANGES:  none
+
+
+
+
+EKG: no change
+
+
+
+(3) DATE AND TIME:   9/14/2016 at 14:15
+
+EVENT TYPE: Push button - L arm jerk
+
+
+CLINICAL: Patient pushes button for not feeling well. She is sitting in chair and appears to be
+watching TV. Nurse comes in and pt reports left arm jerk for 1 second. No apparent jerk on video. She
+remains alert and responsive.
+
+
+EEG: No EEG changes from background were seen during the event
+
+DURATION: seconds
+
+POSTICTAL CHANGES:  none
+
+
+EKG: no change
+
+
+(4) DATE AND TIME:   9/14/2016 at 14:18
+
+
+EVENT TYPE: Push button -
+
+CLINICAL: She is sitting in chair. Nurse comes in and pt complains of above. Nurse pushes button. No
+obvious clinical seizure activity.
+
+
+EEG: No EEG changes from background were seen during the event
+
+DURATION: unclear
+
+
+POSTICTAL CHANGES:  none
+
+EKG: no change
+
+
+
+(5) DATE AND TIME:   9/14/2016 at 14:54
+
+EVENT TYPE: Push button -
+
+CLINICAL: Patient sitting in chair, takes sip of juice, then pushes button. Places hands on head. No
+obvious seizure activity. Tech comes in and patient responds appropriately.
+
+
+EEG: No EEG changes from background were seen during the event
+
+DURATION: unclear
+
+
+POSTICTAL CHANGES:  none
+
+EKG: no change
+
+
+
+EKG: A single lead captured a heart rate in the 60s-80s
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+
+Similar background and interictal findings as day 2, with:
+
+1. 4 push buttons for
+
+2. 1 push button for L arm jerk without EEG/EKG correlate
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4 (9/15/2016, 06:00 - 9/16/2016, 06:00)
+
+
+AEDs:
+
+
+CBZ 900-900
+
+LCS Off
+
+
+ZON 100 q12h started
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No change
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+(1) DATE AND TIME:   9/15/2016 at 12:13
+
+EVENT TYPE: Push button -
+
+CLINICAL: Patient sitting in chair, speaking on phone to sister. No clinical seizure activity. After the
+conversation, she pushes the button for "losing a piece of time." On rounds later on, patient and sister
+report that for several seconds she did not respond to sister. Patient states she can remember most,
+but not all of the conversation and had trouble understanding some of it.
+
+
+
+EEG: No EEG changes from background were seen during the event. Rare brief runs of rhythmic
+delta were seen <1 sec without frank spike/polyspike-wave.
+
+
+DURATION: was on the phone ~8 min
+
+POSTICTAL CHANGES:  none
+
+
+EKG: no change
+
+
+EKG: A single lead captured a heart rate in the 60s-80s
+
+
+
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+
+Similar background and interictal findings as days 2-3, with:
+
+1. 1 push button for
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 5 (9/16/2016, 06:00 - 9/16/2016, 11:53)
+
+
+AEDs:
+
+CBZ 900-900
+
+
+LCS Off
+
+ZON 100 q12h
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No change
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+
+(1) DATE AND TIME:   9/16/2016 at 11:31
+
+EVENT TYPE:
+
+CLINICAL: patient is speaking to epileptologist on rounds. She seems mildly agitated and raises her
+right hand in the air - epileptologist asks what's wrong, and patient states, "dizzy." Epileptologist
+pushes button.
+
+
+EEG: no EEG changes from background were seen during this event. Brief runs of rhythmic delta for
+< 10 sec were seen after the push button, not before
+
+
+DURATION: 1 min 14 sec
+
+
+POSTICTAL CHANGES:  none
+
+
+EKG: no change
+
+
+
+EKG: A single lead captured a heart rate in the 70s-90s
+
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION:
+
+Similar background and interictal findings as days 2-4, with:
+
+1. 1 push button for
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+
+INTERICTAL FINDINGS:  The patients interictal findings were significant for a 7 Hz posterior
+dominant rhythm with suboptimal organization and frequent bursts of 2 Hz quasirhythmic delta
+activity  with superimposed fast frequencies, occasionally more prominent over the bilateral posterior
+quadrants. In addition, there were multiple subtypes of epileptiform discharges seen over the right
+hemisphere:
+
+
+
+1. Frequent right posterior temporal (T6 max) spike/polyspike-wave - may occur synchronously with #3
+and occasionally occur in runs of 1 Hz for <5 sec
+
+
+2. Frequent right occipital (O2 max) spike/polyspike-wave. These occasionally occur in runs of 1-1.5
+Hz for <5 sec
+
+
+3. Frequent right parietal (P4 max) spike/polyspike/sharp-wave
+
+4. Occasional sharp-wave activity seen broadly over right hemisphere (fronto-parietal field)
+
+5. Occasional diffuse, bi-frontally prominent spike-wave. When viewed in a circle montage, these
+frequently (but do not always) clearly phase reverse over the right frontal region (Fp2>F8/F4)
+
+
+6. In sleep, occasional bursts of generalized paroxysmal fast activity for <5 sec
+
+
+
+
+ICTAL FINDINGS:
+
+The patient did not have any definite electrographic seizures.
+
+
+
+
+
+
+
+
+
+She did, however, push the event button multiple times for (1) dizziness, (2) hands/arms/body jerking,
+(3) "feeling off/weird", (4) "blanking out". There was no clear electrographic ictal correlate to any of
+these clinical symptoms.
+
+
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. No seizures captured
+
+
+
+
+EPILEPSY DIAGNOSIS:
+
+
+1. No seizures captured; however, based on background and interictal findings, a symptomatic
+epilepsy is suspected
+
+
+
+
+
+
+CONCLUSION:
+
+The patient was admitted to the epilepsy monitoring unit for 5 days with continuous video EEG.
+This was an elective EMU monitoring session for medication adjustment and recording of seizures for
+presurgical evaluation.
+
+
+
+
+The patients interictal findings were significant for a 7 Hz posterior dominant rhythm with suboptimal
+organization and frequent bursts of 2 Hz quasirhythmic delta activity with superimposed fast
+frequencies, occasionally more prominent over the bilateral posterior quadrants. In addition, there
+were multiple subtypes of epileptiform discharges seen over the right hemisphere.
+
+
+
+
+Multiple clinical episodes were captured, but none were associated with clear electrographic seizure
+activity.
+
+
+
+During this admission, she was tapered off Vimpat and started on Zonegran. Her Tegretol was
+continued.
+
+
+
+We recommend that she obtain a 3T MRI of the brain and undergo a neuropsychological evaluation.

@@ -1,0 +1,217 @@
+HISTORY: a 66 y.o. male with a history of CHF who presented with fevers and altered mental status, referred for EEG for assessment of mental status change.  
+
+MEDICATIONS: Loaded with Dilantin 11/29/2015 Loaded with VPA 11/29/2015 Loaded with Phenobarbital 11/29/2015  
+
+SEDATION: meds as above  
+
+TECHNIQUE: A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.  
+
+DAY 1 (11/29/2015, 13:40 - 11/30/2015, 06:00)
+
+BACKGROUND: The waking background is continuous, symmetric, poorly organized, and consists predominantly of alpha with admixed beta. There is no posterior dominant rhythm. There are no sleep transients.  The background is not clearly reactive, nor variable, and there are no definite state changes.  There were no persistent asymmetries in amplitude and frequency.  There is occasional attenuation of faster frequencies seen over the right hemisphere (right temporal max). 
+
+*Of note, the study disconnects 11/29/2015 at 20:01 and reconnects 11/29/2015 at 21:00. 
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):  None  
+
+EPILEPTIFORM ACTIVITY:  1. Frequent (>1/min to <1/10s) right temporal sharp waves (T2 > T4/F8 maximum), often periodic at 1 Hz (LPD), frequently with underlying rhythmic activity (LPD+R). 2. Rare generalized rhythmic delta activity at 2.5 Hz for <10 seconds  
+
+EVENTS: Multiple seizures are captured on this day (displayed in time (duration) format):  11/29/2015 at: 13:43 (1:17), 14:02 (00:40 s), 14:06 (00:40 s), 14:09 (00:40 s), 14:12 (00:41 s), 14:21 (00:40 s), 14:30 (00:46 s), 14:43 (00:51 s), 14:50 (00:40 s), 15:00 (00:28 s), 15:04 (00:33 s), 15:10 (00:58 s), 15:16 (00:41 s), 15:20 (00:37 s), 15:30 (00:32 s), 15:39 (00:57 s), 15:43 (01:05), 15:52 (01:16), 15:58 (00:48 s), 16:03 (00:40 s), 16:19 (00:51 s), 16:28 (00:51 s), 16:33 (00:49 s), 16:46 (00:45 s), 16:51 (00:39 s), 17:03 (00:50 s), 17:10 (01:05), 17:28 (01:03), 17:35 (00:37 s), 17:38 (00:54 s), 17:43 (00:33 s), 17:56 (00:53 s), 18:01 (00:50 s), 18:14 (01:29), 18:35 (00:47 s), 18:40 (02:05), 19:01 (03:35), 19:34 (00:44 s), 19:40 (00:55 s), 21:11 (00:39 s), 21:27 (00:35 s), 21:37 (00:42 s), 22:17 (00:29 s), 23:37 (00:53 s), 23:57 (00:45 s) 11/30/2015 at: 00:17 (00:37 s), 01:16 (00:42 s), 01:24 (00:28 s), 01:27 (00:45 s), 01:31 (00:41 s), 01:37 (00:48 s), 01:45 (00:36 s), 01:51 (00:48 s), 01:56 (00:57 s), 02:02 (00:49 s), 02:11 (00:53 s), 02:19 (00:43 s), 02:39 (00:50 s), 02:39 (00:50 s), 02:45 (00:56 s), 03:14 (00:55 s), 03:36 (00:36 s) 03:57 (00:38 s), 04:03 (00:35 s), 04:26 (00:42 s), 04:36 (00:32 s), 04:45 (02:17), 04:51 (00:57 s), 05:42 (00:38 s), 05:48 (00:36 s)  
+
+EVENT TYPE: Seizure 
+
+CLINICAL:  Note that video is not available for seizures captured 11/29/2015 from start of study up till and including seizure at 19:40. Video reviewed for select seizures (11/29 21:11, 21:27, 21:37; 11/30 04:45): there is no definite clinical correlate, though gaze direction cannot be clearly seen. EEG: There is onset of right temporal (T2 > T4/F8 maximum) sharp waves at 1 Hz, that increase in frequency to 2 Hz, then 3-4 Hz, increasing in amplitude and spreading to the left temporal region (T1 max) and right central region (C4 max) before slowing in frequency *A minority of seizures (example: 11/29/2015 at 15:30) begin with rhythmic alpha over the right temporal region that slows to rhythmic theta with admixed spikes, then 3-4 Hz spike and wave that spreads over the right central and left temporal regions. 
+
+POSTICTAL CHANGES: No postictal EEG changes EKG: There is no definite change in heart rate seen on a single EKG strip.  
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION: This is an abnormal video EEG study due to: 1. Ongoing right temporal seizures 2. Frequent right temporal sharp waves 3. Rare generalized rhythmic delta activity at 2.5 Hz for <10 seconds 4. Occasional attenuation of faster frequencies seen over the right hemisphere (right temporal max) 5. Severe diffuse slowing  6. Background disorganization  These findings are diagnostic for ongoing status epilepticus of right temporal origin, superimposed on right temporal dysfunction and severe diffuse cerebral dysfunction.  
+
+ -----------------------------------------------------------------  
+
+DAY 2 (11/30/2015, 06:00 - 12/1/2015, 06:00) 
+
+BACKGROUND: as the record progresses on this day, the background rhythms become more attenuated 
+
+GENERALIZED SLOWING: No change 
+
+FOCAL SLOWING: No change 
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None 
+
+SPORADIC EPILEPTIFORM ACTIVITY: No change from Day 1 
+
+EVENTS: Multiple seizures are captured on this day - detailed below as the number of seizures for each hour. Seizures range in duration from 30 sec up to 2:30. Electrographic evolution is as described on day one, but note that as this day progresses, seizures noted below evolve less clearly There is no obvious clinical correlate to randomly selected seizures.  
+
+11/30/2015:  06:00 - 07:00: 2  07:00 - 08:00: 3  08:00 - 09:00: 0  09:00 - 10:00: 1  10:00 - 11:00: 2 11:00 - 12:00: 6 12:00 - 13:00: 1 13:00 - 14:00: 6 14:00 - 15:00: 3 15:00 - 16:00: 3 16:00 - 17:00: 2 17:00 - 18:00: 0 18:00 - 19:00: 3 19:00 - 20:00: 3 20:00 - 21:00: 4  21:00 - 22:00: 3 22:00 - 23:00: 0 (*note that the recording was affected by a power outage between 22:10 - 23:19) 23:00 - 24:00: 0  12/1/2015: 00:00 - 01:00: 2 01:00 - 02:00: 1 02:00 - 03:00: 1 03:00 - 04:00: 3 04:00 - 05:00: 1 05:00 - 06:00: 6  EKG: A single EKG lead captured a regular rhythm in the 60s-70s  
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION These findings are concerning for ongoing seizures originating in the right temporal region. Increasing background attenuation seen as the day progresses may at least in part be related to a medication effect.   
+
+  -----------------------------------------------------------------  
+
+DAY 3 (12/1/2015, 06:00 - 12/2/2015, 06:00)  
+
+*Phenobarbital load continues on this day; patient intubated 12/1/2015 ~20:43.  
+
+BACKGROUND: The background becomes increasingly attenuated on this day at 20:00. The background becomes discontinuous by 12/2/2015 01:49. 
+
+GENERALIZED SLOWING: Severe generalized slowing 
+
+FOCAL SLOWING: No change 
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None 
+
+SPORADIC EPILEPTIFORM ACTIVITY:  1. As previously noted 2. Rare sharply contoured right temporal lateralized rhythmic delta activity (LRDA+S) at 1 Hz for runs of <10 seconds 
+
+EVENTS: Multiple seizures are captured on this day - detailed below as the number of seizures for each hour. Seizures range in duration from 30 sec up to 2:30. Electrographic evolution is as described on day one, but note that as this day progresses, seizures noted below evolve less clearly. As the day progresses, many seizures begin with rhythmic alpha over the right temporal regions, evolving to sharply contoured rhythmic theta then rhythmic delta over this region, with variable spread. There is no obvious clinical correlate to randomly selected seizures.  
+
+12/1/2015:  06:00 - 07:00: 3 07:00 - 08:00: 1 08:00 - 09:00: 3 09:00 - 10:00: 5  10:00 - 11:00: 5 11:00 - 12:00: 4 12:00 - 13:00: 3 13:00 - 14:00: 4 14:00 - 15:00: 3 15:00 - 16:00: 4 16:00 - 17:00: 8 17:00 - 18:00: 6 18:00 - 19:00: 5 19:00 - 20:00: 8 20:00 - 21:00: 8 21:00 - 22:00: 4 22:00 - 23:00: 2  23:00 - 24:00: 0 (note: leads disconnected between 12/1/2015 22:50 - 12/2/2015 00:45)  12/2/2015: 00:00 - 01:00: 1 01:00 - 02:00: 1 02:00 - 03:00: 1 03:00 - 04:00: 2 04:00 - 05:00: 0 (note: prominent lead/muscle artifact obscures interpretation at times) 05:00 - 06:00: 0
+
+(note: prominent lead/muscle artifact obscures interpretation at times)  Of note, patient is intubated around 22:43. EKG: A single EKG lead captured a heart rate in the 60s-70s  
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION Findings on this day are concerning for continued ongoing seizures and epileptiform activity of right temporal origin. There is a decrease in seizure count by 12/1/2015 23:00, but note that interpretation is somewhat limited due to muscle/lead artifact and a brief period of study disconnection. The background becomes increasingly attenuated and discontinuous on this day, likely a sequelae of sedating medication. 
+
+ ----------------------------------------------------------------- 
+
+DAY 4 (12/2/2015, 06:00 - 12/3/2015, 06:00)  
+
+*Versed drip started 12/2/2015 11:42 am  
+
+BACKGROUND: Background becomes increasingly attenuated and discontinuous on this day 
+
+GENERALIZED SLOWING: severe 
+
+FOCAL SLOWING: No change 
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None 
+
+SPORADIC EPILEPTIFORM ACTIVITY: 1. Right temporal sharp waves become less frequent on this day 
+
+EVENTS: Electrographic seizures captured as detailed below:  12/2/2015:  06:00 - 07:00: 0 07:00 - 08:00: 1 08:00 - 09:00: 0 (note: prominent lead/muscle artifact obscures interpretation at times) 09:00 - 10:00: 0 (note: prominent lead/muscle artifact obscures interpretation at times) 10:00 - 11:00: 0 (note: prominent lead/muscle artifact obscures interpretation at times) 11:00 - 06:00 12/3/2015: 0  
+
+EKG: A single EKG lead captured a heart rate in the 60s-70s.   
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION Seizures cease on this day as patient continues to be loaded with phenobarbital and is started on a Versed drip. The background has become increasingly attenuated and discontinuous on this day, which is at least in part due to sedation.  
+
+ -----------------------------------------------------------------  
+
+DAY 5 (12/3/2015, 06:00 - 12/4/2015, 06:00) 
+
+BACKGROUND: No change (remains discontinuous, disorganized, with theta, alpha, and admixed delta alternating with more attenuated rhythms) 
+
+GENERALIZED SLOWING: No change 
+
+FOCAL SLOWING: No change 
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None 
+
+SPORADIC EPILEPTIFORM ACTIVITY: None 
+
+EVENTS: No clinical or electrographic events reported or detected EKG: A single EKG lead captured a heart rate in the 60s-70s.   
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION  There are no seizures captured on this day.  The background remains discontinuous, with severe generalized slowing and disorganization, which is likely due at least in part to a medication effect.  
+
+ -----------------------------------------------------------------  
+
+DAY 6: (12/4/2015, 06:00 - 12/5/2015, 06:00)  
+
+BACKGROUND: No change (remains discontinuous, disorganized, with theta, alpha, and admixed delta alternating with more attenuated rhythms) 
+
+GENERALIZED SLOWING: No change 
+
+FOCAL SLOWING: No change 
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None 
+
+SPORADIC EPILEPTIFORM ACTIVITY: Rare right anterior temporal sharp waves. 
+
+EVENTS: No clinical or electrographic events reported or detected EKG: A single EKG lead captured a heart rate in the 60s-70s.   
+
+DAY 6 IMPRESSION & CLINICAL CORRELATION  There are no seizures captured on this day.  The background remains discontinuous, with severe generalized slowing and disorganization, which is likely due at least in part to a medication effect. 
+
+ -----------------------------------------------------------------  
+
+DAY 7 (12/5/2015, 06:00 - 12/6/2015, 06:00)  
+
+The patient has been off propofol more than 24 hours. He remains intubated and comatose. He was examined and stimulated at the Bedside.  
+
+BACKGROUND:  This is a dynamic pattern. It is initially markedly slow, low voltage and relatively invariant. Over time there is an increase in 6.5 theta, noted in frontocentral regions. There are later sections with a slow, delta pattern. On the evening of the 5th there are isolated bursts of 0.5 Hz delta accompanied by 14 Hz beta, reminiscent of delta brushes. This does not appear to be an EOM nor ventilator artifact 
+
+GENERALIZED SLOWING: Marked, nearly continuous 
+
+FOCAL SLOWING: subtle, seen at slow paper speed in the sections with more theta, at times the right hemisphere is slower 
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None 
+
+SPORADIC EPILEPTIFORM ACTIVITY: None 
+
+EVENTS: No clinical or electrographic events reported or detected 
+
+EKG: A single EKG lead captured 86 Artifacts: O2 rocking and potentially T5-O1 artifact vs sharp wave  
+
+DAY 7 IMPRESSION & CLINICAL CORRELATION This section demonstrates ongoing resolution of severe, refractory status epilepticus. No seizures were recorded and the previously identified right temporal lateralized rhythmic delta activity (LRDA+S) and periodic right temporal sharp waves (T2 > T4/F8 maximum) have disappeared. There is little in the way of reactivity to stimulation, but there is some variability in the record. At this time, the record is most supportive of a severe bi-hemispheric disturbance of cerebral function as can be seen with post ictal state or prolonged use of sedative hypnotic medicines. Transient delta brush waves were seen, but not sustained and are of no clear clinical significance.     
+
+  -----------------------------------------------------------------  
+
+DAY 8 (12/6/2015, 06:00 - 12/7/2015, 06:00)  
+
+BACKGROUND: consists of a disorganized mixture of alpha and theta with admixed delta. Sleep is characterized by more attenuated mix of delta and theta.  
+
+GENERALIZED SLOWING: moderate 
+
+FOCAL SLOWING: None 
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None 
+
+SPORADIC EPILEPTIFORM ACTIVITY: None 
+
+EVENTS: No clinical or electrographic events reported or detected 
+
+EKG: A single EKG lead captured a heart rate in the 60s-70s   
+
+DAY 8 IMPRESSION & CLINICAL CORRELATION  Moderate generalized slowing. No epileptiform activity. No seizures.  
+
+  -----------------------------------------------------------------  
+
+DAY 9 (12/7/2015, 06:00 - 12/8/2015, 06:00)  
+
+BACKGROUND: consists of a disorganized mixture of alpha and theta with admixed delta. Sleep is characterized by more attenuated mix of delta and theta. Note that many portions of temporal chains are obstructed by muscle artifact on this day. 
+
+GENERALIZED SLOWING: moderate 
+
+FOCAL SLOWING: None 
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None 
+
+SPORADIC EPILEPTIFORM ACTIVITY: None 
+
+EVENTS: No clinical or electrographic events reported or detected 
+
+EKG: A single EKG lead captured a heart rate in the 60s-70s   
+
+DAY 9 IMPRESSION & CLINICAL CORRELATION  Moderate generalized slowing. Interpretation limited somewhat by muscle artifact over temporal chains. No epileptiform activity. No seizures.  
+
+ -----------------------------------------------------------------  
+
+DAY 10 (12/8/2015, 06:00 - 12/8/2015, 09:44)  
+
+BACKGROUND: No change, except artifact over temporal chains has resolved 
+
+GENERALIZED SLOWING: No change 
+
+FOCAL SLOWING: No change 
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None 
+
+SPORADIC EPILEPTIFORM ACTIVITY: Rare (<1hour) diffuse sharp waves 
+
+EVENTS: No clinical or electrographic events reported or detected 
+
+EKG: A single EKG lead captured a heart rate in the 90s.   
+
+DAY 10 IMPRESSION & CLINICAL CORRELATION  Moderate generalized slowing. Rare diffuse sharp waves. No seizures. 
+
+ ----------------------------------------------------------------- 
+
+FINAL IMPRESSION:  This is an abnormal video EEG due to:  This is an abnormal video EEG study due to: 1. Status epilepticus of right temporal origin, noted from 11/30 until 12/2 2. Frequent right temporal interictal epileptiform activity (sharp waves/lateralized rhythmic delta activity), resolving with increasing doses of medication by 12/4 3. Rare generalized rhythmic delta activity at 2.5 Hz for <10 seconds, resolving with increasing doses of medication by 12/3 4. Occasional attenuation of faster frequencies seen over the right hemisphere (right temporal max), less clearly seen with increasing doses of medication 5. Severe diffuse slowing, improving to "moderate" diffuse slowing by 12/6 6. Background disorganization   
+
+FINAL CLINICAL CORRELATION:  These findings are consistent focal seizures and status epilepticus of right temporal origin, with background findings consistent with severe, then moderate diffuse cerebral dysfunction, which is likely at least partly due to medication effect. Last seizure is noted on 12/2.  

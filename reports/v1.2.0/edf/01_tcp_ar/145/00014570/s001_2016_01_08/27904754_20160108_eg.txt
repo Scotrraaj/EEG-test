@@ -1,0 +1,28 @@
+History:	59 year old woman with a recent nocturnal convulsion.
+Medications:	no AEDs, metformin, Januvia, ASA
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates 
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over 
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal 
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric 
+Intermittent polymorphic theta and delta activity is present in the left anterior temporal region 
+during wakefulness, increasing during drowsiness.  Occasional left anterior temporal (F7/T1 
+maximal) sharp waves with aftergoing slow waves are captured.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces focal slowing 
+in the left anterior temporal region.  Stepped photic stimulation from 1-21 flashes per second (fps) 
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+	Sharp waves, occasional, left temporal, anterior, F7/T1 maximal
+	Focal slowing, polymorphic, intermittent, left temporal, anterior, mild-to-moderate
+	Sleep, stage 2
+Interpretation:
+This is an ABNORMAL awake and asleep 26-minute EEG due to intermittent mild-to-moderate left 
+anterior temporal focal slowing and occasional left anterior temporal epileptiform discharges. 
+These findings indicate a potentially epileptogenic focus in the left anterior temporal region.
+	
+

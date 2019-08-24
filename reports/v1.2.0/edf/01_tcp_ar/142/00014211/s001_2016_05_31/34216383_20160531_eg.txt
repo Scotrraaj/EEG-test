@@ -1,0 +1,95 @@
+HISTORY:
+
+66 y.o. male with a history of intracranial hemorrhage in the setting of a
+motorcycle accident (wearing helmet) referred for routine EEG for assessment of mental status
+change.
+
+
+MEDICATIONS: Keppra
+
+
+
+SEDATION: propofol
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically difficult record
+due to abundant muscle artifact affecting both temporal chains.  The study included a single
+channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+The background is continuous and consists of disorganized theta, delta, and admixed faster
+frequencies.
+
+
+
+
+
+
+There is no posterior dominant rhythm.  There is no clear reactivity/variability/state change, but
+noxious stimulation and passive eye opening movements are not administered. The tech does note
+that patient is continuous moving and "won't sit still."
+
+
+At times there is subtle attenuation of faster frequencies over the right parasagittal region.
+
+
+
+
+Moderate generalized slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 102 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal, technically limited, asleep only routine EEG due to:
+
+1. Moderate generalized slowing and background disorganization
+
+2. Intermittent subtle attenuation of faster frequencies over the right parasagittal region
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate the presence of moderate diffuse cerebral dysfunction.
+
+
+Attenuation of faster frequencies over the right parasagittal region may be seen with cortical injury in
+that area, or alternatively may be associated with factors that increase the recording distance
+between the cerebrum and recording electrodes, such as scalp hematoma, subdural hematoma, or
+epidural hematoma - correlation with imaging study is suggested.

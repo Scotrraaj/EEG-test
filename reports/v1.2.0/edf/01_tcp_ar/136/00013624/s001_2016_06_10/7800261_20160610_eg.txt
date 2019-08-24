@@ -1,0 +1,103 @@
+HISTORY:
+
+81 y.o. female with a history of a recent stroke and episode of loss of
+consciousness.
+
+
+
+MEDICATIONS:
+
+
+Fentanyl patch, no AEDs
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 8.5-9 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+Patient remains awake throughout the recording.
+
+
+Intermittent polymorphic theta and delta activity is captured over the right anterior temporal region.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+An irregular heart rate of 54 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake only  routine EEG due to:
+
+1. Intermittent mild-to-moderate right anterior temporal focal slowing
+
+
+2. Cardiac arrhythmia
+
+
+CLINICAL CORRELATION:
+
+
+Intermittent focal slowing is suggestive of a focal structural lesion over the right anterior temporal
+region.
+
+
+
+An irregular heart rate is noted on a single EKG lead.

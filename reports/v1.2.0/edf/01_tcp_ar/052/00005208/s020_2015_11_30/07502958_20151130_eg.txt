@@ -1,0 +1,2343 @@
+
+
+HISTORY:
+
+This is a 55 y.o. ambidextrous female admitted for intracranial
+
+
+(iEEG) monitoring with intracranial electrodes with a history of:
+
+treatment resistant epilepsy.
+
+
+
+
+Intracranial video electroencephalography with intracranial
+
+electrodes was performed to: lateralize and localize the ictal
+
+onset zone
+
+
+
+
+CONDITIONS OF THE RECORDING:
+
+Continuous video-electroencephalogram (VEEG) was recorded
+
+
+utilizing the NicOne System (Natus). A maximum of 128
+
+
+
+
+simultaneous channels of intracranial electroencephalogram (EEG)
+
+was sampled at 512 Hertz utilizing the C64 system amplifiers
+
+
+(A/D=22 bit, CMRR>110 dB).  Clinical events were marked on the
+
+EEG record via an event button controlled by the patient, family
+
+
+or clinical team.  All clinical events as well as extensive
+
+random background samples including wakefulness, drowsiness, and
+
+sleep were reviewed.  Digital analysis of the EEG was performed
+
+utilizing the NicOne automatic spike and seizure detection.
+
+
+
+Staff supervision, patient-initiated event buttons and
+
+
+computerized algorithms allowed detection of epileptiform EEG
+
+activity and correlation with behavior.  The patient was attended
+
+by an EEG technician and/or nursing aide 24 hours a day.  A
+
+neurologist was available in person or on call 24 hours per day.
+
+
+The patient was monitored via video 24 hours per day by a
+
+registered nurse with special training in seizure recognition and
+
+
+testing.  During times when a technician was not available, EEG
+
+recording, video recording, and computer analysis continued, and
+
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+MEDICATIONS:
+
+
+OXcarbazepine (TRILEPTAL) 300 mg tablet, 2 tabs in am and 3 tabs
+
+in pm [given 11/30/2015, but patient later admitted to taking 2
+
+tabs twice daily at home]
+
+
+
+SEDATION: None
+
+
+
+STAGE: I
+
+
+ELECTRODE IMPLANT:
+
+In the left hemisphere, the following electrodes were implanted:
+
+
+5 depth electrodes:
+
+12 contacts, LOF, left orbitofrontal
+
+
+12 contacts, LAM, left amygdala
+
+12 contacts, LHH, left hippocampal head
+
+
+12 contacts, LHB, left hippocampal body
+
+12 contacts, LTP, left temporal pole
+
+
+
+In the right hemisphere, the following electrodes were implanted:
+
+
+5 depth electrodes:
+
+12 contacts, ROF, right orbitofrontal
+
+12 contacts, RAM, right amygdala
+
+12 contacts, RHH, right hippocampal head
+
+
+12 contacts, RHB, right hippocampal body
+
+12 contacts, RTP, right temporal pole
+
+
+
+See attached pdf file
+
+
+DESCRIPTION OF FINDINGS:
+
+
+
+
+
+DAY 1 (11/30/2015, 18:28 - 12/1/2015, 06:00)
+
+
+AEDs: 11/30/2015: Oxcarbazepine 600 mg in AM, 900 mg in PM;
+
+Gabapentin 300 mg q8h
+
+
+
+There is isoelectric activity over LOF 11-12; LAM 9-10, 11-12;
+
+
+LTP 11-12, RAM 9-10, 11-12; RTP 5-6, 7-8, 11-12
+
+
+There is occasional delta slowing over LAM 7-8, LTP 5-8, ROF 5-6
+
++ 9-10, RAM 5-8; RHB 3-4 + 11-12
+
+
+
+LOF demonstrates triangular 4-5 Hz activity including LOF 1-4 and
+
+
+LOF 7-10
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Frequent spikes LOF 1-4
+
+
+2. Occasional spikes LOF 5-6
+
+3. Occasional spikes LOF 7-8
+
+
+*Spikes in LOF 5-8 can be seen independently of LAM, LHH, LHB,
+
+LTP spikes
+
+
+
+4. Occasional spikes LAM 1-2, synchronous with but also
+
+
+independent of LHH 1-4 and LTP 1-2
+
+5. Frequent spikes LHH 1-4
+
+
+6. Spikes LHB 1-4
+
+7. Polyspikes LHB 1-2, 3-4, 9-10, synchronous with polyspikes LTP
+
+5-6, 7-8
+
+8. Rare spikes over LAM 1-2, 7-8; synchronous with spikes over
+
+
+LHH 1-4, LHB 1-4, LTP 1-2, 7-8
+
+9. Rarely, spike activity is synchronous over the left sided
+
+
+electrodes, involving LOF 1-10; LAM 1-8; LHH 1-8, LHB 1-4; LTP
+
+1-12
+
+
+10. Occasional spike and wave ROF 3-4, 5-6, 9-10 (at times
+
+
+extending to ROF 1-10), synchronous with RAM 1-2,
+
+3-4 (at times extending to RAM 7-8);  RHH 1-2, RHB 1-2, 3-4 (at
+
+
+times extending to RHB 7-8);
+
+RTP 1-2, 3-4
+
+11. Independent rare spikes ROF 1-2, synchronous with or
+
+independent of rare spikes ROF 5-6, 9-10
+
+
+12. Rare independent spikes RHB 3-4
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+are not performed.
+
+
+EVENTS:
+
+
+No clinical or electrographic events reported or detected
+
+Note that study is disconnected between 11/30/2015 22:10 - 23:14.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (12/1/2015, 06:00 - 12/2/2015, 06:00)
+
+
+
+AEDs: 12/1/2015: Oxcarbazepine 600 mg q12h; Gabapentin 300 mg q8h
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No change
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+
+are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+(1) DATE AND TIME:   12/1/2015
+
+EVENT TYPE: anxiety
+
+CLINICAL: Patient described as acting confused and anxious,
+
+
+demanding that leads be removed, but easily redirectable.
+
+EEG: No ictal epileptic EEG correlate is present
+
+
+DURATION: unclear
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (12/2/2015, 06:00 - 12/3/2015, 06:00)
+
+
+*Note that study is offline/leads disconnected between 12/2/2015
+
+10:20 - 12/2/2015
+
+
+
+*Note that most of intracranial leads are not connected between
+
+
+12/2/2015 12:47 - 12/2/2015 13:45.
+
+
+AEDs: 12/2/2015: Oxcarbazepine 300 mg in AM, 150 mg in PM;
+
+Gabapentinstopped
+
+
+
+SCALP LEADS ARE CONNECTED ON THIS DAY
+
+
+The waking background is characterized by a well organized 10-Hz
+
+posterior dominant rhythm.
+
+
+There is intermittent excess theta activity in wakefulness.
+
+Sleep is characterized by further slowing of the background.
+
+
+
+There is frequent polymorphic slowing over the left temporal
+
+
+region.
+
+There is frequent independent polymorphic slowing over the right
+
+temporal region.
+
+
+
+There are frequent left frontotemporal (T1 > F7 > T3 > Fp1)
+
+spike-and-wave discharges.
+
+
+There are occasional right frontotemporal (T2 > T4/F8, reflecting
+
+over Fp2, Fp1) spike-and-wave discharges.
+
+There is occasional bifrontal (Fp1, F3, F7, Fp2, F4, F8)
+
+spike-and-wave discharges at 2.5-3 Hz for runs <3 seconds. Of
+
+
+note, these are seen on intracranial leads as rhythmic slowing in
+
+LAM 7-8, RHB 9-10, and to a lesser extent, ROF 5-6.
+
+
+
+EPILEPTIFORM ACTIVITY: as above
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+SEIZURES/EVENTS:
+
+(1) DATE AND TIME:   12/2/2015 at 10:20-10:25
+
+EVENT TYPE: likely anxiety
+
+
+CLINICAL: Patient described as acting confused and anxious,
+
+demanding that leads be removed, but easily redirectable.
+
+
+EEG: EEG was not recording at this time; leads were being
+
+re-montaged
+
+DURATION: 5-10 minutes
+
+
+
+(2) DATE AND TIME:   12/2/2015 at 11:37
+
+EVENT TYPE: Event of unclear etiology
+
+
+CLINICAL: patient complains that her mouth feels funny and she
+
+feel tingly and
+
+
+pushes button and asks patient to count to ten. Patient's
+
+response is inaudible, but tech can be heard saying, "good." Asks
+
+
+patient to remember
+
+remember the phrase, the patient says "hospital." Patient's
+
+
+responses remain inaudible, but tech affirms that patient says
+
+the feeling is still there.
+
+others.
+
+EEG: The study is offline. At the point where the study goes
+
+
+online, a comment is made by tech that "pt says her mouth feels
+
+funny tin.
+
+
+intracranial leads. Scalp leads are not yet connected.
+
+DURATION: unclear
+
+POSTICTAL CHANGES:  None
+
+EKG: lead is disconnected
+
+
+
+(3) DATE AND TIME:   12/2/2015
+
+
+EVENT TYPE: Event of unclear etiology
+
+CLINICAL: On interview during rounds on 12/3, the patient
+
+recalled an episode
+
+funny
+
+
+not push the button. She recalls breathing funny and that one of
+
+the nurses noticed and
+
+
+EEG: The entire record was reviewed. There is no ictal EEG
+
+correlate.
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 4 (12/3/2015, 06:00 - 12/4/2015, 06:00)
+
+
+
+AEDs: 12/3/2015: Oxcarbazepine 150 mg in AM, 0 mg in PM
+
+
+
+INTERICTAL BACKGROUND:
+
+
+Unchanged
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+As before, +:
+
+
+1. Occasional spikes RHH 1-2
+
+2. Occasional independent spikes RHB 3-4
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is performed for 180
+
+seconds with good cooperation, at 12/3/2015 15:07, and produces
+
+
+mild diffuse slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+flashes per second (fps), at 12/3/2015 15:03, and induces
+
+symmetric photic driving, which is a normal finding.
+
+
+
+The patient is sleep deprived until 03:00 on 12/4/2015.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during
+
+this study.
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 5 (12/4/2015, 06:00 - 12/5/2015, 06:00)
+
+
+
+AEDs: off
+
+
+
+INTERICTAL BACKGROUND:
+
+
+Unchanged
+
+
+
+EPILEPTIFORM ACTIVITY: as previously, +
+
+1. Bursts of spikes ROF 3-6, fluctuating between 2-8 Hz without
+
+
+definite evolution
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: not performed
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during
+
+this study.
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 6 (12/5/2015, 06:00 - 12/6/2015, 06:00)
+
+
+
+AEDs: none
+
+
+INTERICTAL BACKGROUND:
+
+Unchanged
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+As before, +:
+
+1. Occasional spikes RHH 1-2
+
+2. Occasional independent spikes RHB 3-4 (perhaps less than
+
+previous days)
+
+
+3. Occasional independent spikes at LAM07-LAM 08
+
+4. Occasional independent spikes in the LOF lead, including
+
+
+LOF1-LOF2 and LOF3-LOF4
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+LOF continues to demonstrate triangular 4-5 Hz activity including
+
+
+LOF1-4 and LOF 7-10
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation was performed at 8:24 for
+
+180
+
+
+seconds with good cooperation, at 12/3/2015 15:07, and produces
+
+mild diffuse slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+flashes per second (fps), at 12/3/2015 15:03, and induces minimal
+
+symmetric photic driving, which is a normal finding.
+
+
+
+The patient is sleep deprived until 03:00 on 12/4/2015.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during
+
+this study.
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 7 (12/6/2015, 06:00 - 12/7/2015, 06:00)
+
+
+
+*Note that system malfunctioned between 12/6/2015 06:20 to
+
+
+12/6/2015 09:19 and recording is unable to be recovered.
+
+
+AEDs: none
+
+
+
+
+INTERICTAL BACKGROUND: Unchanged
+
+
+
+EPILEPTIFORM ACTIVITY: no change
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):  None
+
+
+
+ACTIVATION PROCEDURES: not performed
+
+
+
+SEIZURES/EVENTS:
+
+(1) DATE AND TIME:   12/6/2015 at 11:01
+
+EVENT TYPE: Non-epileptic event
+
+CLINICAL: Patient sitting up in chair. Nurse asks her what's the
+
+
+matter.  She is slow to respond, but tells nurse she feels
+
+funny.
+
+
+EEG: No ictal epileptic EEG correlate is present
+
+DURATION: unclear
+
+POSTICTAL CHANGES:  No change
+
+EKG: no change
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+DAY 8 (12/7/2015, 06:00 - 12/8/2015, 06:00)
+
+
+
+AEDs: none
+
+
+INTERICTAL BACKGROUND:
+
+
+Unchanged
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+As before, +:
+
+1. In sleep, there is abundant LOF 5-8 spiking that can be seen
+
+independently of or preceding LAM, LHH, LHB, LTP spiking
+
+
+2. In sleep, there is frequent ROF 5-8 spiking that can be seen
+
+independently of or preceding RAM, RHH, RHB, RTP spiking
+
+
+3. Following seizure on this day at 21:32, there is abundant
+
+spiking over LOF 1-8
+
+
+4. Following seizure on this day at 21:32, there is frequent
+
+independent spiking over ROF 1-8
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180
+
+seconds with good cooperation, at 12/7/2015 13:30, and produces
+
+
+no change.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+flashes per second (fps), at 12/7/2015 13:36, and produces no
+
+
+change.
+
+
+
+
+SEIZURES/EVENTS:
+
+(1) DATE AND TIME:   12/7/2015 at 13:40
+
+EVENT TYPE: Event of unclear etiology
+
+
+CLINICAL: The tech finishes photic stimulation and asks patient
+
+to open her eyes.  She is slow to follow commands and does not
+
+
+respond when asked if she is ok or where she is.  About a minute
+
+into the event she has a brief nonforced head turn to the left
+
+(may be voluntary).  She then follows commands sluggishly.  She
+
+does not answer questions but follows simple commands.  She
+
+
+symmetrically holds her arms out.  She can remember a word.
+
+EEG: No ictal epileptic EEG correlate is present
+
+
+DURATION: unclear
+
+POSTICTAL CHANGES:  none
+
+EKG: no change in heart rate is seen on a single EKG lead
+
+
+
+(2) DATE AND TIME:   12/7/2015 at 21:32
+
+EVENT TYPE: Focal seizure (out of sleep), L mesial temporal,
+
+
+likely impairment of consciousness
+
+CLINICAL: The patient is off camera for the entire event. Only
+
+
+ambient noise can be heard. However, eyeblink artifact is noted
+
+starting 17 seconds into electrographic onset. Possible brief
+
+
+guttoral noises are heard 20 sec into event, then again at 32
+
+sec, 46 sec, then 90 sec, 190 sec. Some soft, brief moans are
+
+
+also heard postictally.
+
+On rounds next morning patient reports she was unaware of
+
+episode.
+
+EEG: There is a herald spike at LHH 1-4, followed by gamma
+
+
+activity at LHH 1-4, seen <200 msec later in LHB 1-4. This
+
+activity continues for 2.5 seconds before slowing to delta for <1
+
+
+second. Then, there is onset of low amplitude 15 Hz activity seen
+
+best in LHB 3-4, then LHB 1-2, that increases in frequency and
+
+decreases in amplitude, spreading to LHH 1-4. This activity in
+
+LHB develops admixed spikes in LHB 3-4, then LHB 1-2. This has
+
+
+occurred about 10 seconds into electrographic onset. It is at
+
+this time that a low amplitude gamma buzz is seen over Fp1-F7 and
+
+
+Fp1-F3 on scalp leads, followed by F3-C3-P3,  F7-T1-T3-T5, then
+
+T4-T6-O2. By 10 seconds into electrographic onset there is onset
+
+of gamma activity over LOF 9-10, by 13 seconds gamma activity is
+
+seen over ROF 5-6. By 16 seconds there is onset of gamma activity
+
+
+over LAM 1-2. Ictal activity in the aforementioned leads evolves,
+
+becoming increasingly rhythmic and slowing to spikey alpha,
+
+
+except in LHB 1-4, where there are 3 Hz polyspikes.  By 24
+
+seconds there is rhythmic alpha seen in RHB 9-10; by 28 seconds
+
+rhythmic spikey alpha develops in LTP 1-4. Ictal activity
+
+increases in amplitude, developing distinct spikes, and slows in
+
+
+frequency to delta-theta range: at this point, LOF 1-4, LAM 1-2,
+
+LHH 1-4, LHB 1-4, LTP 1-6, and (to a lesser extent) RHB 9-10 are
+
+
+involved. By 162 seconds, LOF stops spiking; LAM 5-8, LHH 3-8,
+
+LTP 1-8 continue spiking. This continues, with intermittent
+
+nonevolving gamma buzzes in LOF 9-10, until seizure offset (426
+
+seconds total).
+
+
+DURATION: 7 min 6 sec
+
+POSTICTAL CHANGES:  Attenuation noted most prominently over LAM
+
+
+1-8, LHH 1-8, LTP 1-8, also LOF 1-8 and LHB 1-8 to a lesser
+
+extent.
+
+
+EKG: baseline HR: 60 bpm, ictal HR up to 96 bpm, postictal HR 72
+
+bpm
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 9 (12/8/2015, 06:00 - 12/9/2015, 06:00)
+
+
+
+AEDs: none
+
+
+INTERICTAL BACKGROUND:
+
+
+Unchanged
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Unchanged
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+are not performed.
+
+
+SEIZURES/EVENTS:
+
+
+(1) DATE AND TIME:   12/8/2015 at 21:08
+
+EVENT TYPE: Focal seizure
+
+
+CLINICAL: patient asleep in bed. At 15 sec into electrographic
+
+onset, opens eyes and slightly shifts body, grunts Intermittently
+
+for about 52 seconds. Has slight movements of left hand under the
+
+covers at 60 seconds. Continues to grunt intermittently and have
+
+
+intermittent movements of left arm under the covers.  At 118
+
+seconds has nonforced head turn towards right (possibly attending
+
+
+to a noise), then left (appears to attend to a phone ringing).
+
+Shifts left leg slightly at 212 sec. At 216 seconds, staff
+
+
+enters. Patient responds she is
+
+location; she is oriented to self and follows a simple command to
+
+
+raise left hand. She then slowly responds she is in a hospital,
+
+but does not know name. At this point electrographic seizure has
+
+
+ended.
+
+EEG: There is a herald spike at LHH 1-4 and within 200 msec at
+
+LHB 1-4.  These are followed by gamma activity at LHH 1-4 and LHB
+
+1-4. This activity continues for 4.4 seconds before attenuating
+
+
+and then re-emerging as a gamma buzz over the same region.  Gamma
+
+buzz spreads to LOF 1-4, then LOF 9-10, then ROF 5-6, then LAM
+
+
+1-2 within 18 seconds.  By 13 seconds a change in the surface EEG
+
+electrodes is noted, with gamma buzz seen diffusely.  Ictal
+
+activity in the aforementioned leads evolves in frequency and
+
+morphology: there is onset of rhythmic alpha frequency spiking
+
+
+over LHB 1-4 that slows to theta frequency spiking, and gamma
+
+activity over LAM 1-2 slows to rhythmic spiking theta.  By 20
+
+
+seconds, ictal activity has spread to involve LOF 1-2, LAM 1-8,
+
+LHH 1-4, LHB 1-4, LTP 1-10, ROF 5-6; by 22 seconds scalp activity
+
+is seen to evolve best over the left hemisphere.  Ictal activity
+
+in aforementioned leads increases in amplitude, slows in
+
+
+frequency, and develops a definite spiky morphology.  By 118
+
+seconds LOF leads cease firing but LAM 5-8, LHH 3-8, LTP 1-10
+
+
+continue spiking. This activity continues until seizure end.
+
+DURATION: 5 min 6 sec
+
+POSTICTAL CHANGES: slowing and attenuation over LOF, LAM, LHH,
+
+LHB, LTP
+
+
+EKG: baseline HR 60 bpm, ictal HR 90 bpm, postictal HR 60 bpm
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 10 (12/9/2015, 06:00 - 12/10/2015, 06:00)
+
+
+
+AEDs: none
+
+
+
+INTERICTAL BACKGROUND:
+
+
+Unchanged
+
+*Note that on 12/9/2015 at 21:14, the lower jackbox leads become
+
+
+disconnected (RHH 5-10, RHB 1-10, RTP 1-8, and all scalp leads)
+
+The leads are reconnected on 12/9/2015 at 22:30.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Unchanged
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+
+are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+(1) DATE AND TIME:   12/9/2015 at 22:06
+
+EVENT TYPE: Focal seizure
+
+CLINICAL: Patient is lying in bed and shifts body position at
+
+
+onset. Chewing movements are noted. She appears mildly
+
+tachypneic. 52 seconds into electrographic onset nurse comes in
+
+
+and turns on lights. Asks pt if she is ok and attempts to push
+
+button (it is not working). Asks patient the code word - patient
+
+does not respond. Asks patient name and where she is - patient
+
+does not respond. Asks patient to name an object - response
+
+
+inaudible. Nurse blocks view of patient on camera. Asks patient
+
+to touch nose, then right ear - cannot see patient on screen.
+
+
+Asks patient to take the pen - cannot see response. Tech notes
+
+patient is able to raise arms and legs. Patient still cannot
+
+answer code word. Cannot see patient or hear her responses on
+
+video review. At 10:08:30 nurse moves. Patient seen to follow
+
+
+simple commands to hold up arms and legs. She is able to shift
+
+position purposefully in bed. She still cannot remember code
+
+
+word. She continues to have oral automatisms. After seizure ends
+
+patient is immediately able to state her first name and continues
+
+
+to follow simple commands. However she cannot name a pen.
+
+EEG: herald spike LHH 1-4, LHB 1-4, followed within 100 msec by
+
+
+LTP 1-10. High frequency spiking develops over LHH 1-4, LHB 1-4,
+
+becoming rhythmic beta, then higher amplitude rhythmic alpha,
+
+
+then developing admixed spikes. By 12 sec there is spread to LAM
+
+1-2, by 13 sec to LOF 1-4, then LOF 5-8. By 18 sec all left depth
+
+electrodes become attenuated except LHH 1-4, LHB 1-4, and LAM 1-2
+
+which continue with spikey beta. By 32 sec there is onset of
+
+
+increasing amplitude spikey theta that eventually spreads to all
+
+left depth electrodes. Ictal activity continues in LOF 1-10, LAM
+
+
+5-8, LHH 1-4, LHB 1-4 after other areas have ceased firing, then
+
+LAM 5-6 continues firing after the aforementioned electrodes
+
+cease.
+
+*Note for this seizure that RHH 5-10, RHB 1-10, RTP 1-8, and all
+
+
+scalp leads are DISCONNECTED.
+
+DURATION: 3 min 20 sec
+
+
+POSTICTAL CHANGES:  Slow, attenuated activity over LOF 1-10, LAM
+
+1-8, LHH 1-8, LTP 1-10, and LHB 1-8 (to a lesser extent)
+
+EKG: strip is disconnected
+
+
+
+(2) DATE AND TIME:   12/10/2015 at 03:28
+
+EVENT TYPE: Focal seizure, L mesial temporal, out of drowsiness
+
+
+CLINICAL: Patient lying in bed. Makes some subtle groaning noises
+
+24 sec into onset. She begins blinking. Continues intermittent
+
+guttoral noises. Hand movements are briefly seen from under the
+
+covers. At 55 sec into onset, lights come on and nurse enters.
+
+
+Patient unable to state her name or code word. guttoral noises
+
+can be heard but view of patient blocked by nurse. Keeps
+
+
+grunting. Does not follow commands. Says
+
+appropriately, and follows a command (at this point, there is
+
+ictal activity LHH 1-8, LHB 1-4, LOF 1-10, LAM 3-8, LTP 1-10).
+
+She is able to follow commands. She is able to state her name,
+
+
+but not location (at this point LHH 1-4, LHB 1-4 are still
+
+spiking). She is not able to answer some questions. Nurse moves
+
+
+over at 208 second and view of patient now unobstructed. She is
+
+noted to follow commands. Postictally she is not oriented to
+
+
+place or time but can name and follow commands.
+
+EEG: herald spike LHH 1-4, LHB 1-4, followed by spike and wave at
+
+
+3.5 Hz in these electrodes, then rhythmic 12 Hz activity in these
+
+electrodes.   Ictal activity spreads to LAM 1-2 by 7 seconds,
+
+
+then LTP 1-2 by 29 seconds, then LTP 3-8, then LOF 1-4 by 36 sec.
+
+By 40 sec there is spread to LHH 5-8, LHB 5-8. Ictal activity
+
+continues in LAM 7-8, then LHH 1-4, LHB 1-4 after other regions
+
+have ceased firing. First change in scalp EEG at 12 sec with
+
+
+rhythmic alpha best seen mid-temporal chain T3-T5.
+
+DURATION: 3 min 44 sec
+
+
+POSTICTAL CHANGES:  Slowing and attenuation LOF 1-10, LAM 1-8,
+
+LHH 1-8, LHB 1-8, LTP 1-10.
+
+EKG: baseline HR 72 bpm, ictal HR 120 bpm, postictal HR 66 bpm
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 11 (12/10/2015, 06:00 - 12/11/2015, 06:00)
+
+
+
+AEDs: none
+
+
+
+INTERICTAL BACKGROUND:
+
+
+EPILEPTIFORM ACTIVITY: unchanged
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+
+
+(1) DATE AND TIME:   12/10/2015 at 13:37
+
+
+EVENT TYPE: focal seizure, left mesial temporal, subclinical, out
+
+of wakefulness
+
+
+CLINICAL: Patient is sitting in chair. Is having a conversation
+
+with someone in room.  Smiles appropriately. No obvious clinical
+
+
+change.
+
+EEG: sudden onset high amplitude 8 Hz spikes in LHH 1-4,
+
+spreading to LHB 1-4. This ictal activity decreases in amplitude
+
+and increases in frequency to rhythmic 15 Hz activity. 6 sec into
+
+
+ictal onset this activity increases in amplitude, decreases in
+
+frequency, and becomes more spikey. By 14 seconds there is
+
+
+rhythmic delta with admixed spikes in LTP 5-10 and LOF 3-8. By 24
+
+seconds ictal actiivyt spreads to involve LOF 1-8, LAM 1-8, LHH
+
+1-8, LHB 1-8, LTP 1-10. Ictal activity in scalp leads appears as
+
+quasirhythmic spikey alpha/theta in left temporal chain.
+
+
+DURATION: 54 sec
+
+POSTICTAL CHANGES:  Slowing and attenuation over LAM 1-6, LHH
+
+
+1-2, LHB 1-2, LTP 1-8.
+
+EKG: there is no change in a single EKG lead
+
+
+(2) DATE AND TIME:   12/11/2015 at 00:10
+
+
+EVENT TYPE: focal seizure with impairment of consciousness, left
+
+mesial temporal, out of sleep
+
+
+CLINICAL: Patient is asleep in bed. At about 20 min into
+
+electrographic onset, subtle movements of left arm are seen from
+
+under the blanket, followed by a mouth movement. Then there is a
+
+slight shift in body position. Nurse pushes button and calls
+
+
+patient's name. Patient cannot state her name, or repeat, or
+
+name. She makes guttoral noises. She can follow some but not all
+
+
+simple commands. She can squeeze on both hands.  At 100 seconds
+
+into ictal onset, she vocalizes in response to nurse's questions,
+
+but her responses are inaudible, spoken in a low voice.
+
+Postictally, she says her last name correctly and continues to
+
+
+follow commands. There is no arm drift. She cannot remember the
+
+code word. FIrst change on scalp leads appears 12 sec into
+
+
+electrographic onset as diffuse rhythmic alpha, most prominent in
+
+bilateral posterior quadrant leads. Then, activity evolves best
+
+
+over the left temporal leads.
+
+EEG: similar to prior -  Herald spike at LHH 1-4, with onset of
+
+
+spikey alpha LHH 1-4, spreading within 2 sec to LHB 1-4, then LAM
+
+1-2, then LAM 1-6, then throughout all left sided depth
+
+
+electrodes, with reflection later (by 48 seconds) over ROF 1-4.
+
+Offset is at 38 seconds except LHH 1-2 and LHB 1-4, which
+
+continue spiking.
+
+DURATION: 1 min 57 sec
+
+
+POSTICTAL CHANGES:  Slowing and attenuation over LOF 1-10, LAM
+
+1-8, LHH 1-8, LHB 1-9, LTP 1-10.
+
+
+EKG: baseline HR 72 bpm, ictal HR 114, postictal HR 90
+
+
+(3) DATE AND TIME:   12/11/2015 at 05:16
+
+EVENT TYPE: focal seizure, left mesial temporal temporal, out of
+
+
+sleep
+
+CLINICAL: patient is sleeping in bed. 32 seconds into ictal onset
+
+
+staff enters room and calls her name. She arouses, opens eyes,
+
+raises right hand. Says her name nad that she is in the hospital.
+
+She is asked to remember a code word. She names a pen and eye
+
+glasses. She follows a command to touch nose and wave hello on
+
+
+both hands and take a pen. She remembers the code word, and can
+
+again state her name nad location. She can name a flashlight and
+
+
+touch her nose and right ear and squeeze fingers with both hands.
+
+She holds her arms up and can raise both legs. She still
+
+remembers the code word. She is oriented to day and year.
+
+EEG: similar to prior - herald spike LHH 1-4 as well as LAM 1-4,
+
+
+followed by herald spike < 200 msec later in LHB 1-4, then onset
+
+of spiking LHH 1-4, LHB 1-4. Ictal activity remains localized to
+
+
+these electrodes for at least 20 sec, after which it spreads
+
+throughout all depth contacts on the left. Ictal activity
+
+continues as 3 Hz spikes in LHH 1-4, LHB 1-4 after it has ceased
+
+elsewhere.   On scalp leads, ictal onset more subtle, with
+
+
+development of rhythmic theta then delta most prominently over
+
+left temporal chain.
+
+
+DURATION: 2 min 30 sec
+
+POSTICTAL CHANGES:  Slowing and attenuation most prominently seen
+
+
+over LAM 1-6, LHH 1-6, LHB 1-6, LTP 1-10.
+
+EKG: baseline HR 54, ictal HR 108, postictal HR 96
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 12 (12/11/2015, 06:00 - 12/12/2015, 06:00)
+
+
+
+AEDs:
+
+12/11/2015: Trileptal 300 mg x2 given, Ativan 2 mg x1 and 1 mg x1
+
+IV given
+
+
+
+INTERICTAL BACKGROUND:
+
+
+Unchanged
+
+
+EPILEPTIFORM ACTIVITY:
+
+In addition to above,
+
+
+- Very frequent, at times periodic spike and wave discharges from
+
+LHH 1-4 synchronous with LHB 1-4, occurring every 1-2 seconds for
+
+
+runs of < 30 seconds
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+
+are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+
+(1) DATE AND TIME:   12/11/2015 at 07:06
+
+EVENT TYPE: Focal seizure +/- impairment of consciousness, left
+
+
+mesial temporal, out of wakefulness
+
+CLINICAL: Patient is lying in bed, awake. At 32 seconds into
+
+
+onset she briefly turns her head to the right (nonforced);
+
+perhaps in response to noise outside the room. She attends to
+
+
+staff when they enter her room at 39 seconds into onset. She
+
+responds to questions and is oriented to
+
+
+seizure has ended. She names objects and follows commands. She
+
+cannot remember the code word given to her during the seizure.
+
+She remains oriented to day/month/year.
+
+EEG: Similar to prior seizures, with herald spike at LHH 1-4,
+
+
+followed by rhythmic spiking LHH 1-4 and LHB 1-4, with spread of
+
+ictal activity to LOF 9-10 (by 8 sec), then LOF 1-10 + LAM 1-2,
+
+
+followed by LTP 1-4 by 24 sec. Scalp leads show rhythmic theta in
+
+left mid-temporal leads by 16 seconds into intracranial onset.
+
+DURATION: 58 sec
+
+POSTICTAL CHANGES:  slowign and attenuation over LAM 1-6, LHH
+
+
+1-4, LHB 1-2, LTP 1-6.
+
+EKG: baseline HR 66, ictal HR 96, postictal HR 66
+
+
+
+(2) DATE AND TIME:   12/11/2015 at 08:37
+
+EVENT TYPE: Focal seizure with impairment of memory, left mesial
+
+temporal, out of wakefulness
+
+
+CLINICAL: Patient is sitting up in bed having a conversation. At
+
+seizure onset she appears to converse appropriately, nodding. She
+
+
+is eating using her left hand and nods appropriately to the
+
+person speaking to her. Staff arrive and announce the patient is
+
+having a seizure 36 sec into onset.  The person who was speaking
+
+to the patient sounds surprised, saying, "But she's talking to
+
+
+me.
+
+respond. Tech notes she is mumbling. She states her name and
+
+
+location. She names and follows commands. She still does not
+
+remember the code word. She counts. Seizure ends. Patient now
+
+remembers the code word.
+
+EEG: same as above - herald spike LHH 1-4, SYNCHRONOUS with LHB
+
+
+1-4, developing into rhythmic beta with spread by 3 seconds to
+
+LAM 1-2, then by 16 seconds lof 1-8, LAM 1-2, LHH 1-8, LHB 1-8,
+
+
+then by 17 seconds also to LTP 1-6, eventually involving all left
+
+sided depths with rhythmic spike and wave. Spiking continues in
+
+
+LHH 1-4 and LHB 1-4 even after other electrodes have ceased
+
+spiking at 66 seconds. Ictal activity on scalp first noted 11 sec
+
+
+after intracranial onset, with rhythmic theta best seen over left
+
+posterior quadrant leads (C3, P3, O1, T3, T5)
+
+
+DURATION: 2 min 37 sec
+
+POSTICTAL CHANGES:  Slowing and attenuation most prominently seen
+
+LAM 1-6, LHH 1-4, LHB 1-4.
+
+EKG: baseline HR 72 bpm, ictal HR 96, postictal HR 72 bpm
+
+
+
+(3) DATE AND TIME:   12/11/2015 at 09:50
+
+
+EVENT TYPE: focal seizure without impairment of consciousness,
+
+left mesial temporal, out of wakefulness
+
+CLINICAL: patient is awake, sitting in bed, having conversation
+
+with epilepsy team. At 12 seconds into onset, Dr. notes
+
+
+that she is having a seizure. Dr. asks patient to remember
+
+3 words. Patient attends to doctor and repeats the words. She
+
+
+follows commands and repeats. She is oriented to month. She
+
+recognizes her mother. She repeats the words. She acknowledges
+
+that she is here
+
+if she is feeling anything, smelling anything, or feeling funny,
+
+
+she says
+
+hands without drift and touches her nose. She lifts up both legs.
+
+
+She can repeat the 3 words, just as the seizure stops.
+
+EEG: as before - herald spike LHH 1-4, LHB 1-4, with development
+
+of rhythmic beta in these leads, increasing in amplitude and
+
+decreasing in frequency, spreading by 16 sec to LOF 1-8, LAM 1-8,
+
+
+then by 18 sec to LTP 1-8, then to 9-10. First change on scalp
+
+noted at 15 seconds, with rhythmic theta over L temporal chain.
+
+
+DURATION: 120 sec
+
+POSTICTAL CHANGES:  Slowing and attenuation over LAM 1-6, LHH
+
+1-6, LHB 1-4, LTP 1-6.
+
+EKG: baseline HR 84, ictal HR 102, postictal HR 84 bpm
+
+
+
+(4) DATE AND TIME:   12/11/2015 at 10:44
+
+
+EVENT TYPE: focal seizure, left mesial temporal, out of early
+
+drowsiness
+
+
+CLINICAL: patient is lying in bed. There is no obvious clinical
+
+correlate. At 24 seconds staff enters and looks for the button.
+
+
+At this point the seizure has ended. The patient arouses during
+
+the commotion. The patient is not formally tested during the
+
+
+seizure. Afterwards, she is able to state her name and name
+
+objects and follow commands.
+
+EEG: similar to prior seizures. First change on scalp leads noted
+
+at 12 seconds, with sharply contoured delta wave diffusely over
+
+
+left temporal chain.
+
+DURATION: 55 seconds
+
+
+POSTICTAL CHANGES:  As prior seizures
+
+EKG: similar changes as above
+
+
+(5) DATE AND TIME:   12/11/2015 at 11:33
+
+
+EVENT TYPE: focal seizure, left mesial temporal, out of
+
+wakefulness
+
+
+CLINICAL: patient is sitting on the commode. She has purposeful
+
+movements, wiping her self with the toilet paper. She gets up off
+
+the commode and stands in place. Aide sits her back down and
+
+says, "you're having another seizure." Dr. enters and
+
+
+calls patient's name - patient attends. She answers her name,
+
+location, and names objects as the seizure is ending. She follows
+
+
+commands. She counts and moves all her limbs. She cannot remember
+
+the code word (the seizure ended 2 min 40 sec ago).
+
+EEG: similar to prior seizures. First change on scalp EEG is at
+
+12 seconds with rhythmic theta over left temporal chain.
+
+
+DURATION: 1 min 5 sec
+
+POSTICTAL CHANGES:  Similar to prior seizures
+
+
+EKG: similar changes as above
+
+
+(6) DATE AND TIME:   12/11/2015 at 14:29
+
+EVENT TYPE: focal seizure, left mesial temporal, out of sleep
+
+
+CLINICAL: patient is asleep in bed. At at 21 seconds into
+
+electrographic onset she arouses and lifts her right hand
+
+
+slightly, looking at it. She puts it back on the table.  Then she
+
+has a nonforced head movement towards the right. Staff arrives 48
+
+
+sec into onset. She appears to track staff but cannot respond
+
+with her name or where she is. Staff pushes button. After seizure
+
+
+offset she is able to follow commands.
+
+EEG: similar to prior seizures. First change on scalp occurs at
+
+
+12 seconds into electrographic onset, with rhythmic alpha seen
+
+best over the midtemporal chain
+
+DURATION: 12 seconds
+
+POSTICTAL CHANGES:  Similar to prior seizures
+
+
+EKG: similar changes as in prior seizures
+
+
+
+(7) DATE AND TIME:   12/11/2015 at 17:11
+
+EVENT TYPE: focal seizure, left mesial temporal, out of
+
+wakefulness
+
+CLINICAL: Patient is on the phone while crocheting. She says
+
+
+mm-hmm
+
+crocheting purposefully. She puts the yearn down. Nurse asks if
+
+
+she is ok. Still says
+
+not repond at first but nods
+
+asked. She answers her name. She cannot remember the code word.
+
+She knows she's at Temple and can follow commands. Even after
+
+
+being reminded, she could not remember the code word several
+
+seconds later. She does remember the code word after seizure
+
+
+offset. However, when asked again the postictal state, she cannot
+
+remember the code word (48 sec after offset), even though she is
+
+no longer seizing.
+
+EEG: similar to prior seizures - herald spike LHH 1-4, LHB 1-4,
+
+
+followed within 100 msec by LAM 1-2, LAM 7-8, with spread pattern
+
+similar to above seizures. First change on scalp is 11 seconds
+
+
+after intracranial onset, with rhythmic theta most prominently
+
+seen in T3, T5, P3.
+
+DURATION: 2 min 12 sec
+
+POSTICTAL CHANGES:  Similar changes as above seizures
+
+
+EKG: similar changes as in prior seizures
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 13 (12/12/2015, 06:00 - 12/13/2015, 06:00)
+
+
+
+AEDs: Oxcarbazepine 600 q12h
+
+
+INTERICTAL BACKGROUND:
+
+
+Unchanged
+
+
+
+*Note that leads progressively become disconnected on this day:
+
+LHB 1-2, ROF 5-6, RAM 5-6, RHH 7-8, RHB 1-4, RHB 7-8, RTP 1-4 by
+
+00:10
+
+LTP 9-10, ROF 5-8, RAM 5-8, RHB 1-4, 7-10; RTP 1-8 are
+
+
+disconnected by 02:11
+
+LHH 3-4, LHB 1-2, LTP 9-10, ROF 5-8, RAM 5-8, RHH 5-10, RHB 1-4 +
+
+
+7-10, RTP 1-10, and scalp leads are disconnected by 04:09
+
+
+EPILEPTIFORM ACTIVITY:
+
+As above
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+
+(1) DATE AND TIME:   12/12/2015 at 08:33
+
+EVENT TYPE: focal seizure, left mesial temporal, out of
+
+wakefulness
+
+CLINICAL: the patient is awake, eating her breakfast in bed.
+
+
+There is no obvious clinical change in her behavior (which
+
+includes chewing).  At electrographic seizure offset (34 sec),
+
+
+PCA arrives and asks if she is ok. She attends to PCA but unclear
+
+if she responds. PCA calls nurse. Patient answers code word,
+
+
+name, names objects, and follows commands.
+
+EEG: similar to prior seizures, with herald spike LHB 1-4, LHH
+
+
+1-4, and spread of ictal activity to LOF 3-4 by 6 seconds,
+
+followed  By LOF 1-10, LAM 1-8, LHH 1-8, LHB 1-8, LTP 1-10. Scalp
+
+
+onset limited by chewing artifact, but rhythmic theta over left
+
+hemisphere appears by 13 seconds.
+
+DURATION: 34 seconds
+
+POSTICTAL CHANGES:  Similar changes to above seizures
+
+
+EKG:  No definite change in heart rate
+
+
+
+(2) DATE AND TIME:   12/12/2015 at 14:12
+
+EVENT TYPE: poor memory
+
+CLINICAL: nurse pushes button because patient cannot remember the
+
+code word. She eventually remembers it.
+
+
+EEG: no change
+
+
+
+(3) DATE AND TIME:   12/12/2015 at 20:50
+
+EVENT TYPE: focal seizure with impairment of consciousness, left
+
+mesial temporal, out of wakefulness
+
+CLINICAL: patient is lying in bed reading. She ruffles the pages
+
+
+slightly at 20 sec. Otherwise there is no obvious clinical
+
+change. At 32 seconds staff arrives and asks if she is ok.
+
+
+Patient turns towards staff but does not respond. Electrographic
+
+seizure ends. There is no behavioral change. Postictally she is
+
+able to name but not oriented to place. She cannot remember the
+
+code word. She can follow commands.
+
+
+EEG: similar to prior seizures, with herald spike and slow wave
+
+at LHH 1-4. LHB ictal beta activity begins 1.2 sec afterwards;
+
+
+electrographic seizure evolves similar to prior episodes. On
+
+scalp, herald spike at T1 occurs simultaneous to the first spike
+
+on intracranial EEG. Then rhythmic alpha activity develops over
+
+the left temporal chain at 8 seconds.
+
+
+DURATION: 38 sec
+
+POSTICTAL CHANGES:  Similar to above seizures
+
+
+EKG: no definite change in HR
+
+
+
+(4) DATE AND TIME:   12/13/2015 at 02:19
+
+EVENT TYPE: focal seizure with unclear involvement in
+
+
+consciousness, causing an arousal, left mesial temporal, out of
+
+sleep
+
+
+CLINICAL: patient asleep in bed. 32 sec into electrographic onset
+
+she shifts in bed, turning slightly to her right, and pulls at
+
+her blankets. This coincides with seizure offset. She is not
+
+tested.
+
+
+EEG: similar to prior seizures - herald spike LHH 1-4, LHB 3-4
+
+(LHB 1-2 is disconnected for this seizure), followed within 50
+
+
+msec by LAM 1-2, with ictal spread pattern involving left mesial
+
+temporal and orbitofrontal leads as above. Scalp leads are not
+
+recording well for this seizure.
+
+DURATION: 35 sec
+
+
+POSTICTAL CHANGES:  Similar to above seizures
+
+EKG: no definite change in HR
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 14 (12/13/2015, 06:00 - 12/14/2015, 06:32)
+
+
+AEDs: Oxcarbazepine 600 mg in AM, 900 mg in PM
+
+
+
+INTERICTAL BACKGROUND:
+
+
+Unchanged
+
+
+*Scalp leads are disconnected on this day at 12:09.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+As above
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+are not performed.
+
+
+
+
+SEIZURES/EVENTS:
+
+(1) DATE AND TIME:   12/14/2015 at 02:35
+
+
+EVENT TYPE: focal seizure, left mesial temporal
+
+CLINICAL: patient asleep in bed. There is no obvious clinical
+
+
+change. At 02:36 someone pushes event button, but seizure has
+
+already ended and patient is not tested. She rouses as the event
+
+button is being pushed.
+
+EEG: similar to prior seizures - herald spike LHH 1-4, LHB 1-4,
+
+
+with attenuation over these leads followed by 15 Hz spiking in
+
+these leads, with spread as previously described
+
+
+DURATION: 37 sec
+
+POSTICTAL CHANGES:  As above
+
+EKG: not connected
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+IMPRESSION:
+
+This is an abnormal intracranial EEG due to:
+
+
+
+1. Intermittent excess theta activity in wakefulness.
+
+
+2. Frequent polymorphic slowing over the left temporal region
+
+seen on scalp EEG; correlating with delta slowing over LAM 7-8,
+
+LTP 5-8 on intracranial EEG
+
+3. Frequent independent polymorphic slowing over the right
+
+
+temporal region seen on scalp EEG; correlating with delta slowing
+
+over ROF 5-6 + 9-10, RAM 5-8; RHB 3-4 + 11-12 on intracranial EEG
+
+
+
+4. Interictal epileptiform activity over the left orbitofrontal
+
+
+region (LOF 1-4, LOF 5-6, LOF 7-8 spikes)
+
+5. Interictal epileptiform activity over the left mesial temporal
+
+
+region (LAM, LHH, LHB, LTP spikes)
+
+*Note that left orbitofrontal and left mesial temporal spikes are
+
+
+noted to occur both synchronously and independently.
+
+
+6. Interictal epileptiform activity over the right orbitofrontal
+
+region (ROF 3-4, 5-6, 9-10, or broadly over ROF 1-10,
+
+
+spike-and-wave). At times these appear in bursts, fluctuating
+
+between 2-8 Hz but without definite evolution.
+
+
+7. Interictal epileptiform activity over the right mesial
+
+temporal region (RAM 1-2, 3-4 (at times extending to RAM 7-8),
+
+RHH 1-2, RHB 1-2, 3-4 (at times extending to RHB 7-8), RTP 1-2,
+
+3-4
+
+
+*Note that right orbitofrontal and right mesial temporal spikes
+
+are noted to occur both synchronously and independently.
+
+
+
+8. On scalp EEG within first week of implantation, occasional
+
+bifrontal (Fp1, F3, F7, Fp2, F4, F8) spike-and-wave discharges at
+
+2.5-3 Hz for runs <3 seconds. Of note, these are seen on
+
+
+intracranial leads as rhythmic slowing in LAM 7-8, RHB 9-10, and
+
+to a lesser extent, ROF 5-6.
+
+
+
+9. Eighteen (18) focal seizures of left mesial temporal origin
+
+(herald spike at left hippocampal head, LHH 1-4; and
+
+simultaneously/very soon after at left hippocampal body, LHB
+
+
+1-4), at least half of which involve impairment of
+
+consciousness/memory, but many of which do not clearly impair
+
+
+consciousness/memory.
+
+
+10. Multiple (7) episodes involving confusion, anxiety, "mouth
+
+feeling funny/tingly," anticipation of a seizure, slowness to
+
+
+respond, and poor memory that lack both scalp EEG and
+
+intracranial EEG correlate and are unlikely to represent seizure
+
+
+activity.
+
+
+
+
+Lateralization/Localization:
+
+
+
+LATERALIZATION:
+
+
+Interictal: Bilateral independent
+
+Ictal: Left
+
+LOCALIZATION:
+
+Interictal: orbitofrontal and mesial temporal
+
+
+Ictal: mesial temporal
+
+
+
+
+Conclusions:
+
+
+These findings are diagnostic for focal epilepsy of left mesial
+
+
+temporal origin.
+
+Epileptogenic potential was additionally noted over the left
+
+
+orbitofrontal, right orbitofrontal, and right mesial temporal
+
+region; however, there were no seizures captured over these
+
+regions.
+
+There is evidence for cerebral dysfunction over the bilateral
+
+
+temporal regions, as well as mild diffuse cerebral dysfunction.
+
+
+
+The results of the study were discussed with the patients
+
+primary epileptologist and neurosurgeon. Based on the results,
+
+the patient returned to the operating room on 12/14/2015 for
+
+removal of depth electrodes.

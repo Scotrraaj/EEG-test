@@ -1,0 +1,186 @@
+DATE OF STUDY: 01/18/17
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 20-40 min, awake and drowsy
+
+
+
+
+HISTORY:
+
+ a 75 y.o. male with a history of seizures and persistently poor mental status.
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+carbidopa-levodopa (SINEMET CR) 25-100 mg per tablet 1 tablet
+
+phenytoin (DILANTIN) 100 mg/4 mL suspension 100 mg
+
+insulin lispro (HumaLOG) injection 3 Units
+
+
+insulin glargine (LANTUS) injection 10 Units
+
+aspirin chewable tablet 81 mg
+
+dextrose 50% injection 25 mL
+
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+insulin lispro (HumaLOG) injection 1-5 Units
+
+
+amLODIPine (NORVASC) tablet 5 mg
+
+
+
+
+atorvastatin (LIPITOR) tablet 80 mg
+
+tamsulosin (FLOMAX) 24 hr capsule 0.4 mg
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+heparin (5000 units/mL) injection 5,000 Units
+
+
+dextrose 50% injection 25 mL
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+There is no PDR or AP gradient.
+
+
+
+The background consists of a mixture of polymorphic low-to-moderate amplitude theta and delta
+activity.  There is subtle paucity of faster frequencies over the right temporal region.
+
+
+
+No normal sleep architecture is captured, but during periods of quiescence there is increase in the
+amount of delta activity and appearance of brief periods of discontinuity.
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal portable routine EEG due to:
+
+
+1. Moderate diffuse slowing
+
+2. Subtle right temporal focal slowing
+
+
+CLINICAL CORRELATION:
+
+
+
+Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific.
+
+Subtle focal right temporal slowing is indicative of a focal cerebral dysfunction, possibly structural in
+etiology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

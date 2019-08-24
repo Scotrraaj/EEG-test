@@ -1,0 +1,126 @@
+HISTORY:
+
+74 y.o. male with a history of epilepsy in the setting of brain tumor, s/p resection in
+1999, referred for routine EEG for characterization of seizures. Tech notes a left frontal skull defect.
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+levETIRAcetam (KEPPRA) 250 mg tablet, Take 250 mg by mouth 2 times daily.
+
+phenytoin (DILANTIN) 100 mg ER capsule, Take 100 mg by mouth 2 times daily.
+
+
+PHENobarbital (LUMINAL) 30 mg tablet, Take 1 tablet by mouth nightly.
+
+amLODIPine (NORVASC) 5 mg tablet, Take 5 mg by mouth daily.
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a fairly organized mixture of alpha and
+beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR). The
+normal anterior-to-posterior gradient of frequency and amplitude is present but suboptimal.
+
+
+
+There is continuous polymorphic slowing over the left frontal region, with superimposed sharply
+contoured higher amplitude theta.
+
+
+There is continuous, less prominent, independent polymorphic slowing over the right frontal region.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric sleep spindles
+and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+
+1. Continuous polymorphic slowing over the left frontal region, with superimposed sharply contoured
+higher amplitude theta
+
+
+2. Continuous, less prominent, independent polymorphic slowing over the right frontal region
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of bifrontal cerebral dysfunction, most likely structural in
+etiology.
+The superimposed sharply contoured high amplitude theta activity seen over the left frontal region is
+consistent with breach rhythm and consistent with this patient's known history of craniotomy.
