@@ -1,4 +1,3 @@
-
 #Function definition
 def wordcheck(filename, listwords):
     try:
@@ -26,54 +25,28 @@ count=0
 
 file_path = []
 matches = []
+patient_id = []
+session_id = []
 for root, dirs, files in os.walk(r'S:\Testing Python\reports'):
     for file in files:
         if file.endswith('.txt'):
             count+=1
             path1= os.path.join(root, file)
             file_path.append(path1)
-            wordcheck(path1 , ["alzheimer", "dementia" , "donepezil" , ""])
+            wordcheck(path1 , ["alzheimer", "dementia" , "donepezil" , "rivastigmine" , "aricept" , "memantine"])
 
-#session_records_df = pd.DataFrame({'File Path': file_path},{'matches_keyword': matches})
+for folders in file_path:
+    split_folder = folders.split('\\')
+    patient = split_folder[-4]
+    session = split_folder[-2]
+    patient_id.append(patient)
+    session_id.append(session)
+
+df = pd.DataFrame({'Patient_ID': patient_id , 'Session_ID': session_id , 'File Path': file_path , 'Match' : matches})
+df.to_csv(r'S:\Testing Python\Filtered.csv')
 print('TOTAL NUMBER OF TEXT FILES:', count)
-tempdf=pd.DataFrame({'Matches': matches})
-print(tempdf)
 print('\n')
-print(tempdf.loc[tempdf["Matches"]=='1'])
-#df = pd.DataFrame({'File Path': file_path , 'Match' : matches})
-#print(df)
-#print(session_records_df)
-#print(session_records_df.loc[session_records_df["matches_keyword"]=='1'])
+print(df)
 
-#session_records_df.to_csv(r'S:\Testing Python\Filtered.csv')
-
-
-#########################
-"""
-has_epilepsy = []
-for file in your_list_of_files
-    checkfile
-    has_epilepsy.append()
-yourstring = "bla%^&testbla"
-
-if "test" in yourstring:
-    print("found test")
-else:
-    print("not found")
-
-# heading
-
-## subheading
-
-- item
-- item
-return has_epilepsy
-
-storingdata = pd.DataFrame({paths:listoffiles, has })
-
-
-has_epilepsy = wordcheck(listoffiles, wordtocheck)
-
-###############################
-
-"""
+#print(df.loc[df["Match"]=='1'])
+#print(tempdf.loc[tempdf["Matches"]=='1'])
