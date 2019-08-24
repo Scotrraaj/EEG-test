@@ -26,20 +26,33 @@ count=0
 
 file_path = []
 matches = []
-for root, dirs, files in os.walk(r'S:\Testing Python\reports'):
+has_or_had_alzheimer = []
+receives_medication = []
+
+for root, dirs, files in os.walk(r'C:\Users\Pavilion\PycharmProjects\Testing'):
     for file in files:
         if file.endswith('.txt'):
             count+=1
             path1= os.path.join(root, file)
             file_path.append(path1)
-            wordcheck(path1 , ["alzheimer", "dementia" , "donepezil" , ""])
+            wordcheck(path1 , ["alzheimer", "dementia" , "donepezil"])
+
+
+for every_match in matches:
+    if every_match == '0':
+        has_or_had_alzheimer.append('0')
+    else:
+        has_or_had_alzheimer.append('')
 
 #session_records_df = pd.DataFrame({'File Path': file_path},{'matches_keyword': matches})
 print('TOTAL NUMBER OF TEXT FILES:', count)
-tempdf=pd.DataFrame({'Matches': matches})
-print(tempdf)
+df=pd.DataFrame({'File Path':file_path, 'Matches': matches, 'Has or Had Alzheimer': has_or_had_alzheimer})
+
+print(df)
 print('\n')
-print(tempdf.loc[tempdf["Matches"]=='1'])
+print(df.loc[df["Matches"] =='1'])
+df.to_csv(r'C:\Users\Pavilion\PycharmProjects\Testing\trying.csv')
+
 #df = pd.DataFrame({'File Path': file_path , 'Match' : matches})
 #print(df)
 #print(session_records_df)
