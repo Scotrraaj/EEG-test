@@ -1,0 +1,112 @@
+HISTORY:
+
+69 y.o. female with a history of lung transplant, immunosuppression, ring-
+enhancing cerebral lesions treated as toxoplasmosis, and a seizure 1 year ago, admitted 5/12/2016
+for fever and bacteremia, referred for routine EEG for possible seizures.
+
+
+
+
+MEDICATIONS: Flerxeril, Zofran, Prograf, Heparin, Atrovastatin, Keppra, Citalopram, Topamax,
+Levothyroxine, Loperamide, Bactrin, Norvasc, Oxycodone
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically limited record,
+with periods of muscle artifact obscuring the bi-temporal chains, rendering interpretation of these
+regions suboptimal. The study included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+The waking background is continuous, symmetric, reactive, and fairly organized. Waking background
+consists of mostly theta with admixed alpha and sharply contoured delta.  Fragments of a symmetric
+posterior dominant rhythm ~6-7 Hz are present.
+
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and further
+background slowing are seen.
+
+
+
+Sleep is not captured.
+
+
+
+Moderate generalized slowing is present.
+
+No definite focal slowing is present.
+
+
+
+Occasionally frontally predominant generalized rhythmic delta at 1 Hz is seen for runs <7 seconds
+(FIRDA [frontally predominant intermittent rhythmic delta activity], also known as frontal GRDA
+[generalized rhythmic delta activity]).
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal, technically limited as noted above, awake and drowsy  routine EEG due to:
+
+
+1. Moderate generalized slowing and suboptimal organization
+
+2. Occasional frontally predominant generalized rhythmic delta at 1 Hz for runs <7 seconds
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate the presence of a moderate diffuse cerebral dysfunction.
+
+
+
+
+Frontally predominant generalized rhythmic delta activity (GRDA, also known as FIRDA) is a
+nonspecific but pathologic finding that is most commonly seen in toxic-metabolic states, but may
+also be seen with deep structural lesions or increased intracranial pressure. Clinical correlation is
+advised.

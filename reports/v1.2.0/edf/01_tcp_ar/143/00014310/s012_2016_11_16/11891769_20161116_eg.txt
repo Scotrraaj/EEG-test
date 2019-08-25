@@ -1,0 +1,444 @@
+HISTORY:
+
+This is a 63 y.o. female admitted for continuous video-electroencephalography (VEEG) monitoring
+with a history of: paroxysmal events of unclear etiology.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS: Keppra 1000 mg q12h
+
+
+
+No current facility-administered medications for this visit.
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+enoxaparin (LOVENOX) injection 40 mg
+
+fluticasone-salmeterol (ADVAIR) 100-50 mcg/dose diskus inhaler 1 puff
+
+
+[START ON 11/15/2016] losartan (COZAAR) tablet 100 mg
+
+[START ON 11/15/2016] sertraline (ZOLOFT) tablet 25 mg
+
+atorvastatin (LIPITOR) tablet 40 mg
+
+
+hydroCHLOROthiazide (MICROZIDE) capsule 12.5 mg
+
+metFORMIN (GLUCOPHAGE) tablet 500 mg
+
+levETIRAcetam (KEPPRA) tablet 500 mg
+
+
+
+potassium chloride IVPB 20 mEq 100 mL
+
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (11/14/2016, 12:31 - 11/15/2016, 06:00)
+
+
+MEDICATIONS: Keppra reduced to 500 mg at bedtime
+
+
+
+BACKGROUND:
+
+
+
+The waking background is continuous, symmetric, well-organized, and consists predominantly of
+alpha with admixed bifrontal beta.
+
+
+
+Posterior dominant rhythm was present at 9 Hz.
+
+
+
+The background is reactive and variable.
+
+
+There were no persistent asymmetries in amplitude and frequency.
+
+
+
+Sleep was characterized by symmetric POSTS, vertex waves, sleep spindles and K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+
+11/14/2016 at 19:29 (duration ~80 sec)
+
+
+Clinical: Son notices patient is staring, not responsive. Patient points to her head with right hand.
+Son pushes button. Patient continues staring straight ahead, not attending to son, then points
+towards nurse who enters 19:30. She tells nurse she feels fine. She has low amplitude non-rhythmic
+flexion-extension movements of right wrist, tapping it against right hip. Son says, "I think she had a
+small one."
+
+EEG: Normal awake background with superimposed muscle artifact
+
+
+EKG: No change
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is a normal awake and asleep video EEG.
+
+No clinical or electrographic events reported or detected.
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (11/15/2016, 06:00 - 11/16/2016, 06:00)
+
+
+AEDs: Keppra HELD
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Rare sharp waves are seen over the left temporal region (T3 max) occurring both in isolation and
+in runs, with an appearance most consistent with a benign variant (wicket waves)
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+Note that patient sleep deprives herself until 11/16/2016 05:00
+
+
+
+SEIZURES/EVENTS:
+
+11/15/2016 at 12:41 (duration ~5 min)
+
+
+Clinical: patient lifts her right arm, then her left arm, up and down in alternating fashion, staring
+straight ahead.  Son is at bedside, notices, and pushes the event button. Patient rubs fingers
+together, opening and closing hands. Nurse enters at 12:43, calling patient's name; pt does not
+respond and stares straight ahead, with continued hand movements. At 12:43 patient attends nurse
+and waves "hello." She answers questions slowly, but correctly and follows commands and
+remembers the code word. She intermittently attends to the nurse. Patient states she thinks she may
+have had an event but cannot remember. Admits to having slight headache.
+
+
+
+
+EEG: Normal awake background with superimposed muscle artifact.
+
+EKG: No change
+
+
+
+
+
+EKG: A single lead captured a heart rate in the 60s-70s
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 3 (11/16/2016, 06:00 - 11/17/2016, 06:00)
+
+
+
+AEDs: Keppra HELD; Topamax 25 qhs
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Rare sharp waves are seen over the left temporal region (T3 max) occurring both in isolation and
+in runs, with an appearance most consistent with a benign variant (wicket waves)
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+Note that patient sleep deprives herself until 11/17/2016 04:30
+
+
+
+SEIZURES/EVENTS:
+
+11/16/2016 at 12:18 (duration ~10 min)
+
+Clinical: as nurse is checking pulse oximetry on right hand, patient begins moving right fingers
+intermittently. This becomes semi-rhythmic, waxing-waning finger, then hand tapping on the bed
+over the course of several minutes. Tech enters room 12:23 and pushes button. He notes she is
+blinking. He uncovers her and her hand stops tapping. She flexes both arms at elbow, not tracking
+tech. He notes her eyes are rolled up and that both arms, legs are shaking - at this point, there is
+slight tremulous movement of right hand on video. Patient makes nonspecific flexing movements of
+arms and continues to intermittently tap right > left fingers against her thighs. She is able to name
+pen, and with coaxing, follows commands. She gestures to her head and points to back, endorsing a
+headache in the back of her head. She continues to tap her right > left hand, but seems to be able to
+stop it.
+
+
+
+
+
+EEG: Normal awake background with superimposed muscle artifact.
+
+EKG: No change
+
+
+
+11/16/2016 at 23:42 (duration ~90 sec)
+
+Clinical: laying in bed, taping right, then left hands in alternating, waxing-waning fashion. Nurse
+presses event button. Movement stops. Flexes hips briefly, then relaxes. Then flexes/extends feet.
+Then lifts both arms up and quickly relaxes them back on bed. Patient is not tested during this.
+
+
+
+EEG: normal awake background
+
+EKG: no change
+
+
+
+EKG: A single lead captured a heart rate in the 60s-70s
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4 (11/17/2016, 06:00 - 11/17/2016, 11:01)
+
+
+
+AEDs: Topamax 25 qhs
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 60s-70s
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+
+INTERICTAL FINDINGS:  The patients interictal findings demonstrated a normal EEG with 9 Hz
+posterior dominant rhythm, without any focal findings or epileptiform discharges.
+
+
+Rare sharp waves were seen over the left temporal region (T3 max) occurring both in isolation and in
+runs, with an appearance most consistent with a benign variant (wicket waves).
+
+
+
+ICTAL FINDINGS:
+
+
+The patient had 4 typical habitual episodes consisting of decreased responsiveness with nonrhythmic
+right > left wrist movements during this admission; all were accompanied by a normal awake
+background with superimposed muscle artifact.
+
+
+
+SEIZURE DIAGNOSIS:
+
+
+1. Nonepileptic behavioral events
+
+
+EPILEPSY DIAGNOSIS:
+
+
+1. Nonepileptic behavioral events
+
+
+CONCLUSION:
+
+
+The patient was admitted to the epilepsy monitoring unit for 4 days with continuous video
+EEG.  This was an elective EMU monitoring session for characterization/differential diagnosis of
+events.
+
+
+The interictal EEG is characterized by a normal background with a 9 Hz posterior dominant rhythm.
+
+
+The patient was weaned off Keppra over the course of his admission and had 4 typical habitual
+events without any EEG correlate. She was started on a low dose of Topamax on day 3 to address
+migraine headaches.  Additionally, her hydrochlorothiazide was stopped due to normotension and
+hypokalemia.
+
+
+
+We recommend that he/she to see a psychiatrist or therapist for assessment of underlying
+psychopathology and diagnosis.

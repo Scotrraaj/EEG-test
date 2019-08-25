@@ -1,0 +1,201 @@
+DATE OF STUDY: 06/24/16
+
+RECORDING ENVIRONMENT: outpatient
+
+
+EEG TYPE: 20-40 min, awake and asleep
+
+EEG #: no number provided
+
+CPT: 95819              ICD: 780.39
+
+
+
+HISTORY:
+
+a 39 y.o. female with a history of HTN referred for routine EEG for possible
+seizures.
+
+
+MEDICATIONS: no AEDs
+
+
+
+SEDATION: None listed
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically challenging
+record at times due to diffuse muscle artifact, and included a single channel of EKG and photic
+stimulation.
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive posterior dominant rhythm (PDR) that
+consists of mostly low voltage fast frequencies. The normal anterior-to-posterior gradient of frequency
+and amplitude is present.
+
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.
+
+There is frequent sharply contoured, notched theta-range slowing seen over the left anterior temporal
+region.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None - see above under
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+mild diffuse symmetric background slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+
+1. Frequent sharply contoured, notched theta-range slowing seen over the left anterior temporal
+region
+
+
+
+CLINICAL CORRELATION:
+
+
+
+
+While a benign variant (rhythmic midtemporal theta bursts of drowsiness, RMTD) cannot be excluded,
+a focal cerebral dysfunction of left anterior temporal origin was felt more likely based on the
+appearance of the focal slowing.
+
+
+
+
+
+Attending Epileptologist: 
+
+I have personally reviewed this study, and this report represents my findings and conclusions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

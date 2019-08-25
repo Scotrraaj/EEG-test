@@ -1,0 +1,167 @@
+DATE OF STUDY: 04/13/2016
+
+RECORDING ENVIRONMENT: OR 15
+
+
+EEG TYPE: >8:00 hrs, intraoperative study with one-on-one
+
+physician remote review for total time 4 hours
+
+
+
+
+
+HISTORY:
+
+a 69 y.o. male with a history of PTE referred
+
+
+for intraoperative EEG monitor for hypothermia protocol.
+
+
+MEDICATIONS:
+
+
+Rocuronium
+
+
+SEDATION: VERSED ,FENTANYL,ETOMIDATE
+
+
+
+TECHNIQUE:
+
+A  Digital electroencephalogram (EEG) was recorded using the
+
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+NicOne system. This was a  technically satisfactory record and
+
+included a single channel of EKG. the standard operative montage
+
+
+was utilized.  A 20 minute wake baseline was recorded. Start time
+
+
+
+
+7:37 AM. End time 16:17
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a
+
+
+mixture of alpha and a moderate amount of bifrontal beta
+
+activity, organized in a normal anterior-to-posterior gradient.
+
+Wakefulness is characterized by a symmetric and reactive 10.7
+
+Hertz posterior dominant rhythm (PDR), which attenuates
+
+
+symmetrically with eye opening.  There is generous frontocentral
+
+beta.  The overall awake background is low voltage.
+
+
+
+Induction:
+
+Time 9:03 AM:
+
+Induced rhythmic, symmetric slowing and intermittent attenuation
+
+
+of the background.
+
+
+
+INDUCTION OF HYPOTHERMIA:
+
+10:16 AM
+
+The patient was cooled to a target of 19°.  This produced
+
+progressive attenuation of the EEG. As this occurred, right
+
+
+hemisphere demonstrates a lower voltage than the left.
+
+
+
+The EEG reached isoelectric pattern at 11:19.  The patient was
+
+monitored for 5 minutes before the team moved forward with
+
+Thrombectomy under hypothermic conditions.
+
+
+
+REWARMING:
+
+Rewarming begins at 1:35.
+
+
+The EEG gradually transitions from a suppressed pattern to a
+
+pattern with intermittent bursts of theta or delta.
+
+There were some asynchronous bursts noted as the EEG began to
+
+return.  In addition, the previously noted amplitude asymmetry
+
+
+was seen.  By the end of the recording however, the EEG had
+
+returned to its symmetric pattern.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Sporadic epileptiform activity was identified.  This  was seen
+
+from 10 AM to 1 AM with isolated sharp waves left hemisphere more
+
+
+than right
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+Patient went on bypass at 10:20 AM
+
+
+
+IMPRESSION and CLINICAL CORRELATION:
+
+EEG monitoring during therapeutic hypothermia demonstrated a
+
+
+suppressed pattern. The surgical team was informed  when the
+
+pattern became suppressed.  The asymmetries described above can
+
+be seen with asymmetric cooling.  Epileptiform discharges can
+
+occurred during cooling or rewarming as was noted above during
+
+
+cooling.
+
+
+
+Rewarming was associated with reappearance of symmetric cerebral
+
+activity.
+
+

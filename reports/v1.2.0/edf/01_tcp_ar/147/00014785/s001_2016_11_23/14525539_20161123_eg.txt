@@ -1,0 +1,166 @@
+HISTORY:
+
+80 y.o. female with a history of a recent right MCA stroke, now presents with change
+in mental status.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+aspirin (BAYER) tablet 325 mg
+
+docusate sodium (COLACE) liquid 100 mg
+
+
+pravastatin (PRAVACHOL) tablet 40 mg
+
+heparin (5000 units/mL) injection 5,000 Units
+
+insulin regular (HumuLIN R,NovoLIN R) injection 1-5 Units
+
+
+sodium chloride 0.9 % infusion
+
+pantoprazole (PROTONIX) injection 40 mg
+
+magnesium hydroxide (MILK OF MAGNESIA) suspension 30 mL
+
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+Or
+
+
+
+acetaminophen (TYLENOL) suppository 650 mg
+
+alteplase (ACTIVASE) 6.6 mg in sterile water 6.6 mL infusion
+
+
+Followed by
+
+alteplase (ACTIVASE) 59 mg in sterile water 59 mL infusion
+
+
+dextrose 50% injection 25 mL
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+phenylephrine (NEO-SYNEPHRINE) 80 mg in sodium chloride 0.9 % 250 mL infusion
+
+
+sodium chloride 0.9 % infusion
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right.
+
+
+
+With maximal stimulation, the background over the left consists of 7 Hz polymorphic moderate
+amplitude theta activity, polymorphic theta and delta activity and poor AP (anterior-to-posterior)
+gradient.  The background over the right, consists of low amplitude polymorphic 6 Hz theta activity, a
+mixture of theta and delta activity with absence of the expected AP (anterior-to-posterior) gradient.
+Delta activity is especially pronounced over the right frontotemporal leads.
+
+
+
+
+Diffuse triphasic waveforms are occasionally seen.
+
+
+
+
+No normal sleep is observed but periods of quiescence are captured.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal comatose routine EEG due to:
+
+1. Moderate diffuse slowing
+
+2.  Focal right hemispheric slowing that is especially pronounced over the right frontotemporal region.
+
+
+3. occasional triphasic waveforms
+
+
+CLINICAL CORRELATION:
+
+
+
+Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific.
+
+
+Continuous focal slowing is indicative of a focal structural lesion in over the right and is consistent
+with a recent right MCA stroke.
+
+
+
+Triphasic waves are a nonspecific EEG finding that can be seen in encephalopathy (mostly
+commonly hepatic), uremia, anoxia and many other etiologies.

@@ -1,0 +1,103 @@
+HISTORY:
+
+31 y.o. male with a history of  seizures since age 13, bipolar disease.  Admitted to
+hospital after seizure in shelter, referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+ibuprofen (ADVIL,MOTRIN) tablet 400 mg
+
+carBAMazepine (TEGRETOL) tablet 600 mg
+
+levETIRAcetam (KEPPRA) tablet 750 mg
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically  satisfactory record
+and included a single channel of EKG and verbal stimulation.  This is a bedside portable record in a
+very drowsy adult
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+theta alpha and beta frequencies, with a symmetric and reactive  7 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.  There is 6
+Hz central theta
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+Mild to moderate generalized slowing is present.
+
+Intermittent left temporal focal slowing is present.  This is more prominent in stage II sleep.  This
+includes somewhat irregular mixed theta delta and disruption of faster frequency activity.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Frequent (>1/min to <1/10s) initially, sharply contoured left temporal focal slowing gives way to a
+well-defined left temporal sharp waves and stage II sleep well-defined left temporal sharp waves and
+occasional spikes.  Medium amplitude anterior temporal maximum.
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+ACTIVATION PROCEDURES: Tactile and verbal stimulation produces an alerting with eye opening
+
+EVENTS: There are  no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE: A heart rate of 84 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1.  Left temporal sharp waves, more prominent in sleep
+
+2.  Intermittent left temporal focal slowing
+
+
+3.  Mild generalized background slowing
+
+CLINICAL CORRELATION:
+
+These findings are relatively typical for left temporal lobe seizures.  The background slowing may be
+part of this patient's usual background or may represent postictal generalized slowing.  No seizures
+were recorded

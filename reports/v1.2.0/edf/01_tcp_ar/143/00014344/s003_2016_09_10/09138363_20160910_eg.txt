@@ -1,0 +1,180 @@
+DATE OF STUDY: 09/10/16
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 20-40 min, awake and drowsy
+
+
+
+
+HISTORY:
+
+a 72 y.o. male with a history of R basal ganglia hemorrhage w/ IVH s/p VPS,
+admitted with pneumonia, altered mental status, and worsened ventriculomegaly, referred for routine
+EEG for assessment of mental status change.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+vancomycin (VANCOCIN) 1,000 mg in sodium chloride 0.9 % 250 mL IVPB MB+
+
+levETIRAcetam (KEPPRA) tablet 500 mg
+
+levETIRAacetam (KEPPRA) solution 1,000 mg
+
+
+sodium chloride 0.9 % infusion
+
+collagenase (SANTYL) ointment 1 Application
+
+insulin glargine (LANTUS) injection 20 Units
+
+
+piperacillin-tazobactam (ZOSYN) 3.375 g in sodium chloride 0.9 % 50 mL IVPB MB+
+
+amLODIPine (NORVASC) tablet 10 mg
+
+cloNIDine (CATAPRES) tablet 0.1 mg
+
+
+
+
+amantadine HCl (SYMMETREL) capsule 100 mg
+
+sertraline (ZOLOFT) tablet 50 mg
+
+
+modafinil (PROVIGIL) tablet 100 mg
+
+tamsulosin (FLOMAX) 24 hr capsule 0.4 mg
+
+
+ascorbic acid (vitamin C) tablet 500 mg
+
+senna (SENOKOT) tablet 1 tablet
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+dextrose 50% injection 25 mL
+
+dextrose 50% injection 50 mL
+
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+insulin lispro (HumaLOG) injection 1-5 Units
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a fairly organized mixture of alpha and
+beta frequencies, with a symmetric and reactive 8 Hertz posterior dominant rhythm (PDR). The
+normal anterior-to-posterior gradient of frequency and amplitude is present but suboptimal.
+
+
+
+There is continuous right frontal polymorphic slowing with increased amplitudes, consistent with
+breach rhythm.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and further background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+Mild generalized slowing is present.
+
+In addition to the aforementioned continuous right frontal polymorphic slowing, frequent left > right
+bitemporal independent polymorphic slowing, often characterized as high amplitude delta slowing,
+is present. The high amplitude delta slowing may also represent breach rhythm.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+1. Mild generalized slowing and suboptimal organization
+
+
+2. Continuous right frontal polymorphic slowing
+
+3. Breach rhythms as above
+
+4. Frequent left > right bitemporal independent polymorphic slowing
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of right frontal cerebral dysfunction that is likely structural in
+etiology, superimposed on an etiologically nonspecific bitemporal cerebral dysfunction and mild
+diffuse cerebral dysfunction.
+
+
+Breach rhythm is consistent with this patient's known history of a skull defect.
+
+
+
+

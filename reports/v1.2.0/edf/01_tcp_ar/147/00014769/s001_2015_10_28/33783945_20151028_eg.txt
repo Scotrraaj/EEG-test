@@ -1,0 +1,23 @@
+ 
+
+History:		87 year old woman found down She was found to have left inferior frontal parasagittal parenchymal contusion.
+Medications:	Keppra, Cymbalta
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+
+Description:
+During arousals, the background consists of 9-10 Hz alpha posteriorly, weak AP gradient, excess diffuse polymorphic theta and delta activity. Vertex-like waveforms and K-complex-like waveforms are seen.
+There is subtle paucity of faster frequencies over the left anterior temporal region - this becomes more apparent when the patient is awake.
+
+Hyperventilation and photic stimulation are not performed.
+
+Summary of Findings:
+Diffuse slowing, polymorphic, mild-to-moderate
+Focal slowing, polymorphic, intermittent, left temporal, anterior No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and asleep 21-minute portable EEG due to mild-to-moderate diffuse slowing and subtle left anterior temporal focal slowing. Diffuse slowing is indicative of mild to moderate diffuse cerebral dysfunction, which is etiologically nonspecific. Intermittent focal slowing is indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly structural in origin. The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+
+

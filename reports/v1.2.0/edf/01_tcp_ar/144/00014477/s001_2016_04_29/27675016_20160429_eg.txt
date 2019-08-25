@@ -1,0 +1,191 @@
+DATE OF STUDY: 04/29/16
+
+RECORDING ENVIRONMENT: outpatient
+
+
+EEG TYPE: 40-60 min, awake and drowsy
+
+
+
+
+
+HISTORY:
+
+a 40 y.o. male with a history of epilepsy referred for routine EEG for
+characterization of seizures.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+escitalopram oxalate (LEXAPRO) 10 mg tablet, Take 10 mg by mouth daily.
+
+topiramate (TOPAMAX) 25 mg tablet, Take 25 mg by mouth 2 times daily.
+
+oxcarbazepine (TRILEPTAL) 600 mg tablet, Take 600 mg in am and 900 mg in pm
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 10 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+No generalized slowing is present.
+
+Frequent bitemporal independent sharply contoured temporal slowing is present. At times this
+slowing appears quasi-rhythmic.
+
+
+
+Note that there is diffuse EKG artifact throughout the record.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Frequent (>1/min to <1/10s) right fronto-temporal (F8/T2 max, with field extending to Fp2/F4) sharp-
+and-wave discharges
+
+
+Occasional (>1/hour to <1/min) left fronto-temporal (F7/T1 max, with field extending to Fp1)
+spike/sharp-and-wave discharges
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+mild diffuse symmetric background slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 102 bpm is captured on a single EKG lead.
+
+
+
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy  1-hour EEG due to:
+
+
+1. Frequent bitemporal independent sharply contoured temporal slowing, which at times appears
+quasi-rhythmic
+
+
+2. Frequent (>1/min to <1/10s) right fronto-temporal (F8/T2 max, with field extending to Fp2/F4)
+sharp-and-wave discharges
+
+3. Occasional (>1/hour to <1/min) left fronto-temporal (F7/T1 max, with field extending to Fp1)
+spike/sharp-and-wave discharges
+
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate the presence of right > left fronto-temporal epileptogenic discharges
+superimposed on bitemporal independent cerebral dysfunction.
+
+
+Note that prior prolonged EEGs demonstrated left > right epileptogenic discharges.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

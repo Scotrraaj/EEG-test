@@ -1,0 +1,41 @@
+ HISTORY: 49 y.o. male with a history of presumed autoimmune encephalopathy referred for EEG for screening for subclinical seizures.
+
+MEDICATIONS: Current Facility-Administered Medications: levETIRAcetam (KEPPRA) tablet 1,000 mg piperacillin-tazobactam (ZOSYN) 3.375 g in sodium chloride 0.9 % 50 mL IVPB MB+ vancomycin (VANCOCIN) 1,000 mg in sodium chloride 0.9 % 250 mL IVPB MB+ LORazepam (ATIVAN) tablet 0.5 mg enoxaparin (LOVENOX) injection 60 mg albumin human 5 % injection 175 g calcium gluconate 3.5 g in sodium chloride 0.9 % 250 mL IVPB sodium chloride 0.9 % IV bolus sodium chloride 0.9 % IV bolus famotidine (PEPCID) 40 mg/5 mL (8 mg/mL) suspension 20 mg white petrolatum-mineral oil (LACRI-LUBE) ophthalmic ointment 1 Application ARIPiprazole (ABILIFY) tablet 2 mg sodium chloride 0.9 % infusion acetaminophen (TYLENOL) oral solution 650 mg ipratropium-albuterol (DUO-NEB) nebulizer solution 3 mL polyvinyl alcohol (LIQUIFILM TEARS) 1.4 % ophthalmic solution 2 drop bisacodyl (DULCOLAX) suppository 10 mg chlorhexidine (PERIDEX) 0.12 % solution 15 mL polyethylene glycol (GLYCOLAX) packet 17 g senna (SENOKOT) tablet 1 tablet sodium chloride 0.9 % injection (flush) 10 mL
+
+SEDATION: None
+TECHNIQUE: A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+
+DAY 1 (9/11/2016, 12:20 - 9/11/2016, 06:00)  AEDs: Keppra increased to 1500 mg q12h
+BACKGROUND: Background activity was characterized by diffuse low voltage delta activity with absence of the expected anterior to posterior gradient of frequencies. No posterior dominant rhythm was present. Sleep transients is not captured.  The background is minimally reactive and variable, with periods of higher amplitude delta seen during times of increased muscle artifact.  There is severe generalized slowing. There is no focal slowing.
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):  None
+
+EPILEPTIFORM ACTIVITY:  1. Frequent bluntly contoured diffuse delta activity recurs at 1 Hz, for several hours at a time (generalized periodic discharges, GPDs).  These intermittently become asynchronous between hemispheres (bilateral independent lateralized periodic discharges, BiLPDs). These are activated during periods of relative arousal (stimulus-induced periodic discharges).  EVENTS: No clinical or electrographic events reported or detected  EKG: A single lead captured a heart rate in the 90s.
+DAY 1 IMPRESSION & CLINICAL CORRELATION: This is an abnormal long term video EEG due to: 1. Severe generalized slowing, disorganization 2. Frequent periodic discharges for hours, most often generalized; at times bilaterally independent, and activated by periods of arousal  These findings are consistent with diffuse and bilateral independent epileptogenic potential superimposed on a severe diffuse cerebral dysfunction.
+
+-----------------------------------------------------------------
+
+DAY 2 (9/12/2016, 06:00 - 9/13/2016, 06:00)
+BACKGROUND: No change
+GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+SPORADIC EPILEPTIFORM ACTIVITY: No change  EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured a heart rate in the 80s-90s
+DAY 2 IMPRESSION & CLINICAL CORRELATION  No change
+
+-----------------------------------------------------------------
+
+DAY 3 (9/13/2016, 06:00 - 9/13/2016, 13:16)
+BACKGROUND: No change
+GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+SPORADIC EPILEPTIFORM ACTIVITY: No change
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured a heart rate in the 90s 
+DAY 3 IMPRESSION & CLINICAL CORRELATION  No change
+
+-----------------------------------------------------------------
+
+FINAL IMPRESSION:  This is an abnormal video EEG due to:  1. Severe generalized slowing with background disorganization 2. Frequent periodic discharges for hours, most often generalized; at times bilaterally independent, and activated by periods of arousal
+FINAL CLINICAL CORRELATION:   These findings are consistent with diffuse and bilateral independent epileptogenic potential superimposed on a severe diffuse cerebral dysfunction. 

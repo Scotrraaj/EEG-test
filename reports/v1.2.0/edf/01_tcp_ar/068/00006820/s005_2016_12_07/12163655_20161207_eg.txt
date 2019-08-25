@@ -1,0 +1,496 @@
+HISTORY:
+
+This is a 46 y.o. with seizures since he was a young child, that involved grinding his teeth.
+
+
+
+He has had these current seizures for about 2 years now but they have been increasing in frequency
+over this time.
+
+
+
+
+Seizure types:
+
+1.) Sudden loss of consciousness with generalized convulsions lasting 2 to 5 minutes associated with
+tongue biting and incontinence of urine. Afterward, he is drowsy and confused for about 10 minutes.
+Frequency: 2 sz per week (was 4 last time). Last sz was last week.
+
+
+
+
+
+
+
+
+2.) After sleeping, the pt sometimes awakes the following morning with right face swelling and tooth
+pain from grinding his teeth, and sometimes bites his tongue. He sometimes remembers shaking his
+head during the night.
+
+
+
+
+
+Epilepsy Risk Factors:
+
++Pt has a history of meninginitis at 2 months of age
+
++Pt has a history of major head trauma after falling off of a bike at age 12 year old.
+
+
++Pt's father also had seizures
+
+-No complications during birth. Denies history of head trauma, previous CNS infection, febrile
+seizures or developmental delay.
+
+
+
+Results for orders placed or performed in visit on 06/08/15
+
+
+1. MRI brain,MRA head, MRA neck
+
+Impression:
+
+1. No acute intracranial process.
+
+
+2. Mild nonspecific white matter changes. Diagnostic considerations include mild small vessel
+ischemic changes, vasculitis, migraines and demyelinating disease.
+
+3. Patent proximal intracranial arterial vasculature.
+
+
+4. Unremarkable MRA neck.
+
+
+EEG routine10/28/2015
+
+
+Normal awake and asleep
+
+
+DT EEG 48 hrs
+
+
+START DATE & TIME OF STUDY: May 18, 2016
+
+END DATE & TIME OF STUDY: May 20, 2016
+
+Normal awake and asleep.
+
+
+
+Continuous video EEG is initiated for:  Characterization of seizures.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patient's exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+No current facility-administered medications for this visit.
+
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+albuterol (PROVENTIL HFA;VENTOLIN HFA) inhaler 2 puff
+
+
+fluticasone-salmeterol (ADVAIR) 250-50 mcg/dose diskus inhaler 1 puff
+
+loratadine (CLARITIN) tablet 10 mg
+
+divalproex (DEPAKOTE ER) 24 hr tablet 500 mg
+
+
+furosemide (LASIX) tablet 40 mg
+
+gabapentin (NEURONTIN) tablet 600 mg
+
+potassium chloride (K-DUR) CR tablet 10 mEq
+
+
+pravastatin (PRAVACHOL) tablet 80 mg
+
+famotidine (PEPCID) tablet 20 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+
+LORazepam (ATIVAN) injection 2 mg
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+topiramate (TOPAMAX) tablet 100 mg
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (12/07/2016, 18:16  - 12/8/2016, 08:00)
+
+Topamax 50mg q12hr
+
+
+Depakote 500mg q12hr
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+This a normal awake and asleep EEG.
+
+
+----------------------------------------------------------
+
+
+DAY 2 (12/08/2016, 08:00  - 12/9/2016, 08:00)
+
+Topamax stopped
+
+
+Depakote 500mg q12hr
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+This a normal awake and asleep EEG.
+
+
+----------------------------------------------------------
+
+
+DAY 3 (12/09/2016, 08:00  - 12/9/2016, 15:29)
+
+Topamax stopped
+
+Depakote 500mg q12hr
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+
+
+
+At 9:49 the patient starts grinding his teeth and seconds later pushes the button. At the technician
+comes in to ask him if he is ok he start to twitch his upper body irregularly and the start to have
+irregular twitching and jerking motion of his entire torso while keeping his eyes closed. He is tested
+and does not follow verbal or motor commands. This behavior last for 5 minutes. About three minutes
+after the shaking stops he follows commands and states he doesn't remember what happened. He
+did state later that he remembered pressing the button and it felt like his typical event.
+
+
+
+
+
+The EEG during this event was normal.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+
+This a normal awake and asleep EEG. The event captured above had no EEG correlate and is
+consistent with a psychogenic non-epileptic event.
+
+
+-------------------------------------------------------
+
+
+
+INDUCTION PROCEDURES:
+
+none
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+Interictal Findings:
+
+None
+
+
+
+Ictal Findings:
+
+The patient had one clinical event while hooked up to continuous video EEG monitoring in the
+epilepsy monitoring unit.
+
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. Non-epileptic events.
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. Psychogenic non-epileptic events.
+
+
+
+CONCLUSION:
+
+
+
+was admitted to the epilepsy monitoring unit for 3 days with continuous
+video EEG.  This was a diagnostic EMU monitoring session because of one non epileptic event was
+captured.
+
+
+
+
+The patient was weaned off topiramate over the course of his admission. He was sent on Depakote on
+the day of discharge from the hospital. No other medication changes were made during the
+hospitalization.
+
+
+
+The patient had a discussion about nonepileptic events and their association with
+underlying psychiatric co-morbidities and are not due to abnormal electrical discharges of the
+brain/cortex.
+
+
+
+
+We recommend that he/she to see a psychiatrist or therapist for assessment of underlying
+psychopathology and diagnosis.
+
+
+
+Patient is follow-up at the Temple Epilepsy Center as an outpatient.

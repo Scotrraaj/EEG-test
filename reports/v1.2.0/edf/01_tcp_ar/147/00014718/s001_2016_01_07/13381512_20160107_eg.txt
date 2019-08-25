@@ -1,0 +1,25 @@
+History:	68 year old man with episodes concerning for seizures.
+Medications:	No AEDs
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, asleep
+Description:
+During maximal arousal the posterior dominant rhythm reaches 9 Hz alpha activity.  The expected 
+AP gradient is present.  Mild excess of underriding theta and delta activity is present during 
+wakefulness.  Patient very rapidly transitions into stage II sleep.  Sleep architecture is symmetrical.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates 
+widened QRS complexes, irregular heart rate and frequent premature QRS complexes.
+Summary of Findings:
+	Diffuse slowing, polymorphic, mild
+	Sleep, stage 2
+	Cardiac arrhythmia
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute EEG due to mild diffuse slowing. This finding 
+is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  However, in this
+ patient could be related to excessive drowsiness.  Very rapid transitions from wakefulness to stage II
+ sleep are suggestive of an extreme sleep deprivation or an underlying sleep disorder - please 
+correlate clinically.  A single EKG lead demonstrates widened QRS complexes, irregular heart rate 
+and frequent premature QRS complexes.
+	
+

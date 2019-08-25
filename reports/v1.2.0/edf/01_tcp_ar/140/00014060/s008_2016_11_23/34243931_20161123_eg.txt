@@ -1,0 +1,180 @@
+HISTORY:
+
+35 y.o. male with a history of head trauma, requiring craniectomy and EVD.
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+valproate (DEPACON) 1,250 mg in sodium chloride 0.9 % 100 mL IVPB
+
+sodium chloride 0.9 % infusion
+
+ceFAZolin (ANCEF) 1 g in sodium chloride 0.9 % 100 mL IVPB MB+
+
+
+ceFEPIme (MAXIPIME) 2 g in dextrose 5 % 100 mL IVPB
+
+acetylcysteine (MUCOMYST) 20 % 1 mL plus albuterol 2.5 mg/3 mL nebulizer mixture solution
+
+albuterol (PROVENTIL) nebulizer solution 2.5 mg
+
+
+labetalol (NORMODYNE,TRANDATE) injection 10 mg
+
+morphine injection 2 mg
+
+levETIRAcetam (KEPPRA) 500 mg in sodium chloride 0.9 % 100 mL IVPB
+
+
+propofol (DIPRIVAN) 1000 mg/100 mL IV infusion
+
+
+
+
+fentaNYL (PF) (SUBLIMAZE) injection 50 mcg
+
+bisacodyl (DULCOLAX) suppository 10 mg
+
+
+carbidopa-levodopa (SINEMET) 25-100 mg per tablet 1 tablet
+
+famotidine (PEPCID) 40 mg/5 mL (8 mg/mL) suspension 20 mg
+
+
+modafinil (PROVIGIL) tablet 100 mg
+
+docusate sodium (COLACE) liquid 100 mg
+
+nystatin (MYCOSTATIN) powder 1 Application
+
+ipratropium (ATROVENT) 0.02 % nebulizer solution 0.5 mg
+
+
+senna (SENOKOT) tablet 1 tablet
+
+acetaminophen (TYLENOL) oral solution 650 mg
+
+
+baclofen (LIORESAL) tablet 10 mg
+
+calcium carbonate 1,250 mg/5 mL suspension 500 mg 2 mL
+
+nystatin (MYCOSTATIN) 100,000 unit/mL suspension 500,000 Units
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+ascorbic acid (vitamin C) tablet 500 mg
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+There is no PDR or AP gradient.
+
+
+
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right.
+
+
+During arousals the background consists of a mixture of polymorphic theta <<delta activity.  During
+sleep, theta activity becomes more prominent and sleep spindles appear.  They are more prominent
+over the left.
+
+
+
+
+Frequent non-evolving T4 and C4 polymorphic sharply contoured fluctuating 3-5 Hz activity is seen
+in runs of variable duration.  This activity appears during periods of quiescence.
+
+
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No clear epileptiform discharges are present but activity over the right is frequently sharply contoured.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+EVENTS:
+
+
+EEG technologist observes eye deviation towards the right.  There is no appreciable change in the
+background during that episode.
+
+
+
+HEART RATE:
+
+A heart rate of ~90 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+
+1. Moderate-to-severe diffuse slowing
+
+2. Focal right hemispheric slowing
+
+
+
+
+CLINICAL CORRELATION:
+
+
+
+Diffuse slowing is indicative of moderate-to-severe diffuse cerebral dysfunction, which is etiologically
+nonspecific.
+
+Continuous focal slowing is indicative of a focal structural lesion over the right.
+
+
+
+An episode of gaze deviation to the right was not associated with a change in the background.
+
+
+
+No electrographic seizures are captured.  Even though no clear epileptiform discharges are present,
+there is a large amount of sharply contoured activity over the right due to a prior craniectomy.

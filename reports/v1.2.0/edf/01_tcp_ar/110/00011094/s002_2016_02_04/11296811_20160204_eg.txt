@@ -1,0 +1,31 @@
+
+History:	49 year old woman with a recurrent left frontal meningioma and recurrent seizures.
+Medications:	KEPPRA
+Sedation:	None
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes and EKG electrodes, awake, 
+	drowsy, asleep, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates 
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over 
+bilateral frontal regions.  During drowsiness, the background slows to central theta activity, frontal 
+beta activity becomes more prominent, and the alpha rhythm attenuates and becomes intermittent.
+  During stage 2 sleep, the record slows further to moderate voltage 2-4Hz activity, and symmetric 
+Continuous polymorphic theta activity is present in the left central region during wakefulness, 
+increasing during drowsiness and sleep. There is an associated increased voltage and faster 
+frequencies in the region consistent with a breach rhythm.  At times this activity is sharply 
+countoured.  No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse 
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) does 
+not produce additional abnormalities.
+Summary of Findings:
+	Focal slowing, polymorphic, continuous, mild, left central
+	Breach artifact, left central
+	Sleep, stage 2
+	No epileptiform discharges
+Interpretation:
+This is an ABNORMAL 41-minute awake, drowsy, and sleep EEG because of continuous focal 
+slowing in the left central region, which is consistent with the known prior surgery in the same 
+region.  Breach artifact indicates a skull defect.
+	
+

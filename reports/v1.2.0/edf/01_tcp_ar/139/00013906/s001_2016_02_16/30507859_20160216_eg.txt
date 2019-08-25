@@ -1,0 +1,205 @@
+HISTORY:
+
+35 y.o. female with a history of reported
+
+seizures since age 7 and polysubstance abuse, on methadone,
+
+
+referred for routine EEG for evaluation of paroxysmal events.
+
+
+MEDICATIONS: home medications listed as METHADONE, PROZAC,
+
+
+TRILEPTAL, TOPAMAX, GABAPENTIN. Tech notes that patient has not
+
+yet received methadone.
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+
+NicOne system. This was a technically satisfactory record and
+
+
+
+
+included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a
+
+
+mixture of alpha and a moderate amount of bifrontal beta
+
+activity, organized in a normal anterior-to-posterior gradient.
+
+Wakefulness is characterized by a symmetric and reactive 10 Hertz
+
+posterior dominant rhythm (PDR), which attenuates symmetrically
+
+
+with eye opening.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and
+
+fragmentation of the posterior dominant rhythm, and diffuse
+
+background slowing are seen.
+
+
+
+Sleep is not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180
+
+seconds with waxing and waning cooperation and produces mild
+
+
+diffuse symmetric background slowing.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+flashes per second (fps) does not produce any EEG changes. An
+
+
+episode of stiffening with eyes rolled back, described below,
+
+occurs at 11 Hz photic stimulation.
+
+
+
+EVENTS:
+
+
+11:04:18
+
+CLINICAL: Tech notes "leg jerk." On video review, legs are not on
+
+
+screen, but isolated brief body jerk noted. This occurs 88
+
+seconds into hyperventilation.
+
+
+EEG: There is no ictal cerebral correlate.
+
+
+11:04:43
+
+CLINICAL: Tech notes "jerky." On video review, patient has
+
+
+isolated brief jerk of trunk towards right. This occurs 116
+
+seconds into hyperventilation.
+
+
+EEG: There is no ictal cerebral correlate.
+
+
+11:10:23, duration ~5 min 3 sec
+
+CLINICAL: During 11 Hz photic stimulation, patient opens eyes
+
+
+slightly. They are rolled back. She stiffens her trunk, then her
+
+arms - tech notes the left arm is bended and the right arm is
+
+
+straight (forearms not captured on video). Her eyes flutter, then
+
+close. Dr comes in immediately. Patient does not
+
+follow commands or speak. She opens her eyes slightly (40
+
+seconds). She no longer appears stiff. She resists eye exam and
+
+
+turns her head away from doctor, towards right. Still does not
+
+answer questions or follow commands. Appears to resist exam. She
+
+
+opens and closes her mouth and blinks her eyes. At 124 seconds,
+
+she follows commands and answers questions, but avoids eye
+
+contact. She does not follow commands. She closes her eyes. She
+
+begins to cry.  By 216 seconds she begins to speak, but does not
+
+
+know what test she is having and cannot state the code word.
+
+EEG: no EEG cerebral changes are seen; posterior dominant rhythm
+
+
+is seen intermittently. There is diffuse muscle artifact and
+
+occasional glossokinetic/chew artifact.
+
+EKG: Heart rate increases from 70s to 80s.
+
+
+
+HEART RATE:
+
+A heart rate of 78 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION / CLINICAL CORRELATION:
+
+
+This is a normal awake and drowsy routine EEG.
+
+The isolated jerks described above had no EEG cerebral correlate
+
+
+and are unlikely to represent seizure.
+
+The episode of eyes rolled back with body stiffening that
+
+
+occurred at 11:10 had no ictal EEG cerebral correlate and is most
+
+consistent with a nonepileptic behavioral event.

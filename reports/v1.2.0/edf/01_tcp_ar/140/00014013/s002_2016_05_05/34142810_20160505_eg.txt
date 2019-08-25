@@ -1,0 +1,97 @@
+DATE OF STUDY: 05/05/16
+
+RECORDING ENVIRONMENT: OR monitor
+
+
+EEG TYPE: Intraoperative monitoring, awake and asleep 6. 5hours recording, in two files. The first
+section begins after 6 AM and the second section ends at 14:!6 for total recording time 6 hours 20
+minutes
+
+
+
+
+HISTORY:
+
+a 75 y.o. female with a history of pulmonary hypertension, pulmonary thrombosis
+referred for routine EEG for EEG monitoring during therapeutic hypothermia.
+
+
+
+MEDICATIONS:
+
+Heparin, flurane,  Fentanyl, isoflurane
+
+
+TECHNIQUE:
+
+Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with standard intraoperative montage and utilized a NicOne system. This was a  technically
+satisfactory record and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is abnormal: It is diffusely slow with primarily theta frequency activity.  There
+is a glimpse of a slow alpha rhythm, generous beta and shifting asymmetries.  With stimulation, the
+patient clearly awakens and there is a well-defined posterior dominant rhythm of 7 Hz.
+
+
+Induction: 9:10 AM- generate a symmetric, rhythmic slow pattern.  I 10 AM, it is primarily a delta
+pattern
+
+
+
+
+
+COOLING: 9:50 AM - the patient is cooled to 16.3°. This Produces a lower voltage, more slowing
+suppressed pattern.  As it does, there are occasional, blunt and sharp waves noted from the left
+hemisphere maximum in the left temporal region.  These findings were communicated to the clinical
+team.  The EEG gradually transitions to a low voltage slower and more discontinuous pattern.  The
+blunted  sharp waves faded away.  The EEG becomes flat at 11:02:27, although there were
+intermittent artifacts noted the record from movement of the head box by the anesthesia team.
+
+
+
+
+
+The patient was placed on bypass at 09:52
+
+
+
+REWARMING: 12:13 from nadir of 15.8 the EEG slowly and gradually returns with a burst suppression
+pattern noted at 12:35:09.  Periods of suppression were initially long and then on the order of 2-4
+seconds.  At 1:10, as the EEG returns, there shifting asymmetries noted in a burst suppression pattern.
+As the EEG becomes continuous, just before 2:00, again shifting asymmetries are noted but on the
+whole the EEG is continuous and there is no definitive focality.  The EEG is symmetric at the
+conclusion of the study at 2:1 6 PM
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Blunted left hemispheric sharp waves or temporal sharp waves were noted with cooling
+
+
+
+HEART RATE:
+
+A heart rate of 78 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION/ CLINICAL CORRELATION:
+
+Although the baseline EEG was abnormal, and there were sharp waves noted in cooling, the EEG
+monitoring during the session of hypothermia successfully demonstrated suppression of the cerebral
+activity and then return to a symmetric pattern.
+
+

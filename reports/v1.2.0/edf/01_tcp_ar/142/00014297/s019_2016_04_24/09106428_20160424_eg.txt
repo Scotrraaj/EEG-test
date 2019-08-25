@@ -1,0 +1,128 @@
+HISTORY: 39 y.o. female with a history of pulmonary fibrosis, pulmonary hypertension, CHF, PE on Lovenox, febrile illness, and hypernatremia in the midst of a prolonged hospital course since admission in 12/2015, referred for EEG for after a convulsion with head and gaze deviation to the right. On neurology consult exam, she had left gaze preference with left beating nystagmus.
+MEDICATIONS: Fentanyl IV S/p Ativan 4 mg  Loaded with Keppra, then VPA 40 mg/kg Versed gtt started
+SEDATION: as above
+TECHNIQUE: A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+DAY 1 (4/18/2016, 20:39 - 4/19/2016, 06:00)
+BACKGROUND, EPILEPTIFORM ACTIVITY, EVENTS: The background is continuous and symmetric but disorganized and not clearly reactive. There is neither state change nor variability.  The record consists of diffuse spikes and sharp waves occurring periodically at 1-2 Hz (generalized periodic discharges / GPEDs / GPDs), with admixed diffuse sharply contoured and poorly organized theta bursts of 5-10 second duration, without clear evolution. Occasionally the generalized spikes occur in bursts of 9 Hz for 1.5 seconds. There are frequent periods of suppression lasting up to 1 second.  There is severe generalized slowing. There is no focal slowing.
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):  None
+EKG: A single lead captured a heart rate in the 90s.
+DAY 1 IMPRESSION & CLINICAL CORRELATION: This is an abnormal long term video EEG due to: 1. Severe generalized slowing and background disorganization 2. Continuous 1-2 Hz generalized periodic discharges with admixed diffuse sharply contoured and poorly organized theta bursts  These findings are concerning for generalized highly epileptiform discharges. There are no clear, discreet electrographic seizures captured; however, the overall record is consistent an ictal/interictal continuum, with highly epileptiform discharges and recent and/or ongoing seizure/status epilepticus. There is additionally evidence for severe diffuse cerebral dysfunction, which may at least in part be due to sedating medications
+
+-----------------------------------------------------------------
+
+DAY 2 (4/19/2016, 06:00 - 4/20/2016, 06:00)  Depakote re-loaded, then stopped (inability to achieve therapeutic level) Versed gtt uptitrated but limited by hypernatremia Phenobarbital load initiated
+BACKGROUND: as on day 1, background is continuous, symmetric, and poorly organized. In contrast, today record consists of abundant diffuse sharp waves and sharply contoured theta that are less clearly epileptiform and periodic. There are frequent 1-1.5 second periods of diffuse suppression. Over the course of the day the periods of diffuse suppression increase in duration up to 3 seconds and the record becomes nearly continuous. There is excess beta activity.  Note that there is a pause in EEG monitoring between 4/19/2016 12:46-15:04 while patient is off the unit.
+GENERALIZED SLOWING: severe
+FOCAL SLOWING: None
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+SPORADIC EPILEPTIFORM ACTIVITY: as noted above under "background" description
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured a heart rate in the 90s.
+DAY 2 IMPRESSION & CLINICAL CORRELATION  Overall record still consistent with ictal/interictal continuum.  Sharp waves and sharply contoured theta appears less "epileptiform" than on day 1, consistent with medication effect, but still continuously noted throughout record.
+
+-----------------------------------------------------------------
+
+DAY 3 (4/20/2016, 06:00 - 4/21/2016, 06:00)  Keppra Versed gtt 14 mg/hr Phenobarbital loading continues, level is 38 4/21/2016 06:00
+BACKGROUND: discontinuous with periods of diffuse suppression up to 6 seconds. Otherwise consists of disorganized alpha, theta, and beta, with frequent diffuse rhythmic delta for <10 seconds
+GENERALIZED SLOWING: severe
+FOCAL SLOWING: None
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: frank diffuse spikes and sharp waves become "frequent"
+EKG: A single EKG lead captured a heart rate in the 100s
+DAY 3 IMPRESSION & CLINICAL CORRELATION  Severe generalized slowing at least in part attributable to medication effect, with discontinuous background Frequent diffuse epileptiform discharges No definite electrographic seizures.
+
+-----------------------------------------------------------------
+
+DAY 4 (4/21/2016, 06:00 - 4/22/2016, 06:00)
+BACKGROUND: Discontinuous pattern throughout much of the day. By 21:00 the pattern is nearly in burst suppression, but occasional 10-second bursts of sharply contoured fluctuating rhythmic delta persist with admixed diffuse spikes.
+GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change 
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+SPORADIC EPILEPTIFORM ACTIVITY: No change
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured a heart rate in the 110s 
+DAY 4 IMPRESSION & CLINICAL CORRELATION  Approaching burst suppression pattern.
+
+-----------------------------------------------------------------
+
+DAY 5 (4/22/2016, 06:00 - 4/23/2016, 6:00)  Versed gtt up to 2 mg/kg/hr
+BACKGROUND: No change
+GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+SPORADIC EPILEPTIFORM ACTIVITY: no change
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured a heart rate in the 100s
+DAY 5 IMPRESSION & CLINICAL CORRELATION  Burst suppression/discontinuous pattern.
+
+-----------------------------------------------------------------
+
+DAY 6 (4/23/2016, 06:00 - 4/24/2016, 06:00)  Versed wean down by 5 mg/h starting ~4/23/2016 11:00; slowed to titrate down by 2.5 mg/h ~4/23/2016 20:45
+BACKGROUND, SPORADIC EPILEPTIFORM ACTIVITY:  In additional to abundant diffuse spikes/sharp waves admixed with rhythmic delta, rare 1 Hz generalized periodic discharges are seen for < 10 sec runs.  1 Hz generalized periodic discharges increase to abundant by 4/23/2016 20:30, with admixed 3-4 Hz bursts of generalized spikes x2-3 seconds.
+GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured a heart rate in the 90s
+DAY 6 IMPRESSION & CLINICAL CORRELATION  Burst suppression/discontinuous pattern with increasing epileptiform features as day progresses.
+
+-----------------------------------------------------------------
+
+DAY 7 (4/24/2016, 06:00 - 4/25/2016, 06:00)
+BACKGROUND, SPORADIC EPILEPTIFORM ACTIVITY:  Background is discontinuous as on day 6.  Background alternates between disorganized alpha/theta/and delta and frequent periods of 1 Hz generalized periodic discharges, with admixed bursts of sharply contoured theta, lasting up 80 min, not clearly evolving
+GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured a heart rate in the 90s
+DAY 7 IMPRESSION & CLINICAL CORRELATION  Discontinuous pattern. Frequent very long periods with generalized epileptiform discharges that do not clearly evolve. These findings are consistent with an ictal-interictal continuum.
+
+-----------------------------------------------------------------
+
+DAY 8 (4/25/2016, 06:00 - 4/26/2016, 06:00)  Versed gtt at 5 mg/hr restarted in evening Topamax 200 mg q12h started in evening
+BACKGROUND, SPORADIC EPILEPTIFORM ACTIVITY:  Background is discontinuous as on earlier days.  Background alternates between disorganized alpha/theta/and delta and frequent periods of 1 Hz generalized periodic discharges, with admixed bursts of sharply contoured theta and also rhythmic delta, lasting hours, not clearly evolving. By the evening the bursts become less epileptiform and fluctuate less. They last 2-4 seconds and are admixed with 2-3 seconds of diffuse suppression.
+GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured a heart rate in the 90s
+DAY 7 IMPRESSION & CLINICAL CORRELATION  Discontinuous pattern. Frequent very long periods with generalized epileptiform discharges that do not clearly evolve, which improves by evening. These findings are consistent with an ictal-interictal continuum.
+
+-----------------------------------------------------------------
+
+DAY 9 (4/26/2016, 06:00 - 4/27/2016, 06:00)
+BACKGROUND, SPORADIC EPILEPTIFORM ACTIVITY:  Discontinuous. Alternates between hours of relatively quieter theta and alpha for 5-8 seconds and periods of 1 Hz generalized periodic discharges, with admixed bursts of sharply contoured theta and also rhythmic delta, lasting hours, not clearly evolving. By the end of this day background becomes nearly continuous.
+GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured a heart rate in the 110s
+DAY 9 IMPRESSION & CLINICAL CORRELATION  Background becomes nearly continuous. Otherwise, essentially no change from day 8
+
+-----------------------------------------------------------------
+
+DAY 10 (4/27/2016, 06:00 - 4/28/2016, 06:00)
+BACKGROUND, SPORADIC EPILEPTIFORM ACTIVITY:  Nearly continuous. As the day progresses, background becomes continuous. Similar to prior day, with periods of diffuse epileptiform activity, now with triphasic morphology. Runs of 0.5-1 Hz periodic diffuse epileptiform activity last less in duration than on previous day (seconds/minutes as opposed to hours).
+GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured a heart rate in the 120s
+DAY 10 IMPRESSION & CLINICAL CORRELATION  Background now continuous. Epileptiform activity occurs in runs that last less in duration, now with triphasic morphology. Pattern consistent with generalized irritability that is improving.
+
+-----------------------------------------------------------------
+
+DAY 11 (4/28/2016, 06:00 - 4/28/2016, 14:31 )
+BACKGROUND, SPORADIC EPILEPTIFORM ACTIVITY: No change
+GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captured a heart rate in the 100s
+DAY 11 IMPRESSION & CLINICAL CORRELATION  No change compared with day 10.
+
+-----------------------------------------------------------------
+
+FINAL IMPRESSION:  This is an abnormal video EEG due to:  1. Severe generalized slowing and background disorganization without clear reactivity 2. Diffuse/generalized epileptiform discharges noted throughout the study either as isolated spikes/sharp waves, periodic spikes/sharp waves, or admixed within bursts of sharply contoured theta and rhythmic delta activity, never clearly evolving into definite electrographic seizures
+FINAL CLINICAL CORRELATION:  These findings are consistent with generalized highly epileptiform potentials. Over this 11-day period of monitoring, these potentials never evolved into definitive electrographic seizures. The degree of background slowing described for each day reflect in part the degree of medication the patient was receiving; however, evidence remains for a severe diffuse cerebral dysfunction.   By the end of the study, there is still evidence for severe diffuse cerebral dysfunction. The epileptiform potentials remain abundant (seen every 10 seconds) and periodic, but occur in runs of shorter duration than before. Taken as a whole, this represents a small reduction in the degree of generalized irritability. 

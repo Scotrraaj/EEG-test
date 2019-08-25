@@ -1,0 +1,128 @@
+HISTORY:
+
+44 y.o. male with a history of large left MCA stroke, referred for routine EEG for
+screening for subclinical seizures.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+baclofen (LIORESAL) tablet 10 mg
+
+clopidogrel (PLAVIX) tablet 75 mg
+
+aspirin EC EC tablet 325 mg
+
+
+levETIRAcetam (KEPPRA) tablet 500 mg
+
+sertraline (ZOLOFT) tablet 50 mg
+
+traZODone (DESYREL) tablet 50 mg
+
+
+aspirin (BAYER) tablet 325 mg
+
+clopidogrel (PLAVIX) tablet 75 mg
+
+
+
+baclofen (LIORESAL) tablet 10 mg
+
+QUEtiapine (SEROQUEL) tablet 50 mg
+
+
+traZODone (DESYREL) tablet 50 mg
+
+levETIRAcetam (KEPPRA) tablet 500 mg
+
+
+famotidine (PEPCID) tablet 20 mg
+
+atorvastatin (LIPITOR) tablet 40 mg
+
+dextrose 50% injection 25 mL
+
+dextrose 50% injection 50 mL
+
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+insulin lispro (HumaLOG) injection 1-5 Units
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of rhythmic and reactive 9-11 Hertz posterior
+dominant rhythm (PDR) on the right and low voltage anteriorly predominant bilateral beta activity.
+Continuous irregular low to medium amplitude 2-7 Hz activity is seen over the left hemisphere.
+Moderate amounts of muscle and frontal eye movement artifact are seen.
+
+
+
+
+Sleep is not captured
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+
+HEART RATE:
+
+
+A heart rate of 70 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake EEG due to:
+
+1. Continuous left hemispheric slowing. This abnormality is consistent with the patient's known
+diagnosis of left MCA stroke. No clinical or electrographic seizures and no pathologic paroxysmal
+epileptiform discharges were recorded.

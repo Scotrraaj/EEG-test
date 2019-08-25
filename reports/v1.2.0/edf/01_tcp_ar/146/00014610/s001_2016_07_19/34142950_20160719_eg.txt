@@ -1,0 +1,117 @@
+HISTORY:
+
+30 y.o. female with a history of seizures, increasing in frequency, and headache,
+referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS: pt unable to recall
+
+
+
+SEDATION: None listed
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically difficult record;
+tech notes that impedences are ~10 kOhm in the setting of patient having a hair product.  For the first
+half of the study, O1 is affected by artifact and for the second half of the study it does not appear to
+be recording properly. The study included a single channel of EKG and photic stimulation.
+
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies with excess theta and delta, with a symmetric and reactive posterior
+dominant rhythm (PDR) that approached 10-11 Hz. The normal anterior-to-posterior gradient of
+frequency and amplitude is present.
+
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm and further
+background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+Mild generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+no effect.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 84 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal, very limited, awake and drowsy  routine EEG due to:
+
+
+1. Mild generalized slowing
+
+
+CLINICAL CORRELATION:
+
+
+
+
+These findings are etiologically nonspecific indicators of the presence of mild diffuse cerebral
+dysfunction.
+
+
+Please note limitations of study described above.
+
+
+If clinically warranted, a recording with sleep may be helpful, using a different headbox and after the
+patient has been counseled to avoid wearing hair product.

@@ -1,0 +1,37 @@
+
+SMeeddaictiaotnio: ns:
+History:
+	EEG Type:	Routine  awake & drowsy  portable,,
+
+
+electrodes, awake, drowsy, photic
+
+	y	p
+
+Hyperventilation and photic stimulation are not performed.
+
+SummaryBetoaf, Feixncdeisnsgivse:
+Interpretation:
+
+This is a normal awake and drowsyy pportable 21-minute EEG. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates. No events of interest were captured during the recording.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

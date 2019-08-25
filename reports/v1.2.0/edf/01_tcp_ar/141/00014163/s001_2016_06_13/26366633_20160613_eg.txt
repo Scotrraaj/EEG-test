@@ -1,0 +1,122 @@
+HISTORY:
+
+20 y.o. Man with a hx of seizures as a child which stopped when he was in 3rd
+grade. Last week patient had an episode where he fell and began to shake, he saw flashing lights
+which only lasted a few minutes. Prior to falling he felt nauseas. Asthma.
+
+
+
+
+MEDICATIONS:
+
+ZOLOFT
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+The waking background is characterized by the presence of a poorly organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 10 Hertz posterior dominant rhythm
+(PDR). A anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+Excess 5-7Hz diffuse activity is seen in wakefulness.
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Frontal Intermittent rhythmic delta  (2-4 hz) activity lasting for 2-4 seconds are seen consistent with
+FIRDA.
+
+
+
+Intermittent polymorphic delta activity is present in the right midtemporal region during wakefulness,
+increasing during drowsiness.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and
+produces diffuse, symmetric high-voltage, frontally-maximal 2-3 Hz activity.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+
+
+
+IMPRESSION:
+
+1. Focal slow in the right mid-temporal region
+
+
+2. Mild to moderate diffuse slow and FIRDA
+
+
+
+CLINICAL CORRELATION:
+
+This is an abnormal awake and asleep routine EEG due to intermittent focal slowing in the right
+midtemporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific. In addition there is mild to moderate diffuse background slowing, FIRDA and
+disorganization.  These findings are etiologically nonspecific indicators of moderate diffuse cerebral
+dysfunction.

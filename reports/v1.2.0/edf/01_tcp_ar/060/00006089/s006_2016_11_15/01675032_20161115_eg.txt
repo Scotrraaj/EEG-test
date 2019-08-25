@@ -1,0 +1,364 @@
+HISTORY:
+
+This is a 83 y.o. female admitted for continuous video-electroencephalography (VEEG) monitoring
+with a history of: paroxysmal events of unclear etiology and psychomotor slowing.
+
+
+
+
+Continuous video EEG is initiated for:  Screening for subclinical seizures.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS: Keppra 250 q12h
+
+
+
+No current facility-administered medications for this visit.
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+
+anastrozole (ARIMIDEX) tablet 1 mg
+
+amLODIPine (NORVASC) tablet 5 mg
+
+aspirin EC tablet 81 mg
+
+
+valsartan (DIOVAN) tablet 80 mg
+
+citalopram (CELEXA) tablet 10 mg
+
+cyclopentolate (CYCLODRYL) 1 % ophthalmic solution 1 drop
+
+
+docusate sodium (COLACE) capsule 100 mg
+
+furosemide (LASIX) tablet 20 mg
+
+isosorbide mononitrate (IMDUR) 24 hr tablet 30 mg
+
+
+
+loratadine (CLARITIN) tablet 10 mg
+
+prednisoLONE acetate (PRED FORTE) 1 % ophthalmic suspension 1 drop
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+dextrose 50% injection 25 mL
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+insulin lispro (HumaLOG) injection 1-5 Units
+
+
+levETIRAcetam (KEPPRA) tablet 125 mg
+
+
+
+
+SEDATION: None
+
+
+DAY 1 (11/15/2016, 11:53 - 11/16/2016, 06:00)
+
+
+
+AEDs: Keppra reduced to 125 mg q12h
+
+
+
+BACKGROUND:
+
+
+The waking background is characterized by the presence of a fairly organized symmetric mixture of
+alpha, beta, and delta frequencies, with a symmetric and reactive 6.5-7 Hertz posterior dominant
+rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present but
+suboptimal.
+
+
+
+
+
+Drowsiness is characterized by attenuation and fragmentation of the posterior dominant rhythm and
+further slowing of the background.
+
+Sleep is characterized by synchronous and symmetric sleep spindles and K complexes.
+
+
+
+Mild-moderate generalized slowing is present.
+
+Frequent left hemispheric (temporal maximal) polymorphic slowing is present, which becomes near
+continuous in drowsiness and sleep.
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+
+This is an abnormal long term video EEG due to:
+
+1. Mild to moderate generalized slowing and suboptimal organization
+
+2. Frequent left hemispheric (temporal maximal) polymorphic slowing, becoming near continuous in
+drowsiness and sleep
+
+
+3. Irregular heart rate and bradycardia
+
+
+
+
+These findings are etiologically nonspecific indicators of the presence of left hemispheric (temporal
+predominant) dysfunction superimposed on a mild-moderate diffuse cerebral dysfunction.
+
+
+Bradycardia with occasionally irregular heart rate is noted in a single EKG lead.
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (11/16/2016, 06:00 - 11/17/2016, 06:00)
+
+
+
+AEDs: Keppra held
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 50s-60s, occasionally irregular
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+No change compared with day 1
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (11/17/2016, 06:00 - 11/17/2016, 11:04)
+
+
+AEDs: Keppra held
+
+
+
+INTERICTAL BACKGROUND: no change.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 50s-60s, occasionally irregular
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+
+INTERICTAL FINDINGS:  The patients interictal findings were significant for mild to moderate
+generalized slowing and suboptimal organization, with frequent left hemispheric (temporal maximal)
+polymorphic slowing, becoming near continuous in drowsiness and sleep. Bradycardia with
+occasionally irregular heart rate was additionally noted.
+
+
+
+
+ICTAL FINDINGS:
+
+The patient did not have any clinical events.
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. No seizures captured
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. No seizures captured
+
+
+
+CONCLUSION:
+
+was admitted to the epilepsy monitoring unit for 3 days with continuous video EEG.
+This was an elective EMU monitoring session for screening for subclinical seizures in the setting of
+episodes of loss of consciousness superimposed on psychomotor slowing/confusion.
+
+
+
+
+The interictal EEG is consistent with left hemispheric (temporal predominant) dysfunction
+(etiologically nonspecific) superimposed on a mild-moderate diffuse cerebral dysfunction.
+
+
+
+There were no clinical or electrographic events reported or detected.
+
+
+
+The patient was weaned off Keppra over the course of her admission. No other medication changes
+were made during the hospitalization.
+
+
+
+Patient will follow-up at the Temple Epilepsy Center as an outpatient.

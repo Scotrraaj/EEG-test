@@ -1,0 +1,175 @@
+HISTORY:
+
+76 y.o. male with a history of subdural hematoma and seizures.
+
+
+
+MEDICATIONS:
+
+No current facility-administered medications for this visit.
+
+No current outpatient prescriptions on file.
+
+
+Facility-Administered Medications Ordered in Other Visits:
+
+valproate (DEPACON) 500 mg in sodium chloride 0.9 % 100 mL IVPB
+
+amLODIPine (NORVASC) tablet 10 mg
+
+
+atorvastatin (LIPITOR) tablet 80 mg
+
+carvedilol (COREG) tablet 6.25 mg
+
+citalopram (CELEXA) tablet 10 mg
+
+
+ferrous sulfate tablet 325 mg
+
+furosemide (LASIX) tablet 40 mg
+
+insulin glargine (LANTUS) injection 7 Units
+
+
+tamsulosin (FLOMAX) 24 hr capsule 0.4 mg
+
+
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % with KCl 20 mEq/L infusion
+
+
+ondansetron (PF) (ZOFRAN) injection 4 mg
+
+pantoprazole (PROTONIX) injection 40 mg
+
+
+docusate sodium (COLACE) capsule 100 mg
+
+senna (SENOKOT) tablet 1 tablet
+
+magnesium hydroxide (MILK OF MAGNESIA) suspension 30 mL
+
+polyethylene glycol (GLYCOLAX) packet 17 g
+
+
+alum-mag hydroxide-simeth (MYLANTA;MAALOX) 200-200-20 mg/5 mL suspension 30 mL
+
+multivitamin liquid 5 mL
+
+
+propofol (DIPRIVAN) 1000 mg/100 mL IV infusion
+
+LORazepam (ATIVAN) injection 6 mg
+
+etomidate (AMIDATE) injection 20 mg
+
+succinylcholine (ANECTINE) injection 120 mg
+
+
+niCARdipine (CARDENE) 20 mg in NaCl (iso-os) 200 mL infusion
+
+dextrose 50% injection 25 mL
+
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+insulin regular 100 units in sodium chloride 0.9 % 100 mL infusion
+
+clindamycin (CLEOCIN) 600 mg in dextrose 5 % 50 mL IVPB
+
+
+dexmedetomidine (PRECEDEX) 400 mcg in sodium chloride 0.9 % 100 mL infusion
+
+acetaminophen (TYLENOL) oral solution 650 mg
+
+
+
+
+
+SEDATION: fentanyl (received during the study) and propofol (stopped prior to the study)
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+There is no PDR or AP gradient.
+
+
+
+The background consists of attenuated slow delta activity without evidence of reactivity.
+
+
+
+
+Large portions of the recording contain high amplitude marked EMG artifact over the lateral leads.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: There is no change in the background activity to visual, auditory,
+tactile, or noxious stimuli.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 120s-140s bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal comatose1 hour routine EEG due to:
+
+1. Marked background slowing and attenuation without evidence of reactivity.
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate marked diffuse cerebral dysfunction that is etiologically nonspecific.
+
+
+Large portions of the recording contain high amplitude marked EMG artifact over the lateral leads-
+this limits interpretation of those regions when artifact is present.

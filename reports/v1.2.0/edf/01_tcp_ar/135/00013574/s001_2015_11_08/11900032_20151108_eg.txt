@@ -1,0 +1,119 @@
+HISTORY:
+
+72 y.o. female with a history of seizures, now presents in status epilepticus.
+
+
+
+MEDICATIONS:
+
+Dilantin
+
+
+Tegretol
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+The waking background is characterized by the presence of a 9-10 Hz polymorphic low amplitude
+alpha activity posteriorly, poor AP (anterior-to-posterior) gradient and diffuse polymorphic theta and
+beta activity.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Waveforms resembling sleep spindles are noted.
+
+
+
+Continuous polymorphic theta and delta activity is captured over the bitemporal regions.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Abundant (>1/10s) synchronous and asynchronous high amplitude bilateral anterior temporal sharps
+with aftergoing slow waves are observed.  Maximal scalp negativity occurs over T1 and T2 leads.
+
+Right temporal epileptiform discharges are frequently followed by ~ 1-2 seconds of nonevolving 3 Hz
+sharply contoured delta activity.  To a much lesser degree, left temporal epileptiform discharges are
+followed by ~1-2 seconds of nonevolving 5 Hz sharply contoured theta activity.
+
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of ~120 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Mild diffuse slowing
+
+2. Continuous moderate bitemporal focal slowing
+
+
+
+3. Abundant synchronous and asynchronous high amplitude bilateral anterior temporal epileptiform
+discharges.
+
+
+
+CLINICAL CORRELATION:
+
+
+
+Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+There are structural cerebral potentially epileptogenic abnormalities over the bitemporal regions.

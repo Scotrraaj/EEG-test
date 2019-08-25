@@ -1,0 +1,123 @@
+HISTORY:
+
+41 y.o. female with a history of multiple seizures referred for routine EEG for
+characterization of seizures.
+
+
+
+MEDICATIONS:
+
+
+
+Facility-Administered Medications Ordered in Other Visits:
+
+docusate sodium (COLACE) capsule 100 mg
+
+
+ferrous sulfate tablet 325 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % infusion
+
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+LORazepam (ATIVAN) injection 2 mg
+
+[START ON 8/23/2016] enoxaparin (LOVENOX) injection 40 mg
+
+
+levETIRAcetam (KEPPRA) tablet 2,000 mg
+
+lamoTRIgine (LAMICTAL) tablet 200 mg
+
+
+
+oxyCODONE-acetaminophen (PERCOCET) 5-325 mg per tablet 1 tablet
+
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR).
+The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.
+
+
+No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Frequent (>1/min to <1/10s) frontal predominant generalized paroxysmal fast activities and
+generalized symmetric polyspike and wave seen at 4 Hz frequency. The bursts last 1-2 seconds and
+no clinical correlate is seen with them.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 102 bpm is captured on a single EKG lead.
+
+
+
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+
+1. Frequent frontal predominant symmetric generalized polyspike and waves present.
+
+
+
+CLINICAL CORRELATION:
+
+
+The normal EEG background along with the history of seizures and generalized polyspike and waves
+are consistent with the diagnosis of idiopathic generalized epilepsy.

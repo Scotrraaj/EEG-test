@@ -1,0 +1,311 @@
+START DATE OF STUDY: 05/02/16 -05/04/2016 at 1:27 PM
+
+END DATE OF STUDY: 05042016
+
+
+
+RECORDING ENVIRONMENT: 
+
+EEG TYPE: Long term recording 48 hour
+
+
+
+
+
+HISTORY:
+
+a 55 y.o. male admitted for continuous video-electroencephalography (VEEG) monitoring
+with a history of: partial epilepsy. His family and other physicians feel that he is seizure free, but he
+reports intermittent auras and hallucinations as well as other seizure like symptoms. A few times per
+month he has spells with shaking and tongue biting.
+
+
+
+He states that he can feel his body shaking and sweating and is conscious during the events
+
+
+
+Continuous video EEG is initiated for:  Characterization of seizures.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+
+
+
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+(9) there have been 13 reported deaths during various video-EEG monitoring procedures, so this is
+not a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Impedances were measured and verified to be below 5 Kohms.  EEG activity was recorded
+referentially to vertex reference, digitized, and stored to computer hard drive.  Periods of interest
+were subsequently reformatted to the montage of interest and reviewed in detail.
+
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For approximately 8 hours each day the
+patient was attended by an EEG technician.  A neurologist was available in person or on call 24
+hours per day.  The patient was monitored via video 24 hours per day by a nurse with special training
+in seizure recognition and testing.  During times when a technician was not available, EEG
+recording, video recording, and computer analysis continued, and nursing performed seizure testing
+and electrode maintenance.
+
+
+
+
+
+The  spike and seizure detection computer program  was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+Technical difficulties with this report include loss of the video.  In addition, at this juncture, parts of
+the EEG monitor do not appear to have been acceptably archived.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+lisinopril (PRINIVIL,ZESTRIL) 5 mg tablet, Take 5 mg by mouth daily.
+
+LEVOTHYROXINE SODIUM (SYNTHROID PO), Take 0.05 mg by mouth.
+
+lamoTRIgine (LAMICTAL) 200 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+
+Cholecalciferol, Vitamin D3, (VITAMIN D) 1,000 unit Capsule, Take 1 capsule by mouth daily.
+
+OXcarbazepine (TRILEPTAL) 300 mg tablet
+
+
+
+SEDATION:  None
+
+
+
+
+DAY 1 (5/2/2016,  - 53/2016, 06:00)
+
+OXC was held
+
+
+BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 7-8.5 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Mild generalized slowing is present.
+
+No focal slowing is present
+
+
+
+The background is reactive,  and variable.
+
+
+
+There were  no persistent asymmetries in amplitude and frequency.
+
+
+Sleep is recorded  & includes vertex waves, symmetric sleep spindles and/ K-complexes.
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES:
+
+EVENTS: Multiple Head bobbing events with out EEG change were observed.
+
+
+Examples:
+
+11:30:21 PM- no EEG change
+
+11:56:  PM 20 seconds of head bobbing artifact.  Normal EEG beforehand, normal EEG afterwards,
+patient is responsive and interactive
+
+
+12:08 AM 40 seconds of head bobbing artifact.  Normal EEG beforehand, normal EEG afterwards,
+patient is responsive and interactive
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+No epileptiform features were identified.  The multiple head bobbing spells did not have an EEG
+correlate.  In addition, the patient was consolable during the events
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+DAY 2 (May 3, 2016, 06:00 - 5/4/2016, 13:37)
+
+
+
+AEDs: Lamictal reduced to 150 mg BID
+
+
+
+INTERICTAL BACKGROUND:
+
+The bilateral posterior dominant rhythm is symmetric and reaches 8.5 Hz.
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured..
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+SEIZURES/EVENTS:
+
+
+There are multiple  clinical events captured during this study.
+
+These are brief,, 20-30 seconds of head  Bobbing without EEG change. The patient was consolable
+during them and at one point, a caregiver explained to him that they weren't seizure and he was
+able to stop them voluntarily
+
+
+
+
+EKG: A single lead captured HR 72 BPM
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+
+INTERICTAL FINDINGS:  The patients interictal findings were  insignificant with  normal EEG with
+8.5 Hz posterior dominant rhythm,  without any focal findings  or epileptiform discharges.
+
+
+
+The EEG normalized when Trileptal was stopped
+
+
+
+ICTAL FINDINGS:
+
+The patient did not have any epileptiform seizures
+
+
+The patient did have behavioral events without EEG change
+
+SEIZURE DIAGNOSIS:
+
+
+1. current diagnosis is nonepileptic seizures
+
+
+
+EPILEPSY DIAGNOSIS:
+
+
+1. Dual diagnosis of nonepileptic seizures with past history of complex partial epilepsy
+
+
+
+CONCLUSION:
+
+was admitted to the  for 3 days with continuous video
+EEG.  This was an elective monitoring session .
+
+
+
+The interictal EEG is characterized by initally slow posterior dominant rhythm.
+
+
+
+The patient was  weaned off  OXC  over the course of his admission. Lamictal was reduced. We
+recommend that he continue with  psychiatrist or therapist for assessment of underlying
+psychopathology and diagnosis.
+
+
+
+Patient is follow-up with as an outpatient.
+
+

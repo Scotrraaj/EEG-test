@@ -1,0 +1,125 @@
+HISTORY:
+
+21 y.o. male who presents after a first seizure 4 days ago (loss of consciousness,
+shaking/flexion of arms, followed by confusion) referred for routine EEG for characterization of
+seizures.
+
+
+
+
+MEDICATIONS: None
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically inadequate
+record, with continuous electrode artifact over O1 (and transiently over F7, F8). The study included a
+single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+The waking background is characterized by the presence of a fairly organized symmetric mixture of
+alpha and beta frequencies, with bursts of polymorphic sharply contoured delta activity (at times
+more prominent over left hemisphere), with a symmetric and reactive 10 Hertz posterior dominant
+rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present but
+suboptimal.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing with theta frequencies are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+Mild generalized slowing is present.
+
+Occasional sharply contoured right posterior quadrant slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Occasional (1/hour to <1min) bursts of diffuse irregular spike and wave at 3-4 Hz for <2 seconds
+
+2. Occasional (1/hour to <1min) left temporal (T3 max) spike-and-wave
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+bursts of delta slowing that shift between hemispheres
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal, though technically inadequate, awake and asleep routine EEG due to:
+
+1. Mild generalized slowing and suboptimal organization
+
+
+
+
+2. Bursts of polymorphic delta activity in wake, at times more prominent over left hemisphere
+
+3. Occasional sharply contoured right posterior quadrant slowing
+
+
+4. Occasional (1/hour to <1min) bursts of diffuse irregular spike and wave at 3-4 Hz for <2 seconds
+
+5. Occasional (1/hour to <1min) left temporal (T3 max) spike-and-wave
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of left temporal as well as diffuse epileptogenic potential,
+superimposed on right posterior quadrant and left hemispheric dysfunction, and mild diffuse cerebral
+dysfunction, etiologically nonspecific.

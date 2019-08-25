@@ -1,0 +1,20 @@
+History:	60 year old with events concerning for seizures.   Two events of staring and lip 
+	smacking were witnessed by the EEG technologist prior to EEG connected.
+Medications:	Dilantin and Labetalol
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, photic
+Description:
+The awake bakcground consists of diffuse excess beta activity.  Patient transitions in and out of 
+drowsiness.  Drowsiness is characterized by increase in the background amplitude and appearance 
+of alpha and theta frequency waveforms.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+	Beta, excessive
+	No epileptiform discharges
+Interpretation:
+This is a normal awake and drowsy portable 21-minute EEG. Excessive beta activity could be 
+secondary to the medication effect, such as benzodiazepines or barbiturates.  No events of interest 
+were captured during the recording.
+

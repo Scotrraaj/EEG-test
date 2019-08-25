@@ -1,0 +1,93 @@
+HISTORY:
+
+56 y.o. WOMAN S/P CODES 5/30 APPROX 20 MIN,  6/7  APPROX TOTAL 1
+HR.  ALL SEDATION OFF SINCE SATURDAY 6/11.  PMHX: FAILED KIDNEY TX, EVAL FOR HEART
+TX.  PT CHANGED FROM ECMO TO LVAD/RVAD  ON CONTINUEOUS HD
+
+
+
+
+MEDICATIONS:
+
+none
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+No posterior dominant rhythm was present. Background activity was characterized by diffuse very low
+voltage delta activity with absence of the expected anterior to posterior gradient of frequencies.
+
+
+Diffuse, frontally maximal sharp waves with triphasic morphology are present throughout the
+recording.  These waveforms demonstrate an anterior to posterior phase lag and are present at 1Hz.
+
+
+
+
+Sleep is not captured
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate could not be assessed due to LVAD on a single EKG lead.
+
+
+IMPRESSION:
+
+
+1. Triphasic waves
+
+2. Severe generalized slow waves and attenuation.
+
+
+
+CLINICAL CORRELATION:
+
+This is an abnormal coma EEG due to continuous frontally-maximal triphasic waves and severe
+diffuse background slowing.  These findings are indicative of a severe diffuse encephalopathy, which
+is etiologically nonspecific, but can be seen in the setting of hypoxic injury. No seizures or
+epileptiform activity was seen.

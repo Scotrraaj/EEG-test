@@ -1,0 +1,191 @@
+DATE OF STUDY: 09/06/16
+
+RECORDING ENVIRONMENT: 
+
+
+EEG TYPE: 20-40 min, coma study
+
+
+
+
+HISTORY:
+
+a 60 y.o. male with a history of acute, severe traumatic brain injury with multi-
+compartmental hemorrhage and edema, with past history of head trauma and epilepsy, referred for
+EEG after an episode of left gaze deviation.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+insulin lispro (HumaLOG) injection 2-10 Units
+
+oxyCODONE (ROXICODONE) 5 mg/5 mL solution 5 mg
+
+vancomycin (VANCOCIN) 750 mg in sodium chloride 0.9 % 250 mL IVPB MB+
+
+
+metoprolol tartrate (LOPRESSOR) tablet 25 mg
+
+famotidine (PEPCID) 40 mg/5 mL (8 mg/mL) suspension 20 mg
+
+ceFEPIme (MAXIPIME) 2 g in dextrose 5 % 100 mL IVPB
+
+
+furosemide (LASIX) 20 mg in dextrose 5 % 100 mL IVPB
+
+lamoTRIgine (LAMICTAL) tablet 300 mg
+
+albuterol (PROVENTIL) nebulizer solution 2.5 mg
+
+
+
+
+amLODIPine (NORVASC) tablet 10 mg
+
+niCARdipine (CARDENE) 20 mg in NaCl (iso-os) 200 mL infusion
+
+
+hydrALAZINE (APRESOLINE) injection 10 mg
+
+dexmedetomidine (PRECEDEX) 400 mcg in sodium chloride 0.9 % 100 mL infusion
+
+
+bisacodyl (DULCOLAX) suppository 10 mg
+
+enoxaparin (LOVENOX) injection 30 mg
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+fentaNYL (SUBLIMAZE) 1 mg in sodium chloride 0.9 % 100 mL infusion
+
+
+dextrose 50% injection 25 mL
+
+dextrose 50% injection 50 mL
+
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+chlorhexidine (PERIDEX) 0.12 % solution 15 mL
+
+hydrogen peroxide solution 3%
+
+ondansetron (PF) (ZOFRAN) injection 4 mg
+
+
+senna (SENOKOT) tablet 1 tablet
+
+polyethylene glycol (GLYCOLAX) packet 17 g
+
+
+alum-mag hydroxide-simeth (MYLANTA;MAALOX) 200-200-20 mg/5 mL suspension 30 mL
+
+magnesium hydroxide (MILK OF MAGNESIA) suspension 30 mL
+
+multivitamin (THERAPEUTIC-M) 9 mg iron-400 mcg per tablet 1 tablet
+
+tetanus,diphth,pertus(acell) (BOOSTRIX) injection 0.5 mL
+
+
+
+SEDATION: None listed
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The background is continuous, symmetric, and consists of disorganized delta with admixed faster
+frequencies.
+
+
+There is no reactivity to noxious stimulation, variability, or state change.
+
+
+
+There is severe generalized slowing.
+
+There is no definite focal slowing or attenuation; however, there is abundant sustained muscle
+artifact over the left hemispheric leads (video reviewed; no obvious movement associated with this).
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Continuous spikes/polyspike-and-wave at 1 Hz over right posterior quadrant (T6 / P4 / O2 max)
+[periodic lateralized discharges (PLEDs / LPD+FR)]
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 120 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal coma study portable EEG due to:
+
+1. Severe generalized slowing, with disorganization and lack of reactivity
+
+2. Continuous spikes/polyspike-and-wave at 1 Hz over right posterior quadrant
+
+
+3. Tachycardia noted on a single EKG lead.
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of highly epileptogenic potentials over the right posterior
+quadrant, superimposed on a severe diffuse cerebral dysfunction. There were no definite clinical or
+electrographic seizures. Tachycardia is noted on a single EKG lead.
+
+
+These findings were reviewed with the epileptologist who read patient's prior EEGs and were
+reported to be similar.
+
+
+These findings were also discussed with the neurology consult team and a treatment plan was
+formulated.
+
+
+
+
+
+
+

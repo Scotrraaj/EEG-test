@@ -1,0 +1,126 @@
+HISTORY:
+
+49 y.o. male with a history of seizures (onset 1 year ago, last episode 1 month ago -
+no recall of event, +tongue biting) and memory loss, referred for routine EEG for characterization of
+seizures.
+
+
+
+
+MEDICATIONS: Keppra, Seroquel
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a fairly organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 8.5 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present but
+suboptimal.
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm and diffuse
+background slowing are seen.
+
+
+
+
+Sleep is not captured
+
+
+No generalized slowing is present.
+
+
+Abundant left temporal polymorphic slowing, often sharply contoured.
+
+Occasional right temporal polymorphic slowing, often synchronous but rarely independent of left
+temporal slowing.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Frequent (>1/min to <1/10s) left anterior temporal sharp waves (F7/T1/T3 max)
+
+
+2. Occasional (>1/hour to <1/min) left temporal rhythmic delta activity (also known as TIRDA)
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+no effect.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+1. Suboptimal organization
+
+2. Abundant left temporal polymorphic slowing, often sharply contoured
+
+
+
+
+
+
+3. Occasional right temporal polymorphic slowing, often synchronous but rarely independent of left
+temporal slowing
+
+
+4. Frequent left anterior temporal sharp waves
+
+5. Occasional left temporal rhythmic delta activity
+
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings are indicative of epileptogenic potential of left (anterior) temporal origin. There is
+additional evidence of etiologically nonspecific left > right temporal dysfunction superimposed on a
+mild diffuse cerebral dysfunction.

@@ -1,0 +1,123 @@
+HISTORY:
+
+33 y.o. male with a history of tics referred for routine EEG for evaluation of
+paroxysmal events.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+divalproex (DEPAKOTE) 500 mg EC tablet, Take 500 mg by mouth 3 times daily.
+
+divalproex (DEPAKOTE ER) 250 mg 24 hr tablet, Take 250 mg by mouth daily.
+
+OLANZAPINE (ZYPREXA PO), Take 30 mg by mouth 2 times daily.
+
+
+clonazepam (KLONOPIN) 0.5 mg tablet, Take 0.5 mg by mouth daily.
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+Patient remains awake throughout the study.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+no effect.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+
+Frequent typical are captured during the study.  They all are associated with facial twitching of
+variable intensity.  During some of the episode left arm flexion posture is seen.  Episode duration: 1-
+17 seconds.  They are all associated with diffuse EMG artifact of variable amplitude and severity.
+Milder episodes that are captured early in the recording.  They are only associated with EMG and
+movement artifact.  During more severe episodes, EEG is not interpretable.
+
+
+
+
+HEART RATE:
+
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is a normal awake only  routine EEG.
+
+
+
+CLINICAL CORRELATION:
+
+
+This is a normal awake only  routine EEG.
+
+Many typical episodes of variable severity and duration are captured.  None are associated with an
+abnormal ictal correlate, but EEG during majority of these episodes is not interpretable due to EMG
+artifact.  Simple partial seizures cannot be ruled out.  Of note, ~75% of simple partial seizures are
+not captured on a scalp EEG.
+
+
+
+A repeat study with sleep, possibly an ambulatory EEG or an admission to the epilepsy monitoring
+unit may be of benefit in this patient to help to elucidate the nature of these episodes.

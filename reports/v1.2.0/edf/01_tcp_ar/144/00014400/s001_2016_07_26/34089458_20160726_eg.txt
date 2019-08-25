@@ -1,0 +1,113 @@
+HISTORY:
+
+51 y.o. male with a history of R MCA and localization related epilepsy, admitted
+with acute delirium due to etoh abuse, found unresponsive w/ bowel/bladder incontinence on 7/25,
+now referred for routine EEG for characterization of seizures.
+
+
+
+
+MEDICATIONS:
+
+Dilantin 300 qhs
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is continuous and reactive but asymmetric.
+
+
+
+The left hemisphere consists of a well organized mixture of alpha and frontal beta.
+
+The right hemisphere consists of fairly organized mixture of alpha and theta and delta.
+
+
+There is a posterior dominant rhythm of 10 Hz, better formed over the left.
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm and diffuse
+background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Abundant (>1/10s) right fronto-temporal (F8 max > T4/F4) sharp-and-wave complexes, often periodic
+at 1 Hz for runs <5 sec.
+
+
+Occasional right posterior temporal (T6 max) sharp-and-wave complexes
+
+Often these epileptiform discharges are reflected over the left hemisphere.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+1. Continuous right hemispheric polymorphic slowing
+
+2. Abundant (>1/10s) right fronto-temporal (F8 max > T4/F4) sharp-and-wave complexes, often
+periodic at 1 Hz for runs <5 sec.
+
+
+3. Occasional right posterior temporal (T6 max) sharp-and-wave complexes
+
+
+
+CLINICAL CORRELATION:
+
+
+
+
+
+
+These findings indicate the presence of a highly epileptogenic focus over the right temporal
+(including fronto-temporal and posterior temporal) region, superimposed on right hemispheric
+dysfunction, likely structural in etiology. These findings can be seen in the setting of a seizure and a
+known structural lesion. A follow up study is recommended in 1-2 days to assess for interval change.

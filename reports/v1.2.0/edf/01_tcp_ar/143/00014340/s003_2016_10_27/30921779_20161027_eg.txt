@@ -1,0 +1,121 @@
+HISTORY:
+
+75 y.o. male who presents with seizures in the setting of severe hyperglycemia.
+Patient is currently comatose, ventilated and sedated on propofol.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+insulin regular 100 units in sodium chloride 0.9 % 100 mL infusion
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+pantoprazole (PROTONIX) injection 40 mg
+
+heparin (5000 units/mL) injection 5,000 Units
+
+
+LORazepam (ATIVAN) injection 1 mg
+
+folic acid injection 1 mg
+
+thiamine (B-1) 100 mg in sodium chloride 0.9 % 100 mL IVPB
+
+
+dexmedetomidine (PRECEDEX) 400 mcg in sodium chloride 0.9 % 100 mL infusion
+
+dextrose 5 % and sodium chloride 0.45 % with KCl 20 mEq/L infusion
+
+
+
+
+
+
+
+SEDATION: propofol
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+There is no PDR or AP gradient.
+
+
+
+The background consists of burst-suppression pattern with burst-to-suppression ratio of ~1:2-1:6.  Bursts
+consists of diffuse sloow low amplitude delta activity and last ~ 1 second.
+
+
+
+No normal sleep architecture is captured.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: There is minimal reactivity to noxious stimuli characterized by more
+frequent bursts of activity.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+
+
+
+IMPRESSION:
+
+This is an abnormal comatose routine EEG due to:
+
+
+1. 1:2-1:6 burst-suppression pattern
+
+
+
+CLINICAL CORRELATION:
+
+
+This finding is indicative of marked diffuse cerebral dysfunction, which is etiologically nonspecific,
+but, in this case, at least partially related to the medication effect.

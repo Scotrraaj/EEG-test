@@ -1,0 +1,112 @@
+HISTORY:
+
+69 y.o. female with a history of seizures, with last seizure many years ago.
+
+
+
+MEDICATIONS:
+
+Tegretol
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9-9.5 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Frequent (>1/min to <1/10s) generalized frontally predominant spikes and polyspikes are captured
+during drowsiness.  They occur in isolation and in brief bursts (up to 1 sec).  They often have right
+sided lead in.  Their repetition rate is up to 5 Hz.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+mild diffuse symmetric background slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+additional abnormalities.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+
+1. Frequent generalized (often with right sided lead in) frontally predominant 5 Hz spikes and
+polyspikes that occur in isolation and in brief bursts.
+
+
+
+
+
+
+CLINICAL CORRELATION:
+
+
+
+This finding is suggestive of idiopathic generalized mechanism of epilepsy.  However, given the fact
+that there is a strong right sided lead in many of the captured discharges, frontal bisynchrony too
+needs to be strongly considered as a mechanism of seizures in this patient.

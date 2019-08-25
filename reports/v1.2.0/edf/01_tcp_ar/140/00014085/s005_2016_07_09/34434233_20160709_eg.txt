@@ -1,0 +1,24 @@
+HISTORY: 34 y.o. man p/w headache for 1 month was found to have left frontal brain mass.  Drain placed on left side near P3
+MEDICATIONS: Ofirmev, Insulin, Ancef, Keppra  SEDATION: None
+TECHNIQUE: A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+DAY 1 (07/08/2016, 16:45 - 7/09/2016, 08:00)  SEDATION: None
+TECHNIQUE: A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND: No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.  Sleep is not captured  Continuous polymorphic delta activity is present in the left hemisphere maximal at C3 with associated loss of faster frequencies. At times the slowing appears to become slightly rhythmic.
+EPILEPTIFORM ACTIVITY: None  OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):  None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS: There are no clinical or electrographic events captured during this study.
+HEART RATE: A heart rate of 66 bpm is captured on a single EKG lead.
+DAY 1 IMPRESSION and CLINICAL CORRELATION 1. Continuous focal slowing in the left hemisphere maximal in the left central region 2. Moderate generalized slow waves.
+
+--------------------------------------------------------------
+
+DAY 2 (07/09/2016, 16:45 - 7/10/2016, 10:30)  Medication; Keppra. Dilantin is added after the 4th seizure.  SEDATION: None
+TECHNIQUE: A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+EEG BACKGROUND: No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies.  At the ending of the record faster frequencies and better organization is seen on the right hemisphere.  Sleep is seen with marked slowing and decrease muscle artifact but normal features are not seen.  Continuous polymorphic delta activity is present in the left hemisphere maximal at C3 with associated loss of faster frequencies. At times the slowing appears to become slightly rhythmic.
+EPILEPTIFORM ACTIVITY: Left C3 very frequent sharp waves seen best in sleep.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):  None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS: Four seizures are captured at 09:52, 11:07, 11:46 and 12:27.  Onset is a rhythmic left C3/T3 sharply contoured rhythmic delta that evolves into frank rhythmic sharp waves increasing in frequency slightly and Developing an associated right hemisphere synchronized muscle artifact with each discharge. Patient could not be observed on the video.  Seizures last around 1 minute.
+HEART RATE: A heart rate of 66 bpm is captured on a single EKG lead.
+DAY 2 IMPRESSION and CLINICAL CORRELATION 1. Four left central focal seizures. 2. Left Centro-temporal sharp waves 3. Continuous focal slowing in the left hemisphere maximal in the left central region 3. Moderate generalized slow waves improving through the record.
+CLINICAL CORRELATION:  This EEG demonstrates and epileptogenic focus in the left central region with seizures stopping after 12:28PM. The is also evidence of severe focal cerebral dysfunction in this region, likely structural in origin. Lastly there is improving diffuse background slowing which is an etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.    

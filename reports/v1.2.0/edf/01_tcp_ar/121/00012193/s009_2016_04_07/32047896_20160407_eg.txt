@@ -1,0 +1,573 @@
+START DATE OF STUDY: 04/05/2016
+
+END DATE OF STUDY: 04/07/2016
+
+
+
+RECORDING ENVIRONMENT:
+
+EEG TYPE: Long term recording
+
+
+
+
+HISTORY:
+
+a 27 y.o. right handed female admitted for continuous
+
+
+video-electroencephalography (VEEG) monitoring with a history of:
+
+paroxysmal events of unclear etiology.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal
+
+
+
+
+events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more
+
+of the following reasons:
+
+
+- The patient is having medically uncontrolled seizures or
+
+clinical events, which poses a significant mortality and
+
+morbidity risk.  Continuous monitoring will aid in diagnosis and
+
+determining best treatment options.  If seizures are left
+
+
+untreated, there is a 10-20% annual morbidity and 2% annual
+
+mortality rate.
+
+
+- Continuous monitoring is required to capture a sufficient
+
+number of clinical events or seizures, while medication are
+
+reduced or provoked, which increases the risk of severe seizures
+
+and at risk of seizures causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures
+
+and it includes nurses trained to provide first aid and patient
+
+
+safety during seizures;
+
+- The full hospital team must be present to deal with these
+
+medical emergency situations should they arise, including nurses
+
+to document patient's exam
+
+
+(9) there have been 13 reported deaths during various video-EEG
+
+monitoring procedures, so this is not a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of
+
+monitoring.  The patient then underwent continuous CCTV/EEG
+
+
+monitoring using a cable telemetry system.  Scalp electrodes were
+
+placed and secured with collodion according to the 10-20
+
+
+international electrode system.  Additionally, T1, F9, T9, P9,
+
+T2, F10, T10, and P10 electrodes were placed in this patient.
+
+Sphenoidal electrodes were not used in this case.  Impedances
+
+were measured and verified to be below 5 Kohms.  EEG activity was
+
+
+recorded referentially to vertex reference, digitized, and stored
+
+to computer hard drive.  Periods of interest were subsequently
+
+
+reformatted to the montage of interest and reviewed in detail.
+
+
+
+
+Staff supervision, patient-initiated event buttons and
+
+computerized algorithms allowed detection of epileptiform EEG
+
+
+activity and correlation with behavior.  For approximately 8
+
+hours each day the patient was attended by an EEG technician.  A
+
+
+neurologist was available in person or on call 24 hours per day.
+
+The patient was monitored via video 24 hours per day by a
+
+registered nurse with special training in seizure recognition and
+
+testing.  During times when a technician was not available, EEG
+
+
+recording, video recording, and computer analysis continued, and
+
+nursing performed seizure testing and electrode maintenance.
+
+
+
+The Gotman spike and seizure detection computer program
+
+(trademark named
+
+time for electrographic seizures and interictal discharges.
+
+
+Samples of EEG were recorded periodically.  Detections were
+
+reviewed in detail by attending neurologist.  All events and
+
+
+detections, as well as selected samples, were stored to external
+
+hard drive media.
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+metFORMIN (GLUCOPHAGE) 500 mg tablet, Take 1 tablet by mouth 2
+
+
+times daily (with meals).
+
+blood sugar diagnostic (CONTOUR NEXT EZ STRIPS) Strip, Check BS
+
+daily
+
+risperiDONE (RISPERDAL) 2 mg tablet, Take 2 mg by mouth 2 times
+
+
+daily.
+
+FLUoxetine (PROZAC) 20 mg capsule, Take 30 mg by mouth daily.
+
+
+clonazePAM (KLONOPIN) 1 mg tablet, Take 1 mg by mouth 2 times
+
+daily as needed for Anxiety.
+
+lamoTRIgine (LAMICTAL) 150 mg tablet, Take 1 tablet by mouth 2
+
+times daily.
+
+
+topiramate (TOPAMAX) 100 mg tablet, Take 1.5 tablets by mouth 2
+
+times daily.
+
+
+
+
+No current facility-administered medications for this visit.
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (4/4/2016  - 4/5/2016, 06:00)
+
+
+
+BACKGROUND:
+
+
+The waking background is continuous, symmetric, well-organized.
+
+
+
+Posterior dominant rhythm consists of moderate amplitude 12 Hz
+
+
+alpha activity.  The AP (anterior-to-posterior) gradient
+
+Is present.
+
+
+The background is reactive and variable.
+
+
+
+There were no persistent asymmetries in amplitude and frequency.
+
+
+
+Sleep was characterized by symmetric sleep spindles and/or
+
+K-complexes.  Slow wave sleep and REM sleep are captured.
+
+
+
+Diffuse excess beta activity is present.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+EVENTS: A single prolonged events is captured.  It lasts ~ 20
+
+minutes.  Clinically, it starts with patient hyperventilating
+
+
+with eyes closed.  Patient does not answer questions.  She starts
+
+having intermittent brief minor body jerks.  These jerks
+
+intensify.  When the patient is examined by the attending
+
+physician, her eyes are closed, she has right sided gaze
+
+
+deviation upon eye opening by the examiner.  She has moderate
+
+intensity body jerks.  Her arms fall gradually besides her body
+
+
+upon testing.    Jerking stops after a few minutes and patient
+
+becomes stiff.  Upon testing, patient's arms and legs are rigid.
+
+
+Eventually, her right arm assumes half flexed position and left
+
+arm is extended.  Patient remains in that position for at least
+
+
+several minutes.  She eventually relaxes, remains still with eyes
+
+closed and non-responding.  Once she starts responding, she has
+
+
+no memory of the event (except that she had headache prior to the
+
+event onset), does not recall the code word, is not oriented well
+
+to the situation or the date.
+
+
+
+Electrographically, the background remains normal awake
+
+background with occasional movement artifact.  Eventually,
+
+
+underriding diffuse delta activity develops - likely a result of
+
+hyperventilation.
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+Normal awake and asleep ~20 hour EEG with excess beta.  Excessive beta
+
+activity could be secondary to the medication effect, such as
+
+
+benzodiazepines or barbiturates.
+
+
+A single typical event of unresponsiveness, diffuse non-rhythmic
+
+shaking, stiffness had no abnormal EEG correlate.  Patient's
+
+
+mother who was shown the video the next day, confirmed that the
+
+event was one of patient's typical events.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (4/5/2016, 06:00 - 4/5/2016, 06:00)
+
+
+AEDs: lamictal 150 mg BID, topamax 75 mg in am and 50 mg in pm.
+
+
+
+INTERICTAL BACKGROUND:
+
+No change.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during
+
+
+this study.
+
+
+EKG: A single lead captured normal heart rate.
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+
+Normal awake and asleep 24 hour EEG with excess beta.  Excessive beta
+
+activity could be secondary to the medication effect, such as
+
+benzodiazepines or barbiturates.
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (4/6/2016, 06:00 - 4/7/2016)
+
+
+AEDs: lamictal 50 mg BID, topamax off
+
+
+
+INTERICTAL BACKGROUND:
+
+
+No change.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+
+Two typical events are captured.
+
+
+(1) Duration: ~ 6.5 minutes of shaking with some response ~2 minutes after the shaking stops.  Onset:
+6:56:26 AM.  Patient is awake, under the covers.  She starts shaking suddenly with eyes closed.  She
+continues to have diffuse shaking of variable intensity, semiology, that waxes and wanes over the
+next ~6.5 minutes.  There is associated pelvic thrusting and bicycling movements.  Her eyes remain
+closed and she does not respond.  Electrographically, the event is associated  With movement artifact
+of variable frequency and intensity.  Once shaking stops, normal awake background is seen.
+
+
+
+
+
+(2) 9:38:35 am.  Semiologically and electrographically similar to the event (1) that occurs earlier in
+the say.
+
+
+
+EKG: A single lead captured normal heart rate.
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+
+Normal awake and asleep 24 hour EEG with excess beta.  Excessive beta
+
+activity could be secondary to the medication effect, such as
+
+benzodiazepines or barbiturates.
+
+
+
+Two prolonged events characterized by diffuse shaking of variable intensity/ semiology, that waxes
+and wanes, with associated pelvic thrusting and bicycling movements had no abnormal ictal
+correlate.
+
+
+
+
+
+
+
+
+
+________
+
+
+
+
+INDUCTION PROCEDURES:
+
+
+Sleep deprivation
+
+Photic stimulation
+
+
+Hyperventilation
+
+Exercise
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+Interictal Findings:
+
+Normal awake and asleep study.
+
+
+
+Ictal Findings:
+
+The patient had 3 typical prolonged events characterized by diffuse shaking of variable intensity and
+semiology, that waxes and wanes, with associated pelvic thrusting and bicycling movements.  These
+had no abnormal ictal correlate.
+
+
+
+
+
+
+SEIZURE DIAGNOSIS:
+
+
+1. Nonepileptic events
+
+
+EPILEPSY DIAGNOSIS:
+
+
+1. Nonepileptic events
+
+
+CONCLUSION:
+
+
+ was admitted to the  for 3 days with continuous video EEG.
+Three typical events were captured during the admission, none had any abnormal ictal correlate and
+were felt to be nonepileptic.
+
+
+
+
+
+The patient was weaned off Topamax and Lamictal over the course of her admission. She was
+restarted on Topamax 150 mg BID - used to migraine control/ prophylaxis, not as an AED (anti-
+epileptic medication).   was instructed to speak to her psychiatrist re: Lamictal for mood
+stabilization.  Attempts to reach patient's psychiatrist prior to her discharge proved to be fruitless.
+
+
+
+
+
+
+
+
+
+
+
+
+The patient had an extensive discussion with  about nonepileptic events and their
+association with underlying psychiatric co-morbidities and are not due to abnormal electrical
+discharges of the brain/cortex.  According to the patient's mother,.  events started soon
+after she failed a very important nursing exam.
+
+
+
+
+
+
+
+We recommend that she continues to follow-up with her psychiatrist and informs her psychiatrist of the
+non-epileptic events diagnosis.
+
+
+
+Patient is follow-up with  at the  as an outpatient.
+
+
+
+

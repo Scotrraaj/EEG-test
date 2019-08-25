@@ -1,0 +1,26 @@
+History:	52 year old man with a recent stroke.
+Medications:	No AEDs
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, asleep
+Description:
+There is right-to-left intrahemispheric asymmetry with slower waveforms over the right.  The 
+background over the left consists of 9 Hz alpha posteriorly and expected AP gradient.  The 
+background over the right is lower in voltages and consists of polymorphic 7-8 Hz fragmented PDR, 
+poor AP gradient, excess polymorphic theta activity that is especially pronounced over the right 
+temporal region.  Patient very rapidly transitions to stage II sleep.  Sleep spindles and K-complexes
+ are captured.  At times, they are better formed over the left.  Sleep architecture seen in REM sleep
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+	Focal slowing, polymorphic, continuous, right hemispheric, especially temporal region
+	Sleep, REM
+	Sleep, stage 2
+	Asymmetry, sleep architecture, occasional, better formed over the left
+Interpretation:
+This is an ABNORMAL awake and mostly asleep portable 21-minute EEG due to continuous right 
+hemispheric slowing that is most pronounced over the right temporal region. This finding is 
+indicative of a focal structural lesion in this region.  Rapid transions to stage II sleep and presence 
+of REM sleep on a spot EEG indicate an excessively drowsy/ sleep deprived patient - please 
+	
+

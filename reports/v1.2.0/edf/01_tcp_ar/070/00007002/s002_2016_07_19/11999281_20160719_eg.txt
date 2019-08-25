@@ -1,0 +1,104 @@
+HISTORY:
+
+67 y.o. male with a history of GSW to head 1995, presenting w/ episode of loss of
+awareness and shaking 2 wks ago after drinking; had similar episode in 2010; referred for routine
+EEG for evaluation of paroxysmal events.
+
+
+
+
+MEDICATIONS: Keppra
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 10 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+Drowsiness and sleep are not captured
+
+
+
+No generalized slowing is present.
+
+
+Frequent left temporal polymorphic and quasi-rhythmic slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and
+accentuates focal slowing in the left temporal region
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 48 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake only  routine EEG due to:
+
+
+1. Frequent left temporal polymorphic and quasi-rhythmic slowing
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of left temporal cerebral dysfunction, either structural or
+physiologic.
+
+
+If clinically warranted, a recording with sleep may be helpful.
+
+Tech notes a prior EEG was done in 2010; results were not available via EMR at time of report
+generation.
+

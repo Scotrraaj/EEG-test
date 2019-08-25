@@ -1,0 +1,177 @@
+HISTORY:
+
+65 y.o. male with a history of right MCA stroke, who remains in unexplained coma.
+
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+midazolam (VERSED) 50 mg in sodium chloride 0.9 % 50 mL infusion
+
+heparin 25,000 units (100 units/mL) in 0.45% sodium chloride 250 mL infusion (Premix)
+
+
+clopidogrel (PLAVIX) tablet 75 mg
+
+levETIRAcetam (KEPPRA) 500 mg in sodium chloride 0.9 % 100 mL IVPB
+
+insulin glargine (LANTUS) injection 20 Units
+
+
+amiodarone in dextrose (NEXTERONE) 360 mg/200 mL (1.8 mg/mL) infusion
+
+digoxin (LANOXIN) injection 0.125 mg
+
+fentaNYL (PF) (SUBLIMAZE) injection 25 mcg
+
+
+dextrose 50% injection 25 mL
+
+
+
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+
+insulin regular (HumuLIN R,NovoLIN R) injection 1-5 Units
+
+sodium chloride 0.9 % infusion
+
+
+propofol (DIPRIVAN) 1000 mg/100 mL IV infusion
+
+aspirin (BAYER) tablet 325 mg
+
+dextrose 50% injection 0-50 mL
+
+pantoprazole (PROTONIX) injection 40 mg
+
+
+atorvastatin (LIPITOR) tablet 40 mg
+
+alteplase (ACTIVASE) 6.9 mg in sterile water 6.9 mL infusion
+
+
+Followed by
+
+alteplase (ACTIVASE) 62 mg in sterile water 62 mL infusion
+
+phenylephrine (NEO-SYNEPHRINE) 80 mg in sodium chloride 0.9 % 250 mL infusion
+
+
+
+
+
+
+SEDATION: versed and propofol
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+There is no PDR or AP gradient.
+
+
+
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right.
+
+
+
+The background during the periods of arousals over the left consists of a mixture of attenuated theta
+and delta activity and triphasics waveforms.  Delta activity is most pronounced anteriorly.
+
+
+
+The background during the periods of arousals over the right consists of primarily delta activity and
+blunted triphasics waveforms.  There is more pronounced background attenuation over the right.
+
+
+
+No normal sleep architecture is observed but periods of quiescence occur.  During those periods the
+background is replaced by diffuse frontally predominant 7-8 Hz polymorphic theta activity.
+
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+
+An irregular heart rate of ~120 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+This is an abnormal comatose routine EEG due to:
+
+
+1. Moderate to severe background slowing
+
+2. Continuous focal right hemispheric slowing and voltage attenuation
+
+
+3. Continuous triphasics waveforms that are present during periods of stimulation.
+
+
+CLINICAL CORRELATION:
+
+
+
+Diffuse slowing is indicative of moderate to severe diffuse cerebral dysfunction, which is etiologically
+nonspecific.
+
+
+Continuous focal slowing is indicative of a focal structural lesion over the right and is consistent with
+a known right MCA stroke.
+
+Triphasic waves are a nonspecific EEG finding that can be seen in encephalopathy (mostly
+commonly hepatic), uremia, anoxia and many other etiologies.
+
+
+
+
+There is cardiac arrythmia.

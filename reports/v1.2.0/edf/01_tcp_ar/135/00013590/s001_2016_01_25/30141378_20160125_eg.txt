@@ -1,0 +1,150 @@
+DATE OF STUDY: 01/25/2016
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 20-40 min, drowsy
+
+
+
+
+HISTORY:
+
+a 74 y.o. Man s/p LUNG TRANSPLANT ON . PT
+
+HAD AMS ON . STROKE ALERT NOT MOVING LEFT SIDE. CTH
+
+
+NEG.  EEG TO RULE OUT SZ.  PER NURSE 01/25 AM PT HAD RIGHT SIDED
+
+EYE GAZE  - INTUBATED
+
+
+
+
+MEDICATIONS:
+
+Heparin
+
+
+Ativan
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: None
+
+
+
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+NicOne system. This was a technically satisfactory record and
+
+
+included a single channel of EKG.
+
+
+EEG BACKGROUND:
+
+No posterior dominant rhythm was present. Background activity was
+
+
+characterized by diffuse delta and theta activity with absence of
+
+the expected anterior to posterior gradient of frequencies.
+
+
+
+Sleep is not captured
+
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Periodic lateralized epileptiform discharges (PLEDs) are present
+
+in the O1 region at a rate of 0.5 Hz.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during
+
+this study.
+
+
+
+HEART RATE:
+
+A heart rate of 120 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal drowsy routine EEG due to:
+
+
+1. Left occipital PLEDs.
+
+2. Moderate diffuse slow.
+
+
+
+CLINICAL CORRELATION:
+
+
+This is an ABNORMAL EEG because of the continuous periodic
+
+lateralized epileptiform discharges (PLEDs) in the left occipital
+
+
+region.  These findings are indicative of a highly potentially
+
+epileptogenic acute focal destructive lesion in the region.  In
+
+addition there is continuous diffuse background slowing. This
+
+finding is indicative of moderate diffuse cerebral dysfunction,
+
+
+which is etiologically nonspecific.  No electrographic seizures
+
+are present.
+
+
+
+Attending Epileptologist: 
+
+I have personally reviewed this study, and this report represents
+
+my findings and conclusions.
+

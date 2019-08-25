@@ -1,0 +1,348 @@
+HISTORY:
+
+This is a 36 y.o. right handed male admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: refractory epilepsy.
+
+
+
+
+Continuous video EEG is initiated for:  Characterization of seizures, presurgical evaluation.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patient's exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Impedances were measured and verified to be below 5 Kohms.  EEG activity was recorded
+referentially to vertex reference, digitized, and stored to computer hard drive.  Periods of interest
+were subsequently reformatted to the montage of interest and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+Topamax 200 mg q12h
+
+
+Oxcarbazepine 1200 mg q12h
+
+
+SEDATION: None
+
+
+
+DAY 1 (8/1/2016, 11:00 - 8/2/2016, 06:00)
+
+
+
+AEDs:
+
+Topamax 200 mg q12h
+
+Oxcarbazepine 1200 mg AM, 900 mg PM
+
+
+
+BACKGROUND:
+
+
+
+
+The waking background is continuous, symmetric, well-organized, and consists predominantly of
+alpha with admixed beta. There is excess theta in wakefulness.
+
+
+
+Posterior dominant rhythm was present at 9 Hz.
+
+
+
+There were no persistent asymmetries in amplitude and frequency.
+
+
+
+Sleep was characterized by symmetric sleep spindles and/or K-complexes.
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+This is an abnormal long term video EEG due to:
+
+
+1. Mild excess of theta in wakefulness
+
+
+These findings are etiologically nonspecific indicators of mild diffuse cerebral dysfunction.
+
+-----------------------------------------------------------------
+
+
+DAY 2 (8/2/2016, 06:00 - 8/3/2016, 06:00)
+
+
+
+AEDs:
+
+Topamax 200 mg q12h
+
+
+Oxcarbazepine 900 mg AM, 450 mg PM
+
+
+INTERICTAL BACKGROUND: unchanged
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+
+Rare (<1hour) right frontal sharp transients in sleep, not clearly epileptiform
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in 60s
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (8/3/2016, 06:00 - 8/4/2016, 06:00)
+
+
+AEDs:
+
+Topamax 200 mg q12h
+
+
+Oxcarbazepine 1200 mg AM, 1200 mg PM
+
+
+
+INTERICTAL BACKGROUND: Excess theta in wakefulness. Occasionally there is polymorphic slowing
+over the left temporal region.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+EKG: A single lead captured a heart rate in 50s-60s
+
+
+-----------------------------------------------------------------
+
+
+DAY 4 (8/4/2016, 06:00 - 8/4/2016, 09:47)
+
+
+
+AEDs:
+
+Topamax 200 mg q12h
+
+
+Oxcarbazepine 900 mg AM, 450 mg PM
+
+
+INTERICTAL BACKGROUND: unchanged
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+EKG: A single lead captured a heart rate in 60s
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+
+
+
+
+INTERICTAL FINDINGS:  The patient's interictal findings were significant for excess of theta in
+wakefulness; over the course of the study this theta slowing seemed more predominant on the left
+occasionally.  There were no epileptiform discharges.
+
+
+
+
+
+ICTAL FINDINGS:
+
+The patient did not have any clinical events.
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. Unable to determine
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. Unable to determine
+
+
+
+CONCLUSION:
+
+was admitted to the epilepsy monitoring unit for 4 days with continuous video EEG.
+This was an elective EMU monitoring session for characterization of seizures with presurgical
+evaluation.
+
+
+
+
+The interictal EEG is characterized by excess of theta in wakefulness; over the course of the study this
+theta slowing seemed more predominant on the left occasionally. These findings are indicative of
+mild diffuse cerebral dysfunction, with subtle left temporal dysfunction.  There were no epileptiform
+discharges.
+
+
+
+
+The patient initially agreed to wean down his Trileptal to capture events. However, by day 3 he
+stated he was anxious to leave, so a full wean was unable to be completed.  His Trileptal was
+restarted at full dose on this day and he was watched for 1 more day. No other medication changes
+were made during the hospitalization.  None of his habitual events were captured.
+
+
+
+
+Patient is follow-up at the Temple Epilepsy Center as an outpatient.

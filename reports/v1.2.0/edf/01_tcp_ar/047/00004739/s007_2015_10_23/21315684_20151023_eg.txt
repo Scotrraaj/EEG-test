@@ -1,0 +1,136 @@
+HISTORY:
+
+69 y.o. female with seizures and breast cancer
+
+metastatic to the brain, referred for routine EEG.
+
+
+
+MEDICATIONS: Keppra 500 mg BID
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+NicOne system. This was a technically satisfactory record and
+
+
+included a single channel of EKG and photic stimulation.
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well
+
+
+
+
+organized and symmetric mixture of alpha and beta frequencies,
+
+with a symmetric and reactive 10 Hertz posterior dominant rhythm
+
+
+(PDR). The normal anterior-to-posterior gradient of frequency and
+
+amplitude is present. There is an excess of delta frequencies,
+
+
+bitemporally predominant, in wakefulness.
+
+
+During drowsiness, attenuation and fragmentation of the posterior
+
+dominant rhythm, and diffuse background slowing are seen. Delta
+
+
+frequencies seen in wakefulness become more prominent and more
+
+broadly distributed.
+
+
+
+Sleep is not captured.
+
+
+There is mild to moderate generalized slowing.
+
+
+There is frequent bilateral temporal polymorphic slowing, both
+
+synchronous and independent.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+
+flashes per second (fps) does not produce any EEG changes.
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during
+
+
+this study.
+
+
+
+HEART RATE:
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+
+This is an abnormal Awake and drowsy routine EEG due to:
+
+1. Mild to moderate generalized slowing, with excess of delta
+
+
+frequencies
+
+2. Frequent bilateral temporal polymorphic slowing, both
+
+synchronous and independent
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate the presence of bitemporal cerebral
+
+
+dysfunction superimposed on mild to moderate diffuse cerebral
+
+dysfunction.

@@ -1,0 +1,146 @@
+HISTORY:
+
+68 y.o. female with a history of left sided weakness, unsteadiness, jitteriness,
+tinnitus, and dizziness, referred for routine EEG for evaluation of paroxysmal events.
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+ibuprofen (ADVIL,MOTRIN) 800 mg tablet,
+
+aspirin (BAYER ASPIRIN) 325 mg Tablet tablet, Take 1 tablet by mouth daily.
+
+
+ketotifen (ZADITOR) 0.025 % (0.035 %) ophthalmic solution, Place 1 drop into both eyes 2 times
+daily.
+polyvinyl alcohol (LIQUIFILM TEARS) 1.4 % ophthalmic solution, Place 1 drop into both eyes as
+needed.
+omeprazole (PRILOSEC) 20 mg capsule, Take 20 mg by mouth daily.
+
+
+atorvastatin (LIPITOR) 20 mg tablet, Take 20 mg by mouth daily.
+
+ibuprofen (ADVIL,MOTRIN) 200 mg tablet, Take 4 tablets by mouth every 6 hours as needed.
+Indications: Osteoarthritis
+
+
+
+SEDATION: None
+
+
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR).
+The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric sleep spindles
+and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.
+
+There is frequent left temporal polymorphic slowing.
+
+There is frequent independent right fronto-temporal polymorphic slowing.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Occasional (1/hour to <1min) right anterior temporal (F8/T2 max) sharp waves
+
+
+2. Occasional (1/hour to <1min) left anterior temporal (T1>F7/T3 max) sharp waves
+
+3. Occasional (1/hour to <1min) left mid temporal (T3>T1>F7 max) sharp waves - rarely synchronous
+with #1
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+
+EVENTS:
+
+
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Frequent left temporal polymorphic slowing.
+
+
+2. Frequent independent right fronto-temporal polymorphic slowing
+
+3. Occasional right anterior temporal (F8/T2 max) sharp waves
+
+
+4. Occasional left anterior temporal (T1>F7/T3 max) sharp waves
+
+5. Occasional left mid temporal (T3>T1>F7 max) sharp waves - rarely synchronous with #1
+
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of left anterior and mid temporal, as well as right anterior
+temporal epileptogenic potential. There is additional evidence for right fronto-temporal and
+independent left temporal cerebral dysfunction, which are etiologically nonspecific.

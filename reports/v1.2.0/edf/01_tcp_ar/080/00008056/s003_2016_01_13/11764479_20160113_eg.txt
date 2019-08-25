@@ -1,0 +1,29 @@
+History:	56 year old woman with a history of seizures as a result of right MCA stroke requiing 
+	craniectomy.
+Medications:	Neurontin, keppra, valium
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, photic
+Description:
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right.  The 
+background over the left consists of moderate amplitude 10 -10.5 Hz alpha activity with expected 
+AP gradient.  The bakcground over the right consists of polymorphic 8.5-9.5 Hz alpha activity with 
+poor AP gradient.  Additionally, voltages are lower over the right with poymorphic theta and delta 
+activity especially pronounced over the right temporal region.  Diffuse excess beta activity is 
+captured.  During brief drowsiness, the posterior dominant rhythm attenuates and diffuse theta 
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) 
+does not produce additional abnormalities.
+Summary of Findings:
+	Focal slowing, polymorphic, continuous, right hemispheric, especially temporal region
+	Beta, excessive
+	No epileptiform discharges
+	No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy EEG due to continuous focal slowing over the right
+ that is especially pronounced over the right temporal region. This finding is indicative of a focal 
+structural lesion in this region.  Excessive beta activity could be secondary to the medication effect, 
+such as benzodiazepines or barbiturates.  No epileptiform discharges are present, but stage 2 sleep 
+was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide additional 
+	
+

@@ -1,0 +1,34 @@
+HISTORY: 90 y.o. Female with cc fall and change in ms.
+MEDICATIONS: Current Facility-Administered Medications: levETIRAacetam (KEPPRA) 1,000 mg in sodium chloride 0.9 % 100 mL IVPB thiamine (B-1) 500 mg in sodium chloride 0.9 % 100 mL IVPB phenytoin (DILANTIN) 100 mg in sodium chloride 0.9 % 50 mL IVPB magnesium oxide (MAG-OX) tablet 400 mg losartan (COZAAR) tablet 100 mg insulin glargine (LANTUS) injection 15 Units ferrous sulfate tablet 325 mg cyanocobalamin injection 1,000 mcg pantoprazole (PROTONIX) EC tablet 40 mg simvastatin (ZOCOR) tablet 40 mg sodium chloride 0.9 % injection (flush) 10 mL heparin (5000 units/mL) injection 5,000 Units dextrose 50% injection 25 mL dextrose 50% injection 50 mL glucagon (human recombinant) (GLUCAGEN) injection 1 mg insulin lispro (HumaLOG) injection 1-5 Units acetaminophen (TYLENOL) tablet 650 mg docusate sodium (COLACE) capsule 100 mg
+SEDATION: None
+TECHNIQUE: A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.
+DAY 1 (09/20/2016, 16:57 - 9/21/2016, 08:00)
+EEG BACKGROUND: No posterior dominant rhythm was present. Background activity was characterized by diffuse disorganized delta and theta activity with absence of the expected anterior to posterior gradient of frequencies. Sleep is not captured
+EPILEPTIFORM ACTIVITY: There are continuous sharp waves at O2 that increase and decrease in frequency form 1-2 hz to 8Hz at times with frank evolution and more anterior spread to P4 and even T4/C4. Clinically the patient appears to have left gaze deviation and head movement along with the increase in discharges.   This pattern stopped suddenly at 5:55PM.   At 6:07 right occipital sharps are seen that increase in frequency and suddenly a rhythmic beta discharge is seen that increases in Amplitude and frequency then spreads thought the right hemisphere and later the left then its obscured by diffuse muscle artifact. Clinically the patient turns to the left with left gaze deviation the left facial twitching followed by a T-C seizure lasting ~ 2 min.  After this she has 45 right occipital electrographic seizures with left head and gaze turning and facial twitching and no secondary generalization. Her last one at was 12:15 PM    In between seizure O2 periodic lateralized epileptiform discharges (PLEDs) are seen almost continuously in runs at 1-2 Hz.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):  None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS: See above.  HEART RATE: A heart rate of 90 bpm is captured on a single EKG lead.
+DAY 1 IMPRESSION: 1. Right occipital focal status epilepticus improved 2. Right occipital PLEDs 2. Moderate to severe generalized slow waves.
+DAY 1 CLINICAL CORRELATION: This is an abnormal awake only routine EEG due to right occipital focal status epilepticus that resolves. In addition there is moderate to severe diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate to severe diffuse cerebral dysfunction.
+
+-----------------------------------------------------------------
+
+DAY 2 (09/21/2016, 08:00 - 9/22/2016, 08:00)
+EEG BACKGROUND: No posterior dominant rhythm was present. Background activity was characterized by diffuse disorganized delta and theta activity with absence of the expected anterior to posterior gradient of frequencies. Sleep is not captured
+EPILEPTIFORM ACTIVITY: O2 periodic lateralized epileptiform discharges (PLEDs) are seen almost continuously in runs at 1-2 Hz.  At 5:37PM the right occipital PLEDsare seen that increase in frequency and amplitude and frequency then spreads thought the right central and temporal region and then stop. No definite clinical correlate is seen on video. Seizure last ~ 2 min.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS: See above.
+HEART RATE: A heart rate of 90 bpm is captured on a single EKG lead.
+DAY 2 IMPRESSION & CLINICAL CORRELATION This is an abnormal awake only routine EEG due to an electrographic right occipital focal seizure and PLEDs. This is indicative of a focus of cortical irritability in that region. In addition there is moderate to severe diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate to severe diffuse cerebral dysfunction.
+
+-------------------------------------------------------------
+
+DAY 3 (09/22/2016, 08:00 - 9/23/2016, 11:57AM)
+EEG BACKGROUND: No posterior dominant rhythm was present. Background activity was characterized by diffuse disorganized theta activity with absence of the expected anterior to posterior gradient of frequencies. Sleep is not captured
+EPILEPTIFORM ACTIVITY: O2 sharp waves are seen intermittently in runs for seconds with no evolution.
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+EVENTS: See above.
+HEART RATE: A heart rate of 90 bpm is captured on a single EKG lead.
+DAY 3 IMPRESSION & CLINICAL CORRELATION This is an abnormal awake only routine EEG due to right occipital sharp waves. This is indicative of a focus of cortical irritability in that region. In addition there is moderate diffuse background slowing and absent alpha rhythm. These findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction. 

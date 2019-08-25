@@ -1,0 +1,106 @@
+DATE OF STUDY: 05/13/16
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 20-40 min, awake and asleep
+
+
+
+
+
+HISTORY:
+
+a 73 y.o. male who presents after a seizure.
+
+
+
+MEDICATIONS:
+
+2 mg given prior to EEG
+
+
+
+
+SEDATION: ativan
+
+
+
+TECHNIQUE:
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+Patient is not cooperative with the study.  Patient is asleep nearly throughout the entire study.
+During brief periods of arousals, the background voltages are low and background consists of lodiffuse
+excess EMG artifact, minor movement artifact and diffuse excess beta activity.
+
+
+
+
+
+Patient rapidly transitions to sleep.  Abundant symmetrical sleep spindles are captured.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+A heart rate of >100 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+
+This is an unremarkable mostly asleep and briefly awake portable EEG.
+
+
+CLINICAL CORRELATION:
+
+This is an unremarkable mostly asleep and briefly awake portable EEG.
+
+
+Patient is overall not cooperative with the study, so this EEG is somewhat limited.
+
+
+
+
+
+
+
+

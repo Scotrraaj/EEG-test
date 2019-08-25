@@ -1,0 +1,102 @@
+DATE OF STUDY: 05/13/16
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 40-60 min, asleep only
+
+
+
+
+
+HISTORY:
+
+ a 116 y.o. male with a history of severe ICH with IVH.
+
+
+
+MEDICATIONS:
+
+Keppra
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+There is no PDR or AP gradient.
+
+
+
+
+
+The background consists of attenuated slow delta activity and frequent bursts, often asymmetric, of
+diffuse polymorphic theta activity.
+
+
+
+There is no clear change in the background with stimulation, although minor EMG artifact is seen.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.  Patient is tachypneic
+throughout the study.
+
+
+
+HEART RATE:
+
+
+A heart rate of up to 120 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal comatose 44 minute EEG due to:
+
+1. Moderate -to-severe diffuse background slowing
+
+2. No clear background reactivity.
+
+
+
+CLINICAL CORRELATION:
+
+Diffuse slowing is indicative of moderate-to-severe diffuse cerebral dysfunction, which is etiologically
+nonspecific.
+
+
+

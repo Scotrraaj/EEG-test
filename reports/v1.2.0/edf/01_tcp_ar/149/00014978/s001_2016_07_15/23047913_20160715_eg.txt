@@ -1,0 +1,102 @@
+HISTORY:
+
+51 y.o. male with a history of syncope referred for routine EEG for evaluation of
+paroxysmal events.
+
+
+
+MEDICATIONS:
+
+
+No current outpatient prescriptions on file.
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory record
+and included a single channel of EKG and verbal stimulation. Patient was extremely sleepy
+throughout EEG.
+
+
+
+
+
+
+EEG BACKGROUND:
+
+The brief waking background is characterized by the presence of a well organized symmetric mixture
+of alpha and beta frequencies, with a symmetric and reactive low voltage 9 Hertz posterior dominant
+rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present. There
+is prominent generous beta noted.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen. Generous diffuse beta noted.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured. There is some artifact noted at
+Cz in this bedside recording. There is also 1-2 bursts of shifting slowing in the central regions.
+
+
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:  Verbal stimuli produces an alerting.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 40-60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal drowsy and asleep  routine EEG due to:
+
+1. Prominent excess beta
+
+
+
+CLINICAL CORRELATION:
+
+
+
+Excess beta may be due to patient's medications. The shifting slowing noted in drowsiness is a non
+specific finding especially given the artifact noted in the Cz electrode. There are no epileptiform
+features.

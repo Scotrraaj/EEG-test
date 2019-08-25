@@ -1,0 +1,399 @@
+HISTORY:
+
+47 y.o. right handed female with suspected focal epilepsy and headaches
+
+
+
+
+Seizure typed
+
+Very tired, feel hot, not right. Starts biting tongue. Not answering questions for 1 min and side to side
+head shaking. She came out of it and reported she felt sleepy. No incontinence but did have to
+urinate a lot afterwards. No frank muscle soreness after. Amnestic for event.
+
+
+
+
+While sleeping, boyfriend noted hands/head started shaking, she was biting her tongue (the middle
+of it). No frank soreness afterwards. Amnestic.
+
+Can have bad headache 1-2 days after an episode.
+
+
+
+
+Now on
+
+· PHT 200 q12h
+
+
+· Keppra 2000 mg q12h
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+SEDATION: None
+
+
+
+
+DAY 1 (09/30/2016, 11:09 - 10/1/2016, 08:00)
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 11 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep stage I & II as well as deeper stages of sleep were seen.
+
+
+Intermittent polymorphic delta activity is present in the left mid to anterior temporal region during
+wakefulness, increasing during drowsiness.
+
+
+At times this is sharply contoured.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Left anterior temporal wickets are noted.
+
+
+
+ACTIVATION PROCEDURES:
+
+
+     Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and
+produces no effect.
+
+
+
+     Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving..
+
+
+
+
+EVENTS:
+
+None
+
+
+
+HEART RATE:
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+
+Intermittent focal slowing in the left mid and anterior temporal region.  This finding is indicative of
+focal cerebral dysfunction, which is etiologically non-specific.
+
+
+
+
+---------------------------------------------------------
+
+
+
+DAY 2 (10/01/2016, 08:00 - 10/02/2016, 08:00)
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 11 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep stage I & II as well as deeper stages of sleep were seen.
+
+
+Intermittent polymorphic delta activity is present in the left mid to anterior temporal region during
+wakefulness, increasing during drowsiness.
+
+
+At times this is sharply contoured.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Left anterior temporal wickets are noted.
+
+
+
+ACTIVATION PROCEDURES: None performed
+
+
+HEART RATE:
+
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+EVENTS:
+
+
+
+
+
+
+
+At 9:36PM the patient pushes the button and stick out her tongue while making twitching/mouth
+movements movement of the face. The technician comes in minutes later and the patient does not
+follow verbal commands. This behavior remains for about 10 minutes after which the patient slowly
+starts answering questions.
+
+
+
+
+The EEG during the episode reveals an normal background with a glossokinetic artifact.
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+Intermittent focal slowing in the left mid and anterior temporal region.  This finding is indicative of
+focal cerebral dysfunction, which is etiologically non-specific.
+
+
+
+---------------------------------------------------------
+
+DAY 3 (10/02/2016, 08:00 - 10/03/2016, 12:36)
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 11 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep stage I & II as well as deeper stages of sleep were seen.
+
+
+Intermittent polymorphic delta activity is present in the left mid to anterior temporal region during
+wakefulness, increasing during drowsiness.
+
+
+At times this is sharply contoured.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Left anterior temporal wickets are noted.
+
+
+
+ACTIVATION PROCEDURES:
+
+None performed
+
+
+
+
+
+
+EVENTS:
+
+None
+
+
+
+HEART RATE:
+
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+Intermittent focal slowing in the left mid and anterior temporal region.  This finding is indicative of
+focal cerebral dysfunction, which is etiologically non-specific.
+
+
+
+
+----------------------------------------------------------
+
+INDUCTION PROCEDURES:
+
+
+None
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+Interictal Findings:
+
+Intermittent focal slowing in the left mid and anterior temporal region
+
+
+
+Ictal Findings:
+
+The patient had one clinical event while hooked up to continuous video EEG monitoring in the
+epilepsy monitoring unit.
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. Non-epileptic event
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. Psychogenic non-epileptic seizures
+
+
+
+CONCLUSION:
+
+was admitted to the epilepsy monitoring unit for 3 days with continuous video
+EEG.  This was an diagnostic EMU monitoring session because of capturing her typical event.
+
+
+
+
+
+
+
+The interictal EEG is characterized by Intermittent focal slowing in the left mid and anterior temporal
+region.  This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific.
+
+
+
+The patient was weaned off Dilantin and Keppra over the course of her admission. She was started
+on topiramate on the day prior to her discharge from the hospital. No other medication changes were
+made during the hospitalization.
+
+
+
+
+Patient is follow-up at the Temple Epilepsy Center as an outpatient.

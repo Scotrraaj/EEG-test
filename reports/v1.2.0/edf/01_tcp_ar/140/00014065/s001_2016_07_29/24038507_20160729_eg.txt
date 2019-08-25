@@ -1,0 +1,93 @@
+HISTORY:
+
+57 y.o. male with a history of acute stroke, transferred to ICU for worsening
+mental status,  referred for routine EEG for assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+unknown
+
+
+
+SEDATION: None reported
+
+
+
+TECHNIQUE:
+
+A bedsideICU  Digital Video 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a
+technically satisfactory record and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by an intra hemispheric asymmetry characterized by 2
+patterns
+1. Left - PDR with alpha 9.7 as well as diffuse theta, underlying almost continuous mixed theta /
+delta
+
+2. Right - alpha at 11 Hz, small theta, intermittent delta
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is asymmetric, no sustained stage II captured. Vertex waves, spindles, POSTS seen.
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Left temporal wickets noted in transition to STAGE II sleep
+
+
+Few bursts sharply contoured slowing on the left.
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+EVENTS:
+
+
+There are  no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 74 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+1. Focal slowing on the left
+
+2. Right - mild intermittent slowing.
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings are suggestive of a structural lesion of the left. No stage II sustained sleep is captured.
+If there is any question, consider additional prolonged study capturing more  stage II sleep.

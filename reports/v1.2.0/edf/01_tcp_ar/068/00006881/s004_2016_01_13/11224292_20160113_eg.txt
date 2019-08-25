@@ -1,0 +1,33 @@
+History:	53 year old woman with complex partial seizures and generalized convulsions.
+	
+	Of note, patient was admitted to Temple EMU in 10/2013 and independent left 
+	temporal and right occipital seizures were captured.
+Medications:	Keppra, Remeron
+Sedation:
+EEG Type:	Extended, 40-60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes, awake, 
+	drowsy, photic
+Description:
+The posterior dominant rhythm consists of 10 Hz alpha posteriorly with expected AP gradient.  
+There is asymmetry of the occipital alpha rhythm voltage that is greater than 50%, with higher 
+voltages over the left.  Patient becomes drowsy but does not fall asleep.
+Frequent polymoprhic and rhythmic (TIRDA) delta activity is noted over the left anterior temporal 
+region.  It is more pronounced during drowsiness.  Intermittent left anterior temporal/ frontal sharp 
+waves with aftergoing slow waves are captured, primarily during drowsiness.  Maximal scalp 
+negativity occurs over Fp1 < F7/T1/T3 leads.
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) 
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+	Asymmetry, alpha, >50% higher in ampl over L
+	Focal slowing, polymorphic, intermittent, left temporal, anterior, frontal and ant temporal
+	TIRDA (temporal intermittent rhythmic delta activity), intermittent, left temporal, anterior
+	Sharp waves, intermittent, left, frontal and anterior temporal
+Interpretation:
+This is an abnormal awake and drowsy 1 hour EEG due to (1) intermittent polymorphic and 
+rhythmic focal slowing over the left anterior temporal region; (2) intermittent left frontal< anterior 
+temporal epileptiform discharges that are more pronounced during drowsiness and (3) greater than 
+50% lower voltage of posterior dominant rhythm over the RIGHT.  There is likely a focal structural 
+potentially epileptogenic lesion over the left anterior temporal region.  Additional, there is 
+suggestion of focal cerebral abnormality over the right occipital region.
+	
+

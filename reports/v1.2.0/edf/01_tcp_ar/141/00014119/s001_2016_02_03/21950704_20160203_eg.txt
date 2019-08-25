@@ -1,0 +1,22 @@
+History:	58 year old woman who presents with change in mental status.
+Medications:	DEXAMETHASONE, METOPROLOL, SYNTHROID
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake
+Description:
+There is no PDR or AP gradient.  The background consists of moderate amplitude polymorphic 
+theta activity, frequent triphasics wavefoms and low amplitude underriding fast activity.  Patient 
+remains awake throughout the recording.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+	Diffuse slowing, polymorphic, moderate
+	Triphasic waves, frequent
+	No electrographic seizures
+	No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake-only portable 21-minute EEG due to moderate diffuse slowing and 
+frequent triphasics waveforms. These findings are indicative of a moderate diffuse encephalopathy,
+ which is etiologically nonspecific, but suggestive of a metabolic origin.  Triphasic waves are a 
+nonspecific EEG finding that can be seen in hepatic encephalopathy, uremia and anoxia.
+

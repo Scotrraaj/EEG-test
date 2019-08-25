@@ -1,0 +1,121 @@
+HISTORY:
+
+24 y.o. female with a history of childhood epilepsy, previously treated with
+Dilantin.  Patient has been seizure-free for a number of years.  Father also has epilepsy.  Now,
+referred for routine EEG for characterization of seizures.
+
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+alprazolam (XANAX) 1 mg tablet,
+
+cloNIDine (CATAPRES) 0.3 mg tablet,
+
+gabapentin (NEURONTIN) 300 mg capsule,
+
+
+PARoxetine (PAXIL) 20 mg tablet,
+
+QUEtiapine (SEROQUEL) 100 mg tablet,
+
+zolpidem (AMBIEN) 10 mg tablet,
+
+
+mirtazapine (REMERON) 30 mg tablet,
+
+
+TECHNIQUE:
+
+
+
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically  satisfactory
+record and included a single channel of EKG HV and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10.7  Hertz 50-60 uV  posterior dominant rhythm (PDR),
+which attenuates symmetrically with eye opening.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+In the transition to drowsiness, 1-2 second bursts of high amplitude 6 Hz hypersynchronous rhythmic
+slowing were noted, characteristic of hypnagogic hypersynchrony
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Wicket and hynogogic hypersynchrony were noted
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hypersynchronous rhythmic high amplitude bursts of 4-6 Hz activity were noted,
+typically less than 2 seconds in duration.  None were associated with definitive spike and slow-wave
+complexes
+
+
+
+
+Photic Stimulation: In addition to a driving response, the patient seemed to be falling asleep with
+hypersynchronous rhythmic high amplitude 6 Hz activity but no definitive spike and slow-wave activity
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is a normal awake and asleep routine EEG.  There are multiple normal variants , but no
+definitive epileptiform discharges
+
+
+
+
+
+CLINICAL CORRELATION:
+
+
+This is normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+If epilepsy is an important consideration, either a sleep deprived record or a more prolonged study
+may be helpful in the search for spike and wave activity

@@ -1,0 +1,14 @@
+CLINICAL HISTORY: A 38-year-old woman with Crohn disease, pancreatic insufficiency, gastroparesis, adrenal insufficiency, POTS, and complicated migraines.
+MEDICATIONS: Verapamil, Xyzal, topiramate, and many others.
+INTRODUCTION: A 20-minute digital video EEG was performed in lab using standard 10-20 system of electrode placement with 1 channel of EKG. Hyperventilation and photic stimulation were completed. This is an awake and asleep record.
+DESCRIPTION OF THE RECORD:   In wakefulness, there is a background with a 9-11 hertz alpha rhythm, which is symmetric and reactive to eye opening. The alpha is subtly abnormal and is lightly faster on the left. The overall background includes excess theta and is slightly disorganized.
+Brief drowsiness was characterized by an increase in beta, but deeper stages of sleep were not sustained.
+Hyperventilation produces in an increase in amplitude of the background and a small amount of shifting asymmetry, slightly more prominent left posterior quadrant.
+Photic stimulation elicited a driving response at faster flash frequencies. Heart rate: 90 bpm.
+IMPRESSION: Mildly abnormal EEG for an adult of this age due to;
+	•	Excess theta.
+	•	Background disorganization.
+	•	Slight asymmetry in alpha.
+CLINICAL CORRELATION: No epileptiform features were identified. In this individual, who was treated with polypharmacy and suffers from complicated migraine, correlation with exam and imaging may be of value.
+
+

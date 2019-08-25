@@ -1,0 +1,131 @@
+HISTORY:
+
+33 y.o. female with a history of HCV, endocarditis, R PCA stroke, complicated by
+focal epilepsy, referred for routine EEG for management of seizure exacerbation. Patient has been
+having 3 seizures per week since 5/2016.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+levETIRAcetam (KEPPRA) tablet 750 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % infusion
+
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is continuous, reactive, and asymmetric.
+
+The left hemisphere is characterized by a fairly organized mixture of alpha with excess beta, with a
+posterior dominant rhythm of 9 Hz.
+
+
+The right hemisphere is characterized by continuous delta activity with attenuated faster frequencies,
+with no clear posterior dominant rhythm.
+
+
+
+Drowsiness and sleep are not captured.
+
+
+
+No generalized slowing is present.
+
+There is continuous right hemispheric polymorphic slowing. Frequently this slowing becomes right
+hemispheric rhythmic delta slowing.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Frequent right hemispheric 1 Hz rhythmic delta slowing for < 10 sec
+
+2. Frequent frontally predominant 1 Hz generalized rhythmic delta slowing for < 10 sec
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake only  routine EEG due to:
+
+1. Suboptimal organization
+
+2. Continuous right hemispheric slowing
+
+
+3. Attenuation of faster frequencies over the right hemisphere
+
+
+
+
+4. Frequent right hemispheric 1 Hz rhythmic delta slowing for < 10 sec
+
+5. Frequent frontally predominant 1 Hz generalized rhythmic delta slowing for < 10 sec
+
+
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of right hemispheric cortical dysfunction and epileptogenic
+potential superimposed on a mild diffuse cerebral dysfunction.
+
+
+
+Frontally predominant generalized rhythmic delta activity (GRDA, also known as FIRDA) is a
+nonspecific but pathologic finding that is most commonly seen in toxic-metabolic states, but may
+also be seen with deep structural lesions or increased intracranial pressure. Clinical correlation is
+advised.

@@ -1,0 +1,183 @@
+HISTORY:
+
+53 y.o. female who presents with change in mental status, concerning for
+subclinical seizures.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+sodium bicarbonate 8.4 % (1 mEq/mL) injection
+
+metoclopramide (REGLAN) injection 5 mg
+
+
+hydrocortisone sod succ (PF) (Solu-CORTEF) injection 50 mg
+
+heparin 25,000 units (100 units/mL) in 0.45% sodium chloride 250 mL infusion (Premix)
+
+dextrose 50% injection 25 mL
+
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+insulin lispro (HumaLOG) injection 1-5 Units
+
+
+norepinephrine (LEVOPHED) 8 mg/250 mL (32 mcg/mL) in D5W infusion
+
+ciprofloxacin (CIPRO) 400 mg in dextrose 5% 200 mL IVPB
+
+
+
+docusate sodium (COLACE) liquid 100 mg
+
+phenylephrine (NEO-SYNEPHRINE) 160 mg in sodium chloride 0.9 % 250 mL infusion
+
+
+vancomycin paste
+
+doxycycline 500 mg in NS 50 mL irrigation
+
+
+sodium chloride irrigation
+
+magnesium hydroxide (MILK OF MAGNESIA) suspension 30 mL
+
+senna (SENOKOT) tablet 1 tablet
+
+ferrous sulfate tablet 325 mg
+
+
+morphine injection 2 mg
+
+morphine injection 4 mg
+
+
+multivitamin (THERA) tablet 1 tablet
+
+vasopressin (PITRESSIN) 100 Units in dextrose 5 % in water 250 mL infusion
+
+prismaSOL BGK (4 K / 2.5 Ca) dialysis solution
+
+prismaSOL BGK (4 K / 2.5 Ca) dialysis solution
+
+
+prismaSATE 4/2.5 dialysis solution 5,000 mL
+
+pantoprazole (PROTONIX) injection 40 mg
+
+
+lactulose (CHRONULAC) solution 20 g
+
+ipratropium (ATROVENT) 0.02 % nebulizer solution 0.5 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+albuterol (PROVENTIL) nebulizer solution 2.5 mg
+
+
+dextrose 50% injection 25 mL
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+There is a large amount of diffuse overwhelming EMG artifact.  This artifact is especially pronounced
+over the bilateral lateral leads and is present for nearly the entirety of the recording.
+
+
+
+Once EMG artifact improves, the visualized background consists of a mixture of polymorphic theta
+and delta activity and occasional triphasics waveforms.
+
+
+
+
+
+Patient remains awake throughout the recording.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None clearly
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+A single EKG lead demonstrates regular heart rate with widened and broad QRS complexes
+
+
+
+IMPRESSION:
+
+
+This is an abnormal awake only  routine EEG due to:
+
+1. Moderate-to-severe diffuse slowing
+
+2. Occasional triphasics waveforms
+
+
+
+CLINICAL CORRELATION:
+
+
+
+Overall the study is limited due to excessive EMG artifact, especially over the lateral EEG leads
+(primarily temporal lobe coverage).  So epileptiform discharges and seizures could have been
+missed.
+
+
+Diffuse slowing is indicative of moderate-to-severe diffuse cerebral dysfunction, which is etiologically
+nonspecific.
+
+
+
+Triphasic waves are a nonspecific EEG finding that can be seen in encephalopathy (mostly
+commonly hepatic), uremia, anoxia and many other etiologies.

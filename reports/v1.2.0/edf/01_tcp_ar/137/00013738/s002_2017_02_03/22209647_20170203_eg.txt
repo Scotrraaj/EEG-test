@@ -1,0 +1,691 @@
+HISTORY:
+
+This is a 64 y.o. right handed male admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: refractory epilepsy.
+
+
+
+
+Continuous video EEG is initiated for:  Recording of seizures for presurgical evaluation.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+No current facility-administered medications for this visit.
+
+
+Current Outpatient Prescriptions:
+
+nicotine (NICODERM CQ) 21 mg/24 hr, Place 21 mg onto the skin every 24 hours for 30 days.
+
+PHENobarbital (LUMINAL) 15 mg tablet, Take 1 tablet by mouth 2 times daily for 10 days.
+
+
+
+Facility-Administered Medications Ordered in Other Visits:
+
+ibuprofen (ADVIL,MOTRIN) tablet 400 mg
+
+
+PHENobarbital (LUMINAL) tablet 15 mg
+
+amitriptyline (ELAVIL) tablet 10 mg
+
+lactulose (CHRONULAC) solution 10 g
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+alum-mag hydroxide-simeth (MYLANTA;MAALOX) 200-200-20 mg/5 mL suspension 30 mL
+
+
+
+LORazepam (ATIVAN) injection 2 mg
+
+nicotine (NICODERM CQ) patch 21 mg
+
+
+
+
+
+SEDATION: None
+
+
+DAY 1 (02/03/2017 - 2/04/2017)
+
+
+
+BACKGROUND:
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 11 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by synchronous and symmetric sleep transients, including vertex waves, sleep
+spindles, and K complexes. Slow wave sleep and REM sleep are captured.
+
+
+
+Subtle occasional polymorphic theta activity is seen over the right temporal region.
+
+
+
+Diffuse excess beta activity is present.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+EKG: A single lead captured a regular heart rate
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is an abnormal ~ 18 hour continuous EEG due to:
+
+- occasional mild right temporal focal slowing
+
+
+
+This finding is indicative of focal cerebral dysfunction, which is etiologically non-specific, but possibly
+structural in origin.
+
+
+
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (02/04/2017 - 2/05/2017)
+
+
+
+AEDs: Keppra decreased, Phenytoin 300 mg qHS and phenobarbital
+
+
+INTERICTAL BACKGROUND:
+
+
+The bilateral posterior dominant rhythm is symmetric and reaches 11 Hz.
+
+
+Subtle occasional polymorphic theta activity is seen over the right temporal region.
+
+
+
+Diffuse excess beta activity is present.
+
+
+
+Sleep architecture is normal.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a regular heart rate
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+Abnormal 24 hour study due to occasional mild right temporal focal slowing that remains without
+change.
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (02/05/2017 - 2/06/2017)
+
+
+
+AEDs: Keppra decreased, Phenytoin 200 mg qHS and phenobarbital
+
+
+INTERICTAL BACKGROUND:
+
+
+No change.
+
+
+Sleep architecture is normal.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+SEIZURES/EVENTS:
+
+
+
+
+
+
+
+
+
+
+A single event to which patient refers as " anxiety attack/ pseudoseizure"  Is captured.  It starts at ~
+~3:35:40 pm.  Patient places his hand above the brown paper bag.  He later told me that she started
+feeling perioral and bilateral hand numbness.  He then develops shortness of breath.  About 1 min
+20 seconds later he gets frantic and attempts to breath rapidly in the paper bag.  He at first breaths
+slowly in the bag but then starts hyperventilating at ~5 breaths per second.  Patient develops UEs
+shaking at ~ 3:38:10 pm.  This shaking is characterized by rapid and forceful flexion and extension of
+his arms that is not rhythmic and varies in amplitude.  There is no involvement of LEs.  Eyes remain
+closed and there is some head bobbing.  By the end, there is only right arm shaking.  Patient is also
+slumped in the bed.  Right arm shaking lessens in frequency and stops by ~ 3:39:55 PM.  Patient
+does not respond immediately after the shaking stops.  Patient is able to squeeze the EEG
+
+
+
+
+
+
+technologist's hand ~10 seconds after the event stops and opens his eyes when asked by the nurse
+~15 seconds after the shaking stops.  He is able to state his name and recall the code word that was
+given to him during the shaking.
+
+
+
+
+Patient's heart rate is ~ 78 bpm prior to the episode and ~84 bpm after shaking stops.
+
+
+
+
+Throughout the event, EEG only demonstrates movement and EMG artifact and remains at patient's
+baseline.
+
+
+
+
+EKG: A single lead captured a regular heart rate
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+Abnormal 24 hour study due to occasional mild right temporal focal slowing that remains without
+change.
+
+
+
+
+
+A single ~ 6 minute event characterized by subjective perioral and bilateral hand numbness,
+shortness of breath, anxiety and arm shaking has no abnormal ictal correlate.  Patient characterizes
+this event as his typical anxiety attack/ pseudoseizure.
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 4 (02/06/2017 - 2/07/2017)
+
+
+
+
+
+AEDs: Keppra decreased, Phenytoin decreased and phenobarbital decreased
+
+
+
+INTERICTAL BACKGROUND:
+
+No change.
+
+
+
+Sleep architecture is normal.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a regular heart rate
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+
+Abnormal 24 hour study due to occasional mild right temporal focal slowing that remains without
+change.
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 5 (02/07/2017 - 2/08/2017)
+
+
+
+AEDs: Keppra off, Phenytoin off and phenobarbital decreased
+
+
+
+
+INTERICTAL BACKGROUND:
+
+No change.
+
+
+
+Sleep architecture is normal.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+SEIZURES/EVENTS:
+
+A single event which the patient identifies as his
+
+
+
+There is no ictal correlate prior/ during or after the event and patient's EEG remains at the baseline.
+
+
+
+EKG: A single lead captured a regular heart rate
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION:
+
+
+Abnormal 24 hour study due to occasional mild right temporal focal slowing that remains without
+change.
+
+
+
+A single ~ 1.5 minute event characterized by arrhythmic arm shaking, bladder incontinence and no
+appreciable post-ictal period has no abnormal ictal correlate.  Patient characterizes this event as his
+typical seizure.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 6 (02/08/2017 - 2/09/2017)
+
+
+
+AEDs: Keppra decreased, Phenytoin off and phenobarbital decreased
+
+
+
+INTERICTAL BACKGROUND:
+
+
+No change.
+
+
+
+Sleep architecture is normal.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+EKG: A single lead captured a regular heart rate
+
+
+
+
+
+DAY 6 IMPRESSION & CLINICAL CORRELATION:
+
+Abnormal 24 hour study due to occasional mild right temporal focal slowing that remains without
+change.
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 7 (02/09/2017 - 2/10/2017)
+
+
+
+AEDs: Keppra decreased, Phenytoin off and phenobarbital low dose
+
+
+INTERICTAL BACKGROUND:
+
+
+No change.
+
+
+
+
+Sleep architecture is normal.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a regular heart rate
+
+
+
+
+DAY 7 IMPRESSION & CLINICAL CORRELATION:
+
+Abnormal 24 hour study due to occasional mild right temporal focal slowing that remains without
+change.
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+INDUCTION PROCEDURES:
+
+Sleep deprivation
+
+Photic stimulation
+
+
+Hyperventilation
+
+Exercise
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+Interictal Findings:
+
+
+
+The bilateral posterior dominant rhythm is symmetric and reaches 11 Hz.  Subtle occasional
+polymorphic theta activity is seen over the right temporal region.  Diffuse excess beta activity is
+present.  Sleep architecture is normal.
+
+
+
+
+Ictal Findings:
+
+The patient had 2 clinical events while undergoing continuous video EEG monitoring in the epilepsy
+monitoring unit.  Events occurred on D#3 and day #5 of the recording.  The first event the patient
+identified as his typical anxiety attack/ pseudoseizure and the second event as his typical seizure.
+Neither of the events had any abnormal ictal correlate prior, during or after the event.  Both event
+were non-epileptic events
+
+
+
+
+
+
+SEIZURE DIAGNOSIS:
+
+1.  non-epileptic events
+
+
+
+
+EPILEPSY DIAGNOSIS:
+
+
+1.  non-epileptic events
+
+
+
+
+CONCLUSION:
+
+The patient was admitted to the epilepsy monitoring unit for 7 days with continuous video EEG.  The
+patient had 2 clinical events while undergoing continuous video EEG monitoring in the epilepsy
+monitoring unit.  Events occurred on D#3 and day #5 of the recording.  The first event the patient
+identified as his typical anxiety attack/ pseudoseizure and the second event as his typical seizure.
+Neither of the events had any abnormal ictal correlate prior, during or after the event.  Both events
+were non-epileptic events.
+
+
+
+
+
+Patient was informed of the diagnosis by the attending physician.  The diagnosis was
+discussed extensively between the patient and the attending physician.  Unfortunately,
+no family members or those who have witnessed patient's typical event in the outpatient setting were
+available for the video review of the second event (identified  by the patient as his typical seizure).
+
+
+
+
+The patient was weaned off Keppra, Dilantin and Phenobarbital over the course of the admission.
+He was discharged to home on a phenobarbital taper with goal of weaning it off completely over the
+next several weeks (with goal to avoid phenobarbital induced seizures).  The outpatient goal is for
+the patient to be on no AEDs (anti-epileptic medications), since there is no evidence that patient has
+epileptic seizures.

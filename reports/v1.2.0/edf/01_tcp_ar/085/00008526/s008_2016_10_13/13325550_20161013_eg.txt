@@ -1,0 +1,394 @@
+HISTORY:
+
+This is a 61 y.o. right handed female admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: refractory epilepsy. Assistant notes that she has spells when she hums
+and then forgets what she was going to say or do. These have not previously been recognized as a
+seizure.
+
+
+
+Her typical seizure occurs monthly.  Her sister-in-law states that she stiffens, retro-pulses and has tonic
+activity.  The sister-in-law does not describe typical temporal lobe seizures.
+
+
+Continuous video EEG is initiated for:  Characterization of seizures.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+
+CONDITIONS OF THE RECORDING:
+
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.   A neurologist was available in person or on
+call 24 hours per day.  The patient was monitored via video 24 hours per day by a registered nurse
+with special training in seizure recognition and testing.  During times when a technician was not
+available, EEG recording, video recording, and computer analysis continued, and nursing performed
+seizure testing and electrode maintenance.
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+phenobarbital (LUMINAL) 16.2 mg tablet, Take 3 tablets by mouth 2 times daily.
+
+levetiracetam (KEPPRA) 1,000 mg tablet, Take 2 tablets by mouth 2 times daily.
+
+multivitamin (THERAGRAN) per tablet, Take 1 tablet by mouth daily.
+
+
+divalproex (DEPAKOTE ER) 500 mg 24 hr tablet, Take 1 tablet by mouth daily for 360 days.
+
+
+SEDATION:  None
+
+
+
+DAY 1 (10/13/2016 - 10/14/2016, 06:00)
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized slightly asymmetric
+mixture of  Theta, alpha and beta frequencies, with a symmetric and reactive 6.5-8.3 Hertz posterior
+dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is
+present. Mu of 6.5 Hz was seen at C3, no testing could be performed.
+
+
+
+As the recording continues there is a sustained interictal pattern with a theta background, slower on
+the right.
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+
+Sleep: Vertex waves
+
+
+
+Mild generalized slowing is present.
+
+Intermittent left temporal  focal slowing is present, characterized by disruption of faster frequency
+activity and mixed irregular theta/ delta. There is also a second pattern of R sided focal slowing
+noted in wakefulness in the sections without spikes.
+
+
+In the transition to sleep R focal slowing is seen
+
+
+EPILEPTIFORM ACTIVITY:
+
+Frequent (>1/min to <1/10s) T1/T3> T5 in wakefulness, often occurring in bursts
+
+R temporal discharges
+
+
+Of note, there are extended periods in wakefulness without spikes.
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+EVENTS:
+
+1. Brief bursts of L temporal spikes of 12 second duration, without clear clinical change
+
+
+2. 16:49 Push button- wake pattern,no spikes
+
+3. 19:49 Push button- wake pattern,no spikes
+
+4. 4:14 AM- family thinks she might have hummed.  EEG at this time- not spiking. Sister in law could
+not find the button.
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+No seizures, markedly abnormal background, but more sustained periods without spikes
+
+
+
+
+-----------------------------------------------------------------
+
+
+Day 2 (- 10/14/2016 to 10/15/16, 06:00)
+
+
+No current facility-administered medications for this visit.
+
+No current outpatient prescriptions on file.
+
+
+
+Facility-Administered Medications Ordered in Other Visits:
+
+  [START ON 10/15/2016] PHENobarbital (LUMINAL) tablet 15 mg, 15 mg, Oral, BID, 
+
+
+  levETIRAcetam (KEPPRA) tablet 2,000 mg, 2,000 mg, Oral, BID,  2,000 mg
+at 10/14/16 1803
+
+divalproex (DEPAKOTE ER) 24 hr tablet 1,000 mg, 1,000 mg, Oral, Q12H, 
+1,000 mg at 10/14/16 1230
+
+
+BP 117/68  Pulse 69  Ht 4' 11
+
+
+
+
+BACKGROUND: No change
+
+
+GENERALIZED SLOWING: No change
+
+FOCAL SLOWING: No change
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+SPORADIC EPILEPTIFORM ACTIVITY: Frequent (>1/min to <1/10s) Left temporal sharps and spikes
+in brief bursts, trains
+
+
+R temporal discharges- sharp waves, often in pairs T2 F8
+
+EVENTS: None
+
+
+
+EKG: A single EKG lead captured 70 BPM
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+Limited by loss of electrode integrity but no clinical events. Background with fewer spikes
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+DAY 3 (- 10/15/2016- 10/16/16, 06:00)
+
+BP 117/68  Pulse 69  Ht 1.499 m (4' 11
+
+
+
+BACKGROUND: No change
+
+GENERALIZED SLOWING: No change, improved
+
+
+FOCAL SLOWING: less marked
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+SPORADIC EPILEPTIFORM ACTIVITY: Abundant (>1/10s) Left >R but more sustained periods
+without spikes
+
+
+See the last section of 12:47 AM- prolonged burst R temporal spikes, in sleep
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single EKG lead captured  HR 60-70
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+
+No seizures, prominent spiking is reduced.
+
+
+
+
+One prolonged burst from the right out of sleep
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY4 ( 10/16/2016, 06:00)
+
+BP 117/68  Pulse 69  Ht 4' 11
+
+Current Outpatient Prescriptions:
+
+levetiracetam (KEPPRA) 1,000 mg tablet, Take 2 tablets by mouth 2 times daily., Disp: 120 tablet,
+Rfl: 6
+
+
+  multivitamin (THERAGRAN) per tablet, Take 1 tablet by mouth daily., Disp: , Rfl:
+
+
+  PHENobarbital (LUMINAL) 15 mg tablet, Take 1 tablet by mouth 2 times daily for 10 days., Disp:
+20 tablet, Rfl: 0
+
+  divalproex (DEPAKOTE ER) 500 mg 24 hr tablet, Take 1 tablet by mouth daily for 360 days., Disp:
+30 tablet, Rfl: 11
+
+
+
+
+BACKGROUND: No change
+
+GENERALIZED SLOWING: No change
+
+FOCAL SLOWING: No change
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+SPORADIC EPILEPTIFORM ACTIVITY: Abundant (>1/10s)  Bursts left or R temporal spikes- these
+can be seen in trains lasting up to 10 seconds without clinical correlate
+
+
+EVENTS: No clinical or electrographic events reported or detected.
+
+
+EKG: A single EKG lead captured 72 BPM
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION
+
+
+
+Overall background with fewer spikes, more sustained sections with nearly normal background.
+
+
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+Interictal Findings:
+
+
+Prominent bursts of right or left temporal spikes noted most prominently in the early part of the EEG
+monitoring session.
+
+
+
+
+
+
+
+
+
+On the day of admission, the technologist that the patient had a seizure in the EEG lab.  This might
+have explained why there was more epileptiform activity early on in the session.  Reduction of the
+patient's phenobarbital dose seemed to produce an improvement in the overall background,
+although the patient's blood levels were relatively stable.
+
+
+
+Ictal Findings:
+
+The patient had  no definite clinical events while hooked up to continuous video EEG monitoring in
+the epilepsy monitoring unit.  The family thought there might have been one event out of sleep with
+the EEG at that time was without epileptiform activity
+
+
+
+
+SEIZURE DIAGNOSIS:
+
+1.  Medically refractory epilepsy with temporal localization
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1.Medically refractory epilepsy with temporal localization, bitemporal features
+
+
+
+CONCLUSION:
+
+The patient was admitted to the epilepsy monitoring unit for 4 days with continuous video EEG.
+This was an EMU monitoring session because of crescendo seizures and the possibility of presurgical
+evaluation
+
+
+
+
+The interictal EEG is characterized by XX. Diffuse background slowing is a non specific indicator of
+moderate diffuse cerebral dysfunction. Focal slowing in the XX indicates a focal structural lesion in
+that region. Frequent XX epileptiform discharges indicate a potentially epileptogenic focus in that
+region.
+
+This patient  will be presented at surgical conference to discuss the next best steps and treatment of
+her medically refractory epilepsy

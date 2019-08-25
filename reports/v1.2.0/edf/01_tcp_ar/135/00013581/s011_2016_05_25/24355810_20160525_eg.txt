@@ -1,0 +1,95 @@
+HISTORY:
+
+65 y.o. male with a history of recent focal status epilepticus.
+
+
+
+MEDICATIONS:
+
+Phenobarbital
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+There is right-to-left interhemispheric asymmetry with slower waveforms over the right.
+
+
+
+
+
+The background over the left consists 9-10 Hz low amplitude alpha with expected AP (anterior-to-
+posterior) gradient.
+
+
+The background over the right lacks sustained PDR and AP gradient.  It consists of attenuated up to 7
+Hz theta activity posteriorly, atenuation and paucity of faster frequencies over the right middle and
+posterior quadrants.
+
+
+
+
+Patient remains awake throughout the recording
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake only portable EEG due to:
+
+1. Continuous moderate focal slowing and attenuation over the right middle and posterior quadrants.
+
+
+
+CLINICAL CORRELATION:
+
+Continuous focal slowing is indicative of a focal structural lesion over the right.

@@ -1,0 +1,141 @@
+HISTORY:
+
+81 y.o. male with a history of meningoencephalitis referred for routine EEG
+for assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+senna (SENOKOT) tablet 2 tablet
+
+meropenem (MERREM) 2 g in sodium chloride 0.9 % 100 mL IVPB
+
+
+bisacodyl (DULCOLAX) EC tablet 5 mg
+
+heparin 25,000 units (100 units/mL) in 0.45% sodium chloride 250 mL infusion (Premix)
+
+famotidine (PF) (PEPCID) injection 20 mg
+
+
+sodium chloride 0.9 % infusion
+
+aspirin EC tablet 81 mg
+
+lisinopril (PRINIVIL,ZESTRIL) tablet 5 mg
+
+
+atorvastatin (LIPITOR) tablet 40 mg
+
+metoprolol tartrate (LOPRESSOR) tablet 75 mg
+
+
+
+white petrolatum-mineral oil (LACRI-LUBE) ophthalmic ointment 1 Application
+
+sodium chloride 0.9 % infusion
+
+
+allopurinol (ZYLOPRIM) tablet 300 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+
+Facility-Administered Medications Ordered in Other Encounters:
+
+vecuronium (NORCURON) injection
+
+fentaNYL (PF) (SUBLIMAZE) injection
+
+
+phenylephrine (NEO-SYNEPHRINE) injection
+
+lactated ringers infusion
+
+
+ePHEDrine injection
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+The patient was intubated, with fluctuating periods of lethargy and mild arousal. Following painful
+stimulation, arousal response was noted with slight eye opening, muscle artifact, and irregular low
+voltage 5-7 Hz activity predominantly seen over central, temporal and posterior scalp areas. Low
+voltage anteriorly predominant beta activity was also seen. With drowsiness, attenuation of muscle
+artifact and increased low to medium amplitude 3-5 Hz generalized slowing were noted. During
+portions of the tracing, attenuation of faster frequency activity and increased irregular low to medium
+voltage delta activity was seen along with slow waves phase reversing at the vertex or paracentral
+region, likely indicative of brief periods of stage II sleep.
+
+
+
+
+
+
+
+No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Diffuse background slowing and voltage attenuation.
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate a bihemispheric functional disturbance such as that seen with a variety of
+generalized encephalopathies of various etiologies. No clinical or neurological seizures and no
+paroxysmal epileptiform discharges were recorded.

@@ -1,0 +1,111 @@
+HISTORY:
+
+57 y.o. female with a history of epilepsy, ONSET 10 YRS AGO, SZ ARE WITH
+LOC AND POSTICTAL CONFUSION. LAST SZ 6/2015, referred for routine EEG for characterization
+of seizures.
+
+
+MEDICATIONS:
+
+
+Phenytoin
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG, HV and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive scant 7.5-8 Hertz posterior dominant
+rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+Frequent drowsiness seen, during drowsiness, slow rolling eye movements, attenuation and
+fragmentation of the posterior dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Mild slowing of alpha rhythm is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Occasional wicket waves seen in temporal region.
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+mild diffuse symmetric background slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving upto 7 Hz, which is a normal finding.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+
+1. Mild slowing of alpha rhythm.
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of mild slowing of alpha rhythm are suggestive of etiologically
+non specific mild diffuse cerebral dysfunction.   This was an excessively drowsy patient. Consider a
+repeat study with cognitive testing (counting backwards) to make sure maximally wake state was
+captured.

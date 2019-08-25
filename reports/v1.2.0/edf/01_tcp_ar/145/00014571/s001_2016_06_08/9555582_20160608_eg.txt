@@ -1,0 +1,99 @@
+HISTORY:
+
+56 y.o. female with a history of seizures, now presents after a seizure. Patient
+has active delusions.
+
+
+
+MEDICATIONS:
+
+
+Dilantin
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. Due to patient's hair condition, many of
+the leads are misplaced and occipital leads are moved forwards.  A single channel of EKG is
+included.
+
+
+EEG BACKGROUND:
+
+
+
+
+
+The background consists of 9-9.5 Hz moderate amplitude reactive alpha activity with expected AP
+(anterior-to-posterior) gradient and diffuse excess beta activity.
+
+
+
+During drowsiness, alpha activity attenuates and diffuse theta activity appears.
+
+
+
+Sleep is not captured
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are  no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+- excess beta
+
+- No epileptiform discharges
+
+
+- no stage II sleep
+
+- technically limited (due to hair condition)
+
+
+
+CLINICAL CORRELATION:
+
+This is a normal awake and asleep, albeit technically limited, EEG.
+
+No epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.
+
+
+
+Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or
+barbiturates.

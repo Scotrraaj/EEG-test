@@ -1,0 +1,109 @@
+HISTORY:
+
+34 y.o. female with a history of epilepsy and developmental delay, seizure free
+x15 years, referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS:
+
+
+carBAMazepine (TEGRETOL) 200 mg tablet, Take 200 mg by mouth daily (with breakfast).
+Indications: TONIC-CLONIC EPILEPSY
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically difficult record as
+patient resistant during the hook-up; tech notes impedances were < 10 kOhm. The study included a
+single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 10 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+Drowsiness and sleep are not captured.
+
+
+No generalized slowing is present.
+
+
+No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. A single burst of frontally predominant diffuse irregular 3 Hz polyspike and wave occurs out of
+wakefulness and lasts <2 seconds.
+
+
+There is no definite clinical correlate and burst does not last long enough for patient to be tested
+during it.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with poor cooperation and produces
+no effect.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake only routine EEG due to:
+
+1. A single burst of frontally predominant diffuse irregular 3 Hz polyspike and wave
+
+
+
+CLINICAL CORRELATION:
+
+
+
+
+These findings indicate the presence of a generalized epileptogenic process; however, a frontal
+focus with rapid secondary bisynchrony cannot entirely be excluded.

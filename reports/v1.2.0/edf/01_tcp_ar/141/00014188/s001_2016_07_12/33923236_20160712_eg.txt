@@ -1,0 +1,104 @@
+HISTORY:
+
+24 y.o. male with a history of autism and seizures referred for routine EEG for
+characterization of seizures.
+
+
+
+MEDICATIONS: none listed
+
+
+
+SEDATION: None listed
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR).
+The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is not captured
+
+
+No generalized slowing is present.
+
+
+In drowsiness there is frequent bitemporal independent polymorphic slowing.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+There is frequent slow and rapid eye movement artifact in drowsiness. Occasionally, 3-beats of right
+sided nystagmus artifact is detected.
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+1. Frequent bitemporal independent polymorphic slowing noted in drowsiness
+
+Note frequent eye movement artifact, as described above
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings are etiologically nonspecific indicators of bitemporal independent dysfunction.

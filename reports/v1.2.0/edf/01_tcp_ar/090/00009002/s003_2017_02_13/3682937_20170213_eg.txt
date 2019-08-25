@@ -1,0 +1,395 @@
+HISTORY:
+
+This is a 56 y.o. right handed male admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: refractory epilepsy. In addition to TC seizures, he has spells of shaking
+and tremor/shiver. Most recent event is unclear. Patient varies in reporting of 1-2 per month vs none
+in the last two months.
+
+
+
+
+
+Continuous video EEG is initiated for:  Medication adjustment.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+
+
+
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+[START ON 2/24/2017] amLODIPine (NORVASC) tablet 5 mg
+
+atorvastatin (LIPITOR) tablet 20 mg
+
+calcium-vitamin D 500 mg(1,250mg) -200 unit per tablet 1 tablet
+
+
+[START ON 2/24/2017] clopidogrel (PLAVIX) tablet 75 mg
+
+[START ON 2/24/2017] FLUoxetine (PROZAC) capsule 60 mg
+
+[START ON 2/24/2017] lisinopril (PRINIVIL,ZESTRIL) tablet 40 mg
+
+
+nicotine (NICODERM CQ) patch 14 mg
+
+[START ON 2/24/2017] tamsulosin (FLOMAX) 24 hr capsule 0.4 mg
+
+LORazepam (ATIVAN) injection 2 mg
+
+
+levETIRAcetam (KEPPRA) tablet 250 mg
+
+
+
+
+
+DAY 1 (2/23/2017, 11:00)
+
+
+
+BACKGROUND:
+
+
+
+The waking background is characterized by the presence of a fairly organized but clearly asymmetric
+mixture of theta, alpha and beta frequencies, with a  reactive 9 Hertz posterior dominant rhythm
+(PDR)on the left. The normal anterior-to-posterior gradient of frequency and amplitude is present on
+the left, not as well defined on the right.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+Sleep is characterized by synchronous and symmetric sleep transients, including vertex waves, sleep
+spindles, and K complexes. Slow wave sleep is not captured.
+
+
+No generalized slowing is present.
+
+
+Right hemispheric focal slowing is present, with disruption of faster frequency activity in the right
+hemisphere and theta frequency activity in the right occipital region.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+EKG: A single lead captured 84 BPM
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+R hemisphere focal slowing, posterior max, intermittent.
+
+Paucity of R alpha rhythm
+
+No spikes
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (2/24/2017, 06:00 - 2/25/2017, 06:00)
+
+
+
+amLODIPine (NORVASC) tablet 5 mg
+
+atorvastatin (LIPITOR) tablet 20 mg
+
+calcium-vitamin D 500 mg(1,250mg) -200 unit per tablet 1 tablet
+
+
+
+clopidogrel (PLAVIX) tablet 75 mg
+
+FLUoxetine (PROZAC) capsule 60 mg
+
+
+lisinopril (PRINIVIL,ZESTRIL) tablet 40 mg
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+LORazepam (ATIVAN) injection 2 mg
+
+heparin (5000 units/mL) injection 5,000 Units
+
+levETIRAcetam (KEPPRA) tablet 250 mg - tapered to 125 mg q12h
+
+
+
+INTERICTAL BACKGROUND:
+
+The bilateral posterior dominant rhythm is 9 Hz on the left but only reaches 8 Hz on right.
+
+
+
+There is continuous right hemispheric polymorphic slowing, posterior quadrant predominant.
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured. REM was noted.
+
+
+
+
+EPILEPTIFORM ACTIVITY: None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):  None
+
+
+
+
+
+SEIZURES/EVENTS: There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 70s-80s.
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+R hemisphere continuous polymorphic slowing, posterior max.
+
+
+Slowing of alpha rhythm over right hemisphere
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (2/25/2017, 06:00 - 2/26/2017, 06:00)
+
+
+
+
+AEDs: LEV 250 q12h
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps), performed 2/25
+11:05, does not produce any EEG changes.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 70s
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+No change
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 5 (2/27/2017, 06:00- 02.28/2017 10 AM )
+
+
+BP 130/87  Pulse 80
+
+baclofen (LIORESAL) tablet 20 mg
+
+levETIRAcetam (KEPPRA) tablet 500 mg
+
+
+amLODIPine (NORVASC) tablet 5 mg
+
+atorvastatin (LIPITOR) tablet 20 mg
+
+
+
+calcium-vitamin D 500 mg(1,250mg) -200 unit per tablet 1 tablet
+
+clopidogrel (PLAVIX) tablet 75 mg
+
+
+FLUoxetine (PROZAC) capsule 60 mg
+
+lisinopril (PRINIVIL,ZESTRIL) tablet 40 mg
+
+
+nicotine (NICODERM CQ) patch 14 mg
+
+tamsulosin (FLOMAX) 24 hr capsule 0.4 mg
+
+
+BACKGROUND: No change
+
+
+
+GENERALIZED SLOWING: None
+
+
+
+FOCAL SLOWING: No change
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+EVENTS: None, no spasms
+
+
+EKG: A single EKG lead captured 80 BPM
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION
+
+
+
+Focal slowing, congruent with stroke history.
+
+No epileptiform activity
+
+
+
+
+Overall impression and clinical correlation:
+
+No epileptiform discharges.
+
+Focal features are posterior to region of infarct seen on MRI of brain.
+
+Attempts to increase activity were limited (PT involved) given hemiparesis- can't HV well or bike.
+
+
+No events could be captured. Given the fragile nature of the patient, LEV dose was returned to a
+therapeutic dose as we wanted to avoid a convulsion.
+
+
+Baclofen was added to reduce spasticity.
+
+
+
+

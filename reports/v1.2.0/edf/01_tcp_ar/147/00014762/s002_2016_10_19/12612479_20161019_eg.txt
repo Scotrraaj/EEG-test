@@ -1,0 +1,80 @@
+HISTORY:
+
+22 y.o. male with a history of TBI 2/2 MVA in Feb 2015 s/p left
+hemicraniectomy and cranioplasty, referred for routine EEG for neurological assessment.
+
+
+
+MEDICATIONS:
+
+
+No current outpatient prescriptions on file.
+
+No current facility-administered medications for this visit.
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+The waking background is characterized by the presence of continuous delta activity on the left in the
+context of a sharply contoured breach rhythm. There is a variable 9.5 Hz posterior dominant rhythm
+(PDR) on the R>L. The normal anterior-to-posterior gradient of frequency and amplitude is preserved
+on the right.
+
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and diffuse
+background slowing are seen. Sleep is not captured.
+
+
+Focal slowing in the delta range is present on the left side.
+
+
+
+EPILEPTIFORM ACTIVITY: None
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+ACTIVATION PROCEDURES: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+EVENTS: There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE: A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and drowsy routine EEG due to:
+
+1. Focal delta slowing on the left
+
+
+
+CLINICAL CORRELATION:
+
+These findings are frequently found in association with gray matter changes due to traumatic brain
+injury and craniectomy.
+
+
+The high amplitude delta activity is compatible with a breach rhythm on the left.

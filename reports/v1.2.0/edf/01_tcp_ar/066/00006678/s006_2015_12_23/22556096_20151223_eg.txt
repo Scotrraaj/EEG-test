@@ -1,0 +1,26 @@
+History:	60 YR FEMALE PMHX: RIGHT HEMIATROPHY SYNDROME AND SEIZURES.
+Medications:	DILANTIN, KEPPRA, RISPERDONE, DIAZEPAM, LORAZEPAM, DIGOXIN, 
+	MIRTAZAPINE,
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, lethargic, photic
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse theta 
+activity with absence of the expected anterior to posterior gradient of frequencies.  No normal sleep
+ architecture was present.
+Continuous polymorphic delta activity is present in the left hemisphere maximal in the anterior 
+temporal region during wakefulness, increasing during drowsiness.  There is an asymmetry with 
+attenuation seen also over the left hemisphere.  No epileptiform discharges are present.  No clinical
+ or electrographic seizures were present.
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was 
+Summary of Findings:
+	Focal slowing, polymorphic, continuous, marked, left hemispheric, maximal anterior temporal 
+	Diffuse slowing, polymorphic, continuous, moderate diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  continuous focal slowing and attenuation in the left 
+hemisphere maximal in the anterior temporal region.  This finding is indicative of a focal cortical 
+structural lesion in this region.In addition ther is moderate  diffuse background slowing.  These 
+findings are etiologically nonspecific indicators of moderate diffuse cerebral dysfunction.
+	
+

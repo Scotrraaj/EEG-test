@@ -1,0 +1,565 @@
+HISTORY:
+
+This is a 25 y.o. right handed female admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: refractory epilepsy due to left temporal cavernoma.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+- There have been reported deaths during various video-EEG monitoring procedures, so this is not a
+"low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Additionally, T1 and T2 electrodes were placed in this patient.  Sphenoidal electrodes were not used
+in this case.  Impedances were measured and verified to be below 5 Kohms.  EEG activity was
+recorded referentially to vertex reference, digitized, and stored to computer hard drive.  Periods of
+interest were subsequently reformatted to the montage of interest and reviewed in detail.
+
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For approximately 8 hours each day the
+patient was attended by an EEG technician.  A neurologist was available in person or on call 24
+hours per day.  The patient was monitored via video 24 hours per day by a registered nurse with
+special training in seizure recognition and testing.  During times when a technician was not
+available, EEG recording, video recording, and computer analysis continued, and nursing performed
+seizure testing and electrode maintenance.
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+lamotrigine (LAMICTAL XR) 300 mg Tablet Extended Rel 24 hr (b), Take 300 mg by mouth nightly.
+Two tablets at night
+
+
+clonazepam (KLONOPIN) 0.5 mg disintegrating tablet, Take 1 tablet by mouth 3 times daily as
+needed for Anxiety.
+
+
+lamoTRIgine (LAMICTAL) 100 mg tablet, Take 1 tablet by mouth nightly.
+
+UNKNOWN TO PATIENT, Birth control pills
+
+
+
+Lamictal was decreased to 300mg per day.
+
+
+No current facility-administered medications for this visit.
+
+
+
+SEDATION: None
+
+
+
+
+DAY 1 (5/23/16, 12/31/PM - 5/24/2016, 06:00)
+
+
+
+BACKGROUND:
+
+
+
+The waking background is continuous, symmetric, well-organized, and consists predominantly of
+alpha with admixed beta.
+
+
+
+Posterior dominant rhythm was 9Hz present.
+
+
+
+The background is reactive, variable.
+
+
+There were no persistent asymmetries in amplitude and frequency.
+
+
+
+Sleep was characterized by symmetric sleep spindles and/or K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+Normal continuous video-EEG monitoring capturing wakefulness and sleep.
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (5/24/16, 06:00 - 5/25/2016, 06:00)
+
+
+
+
+AEDs: Lamictal 300mg qd. Klonopin discontinued.
+
+
+
+INTERICTAL BACKGROUND:
+
+
+The bilateral posterior dominant rhythm is symmetric and reaches 9-10 Hz.
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured..
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during this study. Normal continuous 24 hour
+video-EEG.
+
+
+
+EKG: A single lead captured normal sinus rhythm.
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (5/25/16, 06:00 - 5/26/2016, 06:00)
+
+
+AEDs: NONE
+
+
+
+INTERICTAL BACKGROUND:
+
+
+
+
+The bilateral posterior dominant rhythm is symmetric and reaches 9-10 Hz. There is intermittent focal
+slowing over the left mid-temporal region.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured..
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Rare (<1hour) There are rare left medi-temporal sharp waves seen.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during this study. Normal 24 hour continuous
+video-EEG.
+
+
+
+EKG: A single lead captured normal sinus rhythm.
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4 (5/26/16, 06:00 - 5/27/2016, 06:00)
+
+
+AEDs: NONE
+
+
+
+INTERICTAL BACKGROUND:
+
+The bilateral posterior dominant rhythm is symmetric and reaches 9-10 Hz. There is intermittent left
+temporal slowing (theta range).
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured..
+
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during this study. Normal 24 hour continuous
+vide-EEG.
+
+
+
+EKG: A single lead captured normal sinus rhythm.
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 5 (5/27/16, 06:00 - 5/28/2016, 06:00)
+
+
+
+AEDs: NONE
+
+
+INTERICTAL BACKGROUND:
+
+
+The bilateral posterior dominant rhythm is mostly symmetric and reaches 9-10 Hz. There is more
+prominent left temporal slowing seen in the theta and rarely delta range.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured..
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Occasional (1/hour to <1min) left mid-temporal sharp waves (T3-T5) more prominent during sleep.
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+SEIZURES/EVENTS:
+
+
+There is a single clinical event captured during this study that occurs at 1:04:20PM. The patient is
+seen to leave the bed and walk to the bathroom where she is off camera. At 1:05:58PM there is the
+onset of sharply contoured theta activity over the left temporal region that evolves to become sharply
+contoured rhythmic, 2-3Hz delta activity. This activity spreads through the left hemisphere. At
+1:06:30PM the patient returns to bed on her own. She appears confused but is able to adjust the
+cables and blankets on the bed. At 1:06:51PM there is resolution of the rhythmic, left hemisphere
+delta activity but left hemisphere slowing (theta) persists for several minutes. The patient is able to
+answer questions slowly though is less engaged than at her baseline. She is able to answer questions
+posed by the nurse. The EEG returns to baseline by approximately 1:11PM.
+
+
+
+
+
+
+EKG: A single lead captured normal sinus rhythm.
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 6 (5/28/16, 06:00 - 5/29/2016, 06:00)
+
+
+
+AEDs: NONE
+
+
+INTERICTAL BACKGROUND:
+
+
+The bilateral posterior dominant rhythm is symmetric and reaches 9-10 Hz.
+
+There is intermittent left temporal focal theta slowing seen throughout the recording.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured..
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Occasional (1/hour to <1min) left mid-temporal sharp waves (T3-T5), more prominent during sleep.
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There is are two clinical events captured during this study.
+
+
+Event 1
+
+
+At 3:09:24PM the patient is sitting in bed looking at her computer. At 3:09:45PM she reaches for the
+alarm bell and then turns her head to the right. She has apparent behavioral and speech arrest and
+exhibits repetitive blinking. She appears disconnected from her mother who is talking to her. Her
+mother holds her right hand. At 3:10:48PM the nurse asks where she is and she replies "Temple".
+She smiles and rubs her eyes with her left hand (possible post-ictal variant of "nose wiping" sign). She
+appears a bit lethargic but is returning to baseline. Electrographically, there is the onset of sharply
+contoured left temporal theta-delta activity, maximal at T3, starting at approximately 3:09:43PM.
+This evolves into more rhythmic delta activity over the left hemisphere and ends by 3:11:08PM.
+There is residual left temporal slowing that persists for several minutes.
+
+
+
+
+
+
+Event 2
+
+
+At 4:14:13 PM the patient is sitting in bed looking at her computer. She reaches for and pushes the
+alarm button and then closes her computer. She looks to the right and exhibits repetitive eye
+blinking. Her mother holds her right hand. At 4:14:49PM she can repeat the code word "apple" and
+state her name and age. She is clearly disconnected and staring into space. By 4:15:37PM she has
+returned to clinical baseline. Electrographically, there is again the onset of sharply contoured left
+temporal theta-delta activity, maximal at T3, starting at approximately 4:14:13PM. This evolves into
+more rhythmic delta activity over the left hemisphere and ends by 4:15:32PM. There is residual
+intermittent left temporal slowing that persists for several minutes after the end of the clinical seizure.
+
+
+
+
+
+
+The patient was given 1mg oral lorazepam after the second seizure and was re-started on her
+outpatient dose of Lamotrigine. In addition, she was begun on 100mg Zonisamide.
+
+
+
+EKG: A single lead captured normal sinus rhythm.
+
+
+
+
+
+
+Summary and impression:
+
+The six day continuous video-EEG EMU admission demonstrated:
+
+
+1) intermittent left temporal focal slowing
+
+2) intermittent left temporal sharp waves maximal at T3-T5.
+
+
+3) Two clinical and electrographic seizures emanating from the left temporal lobe.
+
+
+This EMU evaluation is diagnostic of localization-related epilepsy with complex partial (focal
+dyscognitive) seizures originating in the left temporal lobe. These results were communicated to the
+patient and her family.
+
+
+The patient was discharged on lamotrigine 300mg po BID and Zonisamide 100mg po qd. The
+zonisamide will be titrated to 400mg po qd with continuation of the lamotrigine.
+
+
+
+
+The patient will follow up in Neurology.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

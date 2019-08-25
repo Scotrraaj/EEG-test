@@ -1,0 +1,25 @@
+History:	65 year old man with a history of left ICH and subsequent seizures.
+Medications:	patient cannot recall his medications
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, photic
+Description:
+There is subtle right-to-left interhemispheric asymmetry with slower waveforms over the left.  The 
+posterior dominant rhythm over the right consists of 8.5-9 Hz moderate amplitude alpha activity 
+with expected AP gradient.  The posterior dominant over the left consists of polymorphic 8-9 Hz 
+activity, poorly formed AP gradient and excess polymorphic theta activity.  Theta activity is 
+especially pronounced over the left anterior temporal region.  Patient remains awake throughout 
+Hyperventilation is not performed.  Stepped photic stimulation from 1-21 flashes per second (fps) 
+does not produce additional abnormalities.  A single EKG lead demonstrates heart rate of ~60 bpm.
+Summary of Findings:
+	Focal slowing, polymorphic, continuous, mild, left hemispheric, especially ant temporal region
+	No epileptiform discharges
+	No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake -only 24-minute EEG due to continuous mild focal left hemispheric 
+slowing that is most pronounced over the left anterior temporal region. This finding is indicative of 
+a focal structural lesion in this region.  No epileptiform discharges are present, but stage 2 sleep 
+was not recorded.  If clinically indicated, repeat EEG with sleep recording may provide additional 
+information.  A single EKG lead demonstrates heart rate of ~60 bpm.
+

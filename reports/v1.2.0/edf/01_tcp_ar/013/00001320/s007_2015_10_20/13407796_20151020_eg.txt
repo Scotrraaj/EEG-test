@@ -1,0 +1,40 @@
+
+
+
+
+
+
+
+History:
+Medications: Sedation: EEG Type: Technique:
+ 61YR OLD MALE WITH PMHX OF SEIZURES, PRESENTS FOR FOLLOW UP EEG. REPORTS LAST SZ ON 10/6 WITH LOC AND POSTICTAL CONFUSION. KEPPRA,DEPAKOTE
+
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and ekg electrodes,awake,drowsy, hyperventilation, photic
+
+
+Description:
+Waking background is characterized by a 25-40uV,10Hz alpha rhythm,which attenuates symmetrically with eye opening. Symmetric 5-15uV, 18-25Hz activity is present, maximal over bilateral frontal regions. During drowsiness,the background slows to central theta activity, frontal beta activity becomes more prominent,and the alpha rhythm attenuates and becomes intermittent.
+Rare polymorphic delta activity is present in the bilateral anterior temporal region during wakefulness, increasing during drowsiness. No epileptiform discharges are present.
+Hyperventilation is performed for 240 seconds with good cooperation,and produces no effect. Stepped photic stimulation from 1-21 flashes per second (fps) does not produce any effect.  HR was 66
+Summary of Findings:
+Focal slowing, polymorphic, intermittent, bilateral temporal, anterior
+Interpretation:
+This is a NORMAL EEG, awake only. The rare focal slowing in the bilateral anterior temporal region may be normal for age.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

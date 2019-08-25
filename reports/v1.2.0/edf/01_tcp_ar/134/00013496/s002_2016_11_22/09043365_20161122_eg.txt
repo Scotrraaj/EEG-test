@@ -1,0 +1,138 @@
+HISTORY:
+
+38 y.o. male with a history of R GBM s/p resection, radiation, chemo, and VPS
+referred for routine EEG for screening for subclinical seizures (gaze deviation) and assessment of
+mental status change.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+levETIRAcetam (KEPPRA) 250 mg in sodium chloride 0.9 % 100 mL IVPB
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+pantoprazole (PROTONIX) injection 40 mg
+
+LORazepam (ATIVAN) injection 2 mg
+
+metroNIDAZOLE (FLAGYL) IVPB 500 mg
+
+
+midazolam (VERSED) 50 mg in sodium chloride 0.9 % 50 mL infusion
+
+propofol (DIPRIVAN) 1000 mg/100 mL IV infusion
+
+white petrolatum-mineral oil (LACRI-LUBE) ophthalmic ointment 1 Application
+
+
+
+
+phenytoin (DILANTIN) 150 mg in sodium chloride 0.9 % 50 mL IVPB
+
+ceFEPIme (MAXIPIME) 2 g in dextrose 5 % 100 mL IVPB
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+vancomycin (VANCOCIN) 1,500 mg in sodium chloride 0.9 % 500 mL IVPB
+
+
+
+SEDATION: propofol recently discontinued
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+The background is continuous and consists of disorganized delta, alpha, and beta. There is no
+reactivity to noxious stimulation, variability, or state change. The background is otherwise featureless,
+with no posterior dominant rhythm or sleep transients.
+
+
+
+Delta activity is higher in amplitude over the right temporal region.
+
+
+
+There is severe generalized slowing.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 120 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+
+
+
+This is an abnormal coma study portable EEG due to:
+
+1. Severe generalized slowing and disorganization, with lack of reactivity/variability/state change
+
+
+2. Higher amplitude delta activity over the right temporal region
+
+3. Tachycardia
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings are etiologically nonspecific indicators of a severe diffuse cerebral dysfunction, which
+may at least in part be associated with sedating medications.
+
+
+
+
+Higher amplitude activity over the right temporal region may represent breach rhythm, which is
+consistent with this patient's history of right sided craniotomy.
+
+
+
+There was no epileptiform activity, nor any clinical or electrographic events captured during this 26-
+minute study. However, if subclinical status epilepticus remains a concern, long term EEG monitoring
+is more sensitive in the detection of subclinical seizures.

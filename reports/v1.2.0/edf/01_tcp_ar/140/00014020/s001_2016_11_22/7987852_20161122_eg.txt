@@ -1,0 +1,102 @@
+HISTORY:
+
+55 y.o. male with a history of cerebral palsy referred for routine EEG for
+screening for subclinical seizures.
+
+
+
+MEDICATIONS: vitamin D, Singulair
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically unsatisfactory
+record due to abundant artifact over the left temporal chain as well as very frequent artifact over the
+bilateral frontal regions. The study included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+Drowsiness and sleep are not captured.
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+There is very frequent bi-frontal spikey waveforms with duration <20 msec. Based on morphology and
+lack of well defined field, these waveforms are felt most consistent with artifact.
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is a normal awake only, technically limited routine EEG.  There are no clinical or electrographic
+events reported or detected. Spikey waveforms as described above are most consistent with artifact.
+
+
+
+CLINICAL CORRELATION:
+
+This is a normal, limited, awake only routine EEG.
+
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+If clinically warranted, a recording with sleep may be helpful.

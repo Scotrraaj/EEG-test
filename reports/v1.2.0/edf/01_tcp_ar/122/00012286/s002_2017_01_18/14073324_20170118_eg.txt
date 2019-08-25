@@ -1,0 +1,263 @@
+DATE OF STUDY: 01/18/17
+
+RECORDING ENVIRONMENT: outpatient
+
+
+EEG TYPE: 60 min - 3 hr, awake only
+
+
+
+
+
+
+HISTORY:
+
+ a 23 y.o. male with a history of seizures and cerebral palsy, now frequent daily
+seizures that appear to be provoked by loud noises and music.
+
+
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+food supplemt, lactose-reduced (ENSURE PLUS) 0.05-1.5 gram-kcal/mL Liquid, Vanilla Ensure Plus,
+4 cans + 1200 ml water (2x/week) and 3 cans + 1300 ml water (5x/week).
+
+
+albuterol (PROVENTIL HFA;VENTOLIN HFA) 90 mcg/actuation inhaler, TWO puff(s) by Inhaled route
+every 4 hours as needed for Wheezing or Cough.
+
+
+clorazepate (TRANXENE) 7.5 mg tablet, Take 2 tablets by mouth nightly for 30 days. Takes 7.5
+nightly  & PRN x 5 days-as his rescue does
+
+
+cloBAZam (ONFI) 2.5 mg/mL Suspension, 20 mg by Gastrostomy Tube route 2 times daily.
+
+Lamotrigine (LAMICTAL ODT) 100 mg Tablet, Rapid Dissolve, Take 100 mg by mouth 3 times daily.
+
+
+levETIRAacetam (KEPPRA) 100 mg/mL solution, 1000 mg twice a day; disp one month
+
+diazePAM (VALIUM) 5 mg tablet, Sig: 1 tab via PEG q 6 hours and 1 tab via PEG q 6 hours PRN
+Spasm.
+
+
+perampanel (FYCOMPA) 0.5 mg/mL Suspension, Take 6 mg by mouth daily. Please renew q 27 days
+
+CHILDREN'S SILAPAP 160 mg/5 mL liquid,
+
+
+albuterol (PROVENTIL) 2.5 mg /3 mL (0.083 %) nebulizer solution,
+
+baclofen (LIORESAL) 20 mg tablet, 40 mg 3 times daily.
+
+
+lamoTRIgine (LAMICTAL) 100 mg tablet,
+
+mupirocin (BACTROBAN) 2 % ointment,
+
+PREVACID SOLUTAB 30 mg disintegrating tablet,
+
+nystatin (MYCOSTATIN) 100,000 unit/gram Powder,
+
+
+polyethylene glycol (GLYCOLAX) 17 gram/dose powder,
+
+LIQUITEARS 1.4 % ophthalmic solution,
+
+
+Nystatin, Bulk, 1 billion unit Powder, Apply prn fungal rash to neck
+
+nystatin (MYCOSTATIN) ointment, Apply to affected area 4 times daily prn
+
+food supplemt, lactose-reduced (ENSURE ENLIVE) 0.08 gram-1.5 kcal/mL Liquid, 1 Can by PEG
+Tube route 4 times daily.
+
+
+acetaminophen (TYLENOL) 160 mg/5 mL (5 mL) Solution, Take 15 mLs by mouth every 4 hours as
+needed.
+
+
+VENTOLIN HFA 90 mcg/actuation inhaler,
+
+cetirizine (ZYRTEC) 1 mg/mL Solution,
+
+Cholecalciferol, Vitamin D3, 400 unit/mL Drops,
+
+
+polyethylene glycol (GLYCOLAX) 17 gram packet, Take 17 g by mouth daily. 1/2 a cap qd.
+
+lansoprazole (PREVACID) 30 mg capsule, Take 30 mg by mouth every other day.
+
+hydroxypropyl methylcellulose (ISOPTO TEARS) 2.5 % ophthalmic solution, 1 drop 4 times daily as
+needed.
+
+
+fluticasone (FLOVENT HFA) 110 mcg/actuation inhaler, Inhale 1 puff into the lungs every 12 hours.
+
+
+albuterol (PROVENTIL) 5 mg/mL nebulizer solution, Take 2.5 mg by nebulization every 6 hours as
+needed for Wheezing.
+
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+Parents play the music throughout the entire recording.
+
+
+
+
+EEG BACKGROUND:
+
+There is no PDR or AP gradient.
+
+
+
+The background consists of a mixture of a very low amplitude polymorphic theta, delta and beta
+activity.
+
+
+
+Patient remains awake throughout the recording.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform discharges are captured.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS:
+
+Multiple events of independent brief leg and arm tremors are captured.  None are correlated with an
+abnormal ictal activity or represent patient's events of interest.
+
+
+
+A single clinical/ electrographic seizure is captured.  Clinically, it starts ~ 40 seconds after music
+starts.  Clinically, it starts with a single loud forceful cough, followed by either tongue thrusting or
+teeth grinding (video is not clear).  Patient is also not as animated throughout the event.  He has
+several more single loud coughs and some slow eye blinking by the end.  The exact event offset is
+not clear.
+
+
+Electrographically, first change appears several seconds after a cough.  It is characterized by increase
+in amplitude and prominence of diffuse fast activity.  It is then replaced by rhythmic spiky ~8 Hz
+theta activity that is most pronounced over left hemisphere, specifically frontocentraltemporal leads.
+This theta gradually slows down and stops.  EEG change lasts ~ 47 seconds and clinical event lasts
+~1 min 57 seconds.
+
+
+
+
+
+Heart rate increases from ~ 84 bpm prior to the episode to ~120 bpm during the episode.
+
+
+HEART RATE:
+
+
+A resting heart rate of ~80s-90 bpm is captured on a single EKG lead.  When the patient becomes
+animated, excited, has limb/ body tremors, his heart rate rapidly rises to 120-140 bpm range.
+
+
+
+
+
+IMPRESSION/ CLINICAL CORRELATION:
+
+
+This is an abnormal awake- only  3 hour EEG due to:
+
+1. Diffuse slowing
+
+
+2. A single clinical and electrographic seizure that starts ~ 40 seconds after music is turned on, has
+diffuse onset, electrographically settles over the right and electrographically stops more than 1
+minute before clinical symptoms subside
+
+
+
+
+
+
+Diffuse slowing is indicative of diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

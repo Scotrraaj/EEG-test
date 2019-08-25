@@ -1,0 +1,13 @@
+
+
+CLINICAL HISTORY: Pulmonary thrombosis.
+MEDICATIONS: Etomidate, fentanyl, midazolam, heparin, others.
+INTRODUCTION: Continuous EEG monitoring was performed in the OR using standard 10-20 system of electrode placement with one channel of EKG and our standard operative montage. The 1st piece of recording was 8:26 a.m. to 8:36 a.m. and then 8:54 a.m. to 4:30 p.m. for a total time of 7:45 hours. Total one-on-one physician review time outside of OR 5 hours.
+DESCRIPTION OF THE RECORD: The first section of the EEG demonstrates an awake pattern with normal, symmetric reactive 9 Hz posterior dominant rhythm.
+In the 2nd piece of EEG, the patient is in the OR. There is background artifact. At 9:12 a m, the patient is receiving sedative hypnotic medications.
+The patient was placed on bypass at 11:00 a.m. Cooling began at 11:03 a.m. with temperature of 16. Of note, early in cooling, the EEG demonstrates dramatic decrease in amplitude and is intermittently suppressed before target temperature is achieved. At 11:31 a.m., the EEG is very low voltage and nearly completely suppressed. Intermittent artifacts are noted between 11:15 a.m. and 12:00 p.m. The EEG is essentially suppressed at 12:03 p.m. with a temperature of 20.9 and intermittent bursts of delta seen approximately every 5 seconds, which are a likely noncerebral in origin. The patient achieved a temperature of 16 at 12:11 p.m. EEG appears to be suppressed at 12:15 p.m. and then there is a single slow burst of delta. From 12:15 p.m. to 12:21 p.m., there are infrequent bursts of delta of unclear significance and then following this, the EEG is more clearly suppressed, although there are intermittent artifacts noted in the background
+Rewarming begins at 1:58. The EEG gradually resumed at 12:34 p.m. and intermittent pattern is noted. At 3:36 p.m., temperature reaches 32.9 and the EEG is continuous.
+Heart rate: 60-90 bpm.
+IMPRESSION/CLINICAL CORRELATION: EEG monitoring during hypothermia did produce a suppressed rate pattern with an initial marked suppression and then rare bursts of delta, followed by a transient but sustained suppressed pattern.
+
+

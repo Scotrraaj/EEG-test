@@ -1,0 +1,408 @@
+HISTORY:
+
+This is a 48 y.o. female admitted for continuous video-electroencephalography (VEEG) monitoring
+with a history of: paroxysmal events of unclear etiology.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events: shaking and LOC
+
+
+
+Semiology:
+
+jerking sensation in her chest similar to a hiccup which happens once or twice and then she loses
+consciousness. After she awakes, she has no confusion or drowsiness and is immediately normal.
+
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+
+
+
+
+
+
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+No current facility-administered medications for this visit.
+
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+aspirin EC tablet 81 mg
+
+
+loratadine (CLARITIN) tablet 10 mg
+
+clonazePAM (KLONOPIN) tablet 0.5 mg
+
+famotidine (PEPCID) tablet 20 mg
+
+
+levETIRAcetam (KEPPRA) tablet 500 mg
+
+
+montelukast (SINGULAIR) tablet 10 mg
+
+metFORMIN (GLUCOPHAGE) tablet 500 mg
+
+
+pioglitazone (ACTOS) tablet 45 mg
+
+valsartan (DIOVAN) tablet 80 mg
+
+
+hydroCHLOROthiazide (MICROZIDE) capsule 12.5 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+LORazepam (ATIVAN) injection 2 mg
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+clonazePAM (KLONOPIN) tablet 0.5 mg
+
+acyclovir (ZOVIRAX) capsule 400 mg
+
+
+diphenhydrAMINE (BENADRYL) capsule 50 mg
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+SEDATION: None
+
+
+
+DAY 1 (2/24/2017, 14:30 - 2/25/2017, 06:00)
+
+
+
+BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and excess beta frequencies, with a symmetric and reactive 9-10 Hertz posterior dominant
+rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by synchronous and symmetric vertex waves, sleep spindles, and K complexes.
+REM sleep is captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+*Note that record is affected by T5/O1 artifact despite tech's best efforts.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+EKG: A single lead captured a heart rate in the 80s-100s
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+This is a normal awake video EEG
+
+
+Excess beta can be seen in the setting of a medication effect (i.e., benzodiazepines and/or
+barbiturates).
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (2/25/2017, 06:00 - 2/26/2017, 06:00)
+
+
+
+AEDs: Keppra 250 q12h
+
+
+
+INTERICTAL BACKGROUND: no change, remained normal w/ excess beta
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 70s-80s
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+
+
+No change
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 4  (2/27/2017, 06:00- 02/28/207)
+
+
+
+AEDs: LTG on hold, will reduce clonazePAM (KLONOPIN)
+
+
+
+INTERICTAL BACKGROUND:
+
+The bilateral posterior dominant rhythm is  symmetric and reaches 9.5 Hz.
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured..
+
+
+REM sleep was noted
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):  Occasional wicket waves are noted
+during drowsiness over the centrotemporal regions
+
+
+
+ACTIVATION PROCEDURES: biking
+
+
+SEIZURES/EVENTS:
+
+EKG: A single lead captured *78 BPM
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+1. Normal background
+
+2. Generous beta
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY5 (2/28/2017, 06:00)
+
+
+
+AEDs: No current facility-administered medications for this visit.
+
+No current outpatient prescriptions on file.
+
+
+
+
+Facility-Administered Medications Ordered in Other Visits:
+
+clonazePAM (KLONOPIN) tablet 0.25 mg
+
+
+loratadine (CLARITIN) tablet 10 mg
+
+famotidine (PEPCID) tablet 20 mg
+
+
+montelukast (SINGULAIR) tablet 10 mg
+
+pioglitazone (ACTOS) tablet 45 mg
+
+valsartan (DIOVAN) tablet 80 mg
+
+hydroCHLOROthiazide (MICROZIDE) capsule 12.5 mg
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+LORazepam (ATIVAN) injection 2 mg
+
+
+enoxaparin (LOVENOX) injection 40 mg
+
+acyclovir (ZOVIRAX) capsule 400 mg
+
+diphenhydrAMINE (BENADRYL) capsule 50 mg
+
+insulin glargine (LANTUS) injection 65 Units
+
+
+cyclobenzaprine (FLEXERIL) tablet 10 mgThere were no vitals taken for this visit.
+
+
+
+INTERICTAL BACKGROUND:  The bilateral posterior dominant rhythm is  symmetric and reaches 10
+Hz. Lambda was noted.
+
+Drowsiness is characterized by an increase in beta.
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured..
+
+
+
+EPILEPTIFORM ACTIVITY: None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):  None
+
+
+
+ACTIVATION PROCEDURES: Bicycling
+
+
+
+SEIZURES/EVENTS:
+
+There are  no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured 80-96 BPM
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION and overall CONCLUSION: This patient's
+Symptoms are well controlled at this time.  The EEG was NORMAL. There were NO epileptiform
+discharges. No events were recorded.  Benzodiazepines were cautiously held, but no symptoms were
+elicited by this change.
+
+
+
+
+
+
+At this time, the patient herself states that as long as she takes her medicines regularly there are no
+events. Alternative strategies may be considered if additional information is needed.
+
+
+Consideration for a STAT 1 hour EEG after the next event might be elucidating.
+

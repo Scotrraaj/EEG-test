@@ -1,0 +1,102 @@
+HISTORY:
+
+78 y.o. male with a history of evacuation of left brain referred for routine EEG for
+assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+
+Keppra
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+
+The waking background is characterized by the presence of a mildly disorganized symmetric mixture
+of alpha and beta frequencies, with a symmetric and reactive 7-8 Hertz posterior dominant rhythm
+(PDR). Anteriorly predominant low amplitude 18-30 Hz activity was seen. Frequent medium
+amplitude irregular 1-4 Hz activity was seen over much of the left hemisphere, maximum over frontal,
+central and temporal regions.
+
+
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and diffuse
+background slowing are seen.
+
+
+
+Brief periods of sleep were marked by attenuation of beta activity and increased low to medium
+amplitude left greater than right hemispheric slowing.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 80 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Mild diffuse slowing and disorganization of dominant posterior rhythmic activity.
+
+
+2. Left hemispheric irregular slowing.
+
+
+CLINICAL CORRELATION:
+
+
+
+The mild generalized background slowing and disorganization are nonspecific and can be seen with
+a variety of mild generalized encephalopathies of various etiologies. Superimposed left hemispheric
+slow activity indicates a lateralized functional disturbance involving predominantly left hemisphere,
+without epileptiform discharges recorded. No clinical or electrical seizures were noted. These
+changes are consistent with the patient's known history of left subdural hematoma.
+

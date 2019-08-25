@@ -1,0 +1,111 @@
+HISTORY:
+
+45 y.o. male with a history of childhood seizures, now with a breakthrough
+seizure 2 weeks ago with tongue biting, referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS:
+
+
+No current outpatient prescriptions on file.
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically difficult record
+(tech noted she could not obtain acceptable impedences in T1, T2 despite trying three times) and
+included a single channel of EKG and photic stimulation.
+
+
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a low voltage beta activity (14-16
+microvolts).
+
+
+
+
+During drowsiness, slow rolling eye movements, and diffuse background slowing are seen.
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+no effect.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is a most likely normal awake and asleep routine EEG. A low voltage background is noted.
+There are no clinical or electrographic events reported or detected.
+
+
+
+CLINICAL CORRELATION:
+
+
+This is a most likely normal awake and asleep routine EEG.
+
+
+
+
+A low voltage background can be seen in 5-10% of adults, often with amplitudes in the range
+described above.
+
+
+A normal routine EEG does not support or refute the diagnosis of epilepsy.

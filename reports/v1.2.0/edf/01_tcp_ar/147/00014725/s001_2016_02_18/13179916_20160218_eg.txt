@@ -1,0 +1,27 @@
+History:	84 year old man with a recent episode concerning for a seizure.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy
+Description:
+During maximal arousal the background consists of 9 Hz moderate ampliude well formed PDR, 
+unstable AP gradient and excess diffuse polymorphic theta activity.  Patient rapidly transitions in 
+and out of drowsiness.  During drowsiness, the background is replaced by diffuse, most pronounced 
+bitemporally, left>>right, semi-rhythmic fast delta activity.
+Frequent polymorphic and semi-rhythmic moderate-to-high amplitude delta activity is captured 
+over the left temporal region.
+Hyperventilation and photic stimulation are not performed.  An irregular heart rate is noted on a 
+single EKG lead.
+Summary of Findings:
+	Diffuse slowing, polymorphic, mild
+	Focal slowing, polymorphic, moderate, bilateral (L>R) temporal
+Interpretation:
+This is an ABNORMAL awake and drowsy portable 21-minute EEG due to (1) mild diffuse slowing 
+and (2) bitemporal, left>>right, focal slowing, that is often semi-rhythmic, and most pronounced 
+during drowsiness. Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is 
+etiologically nonspecific, but in this patient could be related to an excessively drowsy patient, given
+ the fact that he rapidly transitions in-and-out of drowsiness.  Focal slowing indicates focal cerebral 
+dysfunction, suggestive of a structural etiology (especially over the left temporal region).  An 
+irregular heart rate is noted on a single EKG lead.
+

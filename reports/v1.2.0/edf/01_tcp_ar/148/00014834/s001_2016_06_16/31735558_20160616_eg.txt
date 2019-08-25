@@ -1,0 +1,92 @@
+HISTORY:
+
+63 y.o. female with a history of epilepsy, previously treated with Phenytoin.  Acute
+seizure, patient fell and hit her head and back, has bilateral scalp hematomas referred for routine
+EEG for characterization of seizures.
+
+
+
+MEDICATIONS:
+
+Not provided.
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+A bedside Digital Video 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a
+technically satisfactory record and included a single channel of EKG auditory stimulation.  The
+patient is very uncomfortable. Much of the record includes drowsiness.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a  symmetric mixture of alpha, theta and
+beta frequencies, with a symmetric and reactive  7 Hertz posterior dominant rhythm (PDR). The
+normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+Modest generalized slowing is present.
+
+Intermittent bursts of left focal slowing were seen in drowsiness, L posterior temporal max, noted in
+the initial portions of the EEG, when there is a lot of muscle artifact. Testing was performed after one
+of the events, no impairment was noted.
+
+
+
+EPILEPTIFORM ACTIVITY: None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clear clinical events captured.
+
+
+
+HEART RATE:
+
+A heart rate of 84  bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION: This is a challenging but abnormal routine EEG due to:
+
+1.Background slowing and disorganization
+
+
+2. Two bursts of irregular mixed L mid temporal or posterior temporal delta, without clear clinical
+change.
+
+CLINICAL CORRELATION:
+
+
+
+These findings are suggestive of a bihemispheric process.  The bilateral scalp hematomas can
+confound EEG patterns but correlation with clinical features and imaging is suggested.

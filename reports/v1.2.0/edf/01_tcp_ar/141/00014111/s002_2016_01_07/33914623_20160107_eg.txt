@@ -1,0 +1,18 @@
+History:	62 year old man with a recent left MCA stroke, now with worsening mental status.
+Medications:	No AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, lethargic
+Description:
+There is no PDR or AP gradient.  The background consists of a mixture of low amplitude 
+polymorphic theta and delta acivity.  No normal sleep architecture is present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+	Diffuse slowing, polymorphic, moderate
+	No epileptiform discharges
+Interpretation:
+This is an ABNORMAL portable 24-minute EEG due to moderate diffuse slowing. This finding is 
+indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific.
+	
+

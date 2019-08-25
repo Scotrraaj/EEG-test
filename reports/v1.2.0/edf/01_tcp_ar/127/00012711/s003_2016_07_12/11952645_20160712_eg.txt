@@ -1,0 +1,111 @@
+HISTORY:
+
+46 y.o. male with a history of TBI (hit on R side of head as child with a bat); presenting
+after a seizure last week, referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS: Dilantin
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically difficult record
+due to abundant muscle artifact, and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a fairly organized mixture of alpha,
+excess beta, and excess theta frequencies. Posterior dominant rhythm is 8 Hz on right but up to 9 Hz
+on left. There is continuous sharply contoured polymorphic slowing over the right posterior temporal
+region.
+
+
+
+
+The normal anterior-to-posterior gradient of frequency and amplitude is present but suboptimal.
+
+
+
+Drowsiness and sleep are not captured.
+
+
+
+Mild generalized slowing is present.
+
+Continuous right posterior temporal polymorphic slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake only  routine EEG due to:
+
+
+1. Mild generalized slowing, with excess theta activity, and suboptimal organization
+
+2. Slower posterior dominant rhythm over the right
+
+3. Continuous right posterior temporal polymorphic slowing
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of right posterior temporal cerebral dysfunction, likely structural
+in etiology, superimposed on right hemispheric dysfunction and mild diffuse cerebral dysfunction.
+
+
+
+
+Excess beta activity can be seen in the setting of medications such as benzodiazepines or
+barbiturates.
+This EEG is similar in findings to the EEG previously reported on 5/20/2015.
+

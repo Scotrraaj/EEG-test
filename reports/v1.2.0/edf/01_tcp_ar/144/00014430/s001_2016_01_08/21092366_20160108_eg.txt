@@ -1,0 +1,20 @@
+History:	55 year old woman who presents with slurred speech and a seizure.
+Medications:	Dilantin
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake
+Description:
+There is no PDR or AP gradient.  The background consists primarily of diffuse low amplitude 
+polymorphic delta activity with occasional polymorphic theta activity.  Patient remains awake 
+Hyperventilation and photic stimulation are not performed.  Patient moves and moans throughout 
+the recording.
+Summary of Findings:
+	Diffuse slowing, polymorphic, moderate-to-severe
+	No epileptiform discharges
+	No stage 2 sleep
+Interpretation:
+This is an ABNORMAL portable awake 23-minute EEG due to moderate-to-severe diffuse 
+background slowing. These findings are indicative of moderate to severe diffuse cerebral 
+dysfunction, which is etiologically nonspecific.  Patient moves and moans throughout the recording.
+

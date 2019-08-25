@@ -1,0 +1,70 @@
+HISTORY:
+
+57 y.o. male with a history of cardiac arrest 3 days ago who remains comatose.
+
+
+
+MEDICATIONS:
+
+No sedation
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+There is no PDR or AP gradient.
+
+
+
+
+
+The background consists of a mixture of 2 distinct patterns.  (1) a mixture of diffuse moderate
+amplitude polymorphic fast theta and delta activity.  Theta activity is frequently sharply contoured
+(especilly over the frontal and central leads) and somewhat rhythmic (without clear evolution).
+
+
+
+
+(2) waxing and waning high amplitude rhythmic nonevolving 2.5-3 Hz generalized frontocentrally
+predominant spike and wave discharges.  Even though they are more likely to appear with
+stimulation, they also occur spontaneously.  There is no clear clinical correlate with these runs.
+
+
+
+
+No normal sleep architecture is seen.
+
+
+HEART RATE:
+
+
+A heart rate of 80 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal comatose 1 hour  EEG due to:
+
+1. Subclinical generalized waxing and waning status epilepticus
+
+
+
+CLINICAL CORRELATION:
+
+This finding represents diffuse cortical irritability.  Patient will be placed on continuous EEG
+monitoring.

@@ -1,0 +1,138 @@
+DATE OF STUDY: 06/28/16
+
+RECORDING ENVIRONMENT: outpatient
+
+
+EEG TYPE: 40-60 min, awake and asleep
+
+
+
+
+HISTORY:
+
+a 20 y.o. male with a history of intellectual disability, autism and epilepsy referred
+for routine EEG for evaluation of paroxysmal events (staring)
+
+
+
+MEDICATIONS:
+
+
+multivitamin (THERAGRAN) per tablet, Take 1 tablet by mouth daily.
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 10 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes.
+
+
+
+No generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Occasional (1/hour to <1min) 1-2.5 second bursts of 3.5-5 Hz generalized (mostly frontally-
+predominant but rarely occipitally-predominant) irregular spike- and polyspike-and-wave activity, in
+wake and sleep. In sleep they tend to superimpose on K-complexes (dyshormia). There is no clear
+clinical correlate but patient is not tested during them.
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving at 5 Hz and 7 Hz (subharmonic driving at the latter frequency), which is a
+normal finding.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and asleep 1-hr EEG due to:
+
+
+
+
+
+1. Occasional bursts of generalized irregular spike- and polyspike-and-wave activity, as detailed
+above, without clear clinical correlate
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of generalized epileptiform potentials.
+
+
+
+
+Attending Epileptologist: 
+
+I have personally reviewed this study, and this report represents my findings and conclusions.
+
+
+

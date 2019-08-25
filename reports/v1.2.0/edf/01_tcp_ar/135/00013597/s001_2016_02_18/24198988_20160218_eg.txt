@@ -1,0 +1,34 @@
+History:	86 year old woman who was admitted after a PEA code and underwent 
+	hypothermia protocol.  She now has intermittent body jerking concerning for 
+Medications:	Keppra
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, comatose
+Description:
+There is no PDR or AP gradient.  The background consists of a mixture of low amplitude 
+polymorphic theta and delta activity and continuous high amplitude  diffuse, frontally maximal 
+sharp waves with triphasic morphology.  These waveforms demonstrate an anterior to posterior 
+phase lag.  They are rhythmic occuring at the frequency of ~ 0.75 Hz.  No normal sleep architecture
+  At least 2 episodes of shaking are captured at the end of the recording.  Patient is poorly 
+visualized during the first episode due to low room lighting.  During the second episode high 
+frequency low amplitude side-to-side head tremors are noted.  The recording stops before the 
+second episode ends.  They last ~1-2 minutes.  Electrographiclly, they are associated with semi-
+rhythmic- rhythmic EMG artifact without alteration of the baseline background.
+Hyperventilation and photic stimulation are not performed.  There is no clear change in the 
+background activity to visual, auditory, tactile, or noxious stimuli.
+Summary of Findings:
+	Diffuse slowing, polymorphic, moderate
+	No reactivity
+	Triphasic waves, continuous, at ~0.75 Hz
+	Event, two, no ictal EEG correlate
+Interpretation:
+This is an ABNORMAL portable 51 -minute comatose EEG due to (1) moderate diffuse slowing; (2) 
+continuous ~0.75 Hz waveforms of triphasic morphilogy; (3) lack of clear background reactivity and 
+(4) 2 events 1-2 min each of primarily head tremors without an abnormal ictal correlate.  Diffuse 
+slowing, triphasics waveforms and lack of clear reactivity are indicative of moderate diffuse cerebral 
+dysfunction, which is etiologically nonspecific.  Lack of clear background reactivity is a poor 
+prognostic indicator post anoxia.  Triphasic waves are a nonspecific EEG finding that can be seen 
+in hepatic encephalopathy, uremia and anoxia.  These findings were conveyed to the neurology 
+
+

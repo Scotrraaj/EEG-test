@@ -1,0 +1,121 @@
+HISTORY:
+
+66 y.o. L handed male with a history of seizures (R sided twitching -> whole
+body shaking, then confusion), L ACA stroke 5/2016, L cerebral peduncle stroke, pacemaker, referred
+for routine EEG for characterization of seizures.
+
+
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+levETIRAcetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth every 12 hours for 360 days.
+
+aspirin 81 mg chewable tablet, Take 1 tablet by mouth daily.
+
+
+atorvastatin (LIPITOR) 40 mg tablet, Take 1 tablet by mouth at bedtime for 360 days.
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+
+
+
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha, theta, and beta frequencies, with a symmetric and reactive 7-8 Hertz posterior dominant
+rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves.
+Features of stage II sleep and slow wave sleep was not captured.
+
+
+
+Mild generalized slowing is present.
+
+Continuous left frontal polymorphic slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 72 bpm is captured on a single EKG lead. Pacemaker artifact noted.
+
+
+IMPRESSION:
+
+
+
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Mild generalized slowing
+
+
+2. Continuous left frontal polymorphic slowing
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of left frontal cerebral dysfunction, likely structural in etiology,
+superimposed on a mild diffuse cerebral dysfunction.

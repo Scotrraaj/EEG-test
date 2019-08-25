@@ -1,0 +1,108 @@
+HISTORY:
+
+54 y.o. male with a history of L eye blindness, L frontal ICH, and seizures referred for
+routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS: Topamax, Keppra, Prilosec, Naprosyn, Theragran
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 11 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is not captured
+
+
+No generalized slowing is present.
+
+
+Occasional left fronto-temporal polymorphic slowing is present.
+
+Rare right fronto-temporal polymorphic slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+There are \no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 54 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+
+1. Occasional left fronto-temporal polymorphic slowing
+
+2. Rare right fronto-temporal polymorphic slowing
+
+
+
+CLINICAL CORRELATION:
+
+
+
+
+
+These findings indicate the presence of left fronto-temporal dysfunction (which is likely structural in
+etiology based on past history) > right fronto-temporal dysfunction (structural or physiologic in origin).

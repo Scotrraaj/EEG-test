@@ -1,0 +1,13 @@
+CLINICAL HISTORY: This is a 66-year-old right-handed woman with intermittent episodes of uncontrolled shaking and muscle spasms. Parietal skull defect. Prior EEG in 1996 demonstrating occipital spikes.
+MEDICATIONS: None reported.
+INTRODUCTION: A 20-minute digital video EEG was performed in the lab using standard 10-20 system of electrode placement with 1 channel EKG. Hyperventilation was deferred. Photic stimulation was completed. F4 deformity noted on exam
+DESCRIPTION OF THE RECORD: In wakefulness, there is a 11 Hz alpha rhythm of 40-70 microvolts, higher amplitude on the left compared to the right. Prominent frontal central beta was noted. In the transition to sleep, there is a slight asymmetry with drop out of alpha on the right before the left. Other features of sleep include an increase in beta and beta has slightly higher amplitude in the left frontal region than the right.
+Photic stimulation elicited driving at faster flash frequencies. Heart rate: 78 BPM.
+IMPRESSION: This is a very subtly abnormal EEG due to:
+1.	An alpha asymmetry with drop out of the alpha on the right before left and drowsiness.
+CLINICAL CORRELATION: The amplitude asymmetry can be a normal finding although, typically most subjects have a higher amplitude on the right compared to the left. The overall amplitude asymmetry would be more supportive of a breach rhythm on the left rather than right, though the tech noted a skull deformity on the right.
+No epileptiform features were noted.
+These findings may be correlated with imaging and clinical history.
+
+
+

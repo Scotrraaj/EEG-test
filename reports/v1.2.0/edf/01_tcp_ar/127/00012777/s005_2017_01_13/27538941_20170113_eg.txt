@@ -1,0 +1,731 @@
+HISTORY:
+
+This is a 33 y.o. right handed male admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: refractory epilepsy.
+
+
+
+
+Continuous video EEG is initiated for:  Recording of seizures for presurgical evaluation.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+No current facility-administered medications for this visit.
+
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+levETIRAcetam (KEPPRA) tablet 1,000 mg
+
+
+PHENobarbital (LUMINAL) tablet 120 mg
+
+phenytoin (DILANTIN) ER capsule 200 mg
+
+phenytoin (DILANTIN) ER capsule 200 mg
+
+
+mirtazapine (REMERON) tablet 30 mg
+
+topiramate (TOPAMAX) tablet 200 mg
+
+albuterol (PROVENTIL HFA;VENTOLIN HFA) inhaler 2 puff
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+LORazepam (ATIVAN) injection 2 mg
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+
+ibuprofen (ADVIL,MOTRIN) tablet 400 mg
+
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (1/12/2017, 17:22 - 1/13/2017, 06:00)
+
+
+BACKGROUND:
+
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes.
+
+
+
+
+No generalized slowing is present.
+
+There is occasional right temporal polymorphic slowing, at times with a posterior-predominant field.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Occasional runs of right temporal rhythmic delta activity at 1.5-2 Hz for <10 seconds at a time
+(TIRDA also known as LRDA)
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+EKG: A single lead captured a heart rate in the 80s
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+This is an abnormal video EEG due to:
+
+1. Occasional right temporal polymorphic slowing, at times posterior-predominant
+
+
+
+2. Occasional runs of right temporal rhythmic slowing
+
+
+
+These findings are consistent with right temporal epileptogenic potential superimposed on a right
+temporal (posterior predominant) dysfunction, either structural or physiologic in origin.
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (1/13/2017, 06:00 - 1/14/2017, 06:00)
+
+
+
+AEDs:
+
+PHT 200 q12h
+
+
+PHB 128 q12h
+
+LEV 1000 q12h
+
+TOP 200 q12h
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Occasional right temporal rhythmic delta at 1 Hz in sleep for runs <20 sec
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+EKG: A single lead captured a heart rate in 70s-80s
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+
+No change
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (1/14/2017, 06:00 - 1/15/2017, 06:00)
+
+
+AEDs:
+
+
+PHT stopped
+
+PHB 128 q12h
+
+
+LEV 1000 q12h
+
+TOP 200 q12h
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Occasional right temporal rhythmic delta at 1 Hz in sleep for runs <20 sec
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in 70s-80s
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+No change
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4 (1/15/2017, 06:00 - 1/16/2017, 06:00)
+
+
+
+AEDs:
+
+
+PHT stopped
+
+PHB 128 q12h
+
+LEV stopped
+
+TOP 200 q12h
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Occasional right temporal rhythmic delta at 1 Hz in sleep for runs <20 sec
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+SEIZURES/EVENTS:
+
+
+1/15/17 @ 22:41
+
+Clinical: patient sitting up in bed, claps hands once, presses the RN call button. Tells RN he feels
+"aura" behind left eye. Patient able to answer all questions from RN.
+
+
+EEG: no change to awake background.
+
+EKG: HR remains 72 throughout.
+
+
+
+EKG: A single lead captured a heart rate in 70s-80s
+
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+No change
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 5 (1/16/2017, 06:00 - 1/17/2017, 06:00)
+
+
+
+AEDs:
+
+PHT stopped
+
+PHB 90 AM, 128 HS
+
+LEV stopped
+
+
+TOP 200 q12h
+
+
+
+INTERICTAL BACKGROUND: in addition to previously noted background, rare left temporal
+polymorphic slowing is noted
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Occasional right temporal rhythmic delta at 1 Hz in sleep for runs <20 sec
+
+2. Rare right anterior temporal (T2>F8>T4) sharp waves
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Stepped photic stimulation from 1-21 flashes per second (fps) performed 1/16 at 09:52 induces
+symmetric photic driving, which is a normal finding.
+
+
+
+Hyperventilation is performed for 180 seconds with good cooperation performed 1/16 at 09:57
+produces no effect.
+
+
+
+Sleep deprivation until 1/17 04:30.
+
+
+
+
+SEIZURES/EVENTS:
+
+None
+
+
+
+EKG: A single lead captured a heart rate in 70s-80s
+
+
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION:
+
+Rare left temporal polymorphic slowing in addition to previous findings
+
+
+Epileptogenic potentials on this day include rare right anterior temporal sharp waves in addition to
+right temporal rhythmic delta activity
+
+
+No events
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 6 (1/17/2017, 06:00 - 1/18/2017, 06:00)
+
+
+
+AEDs:
+
+PHT stopped
+
+PHB 128 AM, 0 HS (patient pocketed PM meds)
+
+
+LEV 1000 AM, 0 HS (patient pocketed PM meds)
+
+TOP 200 AM, 0 HS (patient pocketed PM meds)
+
+
+
+INTERICTAL BACKGROUND: in addition to previously noted background, rare left temporal
+polymorphic slowing is noted
+
+At times slowing over the right temporal region has a posterior field, maximal over T6
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Rare right temporal rhythmic delta at 1 Hz in sleep for runs <20 sec
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: hyperventilation and photic stimulation were not performed on this
+day.
+
+
+SEIZURES/EVENTS:
+
+None
+
+
+
+EKG: A single lead captured a heart rate in 70s-80s
+
+
+
+
+
+
+DAY 6 IMPRESSION & CLINICAL CORRELATION:
+
+
+No events, similar findings to previous days.
+
+
+
+
+
+
+
+
+DAY 7 (1/18/2017, 06:00 - 1/19/2017, 06:00)
+
+
+AEDs:
+
+PHT stopped
+
+
+PHB 128 mg q12h
+
+LEV 1000 mg q12h
+
+
+TOP 200 mg q12h
+
+
+INTERICTAL BACKGROUND: no change
+
+At times slowing over the right temporal region has a posterior field, maximal over T6
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Rare right temporal rhythmic delta activity at 1 Hz in sleep for runs <20 sec
+
+2. Rare right anterior temporal (T2>F8>T4) sharp waves in sleep
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES: hyperventilation and photic stimulation were not performed on this
+day.
+
+SEIZURES/EVENTS:
+
+None
+
+
+
+EKG: A single lead captured a heart rate in 70s-80s
+
+
+
+
+
+DAY 7 IMPRESSION & CLINICAL CORRELATION:
+
+No events, similar findings to previous days.
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 8 (1/19/2017, 06:00 - 1/19/2017, 10:14)
+
+
+AEDs:
+
+PHT stopped
+
+
+PHB 128 mg q12h
+
+LEV 1000 mg q12h
+
+
+TOP 200 mg q12h
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: hyperventilation and photic stimulation were not performed on this
+day.
+
+
+SEIZURES/EVENTS:
+
+None
+
+
+EKG: A single lead captured a heart rate in 70s-80s
+
+
+
+
+
+DAY 8 IMPRESSION & CLINICAL CORRELATION:
+
+No events, similar findings to previous days.
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+
+INTERICTAL FINDINGS:  The patients interictal findings were notable for a 9 Hz posterior dominant
+rhythm, with occasional right temporal (posterior predominant) polymorphic slowing. Rarely, left
+temporal polymorphic slowing was noted. In sleep, rare-to-occasional right temporal rhythmic delta
+activity with rare right anterior temporal sharp waves in sleep were noted.
+
+
+
+
+
+ICTAL FINDINGS:
+
+
+A single clinical event was captured on 1/15/17 @ 22:41, consistent with the patient's typical
+habitual "aura" behind his left eye. There were no EEG changes during this event.
+
+
+
+No other clinical or electrographic events were reported or detected.
+
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. No seizures captured
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. No seizures captured
+
+
+
+
+CONCLUSION:
+
+The patient was admitted to the epilepsy monitoring unit for 8 days with continuous video EEG.
+This was an elective EMU monitoring session for a presurgical evaluation of medically refractory
+epilepsy.
+
+
+
+
+
+
+
+
+
+
+The interictal EEG is characterized by a 9 Hz posterior dominant rhythm with occasional right
+temporal (posterior predominant) polymorphic slowing, rare left temporal polymorphic slowing
+(consistent with right > left temporal dysfunction, structural or physiologic in etiology), and
+occasional-to-rare right temporal epileptogenic potential.
+
+
+
+
+The patient was weaned off Dilantin and Keppra completely and partially weaned off phenobarbital
+over the course of his admission. Unfortunately, only one episode ("aura") was captured, without
+associated EEG changes, before the patient expressed desire to be discharged. He was restarted on
+his home antiepileptic medications (with the exception of Dilantin) on the day prior to his discharge
+from the hospital. No other medication changes were made during the hospitalization.
+
+
+
+
+
+The EEG findings taken as a whole are suggestive of a focal mechanism to this patient's seizures.

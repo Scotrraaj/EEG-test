@@ -1,0 +1,59 @@
+HISTORY: 79 y.o. female who presents with left sided weakness. She subsequently developed focal status epilepticus, characterized by preserved consciousness, left sided weakness and gaze deviation.
+MEDICATIONS: Current Outpatient Prescriptions: oxyCODONE (OXY-IR) 5 mg capsule, Take 5 mg by mouth every 4 hours as needed. phenytoin (DILANTIN) 30 mg ER capsule, 60 mg twice per day for 1 week, then 30 mg twice per day for 1 week and then stop phenobarbital (LUMINAL) 32.4 mg tablet, Take 1 tablet by mouth daily. 1.5 tablets am phenobarbital (LUMINAL) 97.2 mg tablet, Take 1 tablet by mouth at bedtime. atorvastatin (LIPITOR) 20 mg tablet, Take 20 mg by mouth daily. metFORMIN (GLUCOPHAGE) 500 mg tablet, Take 500 mg by mouth 2 times daily (with meals). timolol (TIMOPTIC) 0.5 % ophthalmic solution, 1 drop daily. lisinopril (PRINIVIL,ZESTRIL) 20 mg tablet, Take 30 mg by mouth daily. clopidogrel (PLAVIX) 75 mg tablet, Take 75 mg by mouth daily. insulin NPH-insulin regular (NOVOLIN 70/30) 100 unit/mL (70-30) injection, Inject into the skin. 25 am21 pm metoprolol (LOPRESSOR) 25 mg tablet, Take 25 mg by mouth 2 times daily.  No current facility-administered medications for this visit.
+SEDATION: Ativan PRN
+TECHNIQUE: A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG.   DAY 1 (~ 15 hours total)
+BACKGROUND: The awake background consists of 10-11 Hz alpha activity posteriorly with the expected AP (anterior-to-posterior) gradient. Diffuse excess beta activity is present.  Continuous sharply contoured semi-rhythmic delta activity is seen over the right occipital region. It improves significantly by ~ 8 pm and is not appreciable by the end of the recording epoch.   Normal sleep architecture, including REM sleep, is observed.
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):  None
+EPILEPTIFORM ACTIVITY:  Continuous ~2 Hz periodic discharges (LPDs) are seen over the right occipital region with maximal scalp negativity over O2 lead.
+EVENTS: intermittent right posterior quadrant seizures are captured. They last ~ 1-2 minutes. Their maximal frequency is up to 8 per hour (between 6 pm-7 pm). Last seizure occurs around 7 pm. They have no clear clinical correlate. Electrographically, they are characterized by rhythmic occipital spikes that slowly and gradually decrease in frequency, increase in amplitude and spread anteriorly. Reflexion over the left posterior quadrant is present towards the end of more prolonged seizures. Seizure onset is not always clear due to presence of continuous O2 LPDs early in the recording.  EKG: A single lead captures heart rate of 96 bpm.
+DAY 1 IMPRESSION & CLINICAL CORRELATION: This is an abnormal 15-hour long term video EEG due to: (1) right occipital LPDs and seizures  These findings indicate focal structural epileptogenic cerebral abnormality over the right occipital region/ posterior quadrant. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+-----------------------------------------------------------------
+
+DAY 2
+BACKGROUND: No change
+GENERALIZED SLOWING: None
+FOCAL SLOWING: subtle polymorphic intermittent right occipital theta and delta activity
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+SPORADIC EPILEPTIFORM ACTIVITY: right occipital spikes and polyspikes are seen occasionally and tend to occur in brief bursts (example at 11:34 am).
+EVENTS: typical seizures continue at variable frequency (up to 5 per hour), lasting 1-2 minutes. Patient is not formally tested during these seizures. During seizure at 9:20 AM, left arm flexion is observed, but patient continues to answer questions appropriately and no one is aware of the seizure.
+EKG: A single EKG lead captured ~100
+DAY 2 IMPRESSION & CLINICAL CORRELATION  Abnormal 24 hour continuous video EEG due to ongoing occasional right occipital seizures.
+
+-----------------------------------------------------------------
+
+DAY 3
+BACKGROUND: No change
+GENERALIZED SLOWING: No change
+FOCAL SLOWING: No change
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+SPORADIC EPILEPTIFORM ACTIVITY: Occasional (1/hour to <1min) right occipital spikes.
+EVENTS: typical right occipital seizures occur at variable frequency, lasting up to 10 minutes. Frank focal status epilepticus from ~ 6 pm till ~ 11 pm. Status epilepticus characterized by a typical seizure that evolved into continuous ~ 2 Hz T6/O2 rhythmic sharply contoured delta activity. Even though no frank clinical correlate is apparent, retrospectively, patient reported flushing lights and had a visual field cut following upon subsequent neurological exams.  Once status epilepticus stops, no seizures are captured for the rest of the recording epoch.
+DAY 3 IMPRESSION & CLINICAL CORRELATION  Abnormal 24 hour recording due to intermittent right occipital seizures and frank right posterior quadrant status epilepticus that lasts nearly 5 hours and resolves with additional AEDs.  These findings were conveyed to the primary team on multiple occasions throughout the 24 hour recording period.
+
+-----------------------------------------------------------------
+
+DAY 4
+BACKGROUND: No change
+GENERALIZED SLOWING: mild underriding polymorphic delta activity is observed
+FOCAL SLOWING: None
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: No clinical or electrographic events reported or detected
+EKG: A single EKG lead captures heart rate of ~ 100 bpm.
+DAY 4 IMPRESSION & CLINICAL CORRELATION  No seizures are captured on this 24 hour continuous video EEG. There mild diffuse slowing that in this patient is likely related to medication effect. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+-----------------------------------------------------------------
+
+DAY 5
+BACKGROUND: No change
+GENERALIZED SLOWING: No change
+FOCAL SLOWING: None
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: No clinical or electrographic events reported or detected
+DAY 5 IMPRESSION & CLINICAL CORRELATION  No seizures are captured on this 24 hour continuous video EEG. There mild diffuse slowing that in this patient is likely related to medication effect. Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or barbiturates.
+
+-----------------------------------------------------------------
+FINAL IMPRESSION:  This is an abnormal 5 day video EEG due to:  Right occipital seizures that are not seen during the last ~36 hours of the recording.
+FINAL CLINICAL CORRELATION:  There is focal structural epileptogenic abnormality over the right occipital region.  

@@ -1,0 +1,171 @@
+HISTORY:
+
+40 y.o. male s/p gunshot wound to right side of head s/p craniotomy referred
+for routine EEG immediately post-op for screening for subclinical seizures and assessment of mental
+status change.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+tetanus,diphth,pertus(acell) (BOOSTRIX) injection 0.5 mL
+
+lidocaine (pf) (cardiac) (XYLOCAINE) 100 mg/5 mL (2 %) injection
+
+vecuronium (NORCURON) injection
+
+
+etomidate (AMIDATE) injection
+
+sodium chloride 0.9 % with KCl 20 mEq/L infusion
+
+pantoprazole (PROTONIX) injection 40 mg
+
+
+ondansetron (PF) (ZOFRAN) injection 4 mg
+
+labetalol (NORMODYNE,TRANDATE) injection 20 mg
+
+hydrALAZINE (APRESOLINE) injection 10 mg
+
+
+
+
+docusate sodium (COLACE) capsule 100 mg
+
+senna (SENOKOT) tablet 1 tablet
+
+
+alum-mag hydroxide-simeth (MYLANTA;MAALOX) 200-200-20 mg/5 mL suspension 30 mL
+
+multivitamin liquid 5 mL
+
+
+oxyCODONE (ROXICODONE) immediate release tablet 5 mg
+
+morphine injection 2 mg
+
+[START ON 9/17/2016] enoxaparin (LOVENOX) injection 40 mg
+
+ceFEPIme (MAXIPIME) 2 g in dextrose 5 % 100 mL IVPB
+
+
+vancomycin (VANCOCIN) 750 mg in sodium chloride 0.9 % 250 mL IVPB MB+
+
+phenylephrine (NEO-SYNEPHRINE) 80 mg in sodium chloride 0.9 % 250 mL infusion
+
+
+sodium chloride 0.9 % IV bolus
+
+gentamicin PF 8 mg in sodium chloride 0.9 % 250 mL
+
+levETIRAacetam (KEPPRA) 1,000 mg in sodium chloride 0.9 % 100 mL IVPB
+
+
+
+
+SEDATION: propofol
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The background is continuous but asymmetric.
+
+The left hemisphere consists of a disorganized mixture of theta, alpha, and beta.
+
+
+The right hemisphere consists of a disorganized mixture of theta, alpha, delta, and beta. In addition
+there is attenuation of faster frequencies over the right temporal region (F8/T4/T6). There is an
+amplitude asymmetry with higher amplitudes over the right parasagittal region, which may represent
+breach rhythm.
+
+
+
+
+There background is otherwise featureless, without a posterior dominant rhythm or sleep transients.
+
+
+
+Drowsiness and sleep is associated with attenuation of theta and alpha, with increased prevalence of
+delta and beta. The hemispheric asymmetry persists.
+
+
+
+There is moderate generalized slowing.
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal coma study stat portable EEG due to:
+
+
+1. Moderate generalized slowing with background disorganization
+
+2. Continuous right hemisphere slowing
+
+3. Attenuation over the right temporal region
+
+4. Likely breach rhythm over the right parasagittal region
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of right hemispheric dysfunction (likely structural in etiology)
+with right temporal cortical dysfunction (likely structural in etiology), superimposed on a moderate
+diffuse cerebral dysfunction.
+
+
+
+Breach rhythm is consistent with this patient's known history of craniotomy.
+
+
+
+Following this study the patient was continued on long term monitoring.

@@ -1,0 +1,479 @@
+HISTORY:
+
+This is a 41 y.o. right handed female PMH Lyme disease and previously diagnosed obstructive sleep
+apnea, noncompliant with CPAP, admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: paroxysmal events of unclear etiology.
+
+
+
+Patient describes 4 types of events:
+
+1. Head jerks in either direction
+
+2. Head drops/body drops, with slurred speech and decreased responsivness, possibly positional
+
+
+3. Facial droop (unclear which side of face affected)
+
+4. Not feeling well, followed by alteration of consciousness, decreased awareness, right hand
+shakiness, then left hand shakiness, then upper body shakiness x 20 seconds. No associated tongue
+biting or incontinence. Patient states she returns to baseline after 30 min.
+
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Impedances were measured and verified to be below 5 Kohms.  EEG activity was recorded
+referentially to vertex reference, digitized, and stored to computer hard drive.  Periods of interest
+were subsequently reformatted to the montage of interest and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+Keppra 1500 mg q12h
+
+Topamax 100 mg qhs
+
+
+
+SEDATION: None
+
+
+DAY 1 (7/25/2016, 12:15 - 7/26/2016, 06:00)
+
+
+
+
+BACKGROUND:
+
+
+
+The waking background is continuous, symmetric, well-organized, and consists predominantly of
+alpha with admixed beta.
+
+
+
+Posterior dominant rhythm was present at 10 Hz.
+
+
+
+The background is reactive, variable.
+
+
+There were no persistent asymmetries in amplitude and frequency.
+
+
+
+Sleep was characterized by symmetric vertex waves, sleep spindles and K-complexes. The patient
+sleeps frequently during the day with frequent arousals.  Sleep at night is fragmented.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+1. Rare left temporal (T3 max) sharp transients, not epileptiform
+
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+This is a normal awake & asleep video EEG.
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (7/26/2016, 06:00 - 7/27/2016, 06:00)
+
+
+
+AEDs: Keppra 1000 AM, 500 PM
+
+
+
+INTERICTAL BACKGROUND:
+
+Rare diffuse excess theta in wakefulness, sharply contoured.
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Rare (<1hour) bitemporal wicket waves.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+
+7/26/2016 at 17:30 (duration: ~5 min 40 sec)
+
+CLINICAL: Patient is seen on camera reaching for event button for 1-2 min (uses both hands, attends
+both sides of bed). Then has intermittent nonrhythmic waxing-waning tremor of right wrist/forearm.
+Face pulling not clearly seen on video. She is able to follow commands and answer all EMU protocol
+questions. Staff notes patient is crying. On rounds next day patient states that this episode
+represented 2 of her typical episodes in 1 event: (1) left face pulling combined with (2) right hand
+shaking.  She notes has a bad migraine prior to and after the event.
+
+
+
+
+EEG: there is no ictal EEG cerebral correlate
+
+EKG: no change in heart rate
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (7/27/2016, 06:00 - 7/28/2016, 06:00)
+
+
+
+AEDs:
+
+Keppra STOPPED
+
+Topamax 100 qhs
+
+
+
+INTERICTAL BACKGROUND: unchanged
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) is performed at
+7/27 09:46 and does not produce any EEG changes.
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds on 7/27 09:54 and produces no
+effect.
+
+
+Sleep deprived until 7/28 03:00
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+*On this day patient shows epilepsy team a home video of her head nodding episodes.  She is sitting
+up and appears to be
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 4 (7/28/2016, 06:00 - 7/29/2016, 06:00)
+
+
+
+AEDs:
+
+Keppra STOPPED
+
+
+Topamax 100 qhs
+
+
+INTERICTAL BACKGROUND: unchanged
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Not performed on this day
+
+
+
+
+
+SEIZURES/EVENTS:
+
+
+
+EVENTS, 7/29/2016, intermittently from 01:54 - 04:23
+
+
+CLINICAL: Patient appears uncomfortable in bed, rubbing her legs, face, and eyes. Tells tech, "I
+have a lot of eye problems." States she does this prior to her episodes. (On rounds the following
+morning she clarifies that in a video someone took of her having head nodding episodes, she noticed
+she was rubbing her eyes).
+
+
+EEG: There is no ictal cerebral correlate; frontal leads are obscured by movement artifact.
+
+
+EKG: no change
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 5 (7/29/2016, 06:00 - 7/29/2016, 11:56)
+
+
+AEDs:
+
+
+Keppra STOPPED
+
+Topamax 100 qhs
+
+
+
+INTERICTAL BACKGROUND: unchanged
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Not performed on this day
+
+
+
+SEIZURES/EVENTS:
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+-----------------------------------------------------------------
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+INTERICTAL FINDINGS:  The patients interictal findings were notable for rare excess of theta
+frequencies in wakefulness and bitemporal sharp waves that were most consistent with a benign
+variant (wicket waves).  There were no pathologic epileptiform discharges nor were there focal
+findings.  Daytime wakefulness was punctuated by frequent spells of sleep with frequent arousals.
+Sleep at night is fragmented, with frequent arousals.
+
+
+
+
+
+
+ICTAL FINDINGS:
+
+The patient had two episodes:
+
+
+1. Right hand tremor and left face pulling. This was a prolonged episode during which there was no
+EEG correlate
+
+
+2. Episode of eye rubbing. There was no EEG correlate other than movement artifact. Note that this
+was not one of the patient's typical habitual events.
+
+The other events as listed at the top of the report were not captured during this study and so
+diagnosis cannot be definitely made.
+
+
+
+SEIZURE DIAGNOSIS:
+
+
+1. The episode of right hand tremor and left face pulling is most consistent, semiologically and
+electrographically, with a nonepileptic behavioral event
+
+
+However, the other events as listed at the top of the report were not captured during this study and so
+diagnosis for these cannot be definitely made.
+
+The home video described above raises concern for excessive daytime sleepiness.
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. Nonepileptic behavioral events
+
+
+Seizures not entirely excluded as all events were not captured.
+
+
+CONCLUSION:
+
+
+The patient was admitted to the epilepsy monitoring unit for 5 days with continuous video EEG.
+This was an elective EMU monitoring session for evaluation of paroxysmal events.
+
+
+
+
+
+
+
+
+
+
+The interictal EEG is characterized by rare excess of theta frequencies in wakefulness and bitemporal
+sharp waves that were most consistent with a benign variant (wicket waves).  There were no
+pathologic epileptiform discharges nor were there focal findings.  These findings are consistent with a
+mild diffuse cerebral dysfunction, etiologically nonspecific.
+
+
+
+
+The patient was weaned off Keppra over the course of his admission. Her topamax was uptitrated at
+discharge from the hospital to treat both migraines as well as possible epilepsy. No other medication
+changes were made during the hospitalization.  The patient was offered the opportunity to stay
+longer to capture and characterize the remainder of her events but she preferred to be discharged
+home.  She was given a prescription for an ambulatory study, as she reported her episodes may be
+more frequent in her home environment with its accompanying stressors.
+
+
+
+
+
+We recommend that she obtain a sleep study for her history of sleep apnea and reported apneic
+events.

@@ -1,0 +1,151 @@
+HISTORY:
+
+71 y.o. female with a history of seizures in her 30s (seizure-free x10 yrs),
+presenting after being found down at home, brought to ER, had seizure in CT scanner, referred for
+routine EEG for characterization of seizures.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+aspirin chewable tablet 81 mg
+
+cyclobenzaprine (FLEXERIL) tablet 5 mg
+
+furosemide (LASIX) tablet 40 mg
+
+
+levETIRAcetam (KEPPRA) tablet 1,000 mg
+
+lisinopril (PRINIVIL,ZESTRIL) tablet 40 mg
+
+montelukast (SINGULAIR) tablet 10 mg
+
+
+NIFEdipine (PROCARDIA XL) 24 hr tablet 30 mg
+
+nortriptyline (PAMELOR) capsule 25 mg
+
+sodium bicarbonate tablet 650 mg
+
+
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+docusate sodium (COLACE) capsule 100 mg
+
+heparin (5000 units/mL) injection 5,000 Units
+
+
+fluticasone (FLONASE) 50 mcg/actuation nasal spray 1 spray
+
+nitroGLYCERIN (NITROSTAT) SL tablet 0.4 mg
+
+metoprolol tartrate (LOPRESSOR) tablet 25 mg
+
+amoxicillin-clavulanate (AUGMENTIN) 500-125 mg per tablet 1 tablet
+
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a fairly organized symmetric mixture of
+alpha with excess theta and delta frequencies, with a symmetric and reactive 9-10 Hertz posterior
+dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is
+present but suboptimal.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Mild generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Frequent 1.5 Hz frontally predominant generalized rhythmic delta activity (FIRDA, aka GRDA -
+generalized rhythmic delta activity) for runs <10 sec
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Mild generalized slowing and suboptimal organization
+
+2. Frequent 1.5 Hz frontally predominant generalized rhythmic delta activity
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of a mild-moderate diffuse cerebral dysfunction.
+
+Frontally predominant generalized rhythmic delta activity (GRDA, also known as FIRDA) is a
+nonspecific but pathologic finding that is most commonly seen in toxic-metabolic states, but may
+also be seen with deep structural lesions or increased intracranial pressure. Clinical correlation is
+advised.

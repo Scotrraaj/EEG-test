@@ -1,0 +1,104 @@
+HISTORY:
+
+75 y.o. female with a history of syncope, prior stroke referred for routine EEG for
+evaluation of paroxysmal events.
+
+
+
+MEDICATIONS:
+
+Unknown, asa, plavix, no AED
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A bedside Digital Video 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a
+technically satisfactory record and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+
+The waking background is characterized by the presence of generalized slowing, with mix of rhythmic
+6-7 hz theta, scant alpha. AP gradient is not present. Shifting arrhythmic delta activity more on left
+than right.
+
+
+
+
+During drowsiness, slow rolling eye movements and diffuse background slowing are seen. FIRDA was
+noted. Some excess frontal beta noted.
+
+
+
+Sleep is not sustained
+
+
+
+Moderate generalized slowing is present.
+
+Shifting focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: none
+
+
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm, irregular, is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+
+1. Generalized background slowing
+
+2. Shifting delta left greater than right
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings are frequently found in association with encephalopathy. Shifting focal features can
+be correlated with imaging.

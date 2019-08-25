@@ -1,0 +1,24 @@
+History:	64 YR MALE PRESENTED FRIDAY S/P CATH. POST CATH PT HAD CHEST PAIN.
+	 SLOW CODED PT FOR 15-20 MIN. WENT TO CATH LAB AGAIN, HAD ECHMO 
+	PLACED. SINCE THEN HAS BEEN UNRESPONSIVE. NO SEDATION
+Medications:	INSULIN, ZOSYN, HYDROCORTISONE. PROTONIX, VANCOMYCIN, ALBUMIN
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, comatose
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by severe 
+attenuation of all activity with absence of the expected anterior to posterior gradient of frequencies.
+  No normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic 
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, 
+tactile, or painful stimuli.  HR could not be seen.  There is a continuous rhtymic artifact during the 
+entire study likely realted to the assist machine.
+Summary of Findings:
+	Attenuation, continuous, severe diffuse
+Interpretation:
+This is an ABNORMAL EEG because of severe diffuse attenuation.  These findings are etiologically
+ nonspecific indicators of severe diffuse cerebral dysfunction.
+	
+

@@ -1,0 +1,142 @@
+HISTORY:
+
+20 y.o. female with a history of refactory epiepsy, vestibular migraine, and
+anxiety, referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+levETIRAcetam (KEPPRA) 750 mg tablet, Take 750 mg by mouth. 2 bid
+
+lacosamide (VIMPAT) 100 mg Tablet, Take 100 mg by mouth every 12 hours.
+
+
+verapamil (CALAN-SR) 180 mg CR tablet, Take 180 mg by mouth nightly.
+
+PARoxetine (PAXIL) 10 mg tablet, Take 10 mg by mouth every morning.
+
+venlafaxine (EFFEXOR) 25 mg tablet, Take 25 mg by mouth 3 times daily.
+
+
+folic acid (FOLVITE) 1 mg tablet, Take 1 tablet by mouth daily for 360 days.
+
+mometasone (ELOCON) 0.1 % ointment, Apply a thin film to itchy, scaly rash once daily after shower
+as needed. Not for use at face, armpits, groin.
+
+
+
+SEDATION: None
+
+
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by a high amplitude, fairly organized mixture of sharply
+contoured alpha, beta, and excess of delta frequencies. Occasionally, an irregular 8-8.5 Hz posterior
+dominant rhythm is seen. The normal anterior-to-posterior gradient of frequency and amplitude is
+present but suboptimal.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, with bursts of high amplitude sharply contoured theta and delta and further
+background slowing are seen.
+
+
+
+
+Sleep transients are not captured.
+
+
+Mild generalized slowing is present.
+
+
+Frequent bilateral independent and synchronous posterior quadrant polymorphic slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Occasional (1/hour to <1min) bioccipital independent (O1/O2 max) spike/polyspike and wave,
+activated by eyeblinks
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+mild diffuse symmetric background slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.  Patient became anxious and reported a panic
+attack and that her head was "jumping" during photic stimulation, particularly at 13 Hz. Photic
+driving with sharply contoured frequencies is noted during this time, but these findings do not outlast
+the photic flashes. Bilateral posterior quadrant slowing with embedded spikes is noted with flashes at
+15-21 Hz, which are similar in appearance to interictal findings and do not clearly outlast the flash,
+though may represent a photoparoxsymal response.
+
+
+
+
+
+
+
+
+EVENTS:
+
+See under
+
+
+No other events.
+
+
+
+HEART RATE:
+
+A heart rate of 78 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+1. Frequent bilateral independent and synchronous posterior quadrant polymorphic slowing
+
+
+2. Occasional (1/hour to <1min) bioccipital independent (O1/O2 max) spike/polyspike and wave,
+activated by eyeblinks and also noted during photic stimulation (possible photoparoxysmal response)
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of a bioccipital epileptogenic focus superimposed on bilateral
+posterior quadrant dysfunction and a mild diffuse cerebral dysfunction.

@@ -1,0 +1,121 @@
+ HISTORY:
+
+ Male Unknown White is a 45 y.o. male referred for routine EEG
+
+ while undergoing rewarming from hypothermia protocol. He was
+
+
+ found down in his car by EMS, surrounded by drug paraphenalia.
+
+ NULL
+
+ MEDICATIONS: aspirin, Plavix, heparin, protonix, humulin,
+
+
+ dextrose, epinephrine
+
+ NULL
+
+ SEDATION: as above
+
+
+ NULL
+
+ TECHNIQUE:
+
+ A 21 channel electroencephalogram (EEG) recording using the
+
+
+ International 10-20 system with T1/T2 electrodes was performed
+
+ utilizing a NicOne system. This was a technically satisfactory
+
+ record and included a single channel of EKG.
+
+
+ NULL
+
+
+
+
+ EEG BACKGROUND:
+
+ The background is suppressed and is contaminated by persistent
+
+
+ EKG artifact in all leads.  There is no evidence of variability
+
+ or reactivity to painful stimulation or to loud auditory
+
+
+ stimulus. There is no state change.
+
+ NULL
+
+ EPILEPTIFORM ACTIVITY:
+
+ No epileptiform activity is present.
+
+
+ NULL
+
+ OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+ None
+
+ NULL
+
+ ACTIVATION PROCEDURES:
+
+ NULL
+
+
+ Hyperventilation: Not performed
+
+ NULL
+
+
+ Photic Stimulation: Not performed
+
+ NULL
+
+ EVENTS:
+
+ There are no clinical or electrographic events captured during
+
+
+ this study.
+
+ NULL
+
+
+ HEART RATE:
+
+ A heart rate of 90 bpm is captured on a single EKG lead.
+
+ NULL
+
+ IMPRESSION:
+
+
+ This is an abnormal routine EEG due to:
+
+ 1. Suppressed background rhythms without evidence for
+
+
+ variability, reactivity, or state change
+
+ NULL
+
+ CLINICAL CORRELATION:
+
+ These findings indicate profound cerebral dysfunction, which may
+
+
+ be seen in the setting of hypothermia.
+
+ NULL
+
+
+ NULL

@@ -1,0 +1,157 @@
+HISTORY:
+
+42 y.o. male with a history of seizures since
+
+the age of 3, now occurring out of sleep with tongue biting
+
+
+(last: 2/12/16), referred for routine EEG for characterization of
+
+seizures.
+
+
+
+MEDICATIONS: Trileptal
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+NicOne system. This was a technically satisfactory record and
+
+included a single channel of EKG and photic stimulation.
+
+
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well
+
+
+organized symmetric mixture of alpha and beta frequencies, with a
+
+symmetric and reactive 10 Hertz posterior dominant rhythm (PDR).
+
+
+The normal anterior-to-posterior gradient of frequency and
+
+amplitude is present.
+
+
+During drowsiness, slow rolling eye movements, attenuation and
+
+
+fragmentation of the posterior dominant rhythm, and diffuse
+
+background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with
+
+synchronous and symmetric vertex waves, sleep spindles and
+
+K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.
+
+
+There is continuous bitemporal polymorphic slowing.
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Abundant (>1/10s) left fronto-temporal (T1>F7>T3>Fp1/F3)
+
+
+sharp-and-wave discharges. In sleep these occasionally have a
+
+broader field, extending to parasagittal regions (F3, C3, P3).
+
+
+2. Abundant (>1/10s) independent right fronto-temporal
+
+(T2>F8>T4>F4>Fp2) sharp-and-wave discharges
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is performed for 180
+
+seconds with good cooperation and produces mild diffuse symmetric
+
+
+background slownig.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+flashes per second (fps) does not produce any EEG changes.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during
+
+this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+
+1. Continuous bitemporal polymorphic slowing
+
+2. Abundant (>1/10s) left fronto-temporal (T1>F7>T3>Fp1/F3)
+
+sharp-and-wave discharges. In sleep these occasionally have a
+
+broader field, extending to parasagittal regions (F3, C3, P3).
+
+
+3. Abundant (>1/10s) independent right fronto-temporal
+
+(T2>F8>T4>F4>Fp2) sharp-and-wave discharges
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate the presence of both left and right
+
+independent fronto-temporal epileptogenic potential superimposed
+
+
+on bitemporal cerebral dysfunction.

@@ -1,0 +1,155 @@
+HISTORY:
+
+38 y.o. male with a history of anoxic brain injury and septic shock, who remains
+unresponsive with gaze deviation towards the right.
+
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+dextrose 50% injection 25 mL
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+
+insulin lispro (HumaLOG) injection 2-10 Units
+
+calcium gluconate 2 g in sodium chloride 0.9 % 100 mL IVPB
+
+dextrose 50% injection 25 mL
+
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+
+
+ceFAZolin (ANCEF) 2 g in dextrose 5 % in water 100 mL IVPB
+
+prismaSOL BGK (4 K / 2.5 Ca) dialysis solution
+
+
+famotidine (PF) (PEPCID) injection 20 mg
+
+prismaSOL BGK (4 K / 2.5 Ca) dialysis solution
+
+
+prismaSATE 4/2.5 dialysis solution 5,000 mL
+
+vasopressin (PITRESSIN) 100 Units in dextrose 5 % in water 250 mL infusion
+
+EPINEPHrine (ADRENALIN) 4 mg in dextrose 5 % in water 250 mL infusion
+
+norepinephrine (LEVOPHED) 16 mg/250 mL (64 mcg/mL) in NSS infusion
+
+
+DOPamine (INTROPIN) 800 mg/250 mL (3,200 mcg/mL) in D5W infusion
+
+phenylephrine (NEO-SYNEPHRINE) 160 mg in sodium chloride 0.9 % 250 mL infusion
+
+
+
+
+
+SEDATION: None- stopped ~3 hours prior to the EEG.
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+
+There is no PDR or AP gradient.
+
+
+The background consists of a burst-suppression pattern, with burst to suppression ratio of ~ 1:1-1.5.
+Bursts are ~1-2 seconds long.  The activity within the bursts is stereotyped and consists of frontally
+predominant generalized waveforms of triphasic morphology that are accompanied by lower
+amplitude polymorphic theta activity.
+
+
+
+
+
+No normal sleep architecture is captured.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+
+
+ACTIVATION PROCEDURES: There is no reactivity to visual, auditory, tactile, or noxious stimuli.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+EVENTS:
+
+There is persistent gaze deviation throughout the study.
+
+
+
+HEART RATE:
+
+
+A heart rate of 84 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+This is an abnormal comatose routine EEG due to:
+
+
+1. 1:1-1:1.5 burst-suppression pattern
+
+2. Lack of the background reactivity
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate severe diffuse cerebral dysfunction that is etiologically nonspecific.
+
+
+There is persistent gaze deviation throughout the study that has no ictal correlate.
+
+
+
+No electrographic seizures are captured.
