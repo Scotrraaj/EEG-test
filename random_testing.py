@@ -60,6 +60,3 @@ df.to_csv(r'Filtered.csv')
 print('TOTAL NUMBER OF TEXT FILES:', count)
 print('\n')
 print(df)
-
-#print(df.loc[df["Match"]=='1'])
-#print(tempdf.loc[tempdf["Matches"]=='1'])
