@@ -1,0 +1,483 @@
+HISTORY:
+
+This is a 34 y.o. right handed male admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: refractory epilepsy.
+
+
+He has a history of childhood, febrile convulsions persisting beyond the age of 6, a family history of a
+relative with febrile convulsion.  He has had long-term video EEG monitoring at several other
+centers across the world, with variable results.
+
+
+
+
+Seizures variably described as staring, loss of awareness.  He has been noted to have involuntary
+movements of the left arm without EEG correlate. Others with head turning to left followed by
+automatic behavior climbing out of the bed, foot shaking, and inability to recall  code word
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+
+
+
+
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+Facility-Administered Medications Ordered in Other Visits:
+
+
+clobazam (ONFI) tablet 20 mg
+
+zonisamide (ZONEGRAN) capsule 200 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+CBZ 1700 mg
+
+
+
+
+SEDATION:  None
+
+
+
+DAY 1 (10/05/2016- 10/6/2016, 06:00)
+
+
+
+BACKGROUND:
+
+
+The waking background is  continuous,  symmetric,  well-organized, and consists predominantly of
+Alpha with admixed beta and mild excess theta. Frequent eye blink was seen.
+
+
+
+Posterior dominant rhythm was present.
+
+
+The background is  reactive,  variable.
+
+
+
+There were  no persistent asymmetries in amplitude and frequency.
+
+
+
+Sleep was characterized by  symmetric sleep spindles and/or K-complexes.
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): Occasional wicket waves are noted during
+drowsiness over the temporal regions.
+
+
+
+EPILEPTIFORM ACTIVITY:Occasional (1/hour to <1min)
+
+
+
+1. Primarily in drowsiness, there are isolated, frontally predominant spike and wave complexes of 4
+Hz.  These are variable and may maximal in the left or right frontal region or bifrontal
+
+
+2. Bursts of 10-15 Hz activity seen primarily in stage 2 sleep, of 2-3 seconds duration,
+
+3. Bursts 12-24 Hz activity approx 3 seconds duration, stage 3 sleep
+
+
+ACTIVATION PROCEDURES: none
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+Abnormal due to the presence of generalized epileptiform activity which is faster than is commonly
+noted as well as excessive background theta.  No clinical seizures were noted
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY2 (Oct 6, 2016 06:00 - 10/7/2016, 06:00)
+
+BP 111/71  Pulse 73  Wt 86.6 kg (191 lb)  BMI (P) 30.16 kg/m2
+
+
+
+
+
+Facility-Administered Medications Ordered in Other Visits:
+
+  clobazam (ONFI) tablet 20 mg, 20 mg, Oral, BID, MD, 20 mg at 10/06/16 1818
+
+
+  zonisamide (ZONEGRAN) capsule 200 mg, 200 mg, Oral, BID, MD, 200 mg at
+10/06/16 1818
+
+
+Tech note: Bad Cz electrode
+
+BACKGROUND: No change
+
+
+
+GENERALIZED SLOWING: No chang
+
+FOCAL SLOWING: No change
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY:
+
+1. Primarily in drowsiness, there are isolated, frontally predominant spike and wave complexes of 4
+Hz.  These are variable and may maximal in the left or right frontal region or bifrontal
+
+
+2. Bursts of 10-15 Hz activity seen primarily in stage 2 sleep, of 2-3 seconds duration,
+
+3. Bursts 12-24 Hz activity approx 3 seconds duration, stage 3 sleep
+
+
+4. In wakefulness, despite Cz artifact there is a midline burst of 5-7 Hz activity, clearly defined at Pz,
+bursts less than 2 seconds
+
+
+EVENTS:
+
+1. Aura like event after 2 PM- patient was off monitor, even not captured. Patient was described by
+staff as staring.
+
+
+2. Seizure 5:19 PM- patient tells tech he felt like seizure coming on.  Normal EEG during the
+symptoms, but 5 Hz activity afterwards, 2 seconds duration.
+
+3.Seizure 09:22 PM- the patient is in the bathroom.  He says he is in the shower.  Four family
+members wait outside the close door.  The family is talking but it's hard to tell if they're talking to the
+patient. The door remains closed and the conversation continues.
+
+
+
+EEG: poorly localized 23 second seizure.  There is high amplitude paroxysmal 6 Hz activity in the
+frontal regions with then more evolution in the left frontal region.  The epileptiform activity seems to
+wax and wane a little bit. Bifrontal poly spikes were seen, as were some at Pz. EEG then returns to
+baseline. Background delta is noted 10 seconds after the abrupt end of the seizures. Cz artrifact.
+
+
+
+4. Seizure 09:23:59 patient remains in the bathroom with family discussing something outside the
+door quite avidly. The patient comes out of the bathroom at 09:28:33 to state that he feels a seizure
+coming on and is asking for help to push the button. At this time, the seizure is over. The PCA noted
+that the patient could not speak.
+
+
+He pushes the button at 09:29:17.
+
+
+EEG: 09:23:59 Rhythmic frontal 6 Hz activity is followed bu midline spikes, and then 7 seconds later
+by frontal polyspikes and fast activity. There is also Pz spiking later in the seizure. There is little post
+ictal change in the EEG. 10 seconds later there are intermittent bursts of delta, not sustained.  Brief
+bursts of 7 Hz midline spikes are seen. The patient remains confused for some time afterwards. The
+observers who worked with the patient noted that he could not speak after the event.
+
+
+
+EKG: A single EKG lead captured 78 BPM
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+Electrographic seizures were identified.  Unfortunately, the patient was in the bathroom during the
+seizures.  These seemed to be generalized bursts.  There is little postictal slowing but then
+generalized background slowing is seen later when the patient is confused.  This pattern would be
+unusual for a genetic, idiopathic generalized epilepsy.
+
+
+
+
+
+Of note, the patient didn't exactly know when he had the seizure.  He thought the seizure was about
+to happen when it had already occurred.
+
+
+-----------------------------------------------------------------
+
+
+DAY  3 (10/7/2016, 06:00 - 10/8/2016, 06:00)
+
+
+Meds: Depakote was added.
+
+BACKGROUND: No major  change  Alpha (PDR) is 7 Hz.
+
+
+
+GENERALIZED SLOWING: mild
+
+
+FOCAL SLOWING: None
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): There are brief burst of 7 Hz activity in
+wakefulness, which disappears in slceep
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: Less later on the 7th
+
+
+1. Primarily in drowsiness/ sleep isolated, frontally predominant spike and wave complexes of 4-7 Hz.
+These are variable and may maximal in the left or right frontal region or bifrontal
+
+2. Bursts of 10-15 Hz activity seen primarily in stage 2 sleep, of 2-3 seconds duration,
+
+
+3. Bursts 12-24 Hz activity approx 3 seconds duration, stage 3 sleep
+
+4. In sleep  there is a midline burst of 5-7 Hz activity, clearly defined at  Cz Pz, bursts less than 2
+seconds.
+
+
+5. Midline polyspikes in sleep
+
+6. 3-4 Hz spike and wave wake 8:58 AM
+
+
+
+EVENTS:
+
+Seizure (?)  Oct 7, 4:10- duration unclear  PM patient is awake, sitting in bed.  His head drops forward
+into the left, he then extends his right leg.  He has prolonged poor responsiveness, the nurse comes
+in and notes that he can answers questions but slowly.
+
+
+EEG: Initially during this event, there is no clear EEG change, the background remains somewhat
+slow as is his baseline.  At 4:11:05, he continues to sit with his head slumped forward and his left arm
+shaking.  There is no definitive ictal pattern but the EEG is somewhat slower than it had been. By
+4:20 the patient resumed eating, but is intermittently confused
+
+
+
+
+
+5:00 PM Confused- 3 Min 19 seconds, no clear EEG change.
+
+PBs: many 8 PM to 9 PM for vomiting, or feeling unwell. Parents in the room. EEG unchanged,
+patient responsive.
+
+
+EKG: A single EKG lead captured   50-90 BPM
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+
+
+No additional seizures with clear EEG correlate, but ongoing epileptiform discharges in sleep.
+
+The behavioral event has some lateralizing features and some EEG changes.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 4 (10/9/2016, 06:00 - 10/10/2016, 14:00)
+
+BP 111/71  Pulse 73  Wt 86.6 kg (191 lb)  BMI (P) 30.16 kg/m2
+
+
+
+Facility-Administered Medications Ordered in Other Visits:
+
+  divalproex (DEPAKOTE SPRINKLES) capsule 375 mg, 375 mg, Oral, Q12H SCH,
+MD
+  ondansetron (PF) (ZOFRAN) injection 4 mg, 4 mg, Intravenous, Q6H PRN,, MD, 4
+mg at 10/09/16 0930
+
+
+  clobazam (ONFI) tablet 20 mg, 20 mg, Oral, BID,  MD, 20 mg at 10/09/16 1730
+
+  zonisamide (ZONEGRAN) capsule 200 mg, 200 mg, Oral, BID,  MD, 200 mg at
+10/09/16 1730
+
+
+
+
+BACKGROUND: None
+
+GENERALIZED SLOWING: None
+
+FOCAL SLOWING: None
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): in sleep, paroxysmal 7 Hz activity was noted
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY:
+
+There is less epileptiform activity which includes
+
+1. Generalized spike and wave discharges, maximal at midline
+
+
+2. Bursts of paroxysmal fast activity- seen in sleep, often 10-20 Hz
+
+3. 7 Hz repetitive activity
+
+4. Bursts of Polyspike or fast activity or spiky theta less than 5 seconds in sleep
+
+
+
+
+EVENTS: multiple pushbuttons for nausea and other complaints of feeling unwell without EEG
+change.
+EKG: A single EKG lead captured 60 BPM
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION
+
+
+No additional seizures.  Multiple pushbuttons for medication related nausea and other somatic
+complaints during which the patient was interactive.
+
+This study continues to show prominent epileptiform activity and sleep but was most bursts less than 3
+seconds in duration.  The epileptiform activity is somewhat unusual in that it comprises bursts of
+remarkably fast activity.
+
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+Interictal Findings:
+
+There are many different epileptiform discharges noted in this record but all are features of a
+generalized epilepsy including:
+
+
+Spike and wave activity
+
+Polyspike activity
+
+Bursts of paroxysmal 7 Hz, 10 Hz and 20 Hz activity noted in sleep
+
+
+Slow background, with slow alpha rhythm.
+
+Ictal Findings:
+
+The patient had 2 clinical events while hooked up to continuous video EEG monitoring in the
+epilepsy monitoring unit.  However he was in the bathroom for both events
+
+
+SEIZURE DIAGNOSIS:
+
+1.  Generalized seizures.
+
+
+2. Events with left arm tremor of unclear significance.  The event is much more prolonged than one
+would expect to see in the seizure.  There didn't seem to be some slowing noted later in the event
+that there was no clear epileptiform signature.
+
+
+
+EPILEPSY DIAGNOSIS and management plan :
+
+
+1.Generalized epilepsy, unusual in nature. Consideration for a secondary generalized process vs
+genetic process (channelopathy) should be investigated.  The patient states that he feels that his
+epilepsy does better with carbamazepine, unusual if this was an inherited generalized process.This
+patient received a Depakote load and sustain high levels of Depakote tell the dose was adjusted
+downward.
+
+
+
+CONCLUSION: Medically refractory epilepsy, potentially genetic versus secondary generalized
+process.
+Additionally, unusual behavioral spell involv ing shaking of the left arm without definitive EEG
+signature, as has been previously reported by others.
+

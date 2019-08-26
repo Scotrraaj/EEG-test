@@ -1,0 +1,100 @@
+HISTORY:
+
+36 y.o. male with a history of seizures since 2006. Patient states his last seizure
+was 3 1/2 weeks ago. Per the patient they always occur in the morning. He is referred for routine EEG
+for characterization of seizures.
+
+
+
+
+MEDICATIONS: Tegretol, Lyrica
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9.5 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing with bursts of theta activity are seen.
+
+
+
+
+Sleep is not captured
+
+
+No generalized slowing is present.
+
+
+Occasional left temporal polymorphic slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+mild diffuse symmetric background slowing.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and drowsy routine EEG due to:
+
+1. Occasional left temporal polymorphic slowing
+
+
+
+CLINICAL CORRELATION:
+
+These findings are etiologically nonspecific indicators of left temporal cerebral dysfunction.

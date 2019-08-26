@@ -1,0 +1,113 @@
+HISTORY:
+
+68 y.o. female with a history of MI x2, found unresponsive referred for routine EEG
+for assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+
+No current facility-administered medications for this visit.
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+
+potassium chloride IVPB 20 mEq 100 mL
+
+propofol (DIPRIVAN) 1000 mg/100 mL IV infusion
+
+potassium chloride IVPB 20 mEq 100 mL
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+albuterol (PROVENTIL) nebulizer solution 2.5 mg
+
+
+amiodarone (CORDARONE) 150 mg in sodium chloride 0.9 % 100 mL IVPB
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+The patient was intubated and unresponsive during the study. Background consists of low amplitude
+20-30 Hz activity, maximum over central and posterior scalp regions. A large amount of 30-40 uV
+1.3-3 Hz activity is seen anteriorly, with large amounts of superimposed frontotemporal muscle and
+occasional frontal eyeblink artifact.
+
+
+
+
+
+With auditory or tactile stimulation, increased low voltage 10 Hz activity over central scalp regions
+and increased muscle and eye movement artifact are noted.
+
+
+
+No focal or lateralized slowing are present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal drowsy and asleep EEG due to:
+
+
+1. Diffuse background slowing and disorganization.
+
+
+CLINICAL CORRELATION:
+
+
+
+
+These findings are nonspecific and indicate the presence of moderate bihemispheric cortical
+dysfunction such as that seen with generalized encephalopathies of various etiologies. No clinical or
+electrographic seizures and no paroxysmal epileptiform discharges were recorded.

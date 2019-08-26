@@ -1,0 +1,301 @@
+HISTORY:
+
+65 y.o. female with a history of left MCA stroke and epilepsy, presenting with
+acute onset aphasia and right hemiparesis in the setting of negative perfusion imaging, referred for
+EEG for screening for subclinical seizures.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+divalproex (DEPAKOTE ER) 24 hr tablet 1,000 mg
+
+lacosamide (VIMPAT) tablet 200 mg
+
+
+levETIRAcetam (KEPPRA) tablet 1,500 mg
+
+aspirin chewable tablet 81 mg
+
+FLUoxetine (PROZAC) capsule 10 mg
+
+
+heparin (5000 units/mL) injection 5,000 Units
+
+hydrochlorothiazide (MICROZIDE) capsule 12.5 mg
+
+dextrose 50% injection 25 mL
+
+
+
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+
+insulin lispro (HumaLOG) injection 1-5 Units
+
+pantoprazole (PROTONIX) EC tablet 40 mg
+
+
+rosuvastatin (CRESTOR) tablet 40 mg
+
+traZODone (DESYREL) tablet 50 mg
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+
+
+SEDATION: s/p ativan 2 mg
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with
+T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and
+included a single channel of EKG.
+
+
+
+
+
+DAY 1 (8/5/2016, 13:12 - 8/6/2016, 06:00)
+
+
+
+BACKGROUND:
+
+The waking background is continuous and asymmetric.
+
+The right hemisphere consists of a fairly organized mixture of alpha and beta, with a reactive
+posterior dominant rhythm of 9 Hz.
+
+
+The left hemisphere consists of attenuated delta activity with admixed faster frequencies, without a
+posterior dominant rhythm.
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and further
+background slowing are seen.
+
+
+
+Sleep is characterized by spindles and K complexes that are seen better over the right hemisphere.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Continuous periodic polyspike-wave (LPD+FR) over the left posterior quadrant occurring every 1 Hz
+
+
+
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single lead captured a heart rate in the 70s-80s
+
+
+
+IMPRESSION:
+
+This is an abnormal long term video EEG due to:
+
+1. Suboptimal organization
+
+2. Continuous attenuation and slowing over the left hemisphere
+
+
+3. Continuous lateralized periodic discharges over the left posterior quadrant
+
+
+
+CLINICAL CORRELATION:
+
+These findings are indicative of left posterior quadrant highly epileptogenic potentials superimposed
+on left hemisphere cortical dysfunction and mild diffuse cerebral dysfunction. No clinical or
+electrographic events were reported or detected.
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (8/6/2016, 06:00 - 8/7/2016, 06:00)
+
+
+BACKGROUND: No change
+
+
+Note that L hemispheric leads are uninterpretable due to artifact on 8/6 from 14:58-16:48, and 8/6
+20:12-21:48
+
+
+
+GENERALIZED SLOWING: No change
+
+
+
+FOCAL SLOWING: No change
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: No change
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single EKG lead captured a heart rate in the 60s-70s
+
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+
+No change from day 1.
+
+Limited study during times noted above.
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (8/7/2016, 06:00 - 8/8/2016, 06:00)
+
+
+
+BACKGROUND: No change
+
+Leads are disconnected 8/8 01:40-03:48, 8/8 04:37-05:04.
+
+
+
+GENERALIZED SLOWING: No change
+
+
+
+FOCAL SLOWING: No change
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: no change
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+EKG: A single EKG lead captured a heart rate in the 70s
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+
+
+
+No change.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 4 (8/8/2016, 06:00 - 8/8/2016, 08:52)
+
+
+
+BACKGROUND: No change
+
+
+
+GENERALIZED SLOWING: No change
+
+
+FOCAL SLOWING: No change
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: no change
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single EKG lead captured a heart rate in the 70s
+
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION
+
+
+
+No change.
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+FINAL IMPRESSION:
+
+
+
+This is an abnormal video EEG due to:
+
+
+1. Suboptimal organization
+
+2. Continuous attenuation and slowing over the left hemisphere
+
+
+3. Continuous lateralized periodic discharges over the left posterior quadrant
+
+
+FINAL CLINICAL CORRELATION:
+
+These findings are indicative of left posterior quadrant highly epileptogenic potentials superimposed
+on left hemisphere cortical dysfunction and mild diffuse cerebral dysfunction. No clinical or
+electrographic events were reported or detected.

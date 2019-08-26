@@ -1,0 +1,454 @@
+HISTORY:
+
+She is a 40 yo woman with intractable localization related
+
+
+epilepsy here for presurgical evaluation.
+
+
+Seizure description:
+
+
+Type 1: Aura: Left eye twitching, whole body begins to tremble.
+
+Her eyes then roll back and she losses consciousness, bites her
+
+tongue and exhibits jerking of all four limbs. The seizure can
+
+
+lasts about 5-10 minutes but she may have 2-3 episodes in a row.
+
+After the seizure she is irritable has slurred speech intensity
+
+confused/disoriented for about 15 minutes. Her current frequency
+
+
+is weekly. They also occur from sleep.
+
+
+
+
+
+AED's:
+
+
+Depakote ER
+
+Topamax
+
+
+
+Previous AED's: Depakote (not for seizures). Stopped tegretol.
+
+
+Risk Factors: No difficulties with birth or premature delivery,
+
+
+no developmental delay, no febrile seizures, Positive family
+
+history in her mother after head trauma and daughter at 11, no
+
+
+CNS infections
+
+
+Headaches:
+
+Still In the left temporal region but can move around with an
+
+
+pulsating pressure intensity with an intensity of 10/10.
+
+Aggravated by her menses, photophobia, osmophobia, phonophobia
+
+
+and nausea. They last 1 hour occurring 3-4 times a week. No
+
+improvement with Depakote.
+
+
+Daily excedrin and tylenol
+
+
+
+
+
+EEG's:
+
+7/20/12: Rhythmic background slowing, left temporal sharp waves
+
+03/12/13: Mild diffuse slowing and left temporal slowing.
+
+
+
+Imaging:
+
+MRI
+
+
+06/30/2014:
+
+Impression: No findings of mesial temporal sclerosis or other
+
+etiology
+
+for epilepsy.
+
+
+
+MRI 04/05/2004:
+
+
+Impression:
+
+Essentially unremarkable MRI examination of the brain.
+
+
+Paranasal sinus disease as described above
+
+
+
+MRA 04/05/2004:
+
+Impression:
+
+
+No evidence of aneurysm. Unremarkable MRA of the
+
+circle-of-Willis.
+
+
+
+
+
+Continuous video EEG is initiated for:  Recording of seizures for
+
+presurgical evaluation.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more
+
+of the following reasons:
+
+- The patient is having medically uncontrolled seizures or
+
+
+clinical events, which poses a significant mortality and
+
+morbidity risk.  Continuous monitoring will aid in diagnosis and
+
+
+determining best treatment options.  If seizures are left
+
+untreated, there is a 10-20% annual morbidity and 2% annual
+
+mortality rate.
+
+- Continuous monitoring is required to capture a sufficient
+
+
+number of clinical events or seizures, while medication are
+
+reduced or provoked, which increases the risk of severe seizures
+
+
+and at risk of seizures causing injury or status epilepticus;
+
+- The EMU is set up to monitor and record EEGs during seizures
+
+and it includes nurses trained to provide first aid and patient
+
+safety during seizures;
+
+
+- The full hospital team must be present to deal with these
+
+medical emergency situations should they arise, including nurses
+
+
+to document patients exam
+
+(9) there have been 13 reported deaths during various video-EEG
+
+monitoring procedures, so this is not a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of
+
+
+monitoring.  The patient then underwent continuous CCTV/EEG
+
+monitoring using a cable telemetry system.  Scalp electrodes were
+
+
+placed and secured with collodion according to the 10-20
+
+international electrode system.  Additionally, T1, F9, T9, P9,
+
+
+T2, F10, T10, and P10 electrodes were placed in this patient.
+
+Sphenoidal electrodes were not used in this case.  Impedances
+
+
+were measured and verified to be below 5 Kohms.  EEG activity was
+
+recorded referentially to vertex reference, digitized, and stored
+
+to computer hard drive.  Periods of interest were subsequently
+
+reformatted to the montage of interest and reviewed in detail.
+
+
+
+
+Staff supervision, patient-initiated event buttons and
+
+
+computerized algorithms allowed detection of epileptiform EEG
+
+activity and correlation with behavior.  For approximately 8
+
+hours each day the patient was attended by an EEG technician.  A
+
+neurologist was available in person or on call 24 hours per day.
+
+
+The patient was monitored via video 24 hours per day by a
+
+registered nurse with special training in seizure recognition and
+
+
+testing.  During times when a technician was not available, EEG
+
+recording, video recording, and computer analysis continued, and
+
+nursing performed seizure testing and electrode maintenance.
+
+
+
+The Gotman spike and seizure detection computer program
+
+(trademark named
+
+
+time for electrographic seizures and interictal discharges.
+
+Samples of EEG were recorded periodically.  Detections were
+
+reviewed in detail by attending neurologist.  All events and
+
+detections, as well as selected samples, were stored to external
+
+
+hard drive media.
+
+
+
+CURRENT MEDICATIONS:
+
+Topamax 100 mg q12h
+
+VPA 500 mg in AM, 1000 mg qhs
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (3/21/2016, 10:58 - 3/22/2016, 06:00)
+
+
+
+AEDs 3/21:
+
+VPA 500 mg in AM, 500 mg in PM
+
+
+TOP 100 mg q12h
+
+
+
+BACKGROUND:
+
+
+The waking background is continuous, symmetric, fairly-organized,
+
+and consists predominantly of alpha with admixed beta.
+
+
+
+Posterior dominant rhythm was present at 9 Hz.
+
+
+
+The background is reactive, variable.
+
+
+There were no persistent asymmetries in amplitude and frequency.
+
+
+
+In drowsiness there is fragmentation of the posterior dominant
+
+
+rhythm, with intrusions of sharply contoured theta and
+
+occasionally delta.
+
+
+Sleep was characterized by symmetric sleep spindles and
+
+
+K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Rare left anterior temporal (F7/T1 max) spike and wave
+
+
+discharges,
+
+activated by sleep
+
+
+2. A single right temporal (T4>F8 max) sharp and wave discharge,
+
+in sleep
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+
+are not performed.
+
+
+
+
+
+EVENTS: No clinical or electrographic events were reported or
+
+
+detected.
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+This is an abnormal video EEG due to:
+
+
+1. Suboptimal organization
+
+2. Rare left anterior temporal (F7/T1 max) spike and wave
+
+discharges,
+
+activated by sleep
+
+
+3. A single right temporal (T4>F8 max) sharp and wave discharge,
+
+in sleep
+
+
+
+These findings indicate the presence of left anterior temporal >
+
+right temporal epileptogenic discharges.
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (3/22/2016, 06:00 - 3/23/2016, 8AM)
+
+
+
+AEDs 3/22:
+
+
+VPA 500 mg in AM, 0 mg in PM
+
+TOP 100 mg q12h
+
+
+INTERICTAL BACKGROUND:
+
+
+The bilateral posterior dominant rhythm is symmetric and reaches
+
+9 Hz.  Suboptimal organization persists.
+
+
+
+Sleep is characterized by normal sleep transients, with
+
+synchronous and symmetric vertex waves, sleep spindles and
+
+K-complexes. Slow wave sleep was not captured..
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Occasional left anterior temporal (F7/T1 max) spike and wave
+
+discharges, activated by sleep
+
+
+2. Rare right temporal (T4>F8 max) sharp and wave discharge, in
+
+sleep
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during
+
+this study.
+
+
+EKG: A single lead captured a heart rate in The 90s-100s
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+
+Similar to day 1.
+
+Mild tachycardia noted.
+
+
+These findings indicate the presence of left anterior temporal >
+
+
+right temporal epileptogenic discharges.
+

@@ -1,0 +1,159 @@
+HISTORY:
+
+47 y.o. female with a history of seizures
+
+(described as
+
+
+baseline
+
+characterization of seizures.
+
+
+
+MEDICATIONS: Keppra 500 mg q12h
+
+
+SEDATION: none
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+NicOne system. This was a technically satisfactory record and
+
+included a single channel of EKG and photic stimulation.
+
+
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well
+
+
+organized symmetric mixture of alpha and beta frequencies, with a
+
+symmetric and reactive 9.5 Hertz posterior dominant rhythm (PDR).
+
+
+The normal anterior-to-posterior gradient of frequency and
+
+amplitude is present.
+
+
+During drowsiness, slow rolling eye movements, attenuation and
+
+
+fragmentation of the posterior dominant rhythm, and diffuse
+
+background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with
+
+synchronous and symmetric vertex waves. Stage II and slow wave
+
+sleep were not captured.
+
+
+
+No generalized slowing is present.
+
+
+Occasional subtle focal slowing is present in the left temporal
+
+region during hyperventilation.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. A 4.6-second burst of frontally-predominant 3.5 Hz generalized
+
+monomorphic spike and wave activity is seen 1 minute after
+
+
+hyperventilation. The patient immediately follows a command to
+
+open her eyes.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is performed for 180
+
+seconds with good cooperation.and accentuates mild slowing in the
+
+
+left temporal region. One minute after hyperventilation, the
+
+burst of generalized spike-wave described above is seen.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+
+flashes per second (fps) does not produce any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during
+
+
+this study.
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Occasional subtle focal slowing in the left temporal region
+
+during hyperventilation
+
+2. Burst of frontally-predominant 3.5 Hz generalized monomorphic
+
+
+spike and wave activity is seen 1 minute after hyperventilation,
+
+without clinical signs
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate the presence of a generalized
+
+epileptiform disorder and are characteristic of
+
+
+idiopathic/genetic generalized epilepsy, but there is also
+
+evidence of a superimposed left temporal cerebral dysfunction.

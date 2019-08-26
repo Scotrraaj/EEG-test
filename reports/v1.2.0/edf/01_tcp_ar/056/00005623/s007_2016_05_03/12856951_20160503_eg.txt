@@ -1,0 +1,123 @@
+HISTORY:
+
+64 y.o. male with a history of seizures, referred for routine EEG after a fall
+with possible seizure. Patient noted to have a glucose in 600s.
+
+
+
+MEDICATIONS: Dilantin, Isordil, Insulin
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+Most of the study consists of drowsiness and sleep.
+
+
+
+
+
+
+
+
+During brief nonsustained periods of wakefulness, the background appears reactive and at least fairly
+organized, with a predominance of low voltage fast activity. A sustained posterior dominant rhythm is
+not observed.
+
+
+
+
+There is no definite focal slowing.
+
+
+Sleep is characterized by synchronous and symmetric sleep spindles and K complexes.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+EVENTS: a single seizure is captured as described below:
+
+5/3/2016 at 11:02 (duration: 4 min 2 sec)
+
+CLINICAL: there is no clinical change until 44 seconds into electrographic onset, when patient
+appears to have small arousal from sleeping state.  Note that patient does not respond to verbal
+stimulation prior to this.  There is no further clinical change until 112 seconds into electorgraphic
+onset at which point he makes small chewing motions, then coughs repeatedly.
+
+
+
+EEG: there is a buildup of rhythmic alpha, broadly distributed over the left temporal chain that slows
+in frequency to theta, then delta while increasing in amplitude. This ictal activity spreads over the
+left parasagittal chain before it develops spikes over the left temporal chain. By 44 seconds, the EEG
+is obscured by diffuse muscle activity that resolves by 72 seconds. At this point there is 3 Hz quasi-
+rhythmic spike-wave activity over the left hemisphere that slows to 2.5 Hz before resolving. There is
+no definite focal attenuation/slowing postictally.
+
+
+
+
+EKG: no change in HR
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal drowsy and asleep 23-minute routine EEG due to:
+
+1. Suboptimal organization during brief nonsustained wakefulness
+
+
+2. A single seizure of left temporal origin with few, if any, associated clinical signs
+
+
+CLINICAL CORRELATION:
+
+
+
+
+These findings demonstrate epileptogenicity of left temporal origin, with a single 4 min 12 sec
+seizure captured during this 23-minute EEG. A prior long term EEG performed in 11/2015 also
+demonstrated left temporal seizures.
+
+
+There is additional evidence during this study for mild diffuse cerebral dysfunction during a brief
+nonsustained period of wakefulness.
+
+
+If clinically warranted, prolonged monitoring or a repeat study may be of value to assess for ongoing
+epileptic activity. These findings were communicated to the treatment team.

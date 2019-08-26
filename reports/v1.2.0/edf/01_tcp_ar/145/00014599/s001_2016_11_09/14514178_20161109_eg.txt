@@ -1,0 +1,128 @@
+HISTORY:
+
+20 y.o. female with a history of seizure on 11/5/16 without prior history (out of
+sleep, tongue biting, tearful, vomiting per mother) referred for routine EEG for characterization of
+seizures.
+
+
+
+
+MEDICATIONS:
+
+No current outpatient prescriptions on file.
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9-10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and bursts of sharply contoured theta with diffuse background slowing are seen.
+Note that some of these bursts occur in close temporal proximity to definite wakeful states.
+
+
+
+Note that there is near continuous vertical and lateral eye movement artifact seen throughout the
+record, even during bursts of theta frequencies in drowsiness.  Some of these bursts are sharply
+contoured and appear to have spike activity, but spike activity may represent artifact (i.e., lateral
+rectus spikes).
+
+
+
+
+Sleep is not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No definite epileptiform activity is present.  However, please note background has sharply contoured
+theta bursts and near continuous vertical eye movement, and epileptiform activity may be "buried" in
+these waveforms.
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+bilaterally synchronous slow waves.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) produced
+synchronous and symmetric photic driving, which is a normal finding.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+
+IMPRESSION:
+
+
+This is an essentially normal awake and drowsy 1-hour EEG, though a mild diffuse cerebral
+dysfunction cannot be ruled out.  Please see body of report for details.  There are no clinical or
+electrographic events reported or detected.
+
+
+
+CLINICAL CORRELATION:
+
+
+This is an essentially normal awake and drowsy 1-hour EEG, though a mild diffuse cerebral
+dysfunction cannot be ruled out.
+
+
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+A recording capturing sleep is recommended to assess bifrontal regions as interpretation over these
+regions is limited by near constant vertical and horizontal eye movement.

@@ -1,0 +1,103 @@
+HISTORY:
+
+57 y.o. male with a history of right temporal lobe hemorrhage and resultant focal
+epilepsy, noncompliant with home AEDs (reportedly taking Keppra 1000 mg daily instead of q12h),
+presenting with multiple convulsions and intubated, referred for routine EEG for management of
+seizure exacerbation.  Stat bedside EEG requested as patient was quite aggressive and having
+intermittent desaturation.
+
+
+
+
+
+MEDICATIONS:
+
+Keppra 1500 mg q12h
+
+
+Ativan
+
+Versed
+
+
+
+SEDATION: as above, initially on propofol drip
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND, EPILEPTIFORM ACTIVITY, EVENTS:
+
+
+The record opens to a symmetric but disorganized mix of predominantly alpha and beta with
+admixed theta. Technician does not stimulate patient as he is overly aggressive.  There is no clear
+reactivity.
+
+
+There are continuous left fronto-temporal (F7 max) sharp waves, often reflecting over the right
+temporal region, periodic at 1 Hz (lateralized periodic discharges, LPDs). These frequently dissolve
+into semi-rhythmic theta with admixed fast frequencies without definite evolution, for up to 13 sec at
+a time. Occasionally these evolve into electrographic seizures.  There is no associated clinical
+correlation.
+
+
+
+There are very frequent additional runs of semi-rhythmic right fronto-temporal (F8/T4 max) sharply
+contoured theta with admixed faster frequencies, for up to 30 seconds, at times evolving into
+electrographic seizures.
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+HEART RATE:
+
+
+A heart rate of 96 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal asleep only routine EEG due to:
+
+1. Severe generalized slowing, disorganization, with lack of clear reactivity
+
+2. Continuous left temporal periodic discharges, occasionally evolving into left temporal
+electrographic seizures
+
+
+3. Very frequent right temporal runs of semirhythmic theta, at times evolving into right temporal
+electrographic seizures
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings are diagnostic for bi-temporal independent epilepsy with ongoing electrographic
+seizures of both independent left and right temporal origin.  There is additional evidence for severe
+diffuse cerebral dysfunction, which may at least in part be related to sedating medications.
+
+
+
+
+These findings were communicated to the treating team and medication adjustments were made.
+The patient was transferred to long term monitoring.

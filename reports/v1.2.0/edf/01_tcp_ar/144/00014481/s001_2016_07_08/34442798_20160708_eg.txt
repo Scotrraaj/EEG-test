@@ -1,0 +1,113 @@
+HISTORY:
+
+48 y.o. male with a history of lymphoma referred for routine EEG for evaluation
+of altered mental status and choreiform movements.
+
+
+
+MEDICATIONS:
+
+
+No current outpatient prescriptions on file.
+
+No current facility-administered medications for this visit.
+
+
+
+
+
+SEDATION: 3 mg Ativan
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory record
+and included a single channel of EKG and tactile stimulation. The patient has involuntary
+movements of the left arm and we placed EMG electrode on L arm.
+
+
+
+
+
+
+EEG BACKGROUND:
+
+The background is characterized by two patterns. There is a low voltage featureless pattern with
+frontal 8-11 hz activity, without clear posterior dominant rhythm. Initially there is a beta asymmetry
+with more beta on the left than the right. Intermittently in wakefulness the overall background is
+primarily a diffuse alpha-theta pattern with prominent frontal alpha and a small amount of shifting
+arrhythmic delta.
+
+
+
+
+
+Sleep is identified later in the record as the ativan becomes effective and is characterized by an
+increase in beta and rhythmic slowing. Deeper stages of sleep include low to medium amplitude
+delta pattern.
+
+
+Electrode artifacts and muscle twitch artifact persist into sleep.
+
+
+
+Significant generalized slowing is present.
+
+In terms of focal slowing, asymmetry is present only in the beginning of the record after the patient
+has received ativan.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Tactile stimulation of the patient produced beta, muscle artifact, and
+involuntary movements of the left arm with facial twitching.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Significant generalized slowing
+
+
+2. Replacement of normal background with mixed frequency background without posterior dominant
+rhythm
+
+3. Right sided attenuation of beta noted only briefly at the start of the record
+
+
+
+CLINICAL CORRELATION:
+
+
+
+
+The ativan may have contributed to the pattern described. No epileptiform features. Stimulation of
+the patient elicited involuntary left arm movements.

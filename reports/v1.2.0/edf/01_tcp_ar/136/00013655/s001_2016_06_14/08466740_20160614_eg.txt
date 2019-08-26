@@ -1,0 +1,70 @@
+HISTORY:
+
+57 y.o. female who was transferred from an outside hospital, referred for routine
+EEG for assessment of mental status change.
+
+
+
+MEDICATIONS: lasix, lantus, ISS, Levothyroxine
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically unsatisfactory
+record due to diffuse muscle artifact obscuring all cerebral leads; the study also included a single
+channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+
+The background is entirely uninterpretable due to diffuse high amplitude muscle artifact obscuring
+all leads despite the technician re-checking all connections.  The ordering team was notified about
+this artifact and canceled the study.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Unable to interpret
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Unable to interpret
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+
+There are no clinical events captured during the study.
+
+Presence of electrographic events cannot be interpreted due to muscle artifact.
+
+
+HEART RATE:
+
+
+A heart rate of 96 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION / CLINICAL CORRELATION:
+
+This is an uninterpretable 12 min 10 sec EEG. Cerebral rhythms were entirely obscured by diffuse
+high amplitude muscle artifact.

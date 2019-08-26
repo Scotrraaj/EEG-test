@@ -1,0 +1,220 @@
+START DATE OF STUDY: 01/07/2016 12:09
+
+STOP DATE OF STUDY: 01/09/2016 02:40
+
+
+RECORDING ENVIRONMENT: ICU
+
+
+
+
+
+HISTORY:
+
+a 61 y.o. male with a history of TB vs
+
+Bronchopneumonia, s/p code prior at approximately 6 AM on Jan ,
+
+
+2015 referred for routine EEG for hypothermia protocol.
+
+
+
+MEDICATIONS:
+
+
+
+
+SEDATION:
+
+
+
+
+TECHNIQUE:
+
+Continuous video EEG monitor 21 channel electroencephalogram
+
+(EEG) was recorded using the International 10-20 system with
+
+
+T1/T2 electrodes and utilized a NicOne system. This was a
+
+technically satisfactory record and included a single channel of
+
+EKG and limited tactile stimulation.  ECHMO artifact was noted
+
+
+
+
+
+
+
+DAY 1 (1/7/2016 12:09 - 1/8/2016 06:00)
+
+The patient has already been cooled to 33 degrees at the start of
+
+
+the EEG.
+
+
+
+
+EEG BACKGROUND:
+
+The EEG pattern is essentially suppressed, without signficant
+
+reactivity or variability.  ECHMO and ICU artifacts are noted
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during
+
+
+this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+
+Day 1 IMPRESSION/ CLINICAL CORRELATION:
+
+
+Suppressed cerebral pattern in the context of therapeutic
+
+hypothermia
+
+
+
+Attending Epileptologist: 
+
+
+I have personally reviewed this study, and this report represents
+
+my findings and conclusions.
+
+
+
+
+
+
+-----------------------------------------------------
+
+
+
+
+DAY 2 (1/8/2016 06:00 - 1/9/2016 02:40)
+
+
+
+
+EEG BACKGROUND, EKG, EVENTS:
+
+The EEG pattern is essentially suppressed, without signficant
+
+reactivity or variability.
+
+
+
+
+Heart rate-related artifact obscures interpretation of cerebral
+
+rhythms over the entire left temporal chain as well as Fz, Cz,
+
+
+Pz.
+
+
+
+
+Severe diffuse slowing is present.
+
+No definite focal slowing is present, though as noted above,
+
+
+interpretation of cerebral rhythms over the left temporal chain
+
+rhythms is impossible.
+
+
+
+
+Note that when reading under standard sensitivities, much of the
+
+heart rate-related artifact resolves by 1/8/2016 15:53. However,
+
+study remains technically difficult to
+
+
+interpret due to artifact over T4 and T5.
+
+
+
+
+A heart rate in the 90s is captured on a single EKG lead.
+
+
+
+As the study progresses past about 21:00, cardiac and cerebral
+
+rhythms become increasingly suppressed.  When reviewed under
+
+
+higher sensitivities, heart-rate related artifact continues to
+
+affect interpretation of cerebral rhythms over bilateral temporal
+
+
+chains as well as Fp1-F3, Fp2-F4, P4-O2.    This artifact
+
+gradually decreases in amplitude beginning about 01:15 on
+
+1/9/2016.  At 02:32 on 1/9/2016, the amplitude of the heart
+
+rate-related artifact abruptly decreases. Following this, cardiac
+
+
+activity followed by cerebral rhythms become completely
+
+suppressed. Study stops at 02:40.
+
+
+
+
+
+
+Day 2 IMPRESSION/ CLINICAL CORRELATION:
+
+
+
+
+This study, though limited in interpretation due to heart
+
+rate-related artifact captures a severe diffuse cerebral
+
+
+dysfunction. On 1/9/2016 02:32, heart rate-related artifact
+
+abruptly decreases in amplitude. Following this, cerebral rhythms
+
+become increasingly suppressed. By the time of study cessation at
+
+02:40, there is no evidence of cardiac or cerebral activity. This
+
+
+finding is consistent with cardiac arrest.
+
+
+
+
+Attending Epileptologist: 
+
+I have personally reviewed this study, and this report represents my findings and conclusions.
+

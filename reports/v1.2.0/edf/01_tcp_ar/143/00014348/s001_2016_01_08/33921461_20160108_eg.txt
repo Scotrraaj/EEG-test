@@ -1,0 +1,25 @@
+History:	25 yer old woman with a history of childhood absence seizures.  Seizure-free for 
+	many years, now with a recent convulsion.
+Medications:	no AEDs
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, hyperventilation, photic
+Description:
+Waking background is characterized by a 25-40uV, 11Hz alpha rhythm, which attenuates 
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over 
+bilateral frontal regions.  During brief drowsiness, the alpha rhythm attenuates, and 5-7Hz slow 
+No focal slowing is present.  Several 0.5-1 second bursts of fast (~4.5-5 Hz) generalized frontally 
+predominant spike and wave discharges are captured.  On a single occasion (at 1:59:37 PM) an 
+isolated moderate amplitude left frontocentral (F3/C3 maximal) spike with aftergoing slow wave is 
+Hyperventilation is performed for 240 seconds with good cooperation, and produces no effect.  
+Stepped photic stimulation from 1-21 flashes per second (fps) does not produce additional 
+Summary of Findings:
+	Spike-and-wave complexes, fast
+	Spikes, one, left, frontocentral
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy 23-minute EEG due to several bursts of fast 
+generalized spike-and-wave complexes and a single left frontocentral spike. This EEG is suggestive 
+of generalized mechanism of epilepsy versus focal frontal lobe focus that results in secondary 
+	
+

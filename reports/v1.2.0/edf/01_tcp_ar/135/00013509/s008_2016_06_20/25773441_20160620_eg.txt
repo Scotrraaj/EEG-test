@@ -1,0 +1,340 @@
+HISTORY:
+
+This is a 51 y.o. female admitted for continuous video-electroencephalography (VEEG) monitoring
+with a history of: absence seizures, myoclonic jerks, and convulsions. She now reports increased
+events of waking up feeling tired with a sore tongue.
+
+
+
+
+
+Continuous video EEG is initiated for:  Characterization of seizures.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patient's exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Impedances were measured and verified to be below 5 Kohms.  EEG activity was recorded
+referentially to vertex reference, digitized, and stored to computer hard drive.  Periods of interest
+were subsequently reformatted to the montage of interest and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS: Oxcarbazepine 750 mg in AM (300 mg tab, 2.5 tab AM) + 900 mg in PM (300 mg
+tab, 3 tab PM)
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (6/20/2016, 11:31 - 6/21/2016, 06:00)
+
+
+AEDs: Oxcarbazepine 750 mg in AM, 600 mg in PM
+
+
+
+BACKGROUND:
+
+
+
+The waking background is continuous, symmetric, well-organized, and consists predominantly of
+alpha with admixed beta, organized in a normal anterior-to-posterior gradient.
+
+
+
+
+
+
+Posterior dominant rhythm is present at 10 Hz and attenuates symmetrically with eye opening.
+
+
+
+Drowsiness is characterized by attenuation and fragmentation of the posterior dominant rhythm, with
+bursts of theta and delta slowing.
+
+
+
+Sleep is characterized by synchronous and symmetric vertex waves, sleep spindles, and K complexes.
+
+
+
+There is no generalized slowing.
+
+There is rare polymorphic left temporal slowing.
+
+Note that full assessment of focal slowing is limited by bitemporal chain muscle artifact on this day.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Frequent bursts of 3.5 Hz diffuse bifrontal-predominant spike-and-wave discharges lasting up to 2
+seconds.
+
+
+Some appear to have a slightly asymmetric appearance at onset, but there is no clear prevalence of
+one hemisphere lead-in over the other. There was no correlate to the discharges seen on video.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is an abnormal long term video EEG due to:
+
+1. Rare polymorphic left temporal slowing
+
+2. Occasional bursts of 3.5 Hz diffuse bifrontal-predominant spike-and-wave discharges lasting up to 2
+seconds
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (6/21/2016, 06:00 - 6/22/2016, 06:00)
+
+
+AEDs: Oxcarbazepine 600 mg in AM, 900 mg in PM; Zonegran 100 mg in PM
+
+
+
+
+
+INTERICTAL BACKGROUND: no change in posterior dominant rhythm.
+
+There is rare polymorphic left temporal slowing and rare independent polymorphic right temporal
+slowing.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Frequent bursts of 3.5 Hz diffuse bifrontal-predominant spike-and-wave discharges, rarely lasting as
+long as 5 seconds.
+
+
+Some appear to have a slightly asymmetric appearance at onset, but there is no clear prevalence of
+one hemisphere lead-in over the other. There was no correlate to the discharges seen on video, but
+note that patient was not tested during the rare 5-second burst.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 70s.
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (6/22/2016, 06:00 - 6/22/2016, 13:55)
+
+
+
+AEDs: no change from day 2
+
+
+INTERICTAL BACKGROUND: no change in posterior dominant rhythm.
+
+
+There is rare polymorphic left temporal slowing and rare independent polymorphic right temporal
+slowing.
+
+Note that full assessment of focal slowing is limited by bitemporal chain muscle artifact on this day.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Frequent bursts of 3.5 Hz diffuse bifrontal-predominant spike-and-wave discharges, lasting as long
+as 3 seconds.
+
+
+
+
+
+
+Some appear to have a slightly asymmetric appearance at onset, but there is no clear prevalence of
+one hemisphere lead-in over the other. There was no correlate to the discharges seen on video, but
+note that patient was not tested during the rare 5-second burst.
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+EKG: A single lead captured a heart rate in the 60s.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+
+INTERICTAL FINDINGS:  The patient's interictal findings were significant for a 10 Hz posterior
+dominant rhythm, with rare bitemporal independent polymorphic slowing.
+
+
+There were frequent bursts of 3.5 Hz diffuse bifrontal-predominant spike-and-wave discharges, lasting
+as long as 5 seconds (day 2), usually lasting up to 2.5-3 seconds.
+
+
+Some appeared to have a slightly asymmetric appearance at onset, but there is no clear prevalence
+of one hemisphere lead-in over the other. There was no correlate to the discharges seen on video,
+but note that patient was not tested during the rare 5-second burst.
+
+
+
+ICTAL FINDINGS:
+
+
+The patient did not have any clinical events.
+
+
+SEIZURE DIAGNOSIS:
+
+
+1. Generalized, convulsive, myoclonic, absence
+
+
+EPILEPSY DIAGNOSIS:
+
+
+
+1. Idiopathic/genetic generalized epilepsy
+
+
+
+CONCLUSION:
+
+was admitted to the epilepsy monitoring unit for 3 days with continuous video EEG.
+This was an elective EMU monitoring session for characterization and medication management.
+
+
+
+The interictal EEG is characterized by a 10 Hz normal posterior dominant rhythm, with rare
+bitemporal independent polymorphic slowing.
+
+
+
+There were frequent bursts of 3.5 Hz diffuse bifrontal-predominant spike-and-wave discharges.
+
+
+
+There were no seizures captured.
+
+
+
+On the first day, the patient's Trileptal was lowered slightly.  The patient had no events on this
+lowered dose.  Clinically her symptoms were highly suspicious for convulsive seizures, so a broad
+spectrum antiepileptic, Zonegran, was added to her home regimen of Trileptal.  She was counseled
+extensively in the side effects of Zonegran.
+
+
+
+
+Patient is follow-up at the Temple Epilepsy Center as an outpatient.

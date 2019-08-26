@@ -1,0 +1,27 @@
+History:	53 Y/O FEMALE R HANDED. PT ADMITTED LAST NIGHT FOR WITNESSSED SZ. 
+	FROM DAUGHTER SHAKING. PT DID NOT TAKE MEDS FOR DM TYPE 2 
+	(INSULIN) SUGAR WAS HIGH WHEN PT WAS ADMITTED. PMHX. NO H/O
+Medications:	INSULIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, lethargic
+Description:
+No posterior dominant rhythm was present.  Background activity was characterized by diffuse theta 
+more than delta activity with absence of the expected anterior to posterior gradient of frequencies.  
+intermittent diffuse, frontally maximal sharp waves with triphasic morphology are present 
+throughout the recording.  These waveforms demonstrate an anterior to posterior phase lag.  No 
+normal sleep architecture was present.
+No focal slowing is present.  No epileptiform discharges are present.  No clinical or electrographic 
+seizures were present.
+Hyperventilation and photic stimulation were not performed.  There was no reactivity to auditory, 
+tactile, or painful stimuli.  Hr was 60
+Summary of Findings:
+	Triphasic waves, intermittent anterior
+	Diffuse slowing, polymorphic, continuous, moderate diffuse
+Interpretation:
+This is an ABNORMAL EEG because of  intermittent frontally-maximal triphasic waves and 
+moderate diffuse background slowing.  These findings are indicative of a severe diffuse 
+encephalopathy, which is etiologically nonspecific, but suggestive of a metabolic origin.
+	
+

@@ -1,0 +1,104 @@
+HISTORY:
+
+23 y.o. male with a history of intellectual disability and seizures referred for routine
+EEG for characterization of seizures.
+
+
+
+MEDICATIONS: Keppra, Depakote
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists mostly of low voltage fast frequencies.
+Rarely, fragments of a symmetric and reactive 10 Hz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening. The normal anterior-posterior gradient is maintained.
+
+
+
+
+
+
+Drowsiness and sleep are not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+
+Rare, very brief episodes of teeth clenching and truncal movements are noted. Two examples occur
+at 10:33 and 10:34.
+
+The only EEG correlate is chew and muscle artifact, which lasts <5 seconds and correlates with the
+above movements.
+
+
+
+
+HEART RATE:
+
+A heart rate of 84 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is a normal awake only  routine EEG.  There are no clinical or electrographic events reported or
+detected.
+
+
+The movements described above have no associated change in EEG cerebral activity and appear
+most consistent with behavioral activity.
+
+
+
+CLINICAL CORRELATION:
+
+This is a normal awake only  routine EEG.
+
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+The episodes described above are unlikely to represent seizures.

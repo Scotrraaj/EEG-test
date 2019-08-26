@@ -1,0 +1,114 @@
+HISTORY:
+
+58 y.o. male with a history of sleep apnea, HTN, depression, schizophrenia,
+and seizures (which he reports are during sleep) referred for routine EEG for characterization of
+seizures.
+
+
+MEDICATIONS: Dilantin, phenobarbital
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+Most of the record consists of drowsiness and sleep.
+
+
+
+
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 8.5-9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps), performed in
+drowsiness, does not produce any EEG changes.
+
+
+
+EVENTS:
+
+The patient is quick to fall asleep, even after stimulation by the tech. Tech notes load snores and
+possible apnea events in sleep. Normal sleep background, interrupted by arousals, is seen throughout
+record.
+
+
+
+
+HEART RATE:
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an essentially normal awake and asleep routine EEG.  However, the patient snores and
+appeared to have interruption of breathing during sleep.
+
+
+
+CLINICAL CORRELATION:
+
+
+
+This is an essentially normal awake and asleep routine EEG.
+
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+If clinically warranted, further workup including a sleep study may be of benefit for this patient's
+snoring and apneic events.
+

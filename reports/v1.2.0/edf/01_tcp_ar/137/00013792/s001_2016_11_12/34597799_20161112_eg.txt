@@ -1,0 +1,188 @@
+HISTORY:
+
+33 y.o. female with a history of MDS/MPD s/p stem cel transplant, presenting with
+episode of loss of consciousness (found down) as well as possible seizure in ICU, referred for routine
+EEG for evaluation of paroxysmal events.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+acyclovir (ZOVIRAX) tablet 800 mg
+
+ciprofloxacin HCl (CIPRO) tablet 500 mg
+
+clonazePAM (KLONOPIN) tablet 0.5 mg
+
+
+levETIRAcetam (KEPPRA) tablet 750 mg
+
+sertraline (ZOLOFT) tablet 50 mg
+
+triamcinolone (KENALOG) 0.1 % cream 1 Application
+
+
+ursodiol (ACTIGALL) capsule 300 mg
+
+sodium chloride 0.9 % with KCl 20 mEq/L infusion
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+
+
+famotidine (PF) (PEPCID) injection 20 mg
+
+ondansetron (PF) (ZOFRAN) injection 4 mg
+
+
+docusate sodium (COLACE) capsule 100 mg
+
+[START ON 11/13/2016] senna (SENOKOT) tablet 1 tablet
+
+
+bisacodyl (DULCOLAX) EC tablet 10 mg
+
+magnesium hydroxide (MILK OF MAGNESIA) suspension 30 mL
+
+polyethylene glycol (GLYCOLAX) packet 17 g
+
+alum-mag hydroxide-simeth (MYLANTA;MAALOX) 200-200-20 mg/5 mL suspension 30 mL
+
+
+sodium phosphates (FLEET) enema 1 enema
+
+multivitamin (THERAPEUTIC-M) 9 mg iron-400 mcg per tablet 1 tablet
+
+
+[START ON 11/13/2016] nortriptyline (PAMELOR) capsule 10 mg
+
+budesonide (ENTOCORT EC) 24 hr capsule 3 mg
+
+sulfamethoxazole-trimethoprim (BACTRIM DS) 800-160 mg per tablet 1 tablet
+
+Isavuconazonium (Cresemba) 372 mg
+
+
+dexamethasone (DECADRON) injection 4 mg
+
+phenazopyridine (PYRIDIUM) tablet 200 mg
+
+
+dextrose 50% injection 25 mL
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+insulin lispro (HumaLOG) injection 1-5 Units
+
+
+[START ON 11/13/2016] fentaNYL (DURAGESIC) 75 mcg/hr patch 75 mcg
+
+HYDROmorphone (DILAUDID) injection 2 mg
+
+
+tacrolimus (PROGRAF) 5 mg in sodium chloride 0.9 % 250 mL infusion
+
+LORazepam (ATIVAN) injection 1 mg
+
+LORazepam (ATIVAN) injection 1 mg
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically difficult record
+(impedences <10 kOhm) and included a single channel of EKG. The patient requested that the study
+be terminated after 15 min of recording as she needed to use the bathroom.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is continuous, reactive, and asymmetric.
+
+
+
+
+
+The left hemisphere consists of a fairly organized mix of alpha, beta, and excess delta frequencies,
+with a fragments of an irregular posterior dominant rhythm of 9.5 Hz.
+
+
+The right hemisphere consists of a fairly organized mix of alpha, theta, and delta, with a posterior
+dominant rhythm that is less clearly seen.
+
+
+
+Drowsiness and sleep are not captured.
+
+
+
+Mild generalized slowing is present.
+
+Continuous right hemispheric slowing and attenuation of faster frequencies.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 78 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal, technically limited, awake only  routine EEG due to:
+
+1. Mild generalized slowing and suboptimal organization
+
+2. Continuous right hemispheric slowing and attenuation of faster frequencies
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of right hemispheric dysfunction (likely structural in etiology)
+superimposed on a mild diffuse cerebral dysfunction. Attenuation of faster frequencies over the right
+hemisphere are consistent with this patient's history of right subdural hematoma.
+
+
+
+The patient requested that the study be terminated after 15 min of recording as she needed to use
+the bathroom.

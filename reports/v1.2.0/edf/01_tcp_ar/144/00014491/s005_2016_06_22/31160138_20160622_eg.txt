@@ -1,0 +1,545 @@
+START DATE OF STUDY: 06/20/16 at 13:09
+
+END DATE OF STUDY: 06/24/16 at 11:46
+
+
+
+RECORDING ENVIRONMENT: 
+
+EEG TYPE: Long term recording
+
+
+REPORT
+
+
+
+HISTORY:
+
+This is a 64 y.o. female admitted for continuous video-electroencephalography (VEEG) monitoring
+with a history of: TSC 1 s/p R frontal tuberectomy, with new events of unclear etiology involving
+staring.
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events (staring).
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Impedances were measured and verified to be below 5 Kohms.  EEG activity was recorded
+referentially to vertex reference, digitized, and stored to computer hard drive.  Periods of interest
+were subsequently reformatted to the montage of interest and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For approximately 12-24 hours each day the
+patient was attended by an EEG technician.  A neurologist was available in person or on call 24
+hours per day.  The patient was monitored via video 24 hours per day by a registered nurse with
+special training in seizure recognition and testing.  During times when a technician was not
+available, EEG recording, video recording, and computer analysis continued, and nursing performed
+seizure testing and electrode maintenance.
+
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+doxazosin (CARDURA) 1 mg tablet, Take 1 mg by mouth nightly.
+
+furosemide (LASIX) 40 mg tablet, Take 40 mg by mouth 2 times daily.
+
+carvedilol (COREG) 6.25 mg tablet, Take 6.25 mg by mouth 2 times daily (with meals).
+
+
+cycloSPORINE modified (NEORAL) 100 mg capsule, Take 100 mg by mouth 2 times daily. 2 in am2
+in pm
+cycloSPORINE modified (NEORAL) 25 mg capsule, 25 mg 2 times daily. 1 in am1 in pm
+
+magnesium oxide (MAG-OX) 400 mg tablet, Take 400 mg by mouth daily.
+
+
+losartan (COZAAR) 100 mg tablet, Take 100 mg by mouth daily.
+
+phenytoin (DILANTIN) 100 mg ER capsule, Take 100 mg by mouth 2 times daily. 2 in am, 2 in pm
+
+levETIRAcetam (KEPPRA) 750 mg tablet, Take 750 mg by mouth 2 times daily.
+
+
+atorvastatin (LIPITOR) 40 mg tablet, Take 40 mg by mouth daily.
+
+levothyroxine (SYNTHROID, LEVOTHROID) 50 mcg tablet, Take 50 mcg by mouth daily.
+
+CALCIUM CARBONATE/VITAMIN D3 (CALCIUM 600 + D,3, PO), Take  by mouth.
+
+
+
+SPIRONOLACTONE PO, Take 50 mg by mouth.
+
+multivitamin capsule, Take 1 capsule by mouth daily.
+
+
+ascorbic acid (VITAMIN C) 500 mg tablet, Take 500 mg by mouth daily.
+
+
+
+AEDs:
+
+Keppra 750 q12h
+
+Phenytoin ER 200 q12h
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (6/20/2016, 13:09 - 6/21/2016, 06:00)
+
+
+BACKGROUND:
+
+
+
+The waking background is continuous, reactive, well-organized, and consists predominantly of alpha
+with admixed beta, organized in a normal anterior-posterior gradient with a posterior dominant
+rhythm of 9 Hz present in wakefulness that attenuates symmetrically with eye opening.
+
+
+There is continuous right hemispheric polymorphic delta activity.
+
+Background rhythms are >50% higher in amplitude over the right hemisphere, consistent with breach
+rhythm.
+
+
+
+
+Drowsiness is characterized by attenuation and fragmentation of the posterior dominant rhythm and
+further background slowing.
+
+Sleep is characterized by synchronous spindles, vertex waves, and K complexes which are at times
+seen better over the left hemisphere.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Occasionally sharp waves are noted over the right temporal region (T4 max >T2/T6), activated by
+drowsiness
+
+
+2. Rare left temporal spikes (T1/T3 max), activated by drowsiness
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+
+This is an abnormal long term video EEG due to:
+
+1. Continuous right hemispheric polymorphic delta activity
+
+
+2. Right hemispheric breach rhythm
+
+3. Occasional right temporal sharp waves (T4 max >T2/T6), activated by drowsiness
+
+
+4. Rare left temporal spikes (T1/T3 max), activated by drowsiness
+
+
+These findings are consistent with right hemispheric dysfunction, likely structural in etiology.
+
+Right hemispheric breach rhythm is consistent with this patient's known history of craniotomy.
+
+
+There are potential epileptogenic focuses over the right and left temporal regions, independently.
+
+
+
+Reading attending: 
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (6/21/2016, 06:00 - 6/22/2016, 06:00)
+
+
+
+AEDs: unchanged
+
+
+INTERICTAL BACKGROUND: as on day 1, with the additional finding of:
+
+1. Rarely the right hemispheric slowing is rhythmic and sharply contoured at 1.5-2 Hz for <10 seconds
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Occasionally sharp waves are noted over the right temporal region (T4 max >T2/T6), activated by
+drowsiness
+
+2. Rare left temporal spikes (T1/T3 max), activated by drowsiness
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds on 6/21 at 11:19 with good
+cooperation and produces no effect.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) performed on 6/21
+at 11:25 does not produce any EEG changes.
+
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 60s.
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+Impression is same as day 1, with the addition that right hemispheric slowing is rarely rhythmic and
+sharply contoured.
+
+
+Clinical correlation is unchanged.
+
+
+
+Reading attending: 
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (6/22/2016, 06:00 - 6/23/2016, 06:00)
+
+
+AEDs: unchanged
+
+
+
+INTERICTAL BACKGROUND: unchanged from day 2
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Occasionally sharp waves are noted over the right temporal region (T4 max >T2/T6), activated by
+drowsiness
+
+
+2. Rare left temporal spikes (T1/T3 max), activated by drowsiness
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+
+
+
+
+EKG: A single lead captured a heart rate in the 60s-80s. Occasionally when the patient gets out of
+bed the heart rate increased to the 120s for several minutes, decreasing to baseline once back in
+bed. There were no EEG changes during these periods of tachycardia.
+
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+Tachycardia upon getting out of bed.
+
+
+Otherwise, unchanged from above
+
+
+Reading attending: 
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4 (6/23/2016, 06:00 - 6/24/2016, 06:00)
+
+
+
+AEDs: unchanged
+
+
+INTERICTAL BACKGROUND: unchanged from day 2
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Occasionally sharp waves and spikes are noted over the right temporal region (T4 max >T2/T6),
+activated by drowsiness
+
+
+2. Rare left temporal spikes (T1/T3 max), activated by drowsiness
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in 70s-90s.
+
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+
+Unchanged from above.
+
+
+
+
+Reading attending: 
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 5 (6/24/2016, 06:00 - 6/24/2016, 11:46)
+
+
+
+AEDs: unchanged
+
+
+
+INTERICTAL BACKGROUND: unchanged from day 2
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Occasionally sharp waves and spikes are noted over the right temporal region (T4 max >T2/T6),
+activated by drowsiness
+
+
+2. Rare left temporal spikes (T1/T3 max), activated by drowsiness
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in 70s-90s.
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION:
+
+Unchanged from above.
+
+
+
+
+Reading attending: 
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+
+INTERICTAL FINDINGS:  The patients interictal findings were significant for a posterior dominant
+rhythm of 9 Hz, with continuous right hemispheric polymorphic delta activity that was rarely rhythmic
+and sharply contoured, correlating with right hemispheric cerebral dysfunction.  Additionally, a right
+hemispheric breach rhythm was present, consistent with this patient's known history of prior
+craniotomy.  There were occasionally sharp waves noted over the right temporal region (T4 max
+>T2/T6), activated by drowsiness and rarely left temporal spikes (T1/T3 max), activated by
+drowsiness, consistent with independent epileptogenic potential over these regions.
+
+
+
+
+
+ICTAL FINDINGS:
+
+
+The patient did not have any clinical events.
+
+
+SEIZURE DIAGNOSIS:
+
+
+1. No seizures/events captured during this 5-day study
+
+
+EPILEPSY DIAGNOSIS:
+
+
+1. Complex partial (suspected)
+
+
+CONCLUSION:
+
+
+ was admitted to the epilepsy monitoring unit for 5 days with continuous video EEG.
+This was an elective EMU monitoring session for evaluation of staring episodes.  The patient's
+antiepileptics were unchanged during the admission.  No targeted episodes were captured.
+
+
+
+We recommend that she follow-up with  at the as an
+outpatient.
+
+
+We also recommend follow-up with her internist/cardiologist for the sinus tachycardia that was
+captured occasionally upon getting out of bed.
+
+
+
+
+
+I have personally reviewed and interpreted this study, and this report represents my findings and
+conclusions.
+

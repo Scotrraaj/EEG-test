@@ -1,0 +1,22 @@
+History:		64 year old man who presents with subacute change in mental status. Patient underwent a lung transplant in 9/2015.
+Medications:	cyclosporine, azathioprine, acyclovir, klonopin, trazadone
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:		International 10-20 System; standard 21 electrodes with T1fr2 electrodes and EKG electrodes, awake, photic
+
+Description:
+There is no PDR or AP gradient. The background consists of a mixture of low-to-moderate amplitude theta and delta activity and intermittent broadly based triphasic waveforms. Patient remains awake throughout the recording.
+
+Hyperventilation is not performed. Stepped photic stimulation from 1-21 flashes per second (fps) induces symmetric photic driving at multiple flash rates. A single EKG lead demonstrates heart rate of 60 bpm.
+Summary of Findings:
+Diffuse slowing, polymorphic, moderate No epileptiform discharges
+Triphasic waves, intermittent No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake-only 22-minute EEG due to moderate diffuse slowing and triphasic waveforms. These findings are indicative of a moderate diffuse encephalopathy, which is etiologically nonspecific, but suggestive of a metabolic origin. Triphasic waves are a nonspecific EEG finding that can be seen in hepatic encephalopathy, uremia and an
+
+
+
+
+
+
+

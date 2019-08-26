@@ -1,0 +1,100 @@
+HISTORY:
+
+69 y.o. male with a history of epilepsy (semiology: "strange sound, followed by
+tonic-clonic convulsion"), admitted with renal failure, referred for EEG for evaluation of paroxysmal
+events.
+
+
+
+
+MEDICATIONS: Valproic acid
+
+
+
+SEDATION: None listed
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+
+BACKGROUND:
+
+
+
+
+
+The waking background is continuous, symmetric, poorly organized, and not clearly reactive.  There
+is no definite posterior dominant rhythm.  Background consists of low amplitude delta with admixed
+theta.
+
+
+Frequently, there are bursts of theta activity (lasting 1-5 seconds) seen most prominently over the left
+temporal region, and to a lesser extent the left parasagittal region, and less so over the right
+hemisphere. There is a >50% difference in amplitude between the hemispheres during these bursts,
+with higher amplitude over the left hemisphere.  There is no evolution.
+
+
+
+
+
+State change is not definitely present.
+
+
+There is severe generalized slowing
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+See
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Occasional (1/hour to <1min) left fronto-temporal (F7>T1/T3 max) sharp waves
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal long term video EEG due to:
+
+1. Severe generalized slowing and suboptimal organization
+
+2. Frequent bursts of theta activity seen most prominently over the left temporal region
+
+
+3. Occasional (1/hour to <1min) left fronto-temporal (F7>T1/T3 max) sharp waves
+
+
+CLINICAL CORRELATION:
+
+
+These findings are indicators of left fronto-temporal epileptogenic potential superimposed on severe
+diffuse cerebral dysfunction. The significance of the bursts of theta activity maximal over the left
+temporal region is unclear. They may represent right hemispheric dysfunction as they are occur with
+lower amplitude on that side. Alternatively, they may represent an abnormal rhythm over the left
+temporal region. They do not meet electrographic criteria for seizure activity.

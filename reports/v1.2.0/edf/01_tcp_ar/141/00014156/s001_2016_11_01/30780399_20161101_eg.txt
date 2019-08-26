@@ -1,0 +1,136 @@
+HISTORY:
+
+66 y.o. male with a history of epilepsy and noncompliance with AEDs, now with
+seizure and confusion, referred for routine EEG for management of seizure exacerbation.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+aspirin chewable tablet 81 mg
+
+atorvastatin (LIPITOR) tablet 10 mg
+
+
+levETIRAcetam (KEPPRA) tablet 500 mg
+
+silver sulfADIAZINE (SILVADENE) 1 % cream 1 Application
+
+
+
+Current Outpatient Prescriptions:
+
+LEVETIRACETAM (KEPPRA PO), Take  by mouth.
+
+UNKNOWN TO PATIENT, Indications: unknown insulin per EMS
+
+
+
+SEDATION: None
+
+
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a fairly organized symmetric mixture of
+alpha, beta, and excess theta frequencies, with a symmetric and reactive Hertz posterior dominant
+rhythm (PDR) that is 7-8 Hz at best. The normal anterior-to-posterior gradient of frequency and
+amplitude is present but suboptimal.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric sleep spindles
+and K-complexes. Slow wave sleep was not captured.
+
+
+
+Mild generalized slowing is present.
+
+Occasional bitemporal synchronous and independent polymorphic slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Frequent (>1/min to <1/10s) left fronto-temporal (Fp1/F7/T1/Fz max) sharp-and-wave complexes,
+which at times reflect over the right frontal (Fp2/F8) region
+
+
+2. Occasional (1/hour to <1min) right fronto-temporal (Fp2/F8/Fp1 max) sharp-and-wave complexes
+
+
+3. Occasional (1/hour to <1min) left temporal (T3 max) spike-and-wave
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 102 bpm is captured on a single EKG lead.
+
+
+
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+
+1. Mild generalized slowing and suboptimal organization
+
+2. Occasional bitemporal synchronous and independent polymorphic slowing
+
+
+3. Frequent left fronto-temporal (Fp1/F7/T1/Fz max) sharp-and-wave complexes, which at times
+reflect over the right frontal (Fp2/F8) region
+
+4. Occasional right fronto-temporal (Fp2/F8/Fp1 max) sharp-and-wave complexes
+
+
+5. Occasional left temporal (T3 max) spike-and-wave
+
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of multifocal epileptogenic potential as detailed above.
+Additionally, there is etiologically nonspecific evidence of bitemporal dysfunction and mild diffuse
+cerebral dysfunction.

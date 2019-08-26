@@ -1,0 +1,516 @@
+HISTORY:
+
+This is a 24 y.o. right handed male undergoing continuous
+
+
+inpatient video-electroencephalography (VEEG) monitoring with a
+
+history of: refractory epilepsy.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal
+
+events.
+
+
+
+
+Inpatient continuous EEG monitoring required due to one or more
+
+of the following reasons:
+
+- The patient is having medically uncontrolled seizures or
+
+
+clinical events, which poses a significant mortality and
+
+
+
+
+morbidity risk.  Continuous monitoring will aid in diagnosis and
+
+determining best treatment options.  If seizures are left
+
+
+untreated, there is a 10-20% annual morbidity and 2% annual
+
+mortality rate.
+
+
+- Continuous monitoring is required to capture a sufficient
+
+number of clinical events or seizures, while medication are
+
+reduced or provoked, which increases the risk of severe seizures
+
+and at risk of seizures causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures
+
+and it includes nurses trained to provide first aid and patient
+
+
+safety during seizures;
+
+- The full hospital team must be present to deal with these
+
+medical emergency situations should they arise, including nurses
+
+to document patient's exam
+
+
+(9) there have been 13 reported deaths during various video-EEG
+
+monitoring procedures, so this is not a "low risk" service
+
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of
+
+monitoring.  The patient then underwent continuous CCTV/EEG
+
+
+monitoring using a cable telemetry system.  Scalp electrodes were
+
+placed and secured with collodion according to the 10-20
+
+
+international electrode system.  Additionally, T1 and T2
+
+electrodes were placed in this patient.  Sphenoidal electrodes
+
+were not used in this case.  Impedances were measured and
+
+verified to be below 5 Kohms.  EEG activity was recorded
+
+
+referentially to vertex reference, digitized, and stored to
+
+computer hard drive.  Periods of interest were subsequently
+
+
+reformatted to the montage of interest and reviewed in detail.
+
+
+
+Staff supervision, patient-initiated event buttons and
+
+computerized algorithms allowed detection of epileptiform EEG
+
+
+activity and correlation with behavior.  For approximately 8
+
+hours each day the patient was attended by an EEG technician.  A
+
+
+neurologist was available in person or on call 24 hours per day.
+
+The patient was monitored via video 24 hours per day by a
+
+
+registered nurse with special training in seizure recognition and
+
+testing.  During times when a technician was not available, EEG
+
+
+recording, video recording, and computer analysis continued, and
+
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+The Gotman spike and seizure detection computer program
+
+(trademark named
+
+time for electrographic seizures and interictal discharges.
+
+
+Samples of EEG were recorded periodically.  Detections were
+
+reviewed in detail by attending neurologist.  All events and
+
+
+detections, as well as selected samples, were stored to external
+
+hard drive media.
+
+
+
+HISTORY:
+
+
+24 y.o. male with a history of possible
+
+generalized tonic-clonic seizures referred for EEG for evaluation
+
+
+of paroxysmal events.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions at time of admission:
+
+
+divalproex (DEPAKOTE ER) 500 mg 24 hr tablet, Take 1 tablet by
+
+mouth 2 times daily.
+
+
+
+
+No current facility-administered medications for this visit.
+
+
+
+SEDATION: None
+
+TECHNIQUE:
+
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+NicOne system. This was a technically satisfactory record and
+
+included a single channel of EKG.
+
+
+
+
+DAY 1 (01/11/2016, 10:21AM - 1/12/2016, 06:0AM0)
+
+
+
+
+BACKGROUND:
+
+
+The waking background is continuous, symmetric, well-organized,
+
+and consists predominantly of alpha and beta activity.
+
+
+
+
+Posterior dominant rhythm was 9Hz, symmetric and reactive to
+
+
+light.
+
+
+
+The background is reactive, variable.
+
+
+
+
+There were no persistent asymmetries in amplitude and frequency.
+
+
+
+
+Sleep was characterized by normal sleep transients, with
+
+synchronous and symmetric vertex waves, sleep spindles and
+
+K-complexes. Slow wave sleep was not captured..
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+
+EKG: A single lead captured normal sinus rhythm.
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+Normal EEG with no clinical events.
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+DAY 2 (01/12/16, 06:00 - 1/13/2016, 06:00)
+
+
+
+
+Depakote was discontinued.
+
+
+
+
+BACKGROUND: No change
+
+
+
+
+GENERALIZED SLOWING: None
+
+
+
+
+FOCAL SLOWING: None
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single EKG lead captured normal sinus rhythm
+
+
+
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+
+
+Normal EEG with no clinical events.
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+DAY 3 (01/13/16, 06:00 - 1/14/2016, 06:00)
+
+
+
+
+The patient was sleep deprived.
+
+
+
+BACKGROUND: No change
+
+
+
+
+GENERALIZED SLOWING: None
+
+
+
+
+FOCAL SLOWING: None
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single EKG lead captured normal sinus rhythm.
+
+
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+
+
+
+
+Normal EEG with no clinical events.
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4 (01/14/16, 06:00 - 1/15/2016, 06:00)
+
+
+
+
+BACKGROUND: No change
+
+
+
+
+GENERALIZED SLOWING: None
+
+
+
+FOCAL SLOWING: None
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+
+EKG: A single EKG lead captured Normal sinus rhythm.
+
+
+
+
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION
+
+
+
+
+Normal EEG with no clinical events
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+DAY 5 (01/15/2016, 06:00 - 1/16/2016, 06:00)
+
+
+
+BACKGROUND: No change
+
+
+
+
+GENERALIZED SLOWING: None
+
+
+
+
+FOCAL SLOWING: None
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single EKG lead captured normal sinus rhythm.
+
+
+
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION
+
+
+
+
+Normal EEG with no clinical events.
+
+
+
+Overall summary:
+
+
+The patient was monitored for 5 days with continuous video EEG.
+
+During this time, his medications were discontinued and he was
+
+
+sleep deprived. No clinical events were captured and no
+
+interictal abnormalities were identified.
+
+
+This is a non-diagnostic videoEEG EMU admission because no
+
+clinical events were captured. These findings were discussed with
+
+
+the patient as well as the possible need for future monitoring.
+
+The fact that a diagnosis of epilepsy was still possible was
+
+
+discussed. Re-starting medication was offered to patient but he
+
+declined.
+
+
+
+He will follow u as an outpatient for further care

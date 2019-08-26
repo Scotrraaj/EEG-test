@@ -1,0 +1,89 @@
+HISTORY:
+
+74 y.o. male with a history of bacterial meningitis referred for routine EEG for
+assessment of mental status change.
+
+
+
+MEDICATIONS: none listed
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a fairly organized symmetric mixture of
+alpha and minimal beta frequencies, with excess of delta activity, with a symmetric and reactive 7.5
+Hertz posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and
+amplitude is present but suboptimal.
+
+
+
+
+
+Drowsiness and sleep are not captured.
+
+
+
+Mild to moderate generalized slowing is present.
+
+
+No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 102 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake only routine EEG due to:
+
+
+1. Mild to moderate generalized slowing, with suboptimal organization
+
+2. Tachycardia
+
+
+CLINICAL CORRELATION:
+
+
+These findings are etiologically nonspecific indicators of mild to moderate diffuse cerebral
+dysfunction.
+Tachycardia is noted in a single EKG lead.

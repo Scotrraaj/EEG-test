@@ -1,0 +1,185 @@
+HISTORY:
+
+This is a 57 y.o. right handed female admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: focal seizures with dyscognitive features.
+
+
+
+
+Continuous video EEG is initiated for:  Screening for subclinical seizures prior to repeat Wada
+testing.
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patient's exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Impedances were measured and verified to be below 5 Kohms.  EEG activity was recorded
+referentially to vertex reference, digitized, and stored to computer hard drive.  Periods of interest
+were subsequently reformatted to the montage of interest and reviewed in detail.
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+Phenobarbital 120 mg qhs
+
+
+Ativan 0.5 mg qhs
+
+
+SEDATION: None
+
+
+
+DAY 1 (7/25/2016, 20:40 - 7/26/2016, 06:20)
+
+
+
+BACKGROUND:
+
+
+The waking background is continuous, symmetric, fairly-organized, and consists predominantly of
+alpha and excess theta and beta.
+
+
+
+Posterior dominant rhythm was present at 8-8.5 Hz.
+
+
+
+
+
+The background is reactive and variable.
+
+
+
+There is abundant, often sharply contoured, polymorphic slowing over the left temporal region.
+
+
+
+Sleep was characterized by symmetric sleep spindles and K-complexes.
+
+
+Note that study is disconnected between 7/26 06:20-08:30.
+
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Occasional left fronto-temporal (F7/T1 > F3 max) sharp waves, activated by sleep
+
+
+2. Occasional right fronto-temporal sharp waves (F8 > F4/Fp2/T4 max) sharp waves, activated by
+sleep
+3. Rare low amplitude right anterior temporal (F8 max) spike-and-wave in sleep. These may represent
+small sharp spikes.
+
+
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+
+
+IMPRESSION:
+
+This is an abnormal long term video EEG due to:
+
+1. Mild generalized slowing and suboptimal organization
+
+
+2. Abundant, often sharply contoured, polymorphic slowing over the left temporal region
+
+3. Occasional left fronto-temporal (F7/T1 > F3 max) sharp waves, activated by sleep
+
+4. Occasional right fronto-temporal sharp waves (F8 > F4/Fp2/T4 max) sharp waves, activated by
+sleep
+
+5. Rare low amplitude right anterior temporal (F8 max) spike-and-wave in sleep. These may represent
+small sharp spikes.
+
+
+
+
+CLINICAL CORRELATION:
+
+
+
+
+These findings are indicative of bilateral fronto-temporal epileptogenic potential superimposed on
+left temporal cerebral dysfunction (structural or physiologic in origin) and mild diffuse cerebral
+dysfunction.
+
+
+Excess beta can be seen in the setting of a medication effect.
+
+
+
+There were no clinical or electrographic events reported or detected.

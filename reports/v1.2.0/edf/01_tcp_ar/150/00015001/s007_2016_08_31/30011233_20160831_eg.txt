@@ -1,0 +1,96 @@
+HISTORY:
+
+64 y.o. male with a history of schizophrenia, hypertension, atrial fibrillation,
+bipolar disorder, diabetes, CHF, COPD, admitted from an outside hospital post cardiopulmonary
+arrest. He was referred for a bedside EEG for screening for subclinical seizures.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+valproate (DEPACON) 500 mg in sodium chloride 0.9 % 100 mL IVPB
+
+LORazepam (ATIVAN) injection 2 mg
+
+aspirin chewable tablet 81 mg
+
+
+atorvastatin (LIPITOR) tablet 10 mg
+
+albuterol 5 mg/3.5 mL combination mixture for nebulization
+
+budesonide (PULMICORT) nebulizer solution 0.5 mg
+
+
+pantoprazole (PROTONIX) injection 40 mg
+
+ipratropium (ATROVENT) 0.02 % nebulizer solution 0.5 mg
+
+senna (SENOKOT) tablet 1 tablet
+
+
+
+
+metoprolol (LOPRESSOR) injection 5 mg
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel bedside electroencephalogram (EEG) was recorded using the
+International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a
+technically satisfactory record and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The patient was unresponsive and intubated during the study. The record demonstrates burst
+suppression activity throughout the tracing, with 1-5 second bursts of medium amplitude bitemporal
+sharp and generalized slow activity and 1-4 second interburst intervals of generalized voltage and
+frequency attenuation. In response to noxious fingernail stimulation, some patient movement was
+observed although there was no appreciable change in cerebral electrical activity.
+
+
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+EKG monitor demonstrates a heart rate of 90 per minute with occasional PVCs and intraventricular
+conduction deficit.
+
+
+
+IMPRESSION:
+
+This is an abnormal bedside EEG in an intubated unresponsive patient due to:
+
+
+1. Continuous burst suppression activity.
+
+2. Absence of background reactivity to noxious painful stimulation.
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate a severe generalized disturbance of cerebral cortical activity consistent with
+anoxic encephalopathy. Serial EEG recordings may be helpful for assessment of neurologic
+prognosis.

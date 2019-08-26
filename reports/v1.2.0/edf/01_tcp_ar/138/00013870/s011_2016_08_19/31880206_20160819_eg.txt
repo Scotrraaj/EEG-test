@@ -1,0 +1,699 @@
+HISTORY:
+
+Patient is a 49 y.o. right handed man presents with 2 episodes of nocturnal left arm jerking and 2
+episodes of generalized convulsions for 4 months.
+
+
+
+
+Seizure types:
+
+Type 1: At night time, he had left arm jerk, hit himself in face and wakes up with tongue bite and
+bleeding. Started in April 2016. So far he had 2 nocturnal episodes.
+
+
+
+
+
+Type 2: Tonic clonic seizure for few minutes followed by confusion for 15-30 minutes. No aura
+symptoms. He had 2 of these episodes in last 4 months.
+
+
+
+
+
+
+
+He takes Xanax twice a day to help him sleep because of shift work with his job. He took Xanax the
+morning of the event on 5/17/16 and 07/03/16.
+
+
+
+
+Current AEDs:
+
+
+Topiramate 50 mg q12h
+
+
+
+Prior AEDs: None.
+
+
+
+
+Seizure Risk factors:
+
+Mother was in mental facility when she was pregnant and was on medications.
+
+
+No head trauma, febrile seizures, infections, developmental delay, drug and alcohol abuse, family
+history of seizures..
+
+He uses xanax twice a day.
+
+
+
+
+Headaches started about 4 months ago. It is a bifrontal throbbing pain that lasts about an hour and is
+relieved by Fioricet, associated with photophobia, phonophobia but no nausea or vomiting. The
+headaches have decreased in frequency to 2 times per week, since starting the Topiramate.
+
+
+
+
+
+Social History: Senior controller for Philadelphia gas works. Monitors gas pressure for the city of
+Philadelphia. Denies smoking, recreational drug use, and alcohol.
+
+
+
+Continuous video EEG is initiated for:  Characterization of seizures.
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+
+CONDITIONS OF THE RECORDING:
+
+
+
+
+
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+LORazepam (ATIVAN) injection 2 mg
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+ARIPiprazole (ABILIFY) tablet 5 mg
+
+QUEtiapine (SEROQUEL) tablet 400 mg
+
+alprazolam (XANAX) tablet 2 mg
+
+
+oxyCODONE (ROXICODONE) immediate release tablet 15 mg
+
+
+SEDATION: None
+
+
+
+DAY 1 (08/15/2016, 12:49PM - 8/16/2016, 08:00)
+
+
+
+Topiramate was stopped.
+
+Xanax 2mg bid
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+Normal awake and asleep EEG.
+
+
+
+
+
+----------------------------------------------------------------------
+
+
+
+DAY 2 (08/16/2016, 08:00 AM - 8/17/2016, 08:00AM)
+
+
+Topiramate was stopped.
+
+
+Xanax 1mg bid
+
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+Normal awake and asleep EEG.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (08/17/2016, 08:00 AM - 8/18/2016, 08:00AM)
+
+
+
+
+
+Topiramate was stopped.
+
+
+Xanax 0.5mg bid
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+Normal awake and asleep EEG.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4 (08/18/2016, 08:00 AM - 8/19/2016, 08:00AM)
+
+
+
+Topiramate was stopped.
+
+Xanax stopped
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+Normal awake and asleep EEG.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 5 (08/19/2016, 08:00 AM - 8/20/2016, 08:00AM)
+
+
+
+Topiramate was stopped.
+
+
+Xanax stopped
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+At 12:54 AM the patient awakes form sleep and pushes the button. He appears to shiver his muscles.
+RN comes in and he is slow to responds but he can follow commands verbal and motor, he also
+remembers the code word. He remains trembling. Event last for about 2 minutes.
+
+
+
+
+EEG is normal awake during this time.
+
+
+
+At 2:43AM and 6:15AM again the patient wakes up and starts trembling. Minutes later the technician
+notices and comes in. When questioned the patient answer verbal question.
+
+
+No EEG changes are noted.
+
+
+HEART RATE:
+
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION:
+
+Normal awake and asleep EEG.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 6 (08/20/2016, 08:00 AM - 8/21/2016, 09:40AM)
+
+
+
+Topiramate was restarted
+
+Xanax was restarted PRN
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+None
+
+
+
+HEART RATE:
+
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+DAY 6 IMPRESSION & CLINICAL CORRELATION:
+
+
+Normal awake and asleep EEG.
+
+
+
+
+-----------------------------------------------------------------
+
+INDUCTION PROCEDURES:
+
+1. None
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+Events: The patient had 3 clinical events of shaking /trembling with no loss of conscience while
+hooked up to continuous video EEG monitoring in the epilepsy monitoring unit with no EEG
+correlate.
+No typical events.
+
+
+
+
+Interictal Findings:
+
+
+None
+
+
+Ictal Findings:
+
+
+None
+
+
+SEIZURE DIAGNOSIS:
+
+
+1. None captured.
+
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. Psychogenic or non epileptic events vs  Possible Epilepsy
+
+
+
+CONCLUSION:
+
+
+The patient was admitted to the epilepsy monitoring unit for 6 days with continuous video EEG.  The
+patient was weaned off Topiramate and xanax over the course of his admission. He was restarted on
+her medication on the day prior to his discharge from the hospital. No other medication changes
+were made during the hospitalization.
+
+
+
+
+The patient had a discussion about the possibility of nonepileptic and particularly
+psychogenic events and their association with underlying psychiatric co-morbidities and are not due
+to abnormal electrical discharges of the brain/cortex.

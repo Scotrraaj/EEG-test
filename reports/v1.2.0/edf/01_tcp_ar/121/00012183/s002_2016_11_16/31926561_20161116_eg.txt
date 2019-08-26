@@ -1,0 +1,149 @@
+HISTORY:
+
+57 y.o. female with a history of seizures, now presents with increase in seizure
+frequency.
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+divalproex (DEPAKOTE ER) 500 mg 24 hr tablet, Take 1 tablet by mouth daily for 360 days. Take
+one tablet at bedtime.
+
+
+levetiracetam (KEPPRA) 1,000 mg tablet, Take 2 tablets by mouth 2 times daily for 360 days.
+
+gabapentin (NEURONTIN) 600 mg tablet, Take 1 tablet by mouth 3 times daily.
+
+
+etodolac (LODINE) 300 mg capsule, Take 1 capsule by mouth 3 times daily.
+
+cyclobenzaprine (FLEXERIL) 10 mg tablet, Take 1 tablet by mouth 3 times daily as needed for
+Muscle spasms.
+
+
+atorvastatin (LIPITOR) 20 mg tablet, Take 1 tablet by mouth daily.
+
+omeprazole (PRILOSEC) 20 mg capsule, Take 1 capsule by mouth daily.
+
+ipratropium-albuterol (COMBIVENT RESPIMAT) 20-100 mcg/actuation Mist, Inhale 1 puff into the
+lungs 4 times daily. As needed for shortness of breath
+
+
+
+
+montelukast (SINGULAIR) 10 mg tablet, Take 1 tablet by mouth nightly.
+
+sumatriptan (IMITREX) 25 mg tablet, Take 1 tablet by mouth as needed for Migraine.
+
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+During arousals the posterior dominant rhythm reaches polymorphic moderate to high amplitude 8
+Hz theta activity.  AP (anterior-to-posterior) gradient is weak and diffuse excess theta activity is
+present.
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Occasional (1/hour to <1min) generalized frontally predominant low to high amplitude spikes and
+polyspikes with aftergoing slow waves are captured.  They are either isolated or occur at a repetition
+rate of ~3-4 Hz.  Longest burst of this activity lasts ~ 1.5 seconds.
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Regular VNS activation artifact is present, most noticeable in the EKG lead.
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+additional abnormalities.
+
+
+
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 78 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and asleep 1 hour routine EEG due to:
+
+1. Mild diffuse slowing
+
+
+2. Occasional generalized spikes and polyspikes that occur either in isolation or in up to 1.5 second
+bursts at a repetition rate of ~3-4 Hz.
+
+
+
+
+
+CLINICAL CORRELATION:
+
+
+
+Diffuse slowing is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+
+
+
+Generalized epileptiform discharges are suggestive of a generalized type of epilepsy.
+
+
+Similar findings were reported on the 2014 EEG recording.

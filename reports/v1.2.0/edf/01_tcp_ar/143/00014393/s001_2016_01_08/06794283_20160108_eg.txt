@@ -1,0 +1,20 @@
+History:	58 year old woman who presents with change in mental status.
+Medications:	Depakote
+Sedation:
+EEG Type:	Awake & asleep, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, asleep
+Description:
+Duriing maximal arousal the background consists of fragmented low-to-moderate amplitude 7 Hz 
+theta activity posteriorly, excess polymorphic theta and delta activity, brief bursts of diffuse delta 
+activity and poor AP gradient.  Patient falls asleep but no normal sleep architecture is captured.
+  No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed.
+Summary of Findings:
+	Diffuse slowing, polymorphic, mild-to-moderate
+Interpretation:
+This is an ABNORMAL awake and asleep portable 21-minute EEG due to mild-to-moderate diffuse 
+slowing and poor organization. These findings are etiologically nonspecific indicators of mild to-
+moderate diffuse cerebral dysfunction.
+	
+

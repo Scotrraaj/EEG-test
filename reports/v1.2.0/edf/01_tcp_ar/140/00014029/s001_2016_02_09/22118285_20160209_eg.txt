@@ -1,0 +1,118 @@
+HISTORY:
+
+84 y.o. male with a history of dementia and
+
+hypertension referred for routine EEG for assessment of mental
+
+
+status change.
+
+
+MEDICATIONS: Ativan, Heparin, s/p Haldol the night prior
+
+
+
+SEDATION: as above
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the
+
+International 10-20 system with T1/T2 electrodes and utilized a
+
+
+NicOne system. This was a technically suboptimal record as the
+
+patient is not stimulated from sleep so that the waking
+
+background can be assessed. It included a single channel of EKG.
+
+
+
+
+
+
+EEG BACKGROUND:
+
+The record consists only of sleep.
+
+
+
+Sleep is characterized by rudimentary sleep transients, with
+
+
+synchronous and symmetric sleep spindles and K-complexes. Slow
+
+wave sleep was not captured.
+
+
+Background slowing cannot be assessed as there is no wakefulness
+
+
+during this recording.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation
+
+are not performed.
+
+
+
+EVENTS:
+
+CLINICAL: patient has a body jerk in sleep
+
+
+EEG: there is no cerebral correlate to this movement, only
+
+movement artifact
+
+
+HEART RATE:
+
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is a limited but abnormal asleep only routine EEG due to:
+
+1. Mild disorganization of sleep transients
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate the presence of mild diffuse cerebral
+
+
+dysfunction.
+
+If clinically indicated, a repeat study capturing wakefulness
+
+
+could be useful to further assess degree of cerebral dysfunction.
+
+A body jerk captured during sleep had no EEG cerebral correlate
+
+
+and is unlikely to represent a seizure.

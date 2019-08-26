@@ -1,0 +1,78 @@
+HISTORY:
+
+
+52 y.o. male with a history of heart failure, hepatitis C.  Patient found down,
+unresponsive with severe hypoglycemia.  Multiple seizure-like spells identified.  Now, referred for
+EEG for screening for subclinical seizures.
+
+
+
+MEDICATIONS:
+
+
+Not provided
+
+
+Home medicines include insulin, metformin, aspirin, Coumadin
+
+
+SEDATION: Ativan 6 mg initially low dose 0.5 mg Versed
+
+
+TECHNIQUE:
+
+
+A bedside portable continuous 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a
+technically satisfactory record and included a single channel of EKG and tactile  stimulation.
+
+
+
+
+
+
+DAY 1 (07/19/16  - 7/20/2016, 06:00)
+
+
+
+BACKGROUND:
+
+
+The overall background is low voltage, slow.  Initially, it is a low voltage, featureless pattern.  As time
+goes on, lower voltage beta and alpha frequency activity is identified.  Tactile stimulation produces
+an alerting with some delta and movement artifact. Later on, stimulation produced higher amplitude
+delta.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+EVENTS:
+
+
+The patient went to MRI scan at 9 PM. Afterwards, EEG was obscured by artifact and the last section
+was  Uploaded to the network later
+
+
+
+EKG: A single lead captured HR 108 BPM
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is an abnormal long term video EEG due to:
+
+Replacement of normal background with low voltage slow pattern, but with more alpha and beta by
+the end of the recording.
+
+
+No seizures
+
+No epileptiform activity
+
+
+Limited study- loss of electrode integrity intermittently

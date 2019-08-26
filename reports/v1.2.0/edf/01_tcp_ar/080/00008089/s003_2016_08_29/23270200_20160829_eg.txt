@@ -1,0 +1,13 @@
+ HISTORY: 63 y.o. male with a history of acute anoxic /hypoglycemic insult with CT scan on presentation (Poor gray/white matter differentiation,) demonstrating early anoxic findings. Intermittent lateral eye deviation, referred for EEG for screening for subclinical seizures.
+
+MEDICATIONS: Current Facility-Administered Medications: sodium chloride 0.9 % injection (flush) 10 mL sodium chloride 0.9 % injection (flush) 10 mL heparin (5000 units/mL) injection 5,000 Units dextrose 50% injection 25 mL dextrose 50% injection 50 mL glucagon (human recombinant) (GLUCAGEN) injection 1 mg insulin lispro (HumaLOG) injection 1-5 Units pantoprazole (PROTONIX) injection 40 mg sodium chloride 0.9 % IV bolus piperacillin-tazobactam (ZOSYN) 3.375 g in sodium chloride 0.9 % 50 mL IVPB MB+
+SEDATION: None
+TECHNIQUE: A 21 channel electroencephalogram (EEG) monitor was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and seizure and spike detection software.
+
+DAY 1 - 8/29/2016, 20:00:00- 08/30/2016 10 AM  BACKGROUND: Initially, the background is low voltage, featureless and obscured by muscle artifact. There is only a glimpse of the EEG under the muscle which is so remarkable that it obscured the EEG.  The background is not reactive, nor variable. After 10 PM, a paralytic agent was utilized. The EEG at that time demonstrates a markedly low voltage, slow featureless pattern with very slow delta, 0.4–2 Hz. The record is not particularly reactive or variable. There is some very slow rhythmic left temporal delta noted.  On the morning of the 30th, the background remains remarkably slow, initially with slower delta and theta, 0.5-4 Hz. By the conclusion of the record at 10 AM, there is a bit more 4-6 Hz theta. The record is not reactive
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):  None
+EPILEPTIFORM ACTIVITY:  None
+EVENTS: None
+EKG: A single lead captured HR 90 BPM
+DAY 1 IMPRESSION & CLINICAL CORRELATION: This is an abnormal long term video EEG due to: Marked suppression of the EEG, noted initially, improving to a low voltage slow pattern, with some improvement in terms over time  Lack of reactivity to external stimuli Intermittent, very slow left temporal focal delta  These findings can be correlated with clinical exam and imaging. This is an acute 24 hour record. If the patient remains unresponsive, additional recording may be of value. No episodes of lateral eye deviation were recorded. No seizures were recorded 

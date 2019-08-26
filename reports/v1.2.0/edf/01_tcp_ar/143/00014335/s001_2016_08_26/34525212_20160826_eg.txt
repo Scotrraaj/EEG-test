@@ -1,0 +1,110 @@
+
+HISTORY:
+
+25 y.o. female with a history of seizures since 2/2009, most recently in 8/2016
+(LOC, tongue biting, bladder incontinence, then postictal), referred for routine EEG for
+characterization of seizures.
+
+
+
+
+MEDICATIONS: None noted
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and excess beta frequencies, with a symmetric and reactive 13 Hertz posterior dominant
+rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+Drowsiness and sleep are not captured.
+
+
+
+No generalized slowing is present.
+
+
+There is occasional bitemporal independent polymorphic slowing. The left temporal slowing is
+occasionally sharply contoured.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Frequent (>1/min to <1/10s) right central spike/polyspike and wave discharges. These have a shifting
+focus within the same burst - at times frontal (F4) maximal, other times parietal (P4) maximal
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and
+produces no effect on the background, but may increase the prevalence of right central dicharges.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving at supra-harmonic frequencies, which is a normal finding.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake only  routine EEG due to:
+
+
+1. Occasional bitemporal independent polymorphic slowing
+
+2. Frequent right central spike/polyspike and wave discharges with a shifting focus
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of a right central potentially epileptogenic focus superimposed
+on bitemporal cerebral dysfunction.
+
+
+
+
+
+Excess beta may be seen in the setting of a medication effect such as benzodiazepines or
+barbiturates.

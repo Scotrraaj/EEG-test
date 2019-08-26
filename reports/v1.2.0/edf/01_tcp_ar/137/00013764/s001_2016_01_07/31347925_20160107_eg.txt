@@ -1,0 +1,31 @@
+History:	42 year old woman with a history of seizures.  Patient has a VNS.
+Medications:	LAMICTAL,TOPAMAX,GABAPENTIN
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, asleep, photic
+Description:
+The background is sharply contoured.  It consists of 10 Hz moderate amplitude alpha activity 
+posteriorly, expected AP gradient, and mild excess of diffuse theta activity.  Intermittent dorwsiness 
+is captured  and consists of loss of PDR, appearance of theta activity and symmetrical vertex waves.
+  On at least 3 occasions (2:18:33 pm, 2:26:21 pm and 2:28:09 pm) generalized frontally 
+predominant poorly formed fast high amplitude spikes with aftergoing slow waves with associated 
+low amplitude polyspikes are captured.  They occur in brief bursts of 0.3-0.5 sec in duration.  There 
+are many other frontally predominant high amplitude waveforms that are sharp in appearance but 
+not well formed/ organized.
+  Periodic low amplitude artifact lasting nearly 40 seconds appears throughout the recording on a 
+single EKG lead.
+Summary of Findings:
+	Artifact, other, VNS in EKG lead
+	Spike-and-wave complexes, fast, few, poorly formed
+	Diffuse slowing, polymorphic, mild
+Interpretation:
+This is an ABNORMAL awake and drowsy 21-minute EEG due to mild diffuse slowing, overall 
+sharply contoured background and several brief bursts of poorly formed generalized spikes and 
+wave dishcharges with accompanying polyspikes. Diffuse slowing is indicative of mild diffuse 
+cerebral dysfunction, which is etiologically nonspecific.  Generalized epileptiform discharges are 
+suggestive of generalized type of epilepsy, however, secondary bisynchrony cannot be excluded, 
+especially in a patient with a reported prior head trauma - please correlate clinically.  Periodic 
+artifact caused by a VNS is noted on a single EKG lead.
+	
+

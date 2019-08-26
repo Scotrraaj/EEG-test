@@ -1,0 +1,105 @@
+HISTORY:
+
+58 y.o. female with a history of skull or other tumor, s/p craniotomy.  Recent OR
+for drainage of fluid and treatment of hydrocephalus. Evaluate for left facial twitch.  S/p trach, not
+very interactive.  Referred for routine EEG for characterization of seizures.
+
+
+
+
+MEDICATIONS:
+
+Not reported
+
+
+
+SEDATION: not reported.
+
+
+
+TECHNIQUE:
+
+A bedside  ICU Digital Video 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a
+technically satisfactory record and included a single channel of EKG and  Verbal stimulation.  The
+patient has a bone flap.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+The waking background is abnormal.  The patient is awake, with eye opening and on the left there is
+an organized  mixture of theta  alpha and beta frequencies, with a symmetric and reactive 7-9 Hertz
+posterior dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and
+amplitude is present.
+
+
+
+The right hemisphere demonstrates marked reduction in faster frequency with more of a delta/theta
+featureless pattern.  Superimposed on this is R frontocentral breech with higher amplitude R F4-C4
+delta activity and focal sharp waves F4 maximum.  There is intermittent beta accentuation in the
+region of the breach.
+
+
+
+
+There is muscle twitch artifact noted on the left, seen at times diffusely from left temporal scalp
+electrodes and intermittently as a focal twitch. The isolated twitches lack consistent link to the R
+frontal sharps.
+
+
+
+
+Right  focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+See above
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+Auditory and tactile stimulation do not activate the records
+
+
+EVENTS:
+
+
+Focal facial twitch without consistent EEG correlate
+
+
+HEART RATE:
+
+
+A heart rate of 100 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal ICU routine EEG due to:
+
+1. Continuous R focal slowing.
+
+2. In the context of R sided breech rhythm, R frontal focal slowing and intermittent sharp waves
+
+
+CLINICAL CORRELATION:
+
+
+These findings must be interpreted in the clinical context of the patient's motor activity and imaging.
+While no electrographic seizures were defined by this study, the possibility of epilepsy partialis is not
+excluded by this study.

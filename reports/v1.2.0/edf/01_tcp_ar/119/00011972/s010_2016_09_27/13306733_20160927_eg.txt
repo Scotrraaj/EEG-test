@@ -1,0 +1,135 @@
+HISTORY:
+
+68 y.o. female with a history of partial epilepsy following a R parietal infarct
+referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+topiramate (TOPAMAX) 200 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+metformin (GLUCOPHAGE) 1,000 mg tablet, take 1 tablet by mouth twice a day with meals
+
+
+benzonatate (TESSALON PERLES) 100 mg capsule, Take 1 capsule by mouth 3 times daily as
+needed for Cough.
+
+
+omeprazole (PRILOSEC OTC) 20 mg tablet, Take 1 tablet by mouth 2 times daily (before meals) for
+360 days.
+
+albuterol (VENTOLIN HFA) 90 mcg/actuation inhaler, Inhale 2 puffs into the lungs every 6 hours as
+needed for Wheezing.
+
+
+glipizide (GLUCOTROL XL) 10 mg 24 hr tablet, Take 1 tablet by mouth daily.
+
+
+metoprolol (LOPRESSOR) 50 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+pravastatin (PRAVACHOL) 20 mg tablet, Take 1 tablet by mouth daily.
+
+
+
+aspirin EC 81 mg EC tablet, Take 1 tablet by mouth daily.
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 8.5-9 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Vertex waves occasionally occur in runs. Slow wave sleep was not
+captured.
+
+
+No generalized slowing is present.
+
+There is very frequent right anterior-mid temporal polymorphic slowing.
+
+There is frequent left anterior-mid temporal polymorphic slowing.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Very frequent right anterior-mid temporal polymorphic slowing
+
+
+2. Frequent left anterior-mid temporal polymorphic slowing
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate the presence of right > left anterior-mid temporal cerebral dysfunction.

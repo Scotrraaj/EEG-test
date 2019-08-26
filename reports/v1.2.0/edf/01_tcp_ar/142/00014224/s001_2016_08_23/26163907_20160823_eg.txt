@@ -1,0 +1,141 @@
+HISTORY:
+
+33 y.o. female with a history of 3 lifetime seizures, referred for routine EEG for
+characterization of seizures.
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+naproxen (NAPROSYN) 500 mg tablet,
+
+VENTOLIN HFA 90 mcg/actuation inhaler,
+
+
+predniSONE (DELTASONE) 50 mg tablet, as needed.
+
+amoxicillin (AMOXIL) 500 mg capsule,
+
+fluticasone (FLOVENT HFA) 110 mcg/actuation inhaler, Inhale 1 puff into the lungs every 12 hours.
+
+
+cyclobenzaprine (FLEXERIL) 10 mg tablet, Take 10 mg by mouth 3 times daily as needed for Muscle
+spasms (backpain).
+
+
+ibuprofen (ADVIL,MOTRIN) 800 mg tablet, Take 800 mg by mouth every 6 hours as needed for Pain
+(backaches).
+
+levETIRAcetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+
+
+
+
+acetaminophen-codeine (TYLENOL #3) 300-30 mg per tablet, Take 1 tablet by mouth every 4 hours
+as needed for Pain.
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR).
+The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Frequent (>1/min to <1/10s) right anterior quadrant (Fp2/F8/C4 max) low amplitude (<10 uV) spikes in
+drowsiness and sleep. When displayed in an average montage, these demonstrate a diffuse field,
+with positive polarity over the right anterior quadrant and negative polarity over the left anterior
+quadrant. Though the predominant field is anterior quadrant, they have a morphology consistent
+with benign epileptiform transients of sleep (BETS).
+
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 54 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This awake and asleep 1-hour EEG is notable for:
+
+1. Frequent right anterior quadrant low amplitude spikes in drowsiness and sleep, which may
+represent a benign variant
+
+
+
+CLINICAL CORRELATION:
+
+
+
+The above noted spikes have some features consistent with a benign variant, but an epileptogenic
+focus in the right frontal region cannot completely be excluded. There were no such spikes seen over
+the left hemisphere.

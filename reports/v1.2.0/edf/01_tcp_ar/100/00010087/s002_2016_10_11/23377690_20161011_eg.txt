@@ -1,0 +1,161 @@
+HISTORY:
+
+78 y.o. female with a history of suspected genetic generalized epilepsy referred for
+routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+divalproex (DEPAKOTE) 250 mg EC tablet, 1 in AM 2 at PM
+
+donepezil (ARICEPT) 10 mg tablet, take 1 tablet by mouth at bedtime
+
+
+amLODIPine (NORVASC) 10 mg tablet, Take 1 tablet by mouth daily.
+
+lisinopril-hydrochlorothiazide (PRINZIDE,ZESTORETIC) 20-25 mg per tablet, Take 1 tablet by mouth
+daily.
+
+
+Aspirin 81 mg Tablet, Take  by mouth.
+
+levothyroxine (SYNTHROID, LEVOTHROID) 25 mcg tablet, Take 1 tablet by mouth every other day.
+
+
+Cyanocobalamin (VITAMIN B-12) 100 mcg Tab, Take 100 mcg by mouth.
+
+levalbuterol (XOPENEX) 0.63 mg/3 mL nebulizer solution, Take 1 ampule by nebulization every 4
+hours as needed for Wheezing.
+
+
+
+
+
+budesonide-formoterol (SYMBICORT) 160-4.5 mcg/actuation inhaler, Inhale 2 puffs into the lungs 2
+times daily.
+
+
+Cholecalciferol, Vitamin D3, (VITAMIN D) 1,000 unit Capsule, Take 1 capsule by mouth daily.
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha, beta, and theta frequencies, with a symmetric and reactive 7 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Mild generalized slowing is present.
+
+
+Abundant bitemporal synchronous and independent polymorphic slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Occasional (1/hour to <1min) frontally predominant generalized spike-wave activity, occurring in
+isolation and in runs of 5 Hz for < 1 second.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Occasional frontally predominant intermittent rhythmic delta activity (FIRDA, also known as GRDA) at
+1 Hz for runs < 10 seconds are noted in drowsiness.
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+additional abnormalities. There is no photoparoxysmal response.
+
+
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Mild generalized slowing
+
+
+2. Abundant bitemporal synchronous and independent polymorphic slowing
+
+3. Occasional frontally predominant generalized spike-wave activity, occurring in isolation and in
+runs of 5 Hz
+
+
+4. Occasional frontally predominant intermittent rhythmic delta activity
+
+
+CLINICAL CORRELATION:
+
+
+
+The generalized spike-wave discharges are consistent with the presence of a primary generalized
+epilepsy.
+
+
+
+Diffuse slowing of the background, as well as bitemporal slowing, are etiologically nonspecific
+indicators of mild diffuse cerebral dysfunction as well as bitemporal dysfunction, which have also
+been noted on prior recordings and may be correlated with imaging.
+
+
+
+
+Frontally predominant generalized rhythmic delta activity (GRDA, also known as FIRDA) is a
+nonspecific but pathologic finding that is most commonly seen in toxic-metabolic states, but may
+also be seen with deep structural lesions or increased intracranial pressure. Clinical correlation is
+advised.

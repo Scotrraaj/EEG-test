@@ -1,0 +1,716 @@
+HISTORY:
+
+This is a 42 y.o. left handed female admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: paroxysmal events of unclear etiology.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+(9) there have been 13 reported deaths during various video-EEG monitoring procedures, so this is
+not a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Additionally, T1, F9, T9, P9, T2, F10, T10, and P10 electrodes were placed in this patient.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For approximately 8 hours each day the
+patient was attended by an EEG technician.  A neurologist was available in person or on call 24
+hours per day.  The patient was monitored via video 24 hours per day by a registered nurse with
+special training in seizure recognition and testing.  During times when a technician was not
+available, EEG recording, video recording, and computer analysis continued, and nursing performed
+seizure testing and electrode maintenance.
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+sodium hyaluronate, viscosup, (EUFLEXXA) 10 mg/mL injection, Inject 2 mLs into the articular space
+once a week.
+
+
+ranitidine (ZANTAC) 150 mg tablet,
+
+hydrOXYzine (VISTARIL) 50 mg capsule,
+
+
+naproxen (NAPROSYN) 375 mg tablet,
+
+carvedilol (COREG) 6.25 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+lisinopril (PRINIVIL,ZESTRIL) 20 mg tablet, Take 1 tablet by mouth daily.
+
+
+furosemide (LASIX) 40 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+hyoscyamine (LEVSIN/SL) 0.125 mg SL tablet, DISSOLVE ONE TABLET EVERY FOUR HOURS AS
+NEEDED FOR CRAMPING
+
+
+ARTIFICIAL TEARS, POLYVIN ALC, 1.4 % ophthalmic solution,
+
+ibuprofen (ADVIL,MOTRIN) 600 mg tablet,
+
+
+
+escitalopram oxalate (LEXAPRO) 10 mg tablet,
+
+omeprazole (PRILOSEC) 40 mg capsule, Take 1 capsule by mouth 2 times daily (before meals).
+
+
+levetiracetam (KEPPRA) 1,000 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+PHARBETOL 500 mg tablet, 500 mg. Indications: 2X DAILY
+
+
+Leg Brace (KNEE BRACE) Misc, Hinge brace for right knee.Dx: (M25.561) Chronic knee pain, right
+(primary encounter diagnosis)(M25.50) Multiple joint pain
+
+DEEP SEA NASAL 0.65 % nasal spray,
+
+
+topiramate (TOPAMAX) 50 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+VENTOLIN HFA 90 mcg/actuation inhaler,
+
+amLODIPine (NORVASC) 10 mg tablet,
+
+
+acetaminophen-codeine (TYLENOL #3) 300-30 mg per tablet, Take 1-2 tablets by mouth every 6
+hours as needed for Pain.
+
+zolpidem (AMBIEN) 10 mg tablet, Take 10 mg by mouth nightly as needed.
+
+
+ASPIR-LOW 81 mg EC tablet, Take 325 mg by mouth daily.
+
+alprazolam (XANAX) 1 mg tablet,
+
+atorvastatin (LIPITOR) 40 mg tablet, Take 40 mg by mouth daily.
+
+
+Albuterol (PROVENTIL,VENTOLIN) 90 mcg/Actuation inhaler, Inhale 2 puffs into the lungs every 6
+hours as needed.
+
+
+
+AEDs: Keppra 1000 mg q12h
+
+
+
+SEDATION: None
+
+
+DAY 1 (6/14/2016, 22:37 - 6/15/2016, 06:00)
+
+
+
+HISTORY:
+
+42 y.o. female with a history of events of unclear etiology and headaches referred for
+routine EEG for evaluation of paroxysmal events.
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+sodium hyaluronate, viscosup, (EUFLEXXA) 10 mg/mL injection, Inject 2 mLs into the articular space
+once a week.
+
+
+ranitidine (ZANTAC) 150 mg tablet,
+
+hydrOXYzine (VISTARIL) 50 mg capsule,
+
+naproxen (NAPROSYN) 375 mg tablet,
+
+
+carvedilol (COREG) 6.25 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+
+
+
+lisinopril (PRINIVIL,ZESTRIL) 20 mg tablet, Take 1 tablet by mouth daily.
+
+furosemide (LASIX) 40 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+
+hyoscyamine (LEVSIN/SL) 0.125 mg SL tablet, DISSOLVE ONE TABLET EVERY FOUR HOURS AS
+NEEDED FOR CRAMPING
+
+
+ARTIFICIAL TEARS, POLYVIN ALC, 1.4 % ophthalmic solution,
+
+ibuprofen (ADVIL,MOTRIN) 600 mg tablet,
+
+escitalopram oxalate (LEXAPRO) 10 mg tablet,
+
+
+omeprazole (PRILOSEC) 40 mg capsule, Take 1 capsule by mouth 2 times daily (before meals).
+
+levetiracetam (KEPPRA) 1,000 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+PHARBETOL 500 mg tablet, 500 mg. Indications: 2X DAILY
+
+
+Leg Brace (KNEE BRACE) Misc, Hinge brace for right knee.Dx: (M25.561) Chronic knee pain, right
+(primary encounter diagnosis)(M25.50) Multiple joint pain
+
+DEEP SEA NASAL 0.65 % nasal spray,
+
+
+topiramate (TOPAMAX) 50 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+VENTOLIN HFA 90 mcg/actuation inhaler,
+
+amLODIPine (NORVASC) 10 mg tablet,
+
+
+acetaminophen-codeine (TYLENOL #3) 300-30 mg per tablet, Take 1-2 tablets by mouth every 6
+hours as needed for Pain.
+
+
+zolpidem (AMBIEN) 10 mg tablet, Take 10 mg by mouth nightly as needed.
+
+ASPIR-LOW 81 mg EC tablet, Take 325 mg by mouth daily.
+
+alprazolam (XANAX) 1 mg tablet,
+
+
+atorvastatin (LIPITOR) 40 mg tablet, Take 40 mg by mouth daily.
+
+Albuterol (PROVENTIL,VENTOLIN) 90 mcg/Actuation inhaler, Inhale 2 puffs into the lungs every 6
+hours as needed.
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is
+characterized by a posterior dominant rhythm consisting of low voltage fast frequencies.  Lambda
+waves are seen in wakefulness.
+
+
+
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric POSTS, vertex
+waves, sleep spindles and K-complexes.
+
+
+
+No generalized slowing is present. No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation were not performed
+
+
+
+EVENTS:
+
+The daytime technician told the rounding team that "around 2 am" on 6/15 the patient got out of
+bed to use the bathroom and reported dizziness and right sided numbness.  The entire record was
+reviewed, end-to-end, with particular attention to arousals from 01:45-03:00.  The patient remained
+asleep with normal background.
+
+
+
+
+HEART RATE:
+
+
+A heart rate in the 80s is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is a normal awake and asleep video EEG. There are no clinical or electrographic events
+reported or detected.
+
+
+
+CLINICAL CORRELATION:
+
+This is a normal awake and asleep routine EEG. A posterior dominant rhythm consisting of low
+voltage fast frequencies can be a normal variant in the adult population.
+
+
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+Normal study.
+
+Episode that was reported around 2 am on 6/15/2016 has no EEG correlate.
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (6/15/2016, 06:00 - 6/16/2016, 06:00)
+
+
+AEDs 6/15/2016: Keppra 1000 mg in AM, 500 mg HS
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+SEIZURES/EVENTS:
+
+(1) DATE AND TIME:   6/15/2016 at 10:05
+
+
+EVENT TYPE: Event of unclear etiology
+
+CLINICAL: Patient is in bathroom, tells nurse she feels dizzy and that whole right side feels numb. At
+10:05 patient seen on camera helped into bed by nurse. Patient uses her right arm to lift her right leg
+into bed.
+
+
+EEG: No EEG changes from background, aside from movement artifact, were seen
+
+
+DURATION: unclear
+
+POSTICTAL CHANGES:  No change
+
+EKG: no change in a single EKG lead; heart rate in low 100s before and during event
+
+
+
+(2) DATE AND TIME:   6/15/2016 at 11:06
+
+EVENT TYPE: Non-epileptic event
+
+
+CLINICAL: Patient is lying in bed and appears uncomfortable restless; fidgeting with both hands. She
+has a few isolated body jerks. She appears as though she is searching for the event button without
+moving her head. She utters a few brief moans. Tech comes into room and asks "are you ok?" Patient
+does not answer, but isolated body jerks become more frequent. Tech presses button. Body jerking,
+now side-to-side, becomes higher in amplitude. Eyes are closed. Patient does not follow commands.
+At 11:10, jerks increase in amplitude to become rhythmic shaking with side-to-side head movements,
+which gradually decrease in frequency, become lower in amplitude, and become irregular at offset.
+Patient has urinary incontinence and postictal confusion.
+
+
+
+
+
+
+EEG: No EEG changes from background, aside from movement artifact, were seen preceding or
+following the part of the episode that involve violent shaking. Violent shaking has only electrode
+movement artifact as correlate.
+
+
+DURATION: 6 min 29 sec
+
+
+POSTICTAL CHANGES:  No change
+
+EKG: heart rate increases from 90 bpm baseline to 120s immediately after shaking resolves
+
+
+
+EKG: A single lead captured a heart rate in 70s-100s
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+
+Normal background.
+
+The 2 episodes described above are most consistent with nonepileptic behavioral events.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (6/16/2016, 06:00 - 6/17/2016, 06:00)
+
+
+
+AEDs: Keppra STOPPED
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps), performed
+6/16/2016 at 11:30, induces symmetric photic driving, which is a normal finding.
+
+
+
+
+Sleep Deprivation: Patient is sleep deprived until 6/17/2016 03:00
+
+
+
+SEIZURES/EVENTS:
+
+
+(1) DATE AND TIME:   6/16/2016 at 12:29
+
+EVENT TYPE: Non-epileptic event
+
+
+CLINICAL: patient is sitting in chair and starts to fidget with hands, looking for button, which she
+pushes 1 min later. Tech immediately comes in and asks, "You don't feel good?" Patient shakes
+head "no." Sways back and forth with eyes closed and appears to be nauseas. She then develops
+flexion-extension movements of trunk with side to side head shaking. She is able to remain seated in
+the chair. Tech is able to suppress the movements with palpation. Eyes are open and fluttering.
+Within 45-60 seconds shaking becomes more irregular and less violent. She does not follow
+commands. She continues to have irregular low amplitude body jerks for several minutes after the
+violent shaking has stopped. By 12:34 she attends and responds verbally. She cannot remember the
+code word.
+
+
+
+EEG: No EEG changes from background, aside from movement artifact, were seen preceding or
+following the part of the episode that involve violent shaking. Violent shaking has only electrode
+movement artifact as correlate.
+
+
+
+DURATION: violent shaking lasted 45 min; entire event ~7 min
+
+POSTICTAL CHANGES:  No change
+
+EKG: heart rate increased from baseline 84 bpm to 132 bpm immediately after violent shaking
+
+
+
+EKG: A single lead captured a heart rate in 70s-80s unless otherwise noted
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+Normal background.
+
+The episode described above is most consistent with a nonepileptic behavioral event.
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4 (6/17/2016, 06:00 - 6/18/2016, 06:00)
+
+
+AEDs: Keppra HELD
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 70s-90s.
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+Normal background.
+
+No events.
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 5 (6/18/2016, 06:00 - 6/18/2016, 08:24)
+
+
+
+AEDs: Keppra HELD
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 80s.
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION:
+
+
+Normal background.
+
+No events.
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+
+INTERICTAL FINDINGS:  The patients interictal findings were normal, with a posterior dominant
+rhythm consisting of low voltage fast frequencies, without any focal findings or epileptiform
+discharges.
+
+
+
+ICTAL FINDINGS:
+
+
+The patient had 2 clinical events that were representative of her typical habitual events at home.
+They were semiologically and electrographically consistent with nonepileptic behavioral events.
+Two additional clinical events of  "dizziness with right sided numbness" also had no electrographic
+correlate, and also consistent with nonepileptic events.
+
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. Nonepileptic behavioral events
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. Nonepileptic behavioral events
+
+
+
+CONCLUSION:
+
+The patient was admitted to the epilepsy monitoring unit for 5 days with continuous video EEG.  This
+was an elective EMU monitoring session for characterization of events.
+
+
+
+The interictal EEG is normal.
+
+
+
+
+
+
+
+
+The patient was weaned off Keppra over the course of his admission. As the EEG remained normal
+without focal features or epileptiform discharges, the patient was counseled about the diagnosis of
+nonepileptic behavioral events and that Keppra is not indicated to treat these.  She is to continue off
+Keppra.
+
+
+
+
+We recommend that she to see a psychiatrist or therapist for assessment of underlying
+psychopathology and diagnosis.
+

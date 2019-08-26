@@ -1,0 +1,147 @@
+START DATE OF STUDY: 07/11/16 at 4 PM
+
+END DATE OF STUDY: X
+
+
+
+RECORDING ENVIRONMENT:
+
+EEG TYPE: long term monitoring
+
+
+
+
+
+HISTORY:
+
+
+ a 31 y.o. male with a history of TBI, s/p MVA, with difficult intubation in the field.
+Initial CT demonstrated evidence of anoxia.  Initial EEG compatible with status epilepticus.
+Patiently subsequently coded after that EEG.  Now intubated, comatose with preserved brainstem
+signs.  Referred for EEG for screening for subclinical seizures.
+
+
+
+
+MEDICATIONS:
+
+Current outpatient prescriptions on file: Klonopin, Effexor, gabapentin, naltrexone
+
+ICU:  Epinephrine, vasopressin, nor unasyn, phenytoin, cephazolin, PRN Ativan
+
+
+
+SEDATION: Ativan PRN
+
+
+
+TECHNIQUE:
+
+A  Bedside portable  channel electroencephalogram (EEG) was recorded using the International 10-
+20 system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory
+record and included a single channel of EKG and  Tactile  Stimulation.  Seizure and spike
+detections upper was utilized.  The patient was not hypothermic.  T max 104 Ventilator artifact is
+present.
+
+
+
+
+
+
+DAY 1 (07/11/2016 4 PM,  - 7/12/2016, 14:00)
+
+
+
+BACKGROUND:
+
+The EEG begins immediately post code.  At that time overall background is low voltage and
+featureless.  There is scant, definitive cerebral activity if any.  Initially, there is some ICU artifact and
+some movement artifact.  Briefly, there is some low voltage delta and theta in the frontal regions on
+the evening of the 11th.  As the recording continues, by 2 PM in the afternoon, the EEG is markedly
+low voltage suppressed with paucity of muscle artifact, Tactile stimulation did not activate the record.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+EVENTS: None
+
+
+
+EKG: A single lead captured HR 138 BPM
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is an abnormal long term video EEG due to:
+
+Marketed suppression of cerebral activity, which is in fact declining over the course of this recording
+
+
+
+Reading attending: 
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (07/12/2016, 14:00 - 7/13/2016, 09:00)
+
+
+MEDICATIONS:
+
+ICU:  Epinephrine, vasopressin, norepinephrine unasyn, phenytoin, cephazolin,
+
+BACKGROUND: No significant change.  The record is progressively more suppressed with rare, if any,
+isolated delta waves.  Ventilator artifact was noted.  Tactile stimulation of the patient does not
+produce a change in the otherwise suppressed pattern.  Eye movements and other artifacts of head
+and neck stimulation were elicited
+
+
+
+
+
+GENERALIZED SLOWING: No change
+
+
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single EKG lead captured HR 114
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+
+This 48 hour bedside portable continuous video EEG monitoring session was remarkable for an
+increasingly suppressed, nonreactive EEG pattern.  These findings may be placed in the appropriate
+medical context for this individual with posttraumatic brain injury and anoxic insult.
+
+

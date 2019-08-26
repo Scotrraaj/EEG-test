@@ -1,0 +1,125 @@
+HISTORY:
+
+80 y.o. female admitted with leg wounds, with past history of meningioma,
+referred for routine EEG for assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+metoprolol (LOPRESSOR) tablet 50 mg
+
+atorvastatin (LIPITOR) tablet 10 mg
+
+
+cefTRIAXone (ROCEPHIN) 1 g in dextrose 5 % 100 mL IVPB MB+
+
+ketoconazole (NIZORAL) 2 % cream 1 Application
+
+oxyCODONE-acetaminophen (PERCOCET) 5-325 mg per tablet 1 tablet
+
+
+diclofenac (VOLTAREN) EC tablet 50 mg
+
+gabapentin (NEURONTIN) capsule 300 mg
+
+lisinopril (PRINIVIL,ZESTRIL) tablet 40 mg
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically limited record due
+to near continuous diffuse muscle artifact, and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a fairly organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 8 Hertz posterior dominant rhythm (PDR).
+The normal anterior-to-posterior gradient of frequency and amplitude is present but suboptimal.
+
+
+
+Drowsiness and sleep are not captured.
+
+
+
+Mild generalized slowing is present.
+
+Occasional left hemispheric focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 96 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal, albeit technically limited due to diffuse muscle artifact, awake only routine EEG
+due to:
+
+
+1. Mild generalized slowing and suboptimal organization
+
+
+
+
+2. Left hemispheric occasional polymorphic slowing
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings are etiologically nonspecific indicators of a left hemispheric dysfunction (which may
+be correlated with imaging) superimposed on a mild diffuse cerebral dysfunction.
+
+
+
+

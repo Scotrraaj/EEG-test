@@ -1,0 +1,101 @@
+START DATE OF STUDY: 03/13/2016
+
+END DATE OF STUDY: 03/14/2016
+
+
+
+RECORDING ENVIRONMENT:
+
+EEG TYPE: long term monitoring= 12 hours
+
+
+
+
+
+HISTORY:
+
+a 21 y.o. Male, found down, intubated on propofol, reportedly had tonic clonic
+seizure in ED at Episcopal Hospital, referred for EEG for screening for subclinical seizures.
+
+
+
+MEDICATIONS: unknown other than below
+
+SEDATION: propofol
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with
+T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and
+included a single channel of EKG
+
+
+
+
+
+DAY 1 (21:27pm 03/13/2016 - 03/14/2016, 11:00am)
+
+
+
+
+BACKGROUND:
+
+As the recording begins the patient is intubated in the ICU and unresponsive.
+
+
+Initially the EEG demonstrates mixed frequency pattern with diffuse alpha and beta. By 12:30am the
+patient has some intermittent eye movements. The patient is easily arousable by 9 am with light
+stimulation with an awake pattern with generous beta and lambda waves. Patient is up and out of
+bed by 10:40am, EEG still with prominent diffuse beta with lambda.
+
+
+
+
+Posterior dominant rhythm was not present.
+
+
+
+The background is reactive and variable.
+
+
+There were no persistent asymmetries in amplitude and frequency.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+EVENTS: None
+
+
+
+EKG: A single lead captured 80-90 bpm
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is an abnormal long term video EEG due to:
+
+1. Initially sedated with mixed frequency pattern rich with alpha and beta activity
+
+2. At the end of the record the pattern in wakefulness is diffuse beta with lambda waves.
+
+
+
+These findings are compatible with pharmacological sedation.
+
+
+
+Reading attending: 

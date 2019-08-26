@@ -1,0 +1,27 @@
+HISTORY: 67 y.o. male with a history of seizures presenting with a nocturnal seizure in the setting of questionable medication compliance; also with noted history of VP shunt for hydrocephalus, referred for EEG for assessment of mental status change.  
+
+MEDICATIONS: KEPPRA, NORVASC, LISINOPRIL, PRAVASTATIN   
+SEDATION: None  
+TECHNIQUE: A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation.   DAY 1 (3/21/2016, 13:39 - 3/22/2016, 06:00)  
+
+BACKGROUND: The waking background is continuous and symmetric, but poorly organized, and consists predominantly of delta with admixed alpha and beta. There is no posterior dominant rhythm or sleep transients.  In quieter states, the background is characterized by disorganized delta and theta.  Moderate generalized slowing is present. There is occasional right hemispheric slowing and attenuation of faster frequencies.  Note that study disconnects on 3/21/16 from 15:02 until 17:36.  
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):  None  
+EPILEPTIFORM ACTIVITY:  1. Near continuous right temporal sharp waves with a broad hemispheric field (F8 max) occur every 2-4 seconds (PLEDS or LPDs - lateralized periodic discharges). At times the field spreads to include the left frontal region as well. Over the course of the day these decrease in prevalence until the morning, when they are occasionally seen.  
+EVENTS: No clinical or electrographic events reported or detected  EKG: A single lead captured a heart rate in 100s  
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION: This is an abnormal long term video EEG due to: 1. Moderate generalized slowing and suboptimal organization 2. Occasional right hemispheric slowing and attenuation of faster frequencies 3. Near continuous right temporal PLEDs with broad field that decrease in prevalance to "occasional" by 3/22/2016 morning.  These findings are etiologically nonspecific indicators of right hemispheric dysfunction and cortical dysfunction superimposed on moderate diffuse cerebral dysfunction. Highly epileptogenic potentials are noted early in the study and decrease in prevalence throughout the course of the day.  
+-----------------------------------------------------------------  
+
+DAY 2 (3/22/2016, 06:00 - 3/22/2016, 12:55)  
+BACKGROUND: No change  
+GENERALIZED SLOWING: No change  
+FOCAL SLOWING: No change  
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None  
+SPORADIC EPILEPTIFORM ACTIVITY:  1. Occasional (1/hour to <1min) right temporal sharp waves with a broad hemispheric field (F8 max)  
+EVENTS: No clinical or electrographic events reported or detected  EKG: A single EKG lead captured a heart rate in the 90s   
+DAY 2 IMPRESSION & CLINICAL CORRELATION  No change in background from day 1 Occasional right temporal sharp waves    
+-----------------------------------------------------------------  
+
+FINAL IMPRESSION:  This is an abnormal video EEG due to:  1. Moderate generalized slowing and suboptimal organization 2. Occasional right hemispheric slowing and attenuation of faster frequencies 3. Near continuous right temporal PLEDs with broad field that decrease in prevalence to "occasional" by 3/22/2016 morning.   
+
+FINAL CLINICAL CORRELATION:  These findings are etiologically nonspecific indicators of right hemispheric dysfunction and cortical dysfunction superimposed on moderate diffuse cerebral dysfunction. Highly epileptogenic potentials are noted early in the study and decrease in prevalence throughout the course of day 1 into day 2. 

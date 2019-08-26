@@ -1,0 +1,178 @@
+HISTORY:
+
+29 y.o. male with a history of sickle cell disease, admitted with septic shock and
+multiorgan failure, referred for routine EEG for assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+dextrose 50% injection 25 mL
+
+dextrose 50% injection 50 mL
+
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+insulin lispro (HumaLOG) injection 1-5 Units
+
+[START ON 10/15/2016] vancomycin (VANCOCIN) 1,000 mg in sodium chloride 0.9 % 250 mL IVPB
+MB+
+
+ceFEPIme (MAXIPIME) 2 g in dextrose 5 % in water 100 mL IVPB
+
+[START ON 10/15/2016] famotidine (PF) (PEPCID) injection 20 mg
+
+phenylephrine (NEO-SYNEPHRINE) 160 mg in sodium chloride 0.9 % 250 mL infusion
+
+
+norepinephrine (LEVOPHED) 16 mg/250 mL (64 mcg/mL) in D5W infusion
+
+metroNIDAZOLE (FLAGYL) IVPB 500 mg
+
+
+
+prismaSOL BGK (4 K / 2.5 Ca) dialysis solution
+
+prismaSATE 4/2.5 dialysis solution 5,000 mL
+
+
+micafungin (MYCAMINE) 100 mg in sodium chloride 0.9 % 100 mL IVPB
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+aspirin suppository 300 mg
+
+EPINEPHrine (ADRENALIN) 2 mg in dextrose 5 % in water 250 mL infusion
+
+norepinephrine (LEVOPHED) 8 mg/250 mL (32 mcg/mL) in D5W infusion
+
+milrinone (PRIMACOR) 40 mg/200 mL (200 mcg/mL) in D5W 200 mL infusion
+
+
+insulin regular 100 units in sodium chloride 0.9 % 100 mL infusion
+
+dextrose 50% injection 25 mL
+
+
+dextrose 50% injection 50 mL
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+fentaNYL (PF) (SUBLIMAZE) injection 50 mcg
+
+fentaNYL (PF) (SUBLIMAZE) injection 25 mcg
+
+
+EPINEPHrine (ADRENALIN) 4 mg in dextrose 5 % in water 250 mL infusion
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+magnesium hydroxide (MILK OF MAGNESIA) suspension 30 mL
+
+docusate sodium (COLACE) capsule 100 mg
+
+senna (SENOKOT) tablet 1 tablet
+
+chlorhexidine (PERIDEX) 0.12 % solution 15 mL
+
+
+multivitamin (THERA) tablet 1 tablet
+
+ferrous sulfate tablet 325 mg
+
+
+acetaminophen (TYLENOL) suppository 650 mg
+
+vasopressin (PITRESSIN) 100 Units in dextrose 5 % in water 250 mL infusion
+
+sodium bicarbonate 150 mEq in dextrose 5 % in water 1,000 mL infusion
+
+
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUEA Digital Video 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a
+technically satisfactory record and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+The patient is intubated and unresponsive. Background reveals generalized low voltage slowing, with
+predominant amplitudes in the 5-15 uV range and frequencies of 2-5 Hz. During much of the record,
+pseudoperiodic bursts of higher amplitude delta and low voltage beta frequencies are seen every
+1.5-2.5 seconds, with bursts lasting 1/2 to 1 second. No change in background was seen in response
+to auditory stimulation. Prominent EKG artifact was seen.
+
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 115 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal bedside EEG due to:
+
+1. Marked generalized amplitude attenuation and slowing
+
+
+2. Pseudo-periodic bursts of mixed low voltage beta and higher amplitude delta frequency activity
+
+3. Poor reactivity to auditory stimulation.
+
+
+
+No clinical or electrographic seizures were recorded.
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate a marked bi-hemispheric functional disturbance which can be seen in
+association with severe generalized encephalopathies of various etiologies.

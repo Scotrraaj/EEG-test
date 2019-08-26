@@ -1,0 +1,497 @@
+START DATE OF STUDY: 12/19/16 at 12 PM
+
+END DATE OF STUDY: 12/23/2016
+
+
+
+RECORDING ENVIRONMENT: Epilepsy Monitoring Unit
+
+EEG TYPE: Long term recording
+
+
+
+
+HISTORY:
+
+a 71 y.o. ambidextrous female admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: focal seizures with dyscognitive features.  Status post resection for
+meningioma.  She has had some seizures with clear impairment of awareness but others in which she
+is somewhat confused and can't move her legs.  Frequent hospitalizations for strokelike symptoms.
+
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+
+
+
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+
+acetaminophen (TYLENOL) tablet 500 mg
+
+aspirin EC tablet 81 mg
+
+
+amitriptyline (ELAVIL) tablet 50 mg
+
+gabapentin (NEURONTIN) capsule 100 mg
+
+losartan (COZAAR) tablet 100 mg
+
+
+montelukast (SINGULAIR) tablet 10 mg
+
+pantoprazole (PROTONIX) EC tablet 40 mg
+
+oxybutynin (DITROPAN) tablet 5 mg
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+
+
+enoxaparin (LOVENOX) injection 40 mg
+
+OXcarbazepine (TRILEPTAL) tablet 450 mg
+
+
+topiramate (TOPAMAX) t
+
+albuterol (PROVENTIL HFA;VENTOLIN HFA) inhaler 2 puff
+
+
+
+DAY 1 (- 12/19/2016, 11:00 to 12/20/2016)
+
+BACKGROUND: The waking background is  continuous, asymmetric, poorly-organized, and consists
+predominantly of alpha with admixed theta.
+
+
+Posterior dominant rhythm was not present- 7-8 Hz on the right, 8.5 Hz on the left. +  R Breach +
+shifting aysmmetries
+
+
+The background is reactive,variable.
+
+There were shifting asymmetries in amplitude and frequency.  There is R temporal or hemispheric
+slowing
+
+
+Sleep was characterized by symmetric sleep spindles and/or K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY: despite the breach and prominent beta, with careful review Fp2 spikes
+are noted in drowsiness and sleep, rarely noted at FP1/F3
+
+
+
+ACTIVATION PROCEDURES:      Photic Stimulation: Stepped photic stimulation from 1-21 flashes
+per second (fps) does not produce additional abnormalities.
+
+
+
+EVENTS: 1  clinical  events  reported or detected.
+
+
+1. Pt had an episode around 8:01pm.While RN was in the room talking to the patient , RN noted
+slurring and slowing of speech. Although she has trouble moving UE  both feet were moving side to
+side.Pt repeated same sentence few times.Was OX self. Following commands, unable to move her
+legs, felt heaviness in her legs,but arms had limited movement..Pt unable to recall code word.
+Patient was aware of the episode initially. When she was back to baseline was able to move all her
+extremities normally.  Careful review of video shows her automatically moving the proximal legs.
+
+
+
+
+No EEG changes were noted, wake EEG with reactive PDR.
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+1. Slowing and disorganization
+
+
+2. Focal slowing
+
+3. Behavioral or clinicial event without EEG change
+
+4. Focal spikes can be defined with re-formatting of data, in region of prior resection.
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (- 12/20/2016, 12/21/2016 12:40 PM)
+
+
+
+Facility-Administered Medications Ordered in Other Visits:
+
+acetaminophen (TYLENOL) tablet 500 mg
+
+aspirin EC tablet 81 mg
+
+amitriptyline (ELAVIL) tablet 50 mg
+
+
+gabapentin (NEURONTIN) capsule 100 mg
+
+losartan (COZAAR) tablet 100 mg
+
+
+montelukast (SINGULAIR) tablet 10 mg
+
+pantoprazole (PROTONIX) EC tablet 40 mg
+
+oxybutynin (DITROPAN) tablet 5 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+enoxaparin (LOVENOX) injection 40 mg
+
+OXcarbazepine (TRILEPTAL) tablet 450 mg
+
+
+topiramate (TOPAMAX) tablet 125 mg
+
+albuterol (PROVENTIL HFA;VENTOLIN HFA) inhaler 2 puff
+
+
+INTERICTAL BACKGROUND:
+
+
+The bilateral posterior dominant rhythm is asymmetric and reaches 7-8 Hz.
+
+There is a breach rhythm on the right, with some focal slowing on the right.
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured..
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Rare (<1hour) Fp2; F8,
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+SEIZURES/EVENTS:
+
+
+There are  2 clinical or electrographic events captured during this study.
+
+#1: 4:22 PM 3:29 duration. Patient feels "funky" legs feel like they are not hers. Feet feel fine but
+proximal legs are odd.  She engages with the nurse, but moves her legs very little.  She can follow
+commands. This is a typical home seizure for her. She could recall a code word. Afterwards she gets
+under the covers.
+
+
+
+
+
+
+
+#2 5:45 PM 1:30 duration. Patient is lying transverse on the bed, with legs hanging off.  The nurse
+and pushes button, patient feels odd with same proximal leg issues.  She answers questions
+appropriately and follows complex commands with her arms. She moves the legs very little.
+
+
+EKG: A single lead captured
+
+
+Day 2 Impression/ Clinical Correlation
+
+Although this is an abnormal background with right focal slowing and some sharply contoured
+slowing, all of the events thus far have not had an EEG signature.  This finding has been discussed
+with patient and family
+
+
+
+-----------------------------------------------
+
+DAY 3 (12/21/2016 - 12/22/2016, )
+
+BP 159/80  Pulse 84  Wt 108.9 kg (240 lb)
+
+
+
+OXcarbazepine (TRILEPTAL) tablet 600 mgatorvastatin (LIPITOR) tablet 40 mg
+
+aspirin EC tablet 81 mg
+
+
+gabapentin (NEURONTIN) capsule 100 mg
+
+losartan (COZAAR) tablet 100 mg
+
+montelukast (SINGULAIR) tablet 10 mg
+
+
+pantoprazole (PROTONIX) EC tablet 40 mg
+
+oxybutynin (DITROPAN) tablet 5 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+enoxaparin (LOVENOX) injection 40 mg
+
+albuterol (PROVENTIL HFA;VENTOLIN HFA) inhaler 2 puff
+
+
+
+BACKGROUND: No change
+
+
+GENERALIZED SLOWING: No change
+
+
+
+FOCAL SLOWING: No change
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: sharply contoured slowing
+
+
+none
+
+EVENTS:
+
+
+
+EKG: A single EKG lead captured 78 BPM
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+
+
+No electrographic seizures were identified.  There is a mildly slow background with superimposed
+right focal slowing and some sharply contoured slowing, similar to previous days
+
+
+-----------------------------------------------------------------
+
+
+DAY 4 ( 12/22/2016, 12/23/2016)
+
+
+AEDs: OXC
+
+
+
+INTERICTAL BACKGROUND: Unchanged, mild background slowing with superimposed focal slowing
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured..
+
+
+
+EPILEPTIFORM ACTIVITY: Breach, but marked reduction in the already infrequent right fronto
+temporal sharp waves and discrete R frontal spikes.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+SEIZURES/EVENTS:none
+
+
+
+EKG: A single lead captured 84 BPM
+
+
+
+______________________________________________
+
+DAY 5( - 12/23/2016, 12/24/2016) at 11 am
+
+
+
+AEDs: OXC-  On her usual dose, TPM was held
+
+
+
+INTERICTAL BACKGROUND: Unchanged, mild background slowing with superimposed focal
+slowing. PDR = 7 Hz
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not sustained.
+
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+In the context of breach rhythm, Fp2 spike or sharp wave is identified in the bursts of R focal slowing.
+There is also sharply contoured slowing at F8. This is less prominent in the last day of recording.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+SEIZURES/EVENTS:none
+
+
+
+EKG: A single lead captured 84 BPM
+
+
+
+INDUCTION PROCEDURES: Did not produce seizures
+
+Sleep deprivation
+
+
+Photic stimulation
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+Interictal Findings:  The baseline EEG is abnormal.  At times, there is generalized slowing and
+intermittent superimposed focal slowing in the region of the previous craniotomy.  Epileptiform
+activity can BE identified in the frontal regions, primarily on the right, rarely noted on the left
+
+
+
+
+
+Clinical Findings:
+
+The patient had  3  clinical events while hooked up to continuous video EEG monitoring in the
+epilepsy monitoring unit.  These were confirmed with her family to represent her typical spells with
+difficulty moving both of her legs.  The patient was awake during the EEG within EEG that was easily
+interpreted and did not differ substantially from her background.  No ictal pattern was associated with
+the events
+
+
+
+SEIZURE DIAGNOSIS:
+
+1.NES
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1.  While this adult has clear epilepsy risk factors and in abnormal baseline EEG, the current
+symptoms that she is experiencing appear to be nonepileptic seizures.
+
+
+She has risk for focal epilepsy and therefore seizure medication will be continued, but medication
+schedule was simplified.  The diagnosis of nonepileptic seizures, and the potential for epileptic
+seizures was discussed with the family and a safety plan is being developed
+
+
+
+
+

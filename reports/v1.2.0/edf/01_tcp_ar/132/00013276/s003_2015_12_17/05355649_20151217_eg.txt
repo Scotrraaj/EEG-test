@@ -1,0 +1,33 @@
+	Page 1 of 1
+
+
+
+
+
+ 
+
+
+	
+History:	84 YR OLD MALE PRESENTS WITH H/O BIL SDH, FOLLOW UP DUE TO UNRESPONDSIVENESS
+Medications:	KEPPRA Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, lethargic
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 34 hours from 12/17/2015 to 12/19/2015. Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the attending neurologist for detection of seizures and changes in EEG patterns.
+# Push button events	0
+Description of pushbutton events
+
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies. No normal sleep architecture was present.
+No focal slowing is present. Periodic lateralized epileptiform discharges (PLEDs) are present in the C3/P3 region at a rate of 0.3-0.4Hz. No clinical or electrographic seizures were present.
+Hyperventilation and photic stimulation were not performed. There was no reactivity to auditory, tactile, or painful stimuli. HR was 66 with PVCs Multiple electrodes were lost during the last 4 hours of the record.
+Summary of Findings:
+PLEDs (periodic lateralized epileptiform discharges}, continuous, left central
+Interpretation:
+This is an ABNORMAL EEG because of continuous periodic lateralized epileptiform discharges (PLEDs) in the left centroparietal region. These findings are indicative of a highly potentially epileptogenic acute focal destructive lesion in the left center parietal region. No electrographic seizures are present. In addition, there is moderate to severe diffuse background slowing and slow alpha rhythm. These findings are etiologically nonspecific indicators of moderate. Also, severe diffuse cerebral dysfunction.
+
+
+
+
+
+

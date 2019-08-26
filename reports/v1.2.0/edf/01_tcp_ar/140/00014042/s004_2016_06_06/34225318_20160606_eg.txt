@@ -1,0 +1,23 @@
+HISTORY: 25 y.o. male with a history of overdose referred for EEG for screening for subclinical seizures. 25 yo male admitted on 6/3 after being found down unresponsive in his car breathing spontaneously, Narcan was given without improvement. There was a drug found next to the pt labeled "Kill Bill" PRIOR EEG without seizures
+MEDICATIONS: Keppra
+SEDATION: Ativan, fentanyl
+TECHNIQUE: A continuous monitor, bedside portable 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and tactile stimulation. Seizure and spike detections upper was utilized. This record was reviewed by the physician on-call at the time of recording and report was generated later
+DAY 1 (June 6, 2016 to June 7, 2016, 10:00)
+BACKGROUND: The background is continuous, symmetric, well-organized, and consists predominantly of delta with generous beta  Posterior dominant rhythm was not present. The background is reactive, Variable. Consistently, tactile stimulation produced an alerting response There were no persistent asymmetries in amplitude and frequency. Sleep was not well-defined
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+EPILEPTIFORM ACTIVITY: None
+EVENTS: Episodes of agitation with leg movement were characterized by rhythmic delta activity. This same pattern was seen with the patient was markedly to Neck
+EKG: A single lead captured HR 100 BPM
+DAY 1 IMPRESSION & CLINICAL CORRELATION: This is an abnormal long term video EEG due to: Relatively slow pattern with generous beta compatible with pharmacologic sedation
+
+-----------------------------------------------------------------
+
+DAY 2 (June 7, 2016 06:00 - June 8, 2016, 08:00)
+BACKGROUND: Increasingly rich background with increasing amounts of theta and beta. Clear arousals to stimuli
+GENERALIZED SLOWING: significantly improved
+FOCAL SLOWING: Other there are increasing amounts of electrode artifact noted later in the record, there seems to be an asymmetry with a bit more focal slowing on the left. This was not seen in later sections of the record when the patient is more awake
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): FIRDA
+SPORADIC EPILEPTIFORM ACTIVITY: None
+EVENTS: None
+EKG: A single EKG lead captured 88-104 BPM
+DAY 2 IMPRESSION & CLINICAL CORRELATION Generalized background slowing, compatible with pharmacologic sedation, improving over time. Of note, although the electrodes were more tenuous, the more active the patient was , focal slowing was not sustained suggesting that this might be an artifact  

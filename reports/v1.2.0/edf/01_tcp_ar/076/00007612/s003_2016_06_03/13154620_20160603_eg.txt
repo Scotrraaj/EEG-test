@@ -1,0 +1,109 @@
+HISTORY:
+
+44 y.o. male who presents in status epilepticus.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+UNKNOWN TO PATIENT, 2 times daily. Blood pressure pill that begins with an L
+
+hydrocodone-ibuprofen (VICOPROFEN) 7.5-200 mg per tablet, Take 1 tablet by mouth 6 times daily.
+
+divalproex (DEPAKOTE) 500 mg EC tablet, Take 1 tablet by mouth 3 times daily.
+
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: propofol.
+
+
+
+TECHNIQUE:
+
+
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+
+
+EEG BACKGROUND:
+
+
+The background consists of diffuse fast activity. There is no clear reactivity.
+
+
+Sleep is not captured
+
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal asleep only routine EEG due to:
+
+1. Replacement of normal background activity with fast activity
+
+
+
+CLINICAL CORRELATION:
+
+
+
+
+
+In this patient this is related to propofol administration.
+
+
+
+No epileptiform discharges are present.

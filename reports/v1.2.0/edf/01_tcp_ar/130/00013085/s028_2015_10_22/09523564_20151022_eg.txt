@@ -1,0 +1,32 @@
+
+
+History:
+Medications: Sedation: EEG Type: Technique:
+ 45 YO FEMALE WITH PRIOR EEG. CONCERN PT IS SEIZING AGAIN. LEFT EYE DEVIATION AT TIMES. WILL RECORD FOR ONE HOUR
+Depakote and Phenobarbital. During the last 24 hours Versed was added.
+
+Routine, awake & drowsy
+International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, obtunded, comatose
+
+Continuous bedside video-EEG monitoring
+Continuous EEG monitoring was performed for 60 hours from 10/19/2015 to 10/22/2015. Nursing­ initiated event buttons were correlated with clinical behavior. Ongoing raw EEG data was reviewed at least twice daily by the attending neurologist for detection of seizures and changes in EEG patterns.
+# Push button events	O
+Description of pushbutton events None
+Description:
+No posterior dominant rhythm was present. Background activity was characterized by diffuse low voltage delta and theta activity with absence of the expected anterior to posterior gradient of frequencies. As medications were added the background progressively became diffusely suppressed. No normal sleep architecture was present.
+No focal slowing is present. During the first -44 hours there was a continuous left hemisphere epileptiform discharge. The discharge pattern consistent of polyspikes that would be seen concurrently occurring in the temporal at times more anterior (F7) and independently more posteriorly (T5) but also centrally with intermittent periodic runs of sharps that would start and stop intermittently. During this entire time the patient had clinically developed a tonic right gaze deviation and was more lethargic. After the first hours there would be intermittent short pauses in the discharge but no clear cessation. Patient was intubated on 10/20/2015 and medication was titrated. On 10/21/2015 in the afternoon after Versed was added the discharge stopped and only intermittent left temporal discharges could be seen. The tonic eye deviation resolved.
+During the last 12 hours, two rhythmic discharges can be seen lasting about 2 minutes with no EEG correlate consistent with electrographic seizures. The background also became diffusely attenuated during the last 14 hours. There was no reactivity to auditory, tactile, or painful stimuli. Hyperventilation and photic stimulation were not performed. Hr was variable in the 60-70's bpm.
+Summary of Findings:
+Status epilepticus, continuous, marked, left hemispheric Polyspikes, continuous, marked, left hemispheric Diffuse slowing, polymorphic, continuous, severe diffuse
+
+
+
+
+Interpretation:
+	
+ 
+
+This is an ABNORMAL EEG because of left hemispheric status epilepticus. This is consistent with an irritable epileptogenic focus in this region. The status resolved and the background became markedly attenuated consistent with marked diffuse cerebral dysfunction likely due to medication effect These findings were consistently communicated with the primary team.
+
+
+

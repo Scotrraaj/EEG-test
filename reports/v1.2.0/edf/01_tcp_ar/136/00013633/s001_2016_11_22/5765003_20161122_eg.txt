@@ -1,0 +1,118 @@
+HISTORY:
+
+58 y.o. male with a history of CVA in 2008 with residual R hemiparesis and
+aphasia, as well as seizures, referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS:
+
+
+phenytoin (DILANTIN) 100 mg ER capsule, Take 3 capsules by mouth nightly.
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is continuous and reactive but asymmetric.
+
+
+
+
+
+The right hemisphere consists of a fairly organized mixture of alpha, beta, and excess theta, with a
+reactive posterior dominant rhythm of 9 Hz.
+
+
+The left hemisphere consists of a disorganized mixture of theta and delta, without a clear posterior
+dominant rhythm.
+
+
+
+Drowsiness and sleep are characterized by further slowing of the background. In sleep, vertex waves,
+K complexes, and spindles are seen only on the right.
+
+
+
+Mild generalized slowing is present.
+
+
+Continuous left hemispheric polymorphic slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Frequent (>1/min to <1/10s) left anterior temporal (T1/F7 max > T3) spikes
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces photic
+driving over the right hemisphere only.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Mild generalized slowing and suboptimal organization
+
+
+2. Continuous left hemispheric polymorphic slowing, with lack of posterior dominant rhythm, sleep
+transients, and photic driving response on left
+
+3. Frequent left anterior temporal spikes
+
+
+
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of a potentially epileptogenic focus over the left anterior
+temporal region.
+
+
+There is additional evidence for left hemispheric dysfunction, likely structural in etiology, as well as
+mild diffuse cerebral dysfunction.

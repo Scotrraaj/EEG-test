@@ -1,0 +1,624 @@
+HISTORY:
+
+This is a 50 y.o.female admitted for continuous video-electroencephalography (VEEG) monitoring
+with a history of: paroxysmal events of unclear etiology.
+
+
+
+She notes first episode was in July and passed out for about 40 minutes (which was the longest).
+Other episodes lasted only minutes. Last thing, she remembers is getting into the car and the next
+thing she remembers is waking up and being at home (had to be carried out of the car) THE NEXT
+DAY. She was trembling while in the car. This was witnessed by ex-boyfriend and doesn't know much
+of the information.
+
+
+
+
+
+
+
+
+
+
+
+She notes since July episodes are shorter about couple minutes where she passes out and shivers all
+over and afterwards she doesn't know where she is. Brother saw episode where looks around and than
+doesn't respond and has fine tremors all over body. She knows the events are coming because she
+feels sweaty and gets double vision/blurry vision. Headache almost every time she has event.
+
+
+
+
+Brother notes there are many variety of events unsure of specifics.
+
+
+Types:
+
+1. Trembling, has to sit down or may fall, but able to get herself back up (happens 2 times a week)
+
+2. Episodes during which she stares and doesn't talk (? Unsure of frequency)
+
+
+3. Episodes during which she talks to brother and mother and is combative or slurred in speech (?
+Unsure of frequency)
+
+
+
+
+She had 3 spells in July and August, 4 in September than started Topamax. October had only 2
+episodes. (Last event middle of October). She later said that she has an event at least once per week.
+
+
+
+
+She notes that trembling happens especially at rest all over the body and happens at least once a
+day. Usually right side (arm and leg) and now is both sides. Trembling started about 1 year ago. She
+notes trembling increases with anxiety and is fine tremors that occur mostly at rest. She takes Ativan
+TID for years for anxiety
+
+
+
+
+
+She notes that has had one whole day which does not remember at all.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+
+
+
+
+
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+No current facility-administered medications for this visit.
+
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+LORazepam (ATIVAN) injection 2 mg
+
+albuterol (PROVENTIL) nebulizer solution 5 mg
+
+escitalopram oxalate (LEXAPRO) tablet 10 mg
+
+
+fluticasone (FLONASE) 50 mcg/actuation nasal spray 1 spray
+
+pantoprazole (PROTONIX) EC tablet 40 mg
+
+fluticasone-salmeterol (ADVAIR) 100-50 mcg/dose diskus inhaler 1 puff
+
+
+LORazepam (ATIVAN) tablet 1 mg
+
+traMADol (ULTRAM) tablet 50 mg
+
+topiramate (TOPAMAX) tablet 25 mg
+
+
+enoxaparin (LOVENOX) injection 40 mg
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (12/05/2016 - 12/6/2016, 06:00)
+
+
+
+BACKGROUND:
+
+
+
+The waking background is continuous, symmetric, and well-organized.
+
+
+
+Posterior dominant rhythm is present and consists of 10.5-11 Hz alpha activity that attenuates with
+eye opening.  The AP (anterior-to-posterior) gradient is normal.
+
+
+
+The background is reactive and variable.
+
+
+
+Diffuse excess beta activity is noted.
+
+
+Sleep is characterized by symmetric sleep spindles, K-complexes, slow wave sleep and several
+epochs of REM sleep.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none.
+
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is a normal ~18 hour continuous video audio EEG monitoring.  No events of interest are
+captured.
+
+
+-------------------------------------------------------------------
+
+DAY 2 (12/06/2016 06:00 - 12/7/2016, 08:00)
+
+
+
+Ativan 0.5mg bid
+
+
+
+
+Topiramate stopped PM dose
+
+
+
+BACKGROUND:
+
+The waking background is continuous, symmetric, and well-organized.
+
+
+
+Posterior dominant rhythm is present and consists of 10.5-11 Hz alpha activity that attenuates with
+eye opening.  The AP (anterior-to-posterior) gradient is normal.
+
+
+
+The background is reactive and variable.
+
+
+
+Diffuse excess beta activity is noted.
+
+
+Sleep is characterized by symmetric sleep spindles, K-complexes, slow wave sleep and several
+epochs of REM sleep.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none.
+
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS: No clinical or electrographic events were reported or detected.
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is a normal continuous video audio EEG monitoring.  No events of interest are captured.
+
+
+------------------------------------------------------
+
+DAY 3 (12/07/2016 08:00 - 12/8/2016, 08:00)
+
+
+
+
+Ativan 0.5mg Qam
+
+
+
+
+Topiramate stopped
+
+
+
+BACKGROUND:
+
+The waking background is continuous, symmetric, and well-organized.
+
+
+
+Posterior dominant rhythm is present and consists of 10.5-11 Hz alpha activity that attenuates with
+eye opening.  The AP (anterior-to-posterior) gradient is normal.
+
+
+
+The background is reactive and variable.
+
+
+
+Diffuse excess beta activity is noted.
+
+
+Sleep is characterized by symmetric sleep spindles, K-complexes, slow wave sleep and several
+epochs of REM sleep.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none.
+
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+
+EVENTS:
+
+None
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+This is a normal continuous video audio EEG monitoring.
+
+
+------------------------------------------------------------
+
+
+
+DAY 4 (12/08/2016 08:00 - 12/9/2016, 08:00)
+
+
+
+
+
+Ativan 0.5mg Qam
+
+
+Topiramate stopped
+
+
+
+BACKGROUND:
+
+The waking background is continuous, symmetric, and well-organized.
+
+
+Posterior dominant rhythm is present and consists of 10.5-11 Hz alpha activity that attenuates with
+eye opening.  The AP (anterior-to-posterior) gradient is normal.
+
+
+
+
+The background is reactive and variable.
+
+
+Diffuse excess beta activity is noted.
+
+
+
+Sleep is characterized by symmetric sleep spindles, K-complexes, slow wave sleep and several
+epochs of REM sleep.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none.
+
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+EVENTS:
+
+
+Event #1
+
+At 12:31 PM on 12/08/2016 the patient had a right arm irregular mainly action and intermittent
+tremor while eating, she pressed the button. She complained of limited motion of the arm but on
+video she could be seen using it to grab objects intermittently. She also complained of a headache.
+This lasted for about 10 minutes.
+
+
+
+
+There was no EEG correlate to the tremor.
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+
+
+
+This is a normal continuous video audio EEG monitoring.  The event captured had no EEG correlate
+and as such is of unclear clinical significance.
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 5 (12/9/2016, 08:00 - 12/10/2016, 06:00)
+
+
+AEDs:
+
+
+Ativan 0.5mg Qam
+
+Topiramate stopped
+
+
+
+BACKGROUND:
+
+The waking background is continuous, symmetric, and well-organized.
+
+
+
+Posterior dominant rhythm is present and consists of 10.5-11 Hz alpha activity that attenuates with
+eye opening.  The AP (anterior-to-posterior) gradient is normal.
+
+
+
+The background is reactive and variable.
+
+
+Diffuse excess beta activity is noted.
+
+
+
+Sleep is characterized by symmetric sleep spindles, K-complexes, slow wave sleep and several
+epochs of REM sleep.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none.
+
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION:
+
+This is a normal continuous video audio EEG monitoring.  No events captured.
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 6 (12/10/2016, 06:00 - 12/11/2016, 06:00)
+
+
+
+AEDs:
+
+
+Ativan 0.5mg TID PRN
+
+Topiramate 25 mg BID
+
+
+BACKGROUND:
+
+
+The waking background is continuous, symmetric, and well-organized.
+
+
+
+Posterior dominant rhythm is present and consists of 10.5-11 Hz alpha activity that attenuates with
+eye opening.  The AP (anterior-to-posterior) gradient is normal.
+
+
+
+The background is reactive and variable.
+
+
+Diffuse excess beta activity is noted.
+
+
+
+Sleep is characterized by symmetric sleep spindles, K-complexes, slow wave sleep and several
+epochs of REM sleep.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): none.
+
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+DAY 6 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is a normal continuous video audio EEG monitoring.  No events captured.
+
+------------------------------------------------------
+
+INDUCTION PROCEDURES:
+
+Sleep deprivation
+
+
+Exercise
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+Interictal Findings:
+
+None
+
+
+
+
+
+Ictal Findings:
+
+
+The patient had one clinical events while hooked up to continuous video EEG monitoring in the
+epilepsy monitoring unit. This event had no EEG correlate.
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. Possible simple partial seizures and complex partial seizures vs non epileptic events
+
+
+
+
+EPILEPSY DIAGNOSIS:
+
+
+1. Possible localization related epilepsy
+
+
+CONCLUSION:
+
+
+was admitted to the epilepsy monitoring unit for 6 days with continuous video
+EEG.  This was an nondiagnostic EMU monitoring session because of no events with loss of
+consciousness were captured.  The patient was weaned off topiramate and ativan over the course of
+her admission. S/he was restarted on his/her medication on the day prior to his/her discharge from the
+hospital. No other medication changes were made during the hospitalization. The event captured
+during the study had no EEG correlate and as such may represent simple partial seizures which may
+only have an EEG correlate 25% of the time or alternatively it may represent a non-epileptic
+psycogenic event.
+
+
+
+
+
+
+
+Patient is follow-up at the Temple Epilepsy Center as an outpatient.

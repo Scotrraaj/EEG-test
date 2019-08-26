@@ -1,0 +1,274 @@
+DATE OF STUDY: 05/12/16
+
+RECORDING ENVIRONMENT: outpatient
+
+
+EEG TYPE: 20-40 min, awake and drowsy
+
+
+
+
+
+HISTORY:
+
+ a 67 y.o. female with a history of epilepsy, recent breakthrough seizure after
+medication misadventure referred for routine EEG for characterization of seizures.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+carvedilol (COREG) 6.25 mg tablet, Take 6.25 mg by mouth 2 times daily (with meals).
+
+oxyCODONE-acetaminophen (PERCOCET) 5-325 mg per tablet, Take 1 tablet by mouth every 4
+hours as needed for Pain.
+
+
+clopidogrel (PLAVIX) 75 mg tablet, Take 75 mg by mouth daily.
+
+senna (SENOKOT) 8.6 mg tablet, Take 1 tablet by mouth daily.
+
+
+docusate sodium (COLACE) 100 mg capsule, Take 100 mg by mouth 2 times daily.
+
+Cholecalciferol, Vitamin D3, 1,000 unit Tablet, Take  by mouth.
+
+furosemide (LASIX) 20 mg tablet, Take 20 mg by mouth daily.
+
+
+potassium chloride (K-DUR) 10 mEq tablet, Take 10 mEq by mouth 2 times daily.
+
+predniSONE (DELTASONE) 20 mg tablet, Take 20 mg by mouth daily.
+
+tiotropium (SPIRIVA WITH HANDIHALER) 18 mcg inhalation capsule, Inhale 18 capsules into the
+lungs daily.
+
+
+
+roflumilast (DALIRESP) 500 mcg Tablet, Take 500 mcg by mouth daily.
+
+levalbuterol (XOPENEX) 0.63 mg/3 mL nebulizer solution, Take 3 mLs by nebulization every 4 hours
+as needed for Wheezing or Shortness of Breath. Dx J44. 9
+
+
+levalbuterol (XOPENEX HFA) 45 mcg/actuation inhaler, Inhale 2 puffs into the lungs every 4 hours as
+needed for Wheezing or Shortness of Breath. Dx J44.9
+
+
+albuterol (PROAIR HFA) 90 mcg/actuation inhaler, Inhale 2 puffs into the lungs every 4 hours as
+needed for Wheezing. Indications: CHRONIC OBSTRUCTIVE PULMONARY DISEASE
+
+
+budesonide-formoterol (SYMBICORT) 160-4.5 mcg/actuation inhaler, Inhale 2 puffs into the lungs 2
+times daily.
+
+
+montelukast (SINGULAIR) 10 mg tablet, 1 TABLET DAILY
+
+azithromycin (ZITHROMAX) 250 mg tablet, Take 1 tablet by mouth daily.
+
+PHENTERMINE/TOPIRAMATE (QSYMIA PO), Take  by mouth.
+
+
+Zolpidem (AMBIEN) 10 mg tablet, Take 1 tablet by mouth nightly as needed for Sleep.
+
+aspirin 81 mg EC tablet, Take 81 mg by mouth daily.
+
+naproxen sodium (ALEVE) 220 mg tablet, Take 220 mg by mouth daily.
+
+
+multivitamin (THERAGRAN) per tablet, Take 1 tablet by mouth daily.
+
+Ipratropium-Albuterol (DUONEB) 0.5 mg-3 mg(2.5 mg base)/3 mL Solution for Nebulization, Inhale 1
+vial into the lungs 4 times daily.
+
+
+albuterol (ACCUNEB) 0.63 mg/3 mL nebulizer solution, Take 3 mLs by nebulization every 6 hours as
+needed.
+
+
+phenytoin (DILANTIN) 100 mg ER capsule, 100 mg every other day.
+
+simvastatin (ZOCOR) 20 mg tablet,
+
+metformin (GLUCOPHAGE) 1,000 mg tablet,
+
+
+lisinopril (PRINIVIL,ZESTRIL) 20 mg tablet, 5 mg.
+
+omeprazole (PRILOSEC) 20 mg capsule,
+
+fluoxetine (PROZAC) 10 mg capsule, 20 mg daily.
+
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9.6 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.  There is a
+small amount of background theta noted in wakefulness.  Age-appropriate, rare bursts of isolated right
+or left temporal theta were noted
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not sustained
+
+
+
+Aside from a small excess beta, No generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Occasional wicket waves are noted during drowsiness over the temporal regions
+
+
+
+ACTIVATION PROCEDURES:
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces
+symmetric photic driving, which is a normal finding.
+
+
+
+EVENTS:
+
+There are  no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 72-90 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+
+1. mild excess theta for an adult of this age.
+
+
+CLINICAL CORRELATION:
+
+
+No definitive epileptiform discharges were identified.  The mild excess beta may be due to this
+patient's medications.  If further information is needed to characterize this patient's epilepsy, a more
+prolonged study capturing sleep is suggested
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

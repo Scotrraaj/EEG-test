@@ -1,0 +1,102 @@
+HISTORY:
+
+63 y.o. male with a history of L MCA infarct presenting with right hand weakness and
+speech deficit referred for routine EEG for evaluation of paroxysmal events.
+
+
+
+MEDICATIONS: none listed
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically suboptimal record
+due to periods of muscle artifact affecting the bitemporal chains, limiting interpretation over these
+regions. The study included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a fairly organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9-10 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present but
+suboptimal.
+
+
+
+Drowsiness and sleep are not captured.
+
+
+
+No generalized slowing is present.
+
+
+Frequent left temporal polymorphic slowing is present, seen during periods of less artifact.
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm, at times irregular, is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal, technically-limited, awake only routine EEG due to:
+
+1. Suboptimal organization
+
+
+2. Frequent left temporal polymorphic slowing
+
+3. A heart rate of 66 bpm, at times irregular, on a single EKG lead
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate the presence of left temporal cerebral dysfunction, either structural or
+physiologic in etiology, superimposed on a mild diffuse cerebral dysfunction.
+
+
+A heart rate of 66 bpm, at times irregular, is seen on a single EKG lead

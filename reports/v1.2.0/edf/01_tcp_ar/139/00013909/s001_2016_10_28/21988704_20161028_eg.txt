@@ -1,0 +1,123 @@
+HISTORY:
+
+37 y.o. male with a history of cocaine and OxyContin overdose, found
+unresponsive, with seizure after administration of Narcan, referred for EEG for assessment of mental
+status change.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % infusion
+
+etomidate (AMIDATE) injection
+
+
+rocuronium (ZEMURON) injection
+
+fentaNYL (SUBLIMAZE) 1 mg in sodium chloride 0.9 % 100 mL infusion
+
+pantoprazole (PROTONIX) injection 40 mg
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % infusion
+
+
+
+
+enoxaparin (LOVENOX) injection 40 mg
+
+midazolam (VERSED) 50 mg in sodium chloride 0.9 % 50 mL infusion
+
+
+dextrose 5 % and sodium chloride 0.45 % infusion
+
+
+
+
+
+SEDATION: Versed, fentanyl
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The patient was intubated and unresponsive during most of the tracing. Background demonstrates a
+moderate amount of low to medium amplitude 11-12 Hz activity which is fairly diffusely distributed,
+with occasional periods of generalized voltage attenuation and diffuse slowing. Occasional sharply
+contoured delta activity phase reversing at the vertex were seen having the appearance of vertex
+sleep transients. No significant change in background was noted in response to auditory stimulation.
+With noxious tactile stimulation, the patient was reported to exhibit withdrawal response. EEG
+demonstrated increased amplitude semirhythmic 3-5 Hz activity with superimposed muscle artifact.
+
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 88 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal ICU bedside EEG due to:
+
+
+
+
+1. The appearance of generalized alpha activity in poorly responsive patient, suggestive of "alpha
+coma".
+
+
+
+CLINICAL CORRELATION:
+
+
+Although alpha coma is often associated with poor neurologic outcome, reactivity of background and
+withdrawal response to noxious painful stimulation seen during this study are somewhat positive
+prognostic indicators. Serial EEG monitoring is recommended to assist with neurologic assessment
+and more definitive prognostic determination.

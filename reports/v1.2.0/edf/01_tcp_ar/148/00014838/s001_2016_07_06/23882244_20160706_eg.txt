@@ -1,0 +1,100 @@
+HISTORY:
+
+65 y.o. male admitted on 7/5, referred for routine EEG for assessment of mental
+status change.
+
+
+
+MEDICATIONS:
+
+
+No anticonvulsant medications
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 7-7.5 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present. A large
+amount of muscle and eye blink artifact was seen. The patient was noted to have a tremor.
+
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and diffuse
+background slowing are seen.
+
+
+
+Very brief stage II sleep is characterized by normal sleep transients, with synchronous and symmetric
+vertex waves and increased generalized slowing.
+
+
+
+
+No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 74 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is a mildly abnormal awake, drowsy, and asleep routine EEG due to:
+
+
+1. Mild diffuse slowing of dominant posterior rhythm during wakefulness. As noted, excessive eye
+blink and muscle artifact are seen.
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings indicate a mild generalized disturbance of cerebral activity such as that seen with a
+variety of generalized encephalopathies of various etiologies. No persistent focal slowing, no clinical
+or electrical seizures and no paroxysmal epileptiform discharges were recorded.

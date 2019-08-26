@@ -1,0 +1,716 @@
+HISTORY:
+
+This is a 56 y.o. male with possible localization related epilepsy likely secondary to mesial temporal
+sclerosis.
+
+
+
+
+
+
+Seizure semiology:
+
+No aura. GTCs for 1-5 minutes and after is confused for days. No TB or B/B incontinence. Frequency
+1 per 2 month
+
+
+
+
+
+Current AEDs:
+
+
+- Zonisamide 300mg and 300mg
+
+- Depakote ER 500mg -1000mg
+
+
+- again Vimpat 100mg every 12hrs- has not been taking
+
+- Gabapentin 600mg q12hrs
+
+
+
+Clonazepam 1mg bid
+
+
+
+
+Calcium and vit D 500/200
+
+
+
+
+Prior AEDs:
+
+AED  Max dose per day  Side effects  Reason discontinued
+
+PHT                                              Unclear
+
+
+GBP  1200                                            Efficacy
+
+LEV  1500mg                                 Efficacy
+
+
+ZNS   600                                          Takes now
+
+Valium (?)
+
+
+
+Special Features
+
+
+Status epilepticus: No
+
+Self Injury Seizures: Yes - head trauma
+
+
+Precipitating Factors: None
+
+
+
+Epilepsy Risk Factors:
+
+Abnormal pregnancy: No
+
+
+Abnormal birth/neonatal: No
+
+Abnormal Development: cant read or write
+
+
+Febrile seizures, simple: No
+
+Febrile seizures, complex: No
+
+CNS infection: No
+
+Mental retardation: yes
+
+
+Cerebral palsy: No
+
+Head injury (moderate/severe): No
+
+
+CNS neoplasm: No
+
+CNS malformation: No
+
+
+Neurosurgical procedure: No
+
+Stroke: No
+
+
+Alcohol abuse: No
+
+Drug abuse: No
+
+
+Consanguinity: No
+
+
+
+Family history Sz/epilepsy: Yes - uncles, sister, at least few more family members
+
+FH of Sz: father , Sister, nephew (sister's child), uncle (father's brother) - ALL started having seizures
+as children. NONE died from seizures.
+
+
+
+
+
+STUDIES REVIEWED:
+
+Imaging:
+
+MRI BRAIN WO CONTRAST
+
+
+Impression: Right mesial temporal sclerosis and mild nonspecific signal changes in
+
+the white matter.
+
+
+
+EEGs:10/2013 (TUH) and 1/2012 (TUH): Nl awake and asleep study
+
+
+
+
+
+
+
+Continuous video EEG is initiated for:  Recording of seizures for presurgical evaluation.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patient's exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+
+
+
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The  spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+No current facility-administered medications for this visit.
+
+
+No current outpatient prescriptions on file.
+
+Facility-Administered Medications Ordered in Other Visits:
+
+calcium-vitamin D 500 mg(1,250mg) -200 unit per tablet 1 tablet
+
+
+clonazePAM (KLONOPIN) tablet 1 mg
+
+divalproex (DEPAKOTE DR) tablet 500 mg
+
+FLUoxetine (PROZAC) capsule 10 mg
+
+
+lacosamide (VIMPAT) tablet 100 mg
+
+levothyroxine (SYNTHROID) tablet 50 mcg
+
+prednisoLONE acetate (PRED FORTE) 1 % ophthalmic suspension 1 drop
+
+
+simvastatin (ZOCOR) tablet 40 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+divalproex (DEPAKOTE DR) tablet 1,000 mg
+
+ibuprofen (ADVIL,MOTRIN) tablet 600 mg
+
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (10/18/2016, 10:11AM - 10/19/2016, 06:00)
+
+
+
+BACKGROUND:
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and diffuse
+background slowing are seen.
+
+
+
+Sleep is captured with stage I and II along deeper stages including REM/
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: HV and photic not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 84 bpm is captured on a single EKG lead.
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is a normal awake and drowsy  routine EEG.
+
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+
+------------------------------------------------------------------------------------------
+
+
+MEDICATIONS:
+
+
+
+clonazePAM stopped
+
+zonisamide stopped
+
+
+lacosamide
+
+divalproex
+
+
+
+SEDATION: None
+
+
+DAY 2 (10/19/2016, 08:00AM - 10/20/2016, 08:00)
+
+
+
+BACKGROUND:
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, and diffuse
+background slowing are seen.
+
+
+
+Sleep is captured with stage I and II along deeper stages including REM/
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: HV and photic not performed.
+
+
+
+EVENTS:
+
+At 9PM patient complained of seeing ants on the wall and that he may have a seizure. No EEG
+changes were noted.
+
+
+
+HEART RATE:
+
+
+A heart rate of 84 bpm is captured on a single EKG lead.
+
+
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is a normal 24 hour continuous EEG.
+
+
+
+Episode above had no EEG correlate and it not likely epileptic.  This is not his typical seizure.
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 3 (10/20/2016 - 10/21/2016)
+
+
+
+Depakote OFF
+
+
+
+BACKGROUND: No change
+
+
+GENERALIZED SLOWING: None
+
+
+
+FOCAL SLOWING: None
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single EKG lead captured a regular heart rate
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+
+
+
+Normal 24 hour study.
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 4 (10/21/2016 - 10/22/2016)
+
+
+
+Vimpat OFF
+
+
+
+BACKGROUND: No change
+
+
+GENERALIZED SLOWING: None
+
+
+
+FOCAL SLOWING: None
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+ACTIVATION PROCEDURES:
+
+Photic stimulation triggers symmetrical occipital response
+
+HV is performed with fair effort and produces no appreciable change in the background
+
+
+
+EKG: A single EKG lead captured a regular heart rate
+
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION
+
+
+
+Normal 24 hour study.
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 5 (10/22/2016 - 10/23/2016) - the recording stops at 10:23 PM on 10/22/2016 and resumes at
+11:52 am on 10/23/2016
+
+
+
+BACKGROUND: No change
+
+
+GENERALIZED SLOWING: None
+
+
+
+FOCAL SLOWING: None
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single EKG lead captured a regular heart rate
+
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION
+
+
+Normal ~16 hour study.
+
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+
+DAY 6 (10/23/2016 - 10/24/2016)
+
+
+
+BACKGROUND: No change
+
+
+
+
+GENERALIZED SLOWING: None
+
+
+
+FOCAL SLOWING: None
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+EVENTS: seizure at 4:42:11 PM
+
+Clinically, patient is awake, supine, with hands crossed, watching TV.  Except from increase in heart
+rate from ~ 84 bpm (resting) to up to 114 bpm, there are no other clinical signs/ symptoms at seizure
+onset.  Patient continues to lay relatively still for minutes.  ~5 minutes after electrographic seizure
+onset the EEG tech enters the room and speaks to the patient.  He does not respond and looks to the
+left (she is on his right side). At ~5 min 48 seconds a nurse speaks loudly to the patient and he looks
+at her (she is on his right).  Despite being spoken in Spanish, at ~6.5 minutes into his seizure he
+prefers to look to the left, is non-verbal, can shake his head slightly "no", cannot name, does not
+follow commands accurately.  He uses his left hand to point at random objects in the room (~7
+minutes into his seizure).  ~9 min 20 seconds into his seizure, he has forced head and gaze deviation
+to the LEFT.  ~5 seconds later he forms figure 4 sign with LEFT arm extended.  He proceeds
+
+
+
+
+
+
+to have a generalized tonic clonic convulsion for ~ 52 seconds.  Following the convulsion he is
+unresponsive with heart rate in 150s.
+
+
+
+Electrographically, first EEG change is characterized by subtle delta activity over the right temporal
+region.  ~30 seconds later there is appreciable increase in heart rate from the resting 84 bpm to ~102
+bpm.  Rhythmic theta activity is noted over the O2 lead ~ 80 seconds after the first EEG change.  Of
+note, significant EMG artifact obscures right hemispheric leads at the same time.  There is a gradual
+evolution of the activity over the right, primarily posterior temporal- temporooccipital- parietooccipital
+leads.  There is eventual spread over the left occipital region and posterior central region.  At 9 min
+20 sec there is diffuse EMG artifact (due to generalized tonic clonic convulsion).  Postictally, there is
+diffuse slow delta activity that is attenuated.
+
+
+
+
+
+
+EKG: A single EKG lead captured a regular heart rate
+
+
+
+
+DAY 6 IMPRESSION & CLINICAL CORRELATION
+
+
+
+A single ~10 min 20 sec seizure of right temporal- posterior quadrant onset with secondary
+generalization.
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------
+
+
+
+INDUCTION PROCEDURES:
+
+Sleep deprivation
+
+
+Photic stimulation
+
+Hyperventilation
+
+Exercise
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+Interictal Findings:
+
+
+Normal awake and asleep
+
+
+Ictal Findings:
+
+The patient had 1 clinical event, on day #6 of monitoring.  ~10 min 20 sec focal seizure of right
+temporal- posterior quadrant onset with secondary generalization.  Clinically, there is increase in
+heart rate early, gaze preference to the left, expressive aphasia, confusion.
+
+
+
+
+
+SEIZURE DIAGNOSIS:
+
+
+1. Complex partial seizures with secondary generalization
+
+
+EPILEPSY DIAGNOSIS:
+
+
+1. Localization related epilepsy, right temporal - posterior quadrant onset
+
+
+CONCLUSION:
+
+
+was admitted to the epilepsy monitoring unit for 6 days with continuous
+video EEG.  This was a productive EMU monitoring session because of a single typical seizure was
+captured
+
+
+
+The interictal EEG is normal.
+
+
+
+
+The patient was weaned off his AEDs (anti-epileptic medications) over the course of her admission.
+S/he was restarted on his/her medication on the day prior to his/her discharge from the hospital. No
+other medication changes were made during the hospitalization.
+
+
+
+
+Patient is follow-up at the Temple Epilepsy Center as an outpatient.

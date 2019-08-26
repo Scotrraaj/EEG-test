@@ -1,0 +1,85 @@
+HISTORY:
+
+53 y.o. female admitted after massive blood loss and PEA arrest.
+
+
+
+
+MEDICATIONS:
+
+
+No AEDs, no sedation since today's am.
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+
+
+There is no PDR or AP gradient.
+
+
+
+The background consists of attenuated very slow delta activity.  With stimulation, diffuse low
+amplitude EMG artifact appears but the degree of the background slowing does not appreciably
+change.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of ~60 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal comatose EEG due to:
+
+1. Marked diffuse slowing and background attenuation
+
+2. Lack of clear background reactivity.
+
+
+
+CLINICAL CORRELATION:
+
+These findings indicate marked diffuse cerebral dysfunction.

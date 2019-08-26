@@ -1,0 +1,134 @@
+HISTORY:
+
+58 y.o. male with a history of ESRD, now with sepsis and possible stroke, referred
+for routine EEG for assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+ARIPiprazole (ABILIFY) tablet 2 mg
+
+magnesium oxide (MAG-OX) tablet 800 mg
+
+
+amLODIPine (NORVASC) tablet 10 mg
+
+potassium chloride tablet 40 mEq
+
+pantoprazole (PROTONIX) EC tablet 40 mg
+
+
+hydrALAZINE (APRESOLINE) 10 mg in sodium chloride 0.9 % 50 mL IVPB
+
+magnesium oxide (MAG-OX) tablet 800 mg
+
+heparin (5000 units/mL) injection 5,000 Units
+
+
+ferrous sulfate tablet 325 mg
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+
+thiamine tablet 100 mg
+
+ondansetron (PF) (ZOFRAN) injection 4 mg
+
+
+insulin glargine (LANTUS) injection 10 Units
+
+insulin lispro (HumaLOG) injection 2-10 Units
+
+
+glucagon (human recombinant) (GLUCAGEN) injection 1 mg
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a slightly disorganized symmetric mixture
+of theta, alpha, and beta frequencies, with an asymmetric but reactive 7-9 Hertz posterior dominant
+rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present. The
+alpha is slower on the left.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+Mild generalized slowing is present.
+
+Subtle focal slowing is present on the left and includes a bit more theta on the left and a slower PDR.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+HEART RATE:
+
+A heart rate of 96 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+1. Mild background slowing
+
+2. Subtle asymmetry with a slower pattern on the left
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings may be attributed in part to the sepsis. Correlation with imaging in regards to the
+subtle focal features is recommended.

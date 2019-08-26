@@ -1,0 +1,141 @@
+DATE OF STUDY: 09/14/16
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 60 min - 3 hr, awake and asleep
+
+
+
+
+
+HISTORY:
+
+a 36 y.o. female with a history of seizures since age 10, with epilepsy exacerbation
+9/13 in the setting of being arrested, having a UTI, and med noncompliance, referred for routine
+EEG for characterization of seizures.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+sulfamethoxazole-trimethoprim (BACTRIM DS) 800-160 mg per tablet 1 tablet
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % infusion
+
+
+docusate sodium (COLACE) capsule 100 mg
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+enoxaparin (LOVENOX) injection 40 mg
+
+
+levETIRAcetam (KEPPRA) tablet 750 mg
+
+PHENobarbital (LUMINAL) tablet 100 mg
+
+
+
+
+
+SEDATION: None; did receive benzodiazepines in ER on day prior
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and excess beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by synchronous and symmetric sleep spindles and K complexes.
+
+
+
+No generalized slowing is present.
+
+Occasional right posterior temporal (T4/T6 max) polymorphic slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+9/22/2016 at 09:20
+
+Clinical: Body jerk
+
+EEG: no associated epileptiform features. A drowsy background mildly arouses following the jerk
+
+
+
+HEART RATE:
+
+A heart rate in the 80-90s is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+
+
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Occasional right posterior temporal (T4/T6 max) polymorphic slowing
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings are etiologically nonspecific indicators of right posterior temporal dysfunction.
+
+The body jerk described above is likely an episode of physiologic/benign myoclonus.
+
+Excess beta is consistent with this patient's history of barbiturate and benzodiazepine use.
+
+
+There were no epileptiform features captured during this EEG; and no clinical or electrographic
+events were reported or detected.
+

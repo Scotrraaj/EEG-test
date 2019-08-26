@@ -1,0 +1,405 @@
+START DATE OF STUDY: 04/04/2016
+
+END DATE OF STUDY: 04/10/2016
+
+
+
+RECORDING ENVIRONMENT: Epilepsy Monitoring Unit
+
+EEG TYPE: Long term recording
+
+
+
+
+
+HISTORY:
+
+This is a 19 y.o. right handed male admitted for continuous
+
+
+video-electroencephalography (VEEG) monitoring with a history of:
+
+paroxysmal events of unclear etiology.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal
+
+events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more
+
+of the following reasons:
+
+- The patient is having medically uncontrolled seizures or
+
+
+clinical events, which poses a significant mortality and
+
+
+
+
+morbidity risk.  Continuous monitoring will aid in diagnosis and
+
+determining best treatment options.  If seizures are left
+
+
+untreated, there is a 10-20% annual morbidity and 2% annual
+
+mortality rate.
+
+
+- Continuous monitoring is required to capture a sufficient
+
+number of clinical events or seizures, while medication are
+
+reduced or provoked, which increases the risk of severe seizures
+
+and at risk of seizures causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures
+
+and it includes nurses trained to provide first aid and patient
+
+
+safety during seizures;
+
+- The full hospital team must be present to deal with these
+
+medical emergency situations should they arise, including nurses
+
+to document patients exam
+
+
+(9) there have been 13 reported deaths during various video-EEG
+
+monitoring procedures, so this is not a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of
+
+monitoring.  The patient then underwent continuous CCTV/EEG
+
+
+monitoring using a cable telemetry system.  Scalp electrodes were
+
+placed and secured with collodion according to the 10-20
+
+
+international electrode system.  Additionally, T1, F9, T9, P9,
+
+T2, F10, T10, and P10 electrodes were placed in this patient.
+
+Sphenoidal electrodes were not used in this case.  Impedances
+
+were measured and verified to be below 5 Kohms.  EEG activity was
+
+
+recorded referentially to vertex reference, digitized, and stored
+
+to computer hard drive.  Periods of interest were subsequently
+
+
+reformatted to the montage of interest and reviewed in detail.
+
+
+
+Staff supervision, patient-initiated event buttons and
+
+computerized algorithms allowed detection of epileptiform EEG
+
+
+activity and correlation with behavior.  For approximately 8
+
+hours each day the patient was attended by an EEG technician.  A
+
+
+neurologist was available in person or on call 24 hours per day.
+
+The patient was monitored via video 24 hours per day by a
+
+
+registered nurse with special training in seizure recognition and
+
+testing.  During times when a technician was not available, EEG
+
+
+recording, video recording, and computer analysis continued, and
+
+nursing performed seizure testing and electrode maintenance.
+
+
+
+The Gotman spike and seizure detection computer program
+
+(trademark named
+
+time for electrographic seizures and interictal discharges.
+
+
+Samples of EEG were recorded periodically.  Detections were
+
+reviewed in detail by attending neurologist.  All events and
+
+
+detections, as well as selected samples, were stored to external
+
+hard drive media.
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+levETIRAcetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2
+
+
+times daily.
+
+
+No current facility-administered medications for this visit.
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (04/4/2016,  - 4/5/2016, 06:00)
+
+
+BACKGROUND:
+
+
+
+The waking background is continuous, symmetric, well-organized.
+
+
+
+Posterior dominant rhythm consists of moderate amplitude 9 Hz
+
+alpha activity.  The expected AP (anterior-to-posterior) gradient
+
+Is present.
+
+
+
+The background is reactive and variable.
+
+
+
+There were no persistent asymmetries in amplitude and frequency.
+
+
+
+Sleep was characterized by symmetric sleep spindles and/or
+
+K-complexes.  Slow wave sleep and REM sleep is present.
+
+
+
+PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+EVENTS: No clinical or electrographic events were reported or
+
+
+detected.
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+Normal awake and asleep study.
+
+
+Reading attending: 
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (04/05/2016, 06:00 - 4/6/2016, 06:00)
+
+
+AEDs: Keppra 250 mg BID
+
+
+
+Sleep deprived.
+
+
+
+INTERICTAL BACKGROUND:
+
+No change.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during
+
+
+this study.
+
+
+
+EKG: A single lead captured regular heart that decreases to <60
+
+bpm during sleep.
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+
+Normal awake and asleep study.
+
+
+Reading attending: 
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (04/06/2016, 06:00 - 4/7/2016, 06:00)
+
+
+AEDs: Keppra 250 mg qam only
+
+
+
+INTERICTAL BACKGROUND:
+
+
+No change
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+SEIZURES/EVENTS:
+
+
+At least 2 events of chewing/ lip smacking occurred while asleep
+
+are captured.  Examples at ~2:53:23 AM and 3:11:33 AM.  Each
+
+
+lasts <10 seconds and starts during stage II sleep.  Once the
+
+event is over, stage II sleep is again seen.  EEG is only notable
+
+for chewing artifact.
+
+
+
+EKG: A single lead captured regular heart rate.
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+Normal awake and asleep study.  Two brief (<10 sec) events of
+
+
+chewing/ lip smacking that occurred out of stage II sleep had no
+
+ictal correlate.
+
+
+
+Reading attending: 
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4 (04/07/2016, 06:00 - 4/8/2016, 06:00)
+
+
+
+AEDs: none
+
+
+INTERICTAL BACKGROUND:
+
+No change.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during
+
+this study.
+
+
+EKG: A single lead captured regular heart rate
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+
+Normal awake and asleep study.
+
+
+
+Reading attending: 

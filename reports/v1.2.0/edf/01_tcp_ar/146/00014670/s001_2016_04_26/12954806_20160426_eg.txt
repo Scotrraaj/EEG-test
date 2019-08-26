@@ -1,0 +1,107 @@
+DATE OF STUDY: 04/26/16
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 20-40 min, drowsy and asleep
+
+
+
+
+
+HISTORY:
+
+a 69 y.o. female with a history of seizures, COPD, and severe back pain referred for
+routine EEG for assessment of mental status change.
+
+
+
+MEDICATIONS: Dilantin
+
+
+
+SEDATION: none
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+The majority of the study consists of drowsiness and sleep.
+
+During brief periods of wakefulness, fragments of an irregular posterior dominant rhythm approaching
+7 Hz are seen in an anterior to posterior gradient that is present but suboptimal.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric sleep spindles.
+Slow wave sleep was not captured.
+
+
+
+Mild generalized slowing is present.
+
+
+No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY: None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Occasional sharply contoured waves are seen independently over the bilateral temporal regions, not
+clearly epileptiform.
+
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 72 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal drowsy and asleep routine EEG due to:
+
+1. Mild generalized slowing and suboptimal organization
+
+
+
+CLINICAL CORRELATION:
+
+These findings are nonspecific indicators of mild diffuse cerebral dysfunction, which may at least in
+part be associated with a suboptimally awake state.
+
+
+
+
+

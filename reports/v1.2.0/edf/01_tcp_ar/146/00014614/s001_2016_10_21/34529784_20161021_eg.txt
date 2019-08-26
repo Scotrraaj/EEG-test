@@ -1,0 +1,22 @@
+HISTORY: 60 y.o. male with a history of bilateral pulmonary embolism referred for EEG monitoring during pulmonary thrombectomy.  
+
+MEDICATIONS: Induction: Vecuronium, lidocaine, fentanyl, versed 4 mg, etomidate  
+
+SEDATION: fentanyl  
+
+TECHNIQUE: A 21 channel electroencephalogram (EEG) was recorded in the operating room (OR) using the International 10-20 system and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG. The recording begins with the patient awake in the OR and continues through sedation, hypothermia and then rewarming after completion of the procedure. The study was monitored 1:1 with online remote neurophysiologist review, for 415 minutes. A technician was available in the OR throughout the study. The use of sedative medications was documented by the technician, in communication with the anesthetist, throughout the study.    
+
+EEG BACKGROUND: The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient. Wakefulness is characterized by a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR), which attenuates symmetrically with eye opening.   Cooling began at 09:31.  With anesthesia and cooling the background progressively becomes slower, consisting of a disorganized mixture of alpha, theta and delta frequencies, and lower in amplitude. As the study progresses the background becomes intermittently attenuated, then it develops a symmetric burst-suppression pattern with occasional diffuse sharp waves. As the background becomes increasingly suppressed, there is emergence of electrode artifact affecting electrodes O1 and O2. The tech is made aware and attempts to fix this, but is unable to completely resolve the artifact. The team is made aware.  Complete suppression occurred at 10:22. This was communicated to the team.   Rewarming began at 12:03.  During re-warming, the background slowly becomes more continuous and consists of mainly diffuse symmetric theta and delta activity, with some frontocentral faster frequencies, then increasing prevalence of admixed alpha frequencies. The background remains diffusely slow until the end of the recording.   No focal slowing is present.   
+
+EPILEPTIFORM ACTIVITY: No epileptiform activity is present.  
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):  None  
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.  
+
+EVENTS:  There are no clinical or electrographic events, other than as documented above, captured during this study.  
+
+HEART RATE: A heart rate of 60 bpm is captured on a single EKG lead.  
+
+IMPRESSION: This an uneventful EEG during PTE surgery. No seizures were seen.  
+CLINICAL CORRELATION: This is an uneventful intraoperative 6 hour 55 minute EEG during cardiopulmonary surgery with hypothermia. All changes were communicated to the primary team as they occurred.  INCISION: 08:53 HEPARIN: 09:13, 30,000 units BYPASS: 09:24 COOLING: 09:31 SUPPRESSION: 10:22 CROSS CLAMPED: 10:30 CIRCULATORY ARREST: 10:43 CARDIAC ARREST: 10:43 WARMING: 12:03 CIRCULATORY ARREST OFF: 12:03 

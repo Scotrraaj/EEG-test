@@ -1,0 +1,17 @@
+History:	56 year old man who had a recent ICH, requiring craniotomy.
+Medications:	Keppra
+Sedation:
+EEG Type:	Asleep only, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, comatose
+
+Description:
+There is no PDR or AP gradient. The background consists of a mixture of polymorphic theta and delta activity, underriding low amplitide beta activity and periods of discontinuity. Beta activity is more pronounced over the left posterior quadrant. Additional, frequent right primarily posterior temporal­ parietal (C4/ P4/ T6 maximal) high amplitude sharp waves with aftergoing slow waves are captured. No normal sleep architecture is present.
+Frequent electrographic seizures without clinical correlate are captured. They last~ 60-90 seconds. They often have an unclear onset and offset and are somewhat variable in appearance.
+Electrographically, they start with high amplitude rhythmic~1.5 Hz T4/T6/C4/P4 delta that evolves in low amplitude fast activity seen best over the right>left posterior quadrants (example 9:03:49 AM).
+Hyperventilation and photic stimulation are not performed.
+
+Summary of Findings:
+Status epilepticus, right temporoparietal Diffuse slowing, polymorphic, moderate Sharp waves, frequent, right temporoparietal
+Interpretation:
+This is an ABNORMAL portable 22-minute EEG due to moderate diffuse slowing, frequent right temporoparietal epileptiform discharges and frequent right centrotemporalparietal electrographic seizures. Diffuse slowing is indicative of moderate diffuse cerebral dysfunction, which is etiologically nonspecific. There is an epileptogenic focus over the right temporoparietal region. These findings were conveyed to the primary team. Patient will be placed on long-term EEG monitoring.
+

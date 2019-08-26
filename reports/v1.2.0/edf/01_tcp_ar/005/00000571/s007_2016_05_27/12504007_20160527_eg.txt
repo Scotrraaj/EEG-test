@@ -1,0 +1,125 @@
+HISTORY:
+
+36 y.o. female with a history of JME referred for routine EEG for characterization of
+seizures.
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+topiramate (TOPAMAX) 50 mg tablet, Take 1 tablet by mouth every morning.
+
+topiramate (TOPAMAX) 100 mg tablet, Take 1 tablet by mouth 2 times daily for 360 days. Start 1 at
+bedtime for 2 weeks, then 1 BID
+
+
+folic acid (FOLVITE) 1 mg tablet, Take 1 tablet by mouth daily.
+
+
+gabapentin (NEURONTIN) 100 mg capsule, Take 1 capsule by mouth 3 times daily.
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+
+
+
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 8.5 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Synchronous and symmetric vertex waves are seen in sleep; stage II transients are not captured.
+
+
+
+No generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Frequent (>1/min to <1/10s) bursts of generalized, frontally predominant 5-Hz spike- and polyspike-
+and-wave activity are seen in wakefulness and drowsiness.  Discrete bursts last up to 3 seconds but
+occasionally occur <1 second apart, for a total duration of 5.5 seconds. In drowsiness spikes may
+fragment, with equal predominance seen between the hemispheres.
+
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produced
+a single 1-second burst of diffuse sharply contoured theta activity.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) induces scant
+symmetric photic driving, particularly at 9 Hz, which is a normal finding. There is no increase in burst
+duration/prevalence during photic stimulation as compared with the rest of the study. There is no
+photoparoxysmal response.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+
+1. Frequent bursts of generalized, frontally predominant 5-Hz spike- and polyspike-and-wave activity
+
+
+CLINICAL CORRELATION:
+
+These findings are similar to prior EEGs and are consistent with this patient's diagnosis of juvenile
+myoclonic epilepsy.

@@ -1,0 +1,27 @@
+History:	40 YR FEMALE IN OR FOR PULMONARY THROMBOEMBOLECTOMY
+Medications:	VERSED, EPHINEPHRINE, ROCURONIUM, ETOMIDATE, FENTANYL, 
+	ISOFLURANE, LIDOCAINE, SOLU MEDROL
+Sedation:
+EEG Type:	Extended, >60 min
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, asleep
+Description:
+Waking background is characterized by a 25-40uV, 10Hz alpha rhythm, which attenuates 
+symmetrically with eye opening.  Symmetric 5-15uV, 18-25Hz activity is present, maximal over 
+bilateral frontal regions.  With anesthesia and cooling the background proggresively becomes 
+slower, starts decreasing in amplitude and later intermittently attenuated.  Then it becomes burst 
+suppresion with some intermittent low amplitude diffuse periodic discharges unitl it is completely 
+attenuated.  The primary team is alerted about complete suppresion. After cardiac arrest and 
+warming the background reappears and slowly reaches a symmetric diffuse theta/ delta activity with 
+some frontocentral faster frequencies.  INCISION:  8:54AM,  HEPARIN: 9:14AM 35000U, BYPASS: 
+9:27AM, COOLING: 9:27AM, SUPPRESSION: 10:36AM, CROSS CLAMPED 10:36AM,  
+CIRRCULATORY ARREST:10:46A,  CARDIAC ARREST:11:25A , WARMING: 11:48AM
+No focal slowing is present.  No epileptiform discharges are present.
+Hyperventilation is not performed.
+Summary of Findings:
+	No electrographic seizures
+Interpretation:
+This is a uneventful 5Hr EEG during an PTE surgery with hypothermia. All changes were 
+communicated to the surgical team.
+	
+

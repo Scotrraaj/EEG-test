@@ -1,0 +1,130 @@
+HISTORY:
+
+32 y.o. male with a history of post-traumatic epilepsy (hit on head with bat in 2008,
+resulting in multicompartmental intracranial hemorrhage, s/p b/l craniectomies and cranioplasties),
+referred for routine EEG for characterization of seizures.
+
+
+
+
+MEDICATIONS: levETIRAcetam (KEPPRA) 500 mg tablet, Take 1 tablet by mouth 2 times daily.
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically suboptimal record
+as electrode placement, particularly over posterior head regions, was impeded by patient's
+dreadlocks. The study included a single channel of EKG and photic stimulation.
+
+
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 10 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm and diffuse
+background slowing with increased beta are seen.
+
+
+
+Sleep is characterized by sleep transients, including vertex waves and K complexes with spindles,
+that are best seen over the left hemisphere.
+
+
+
+No generalized slowing is present.
+
+Abundant right fronto-temporal polymorphic slowing is present.
+
+
+Abundant left temporal polymorphic slowing, both synchronous and independent, is present.
+
+At times waveforms are higher in amplitude and more sharply contoured over the right parasagittal
+region (C4) than left, likely a breach rhythm.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 48 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. Abundant right fronto-temporal polymorphic slowing
+
+
+
+2. Abundant left temporal polymorphic slowing, both synchronous and independent
+
+3. At times waveforms are higher in amplitude and more sharply contoured over the right parasagittal
+region (C4) than left, likely a breach rhythm.
+
+
+4. Sleep transients seen better over the left hemisphere.
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence independent left temporal/left hemispheric and right fronto-
+temporal cerebral dysfunction. These findings are consistent with the patient's prior history of
+multifocal intracranial hemorrhage.
+
+
+A breach rhythm is consistent with this patient's known history of craniotomy.
+
+Bradycardia is noted on single EKG lead.

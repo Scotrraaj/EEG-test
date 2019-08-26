@@ -1,0 +1,21 @@
+History:	43 year old man who had an episode this am concerning for a seizure.
+Medications:	Keppra
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:		International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG electrodes, awake, drowsy, asleep
+
+Description:
+There is subtle right-to-left interhemispheric asymmetry with slower waveforms over the left. The background over the right consists of 10 Hz low-to-moderate amplitude alpha posteriorly with expected AP gradient. The background over the left consists of 9-10 Hz polymorphic low-to-moderate amplitude alpha with weak AP gradient. Additional polymorphic theta activity is seen over the left. It is especially prominent over the pre-frontal leads. Stage II is achieved. There is subtle sleep spindle and K-complex asymmetry with sleep architecture better visualized over the right.
+No epileptiform discharges are present.
+Hyperventilation and photic stimulation are not performed. A single EKG lead demonstrates heart rate of
+-120 bpm.
+
+Summary of Findings:
+Focal slowing, polymorphic, continuous, mild, left hemispheric
+Focal slowing, polymorphic, nearly continuous, moderate, left anterior Asynchrony, sleep spindles, better over the right
+No epileptiform discharges
+Interpretation:
+This is an ABNORMAL awake and asleep 22-minute portable EEG due to subtle mild continuous left hemispheric focal slowing that is most pronounced over the anterior/ pre-frontal region. This finding is indicative of a focal structural lesion in this region.  A single EKG lead demonstrates heart rate of - 120 bpm. The lack of epileptiform discharges on a routine EEG does not rule out a clinical diagnosis of epilepsy.
+
+
+

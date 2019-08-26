@@ -1,0 +1,178 @@
+HISTORY:
+
+44 y.o. female with a history of localization related epilepsy s/p R temporal
+lobectomy referred for routine EEG for characterization of seizures. She was recently in the ER after a
+seizure.
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+haloperidol (HALDOL) 5 mg tablet, Take 5 mg by mouth daily.
+
+benztropine (COGENTIN) 1 mg tablet, Take 1 mg by mouth every evening.
+
+acetaminophen (TYLENOL) 500 mg tablet, Take 500 mg by mouth 2 times daily. 2 tabs BID prn.
+
+
+loratadine (CLARITIN) 10 mg tablet, Take 10 mg by mouth daily.
+
+calcium carbonate 500 mg calcium (1,250 mg) capsule, Take 1,250 mg by mouth 2 times daily (with
+meals).
+
+
+ibuprofen (ADVIL,MOTRIN) 800 mg tablet, Take 800 mg by mouth every 6 hours as needed for Pain.
+
+acyclovir (ZOVIRAX) 200 mg capsule, Take  by mouth 5 times daily.
+
+
+omeprazole (PRILOSEC) 10 mg capsule, Take 10 mg by mouth daily.
+
+phenytoin (DILANTIN) 100 mg ER capsule, Take 100 mg by mouth nightly. 4 caps
+
+gabapentin (NEURONTIN) 100 mg capsule, Take 100 mg by mouth 3 times daily.
+
+
+
+
+multivitamin (THERAGRAN) per tablet, Take 1 tablet by mouth daily.
+
+Cholecalciferol, Vitamin D3, (VITAMIN D-3) 2,000 unit Capsule, Take 2,000 Units by mouth daily.
+
+
+naproxen (NAPROSYN) 500 mg tablet, Take 500 mg by mouth 2 times daily (with meals).
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a well organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 10 Hertz posterior dominant rhythm
+(PDR). The normal anterior-to-posterior gradient of frequency and amplitude is present.
+
+
+
+During drowsiness, attenuation and fragmentation of the posterior dominant rhythm, diffuse
+background slowing, and bitemporal delta slowing, at times quasirhythmic, are seen.
+
+
+
+
+Sleep transients are not captured
+
+
+No generalized slowing is present.
+
+
+Bitemporal quasirhythmic slowing is seen in drowsiness as described above..
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Abundant (>1/10s) left fronto-temporal (F7/T1 max) spike and wave discharge
+
+2. Very frequent left temporal/posterior temporal and central (T3/T5 max, extending to C3>P3) spike
+and wave discharges
+
+
+3. Occasional right temporal (T4>T2) spike and wave discharges.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with good cooperation and produces
+mild diffuse symmetric background slowing.
+
+
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+
+EVENTS:
+
+An electroclinical seizure was captured at 15:11
+
+CLINICAL: patient wipes her face with left hand, then has forced left head and gaze deviation. She is
+unresponsive and has left hand automatisms with lip smacking. She does not follow commands.
+After offset patient gradually is able to answer her name and follow simple commands.
+
+
+
+EEG: There is onset of sharply contoured delta phase reversing over left fronto-temporal region (F7
+max). The EEG is then obscured by diffuse muscle artifact; however, there is clearly underlying ictal
+activity that evolves best over the left temporal region, manifested as sharply contoured delta activity
+with superimposed fast frequencies. Ictal activity evolves into 8 Hz spikes, increasing in amplitude
+and spreading diffusely before slowing to rhythmic delta at offset.  Postictally there is attenuation of
+faster frequencies over the left hemisphere.
+
+
+
+
+
+HEART RATE:
+
+A heart rate of 108 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+1. A left temporal electroclinical seizure
+
+
+2. Abundant (>1/10s) left fronto-temporal (F7/T1 max) spike and wave discharges
+
+3. Very frequent left temporal/posterior temporal and central (T3/T5 max, extending to C3>P3) spike
+and wave discharges
+
+
+4. Occasional right temporal (T4>T2) spike and wave discharges
+
+5. Bitemporal quasirhythmic slowing in drowsiness
+
+
+
+
+CLINICAL CORRELATION:
+
+These findings are diagnostic for localization-related epilepsy of left temporal origin. There is
+additional evidence for epileptogenicity over the left fronto-temporal, centrotemporal/posterior
+temporal, and right temporal regions, as well as bitemporal dysfunction.
+
+
+
+
+Following this study the patient was taken to the emergency room for further evaluation and
+stabilization.

@@ -1,0 +1,21 @@
+History:	61 year old man who presents with a syncopal event.
+Medications:	no AEDs listed
+Sedation:
+EEG Type:	Routine, awake & drowsy, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy
+Description:
+The posterior dominant rhythm reaches polymorphic low-to-moderate amplitude 8 Hz theta activity.
+  The AP gradient is weak.  Diffuse excess theta activity is present.  During brief drowsiness, the 
+degree of diffuse theta activity increases.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates 
+regular heart rate.
+Summary of Findings:
+	Diffuse slowing, polymorphic, mild
+	No epileptiform discharges
+	No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and briefly drowsy portable EEG due to mild diffuse slowing. This 
+finding is indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.  A single
+ EKG lead demonstrates regular heart rate.
+

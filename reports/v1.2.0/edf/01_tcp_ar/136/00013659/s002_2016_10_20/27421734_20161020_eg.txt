@@ -1,0 +1,143 @@
+HISTORY:
+
+79 y.o. female with a history of breast cancer, UTI, left sided weakness with negative
+CT referred for routine EEG for assessment of mental status change.
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+furosemide (LASIX) 10 mg/mL injection
+
+metoprolol (LOPRESSOR) split-tablet 37.5 mg
+
+latanoprost (XALATAN) 0.005 % ophthalmic solution 1 drop
+
+
+clindamycin (CLEOCIN) 600 mg in dextrose 5 % 50 mL IVPB
+
+[START ON 10/21/2016] DAPTOmycin (CUBICIN) 1,000 mg in sodium chloride 0.9 % 50 mL IVPB
+
+DAPTOmycin (CUBICIN) 600 mg in sodium chloride 0.9 % 50 mL IVPB
+
+
+hydrocortisone 1 % cream 1 Application
+
+albuterol (PROVENTIL) nebulizer solution 2.5 mg
+
+senna (SENOKOT) tablet 2 tablet
+
+
+lidocaine (XYLOCAINE) 20 mg/mL (2 %) injection 20 mL
+
+potassium chloride (KAYCIEL) 20 mEq/15 mL solution 40 mEq
+
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+heparin (5000 units/mL) injection 5,000 Units
+
+
+nystatin (MYCOSTATIN) powder 1 Application
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A bedside portable Digital Video 21 channel electroencephalogram (EEG) was recorded using the
+International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a
+technically  satisfactory record and included a single channel of EKG.  Some electrode problems
+noted in record including T2 artifact.
+
+
+
+BP 104/62 (BP Location: Left arm, Patient Position: Lying)  Pulse (!) 124  Temp 99.3 F (37.4 C)
+(Axillary)  Resp 20  Ht 5' 7.99" (1.727 m)  Wt 236 lb 12.4 oz (107.4 kg)  SpO2 94%
+
+
+EEG BACKGROUND:
+
+The waking background is characterized by diffusely slow pattern of theta with 6 Hertz posterior
+dominant rhythm (PDR). The normal anterior-to-posterior gradient of frequency and amplitude is
+present. Intermittently the activity in the right posterior quadrant is of lower voltage.
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is symmetric with vertex waves.
+
+
+
+Moderate to severe generalized slowing is present.
+
+No definitve focal slowing is present.  Attenuation noted on the right may be artifact.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Occasional bihemispheric paroxysmal frontal delta is noted during drowsiness and wakefulness.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+
+A heart rate of 96 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+
+1. Generalized background slowing
+
+2. FIRDA
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings are nonspecific but can be seen in metabolic encephalopathy or other diffuse
+disturbances.  Given the artifacts in this record, the focal features on the right are of unclear clinical
+significance.

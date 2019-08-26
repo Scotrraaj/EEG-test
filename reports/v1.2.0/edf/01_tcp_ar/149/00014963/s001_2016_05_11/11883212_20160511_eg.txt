@@ -1,0 +1,92 @@
+DATE OF STUDY: 05/11/16
+
+RECORDING ENVIRONMENT: inpatient
+
+
+EEG TYPE: 20-40 min, awake and asleep
+
+
+
+HISTORY:
+
+a 71 y.o. male with a history of heart failure, requiring LVAD, now with altered
+mental status.
+
+
+
+MEDICATIONS:
+
+No AEDs
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+During maximal arousal the background consists of polymorphic 7-8 Hz theta posteriorly, poor AP
+(anterior-to-posterior) gradient and excess diffuse polymorphic theta>delta activity.
+
+
+
+
+
+During periods of quiescence, the background changes to diffuse delta>theta activity.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+
+A heart rate of ~72 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+This is an abnormal drowsy and asleep  routine EEG due to:
+
+
+1. Mild-to-moderate diffuse background slowing.
+
+
+
+CLINICAL CORRELATION:
+
+This finding is indicative of mild-to-moderate diffuse cerebral dysfunction, which is etiologically
+nonspecific.
+

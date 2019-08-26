@@ -1,0 +1,421 @@
+HISTORY:
+
+This is a 60 y.o. right handed male admitted for continuous video-electroencephalography (VEEG)
+monitoring with a history of: refractory epilepsy.
+
+
+
+
+Continuous video EEG is initiated for:  Characterization of seizures.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patient's exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Additionally, T1, T2,  electrodes were placed in this patient.  Sphenoidal electrodes were not used in
+this case.  Impedances were measured and verified to be below 5 Kohms.  EEG activity was
+recorded referentially to vertex reference, digitized, and stored to computer hard drive.  Periods of
+interest  Can be subsequently reformatted to the montage of interest and reviewed in detail.
+
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+The spike and seizure detection computer program was used to screen the EEG in real time for
+electrographic seizures and interictal discharges.  Samples of EEG were recorded periodically.
+Detections were reviewed in detail by attending neurologist.  All events and detections, as well as
+selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+Lamictal, CBZ, gabapentin
+
+SEDATION: None
+
+
+CLINICAL: The patient had been admitted from an outside hospital for an increase in seizures.  On
+admission, he was found to have a low-grade fever.  Over the first 24 hours of EEG monitoring, he
+began to vomit.  Sleep was markedly disrupted.
+
+
+DAY 1 ( 7/23/2016, 1:30 AM start time  )
+
+
+BACKGROUND:
+
+
+The waking background is markedly abnormal and consists of a 2 patterns.  One of them is primarily a
+6-7 Hz theta pattern.
+
+
+Posterior dominant rhythm was present, but equivocal in terms of whether or not it reacts to eye
+opening.  There is anterior to posterior gradient.
+
+
+
+
+
+
+This pattern is intermittently interrupted by bursts of high amplitude, irregular, slow wave activity.
+These bursts look like spike and wave activity but, there is not always a spike in it.  It is primarily a
+notched frontal delta pattern of 2.5-4 Hz
+
+
+The background is reactive, variable.
+
+
+
+There were no major  asymmetries in amplitude and frequency.  There is shifting arrhythmic delta
+noted from either hemisphere
+
+
+
+Sleep was characterized by slowing.  The spike and wave discharges, or the high amplitude delta
+bursts may slow to 2 Hz. The sleep pattern usually resembles the slow spike and wave pattern, but
+there were scant Vertex waves and slow spindles.
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+FIRDA
+
+
+EPILEPTIFORM ACTIVITY:
+
+In addition to the frontally predominant notched delta, isolated right or left sharp waves can be noted
+in either hemisphere, noted infrequently, T3, T4, C3
+
+
+ACTIVATION PROCEDURES:
+
+Verbal stimulation produces an alerting.  Does not impact hte EEG
+
+EVENTS: No definitive  clinical or electrographic events were reported or detected.
+
+
+Mental status testing was performed during the bursts of generalized slowing as well as during the
+theta pattern.  He has psychomotor slowing during both patterns. It was not possible to determine
+whether he is more impaired during the bursts.
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+Markedly abnormal background.
+
+
+Because of the patient's slowed mentation, it is difficult to discern if he has impairment with the
+bursts of frontally predominant delta, notched delta or spike and wave activity.
+
+The combination of slow background, focal and generalized epileptiform activity suggests a chronic,
+early developmental epilepsy process.
+
+
+None of the seizures, as described in the outside hospital, were recorded.
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (7/24/2016, 06:00 - 7/25/2016, 06:00)
+
+
+
+AEDs: initially Carbamazepine and Lamictal; then VPA
+
+Clinical: The patient was vomiting. The CBZ level dropped and the patient was loaded with VPA,
+achieving level of 99
+
+
+
+
+INTERICTAL BACKGROUND:
+
+The background transitions between a 7 Hz theta pattern and a high amplitude frontal 3 Hz delta
+with a questionable notched pattern, sometimes maximal at  Fp1, F3
+
+
+
+
+Sleep is variable. Some sleep patterns are identical to the wake slow delta pattern.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+1. Slow diffuse spike and wave, frontally predominant
+
+2. Notched frontal delta- 3 Hz
+
+3. Occasional left temporal sharp waves (F7,  T3 max)
+
+
+4. Occasional right temporal sharp waves (T4-T6 max)
+
+5. Occasional left frontal sharp waves (F3 max)
+
+6. Rare left posterior quadrant sharp waves (T5, P3 max)
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+FIRDA
+
+
+
+ACTIVATION PROCEDURES: none
+
+SEIZURES/EVENTS:
+
+
+There was one  Clinical event captured during this section of the study.
+
+8:59:22 AM 1:26 duration.
+
+CLINICAL: The patient had been vomiting. He was awake, holding something in his hand. As the
+seizure starts, he seems to shift, as if he is trying to push himself to sit forward. He seems to be shifting
+about as his hands come forward and his head bobs forward.  However, these behaviors are seen as
+he is going into a tonic clonic seizure with characteristic muscle artifact seen at 8:59:32. His legs
+extend, he blinks and turns head to left at 8:59:40. He is grimacing. The right arm is clonic; the left
+arm under the covers seems to be tonic. The tonic clonic activity slows, the seizure ends with ongoing
+jerking on the right.  The very last jerk is bilateral adduction of the legs.   The patient is somnolent
+for more than 30 minutes.
+
+
+
+
+
+ICTAL pattern: there are two sharp waves T2, then one T1 (similar to background) followed by frontal
+muscle which may be masking frontal beta, then beta/theta the artifact of a tonic clonic seizure which
+gradually slows as the seizure ends. Prolonged post ictal attenuation transitions to a slow spike wave
+pattern.
+
+
+
+EKG: A single lead captured a heart rate in the 70s, increasing to 120 during the seizure. The
+tachycardia persists for more than 30 minutes.
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+This section of the Long term EEG was remarkable for more of a transition to the frontal
+delta/notched delta/spike and wave pattern.  Contributing factors can include concurrent illness or
+sleep deprivation.
+
+The Tonic clonic seizure had some clear focal features and some, with head turning to the right and
+R facial grimacing, but the ictal pattern was obscured by muscle artifact.
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (7/25/2016, 06:00 - 7/26/2016, 06:00)
+
+
+
+AEDs: VPA again loaded 1 g, changed to 500 mg q12h
+
+Ativan 0.5 mg ordered x2
+
+
+
+INTERICTAL BACKGROUND:
+
+Unchanged compared with day prior - occasionally a fairly organized background with 7-8 Hz
+posterior dominant rhythm is seen, but more often during wakefulness the background is replaced
+with excess of polymorphic and quasirhythmic delta.
+
+
+
+
+There is no change in background rhythms with administration of Ativan.
+
+
+There is no clear correlation between patient's behavior and presence of spike-wave on EEG.
+
+
+
+Sleep is characterized by normal sleep transients, which are seen only occasionally - synchronous
+and symmetric sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+Unchanged compared with day prior
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+Unchanged
+
+Rarely left and right temporal sharp waves occur synchronously.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+SEIZURES/EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+EKG: A single lead captured a heart rate in the 70s
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 4 (7/26/2016, 06:00 - 7/26/2016, 13:35)
+
+
+
+AEDs: VPA increased to 750 mg q12h
+
+
+
+INTERICTAL BACKGROUND:
+
+Occasionally a fairly organized background with 7-8 Hz posterior dominant rhythm is seen - this
+background is seen with increasing prevalence on this day compared with the excess of polymorphic
+and quasirhythmic delta.
+
+
+
+
+There is no clear correlation between patient's behavior and presence of spike-wave on EEG.
+
+
+Sleep is characterized by normal sleep transients, which are seen only occasionally - synchronous
+and symmetric sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+Unchanged compared with day prior
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Unchanged
+
+Rarely left and right temporal sharp waves occur synchronously.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured a heart rate in the 70s
+
+
+-----------------------------------------------------------------
+
+
+FINAL IMPRESSION:
+
+
+
+
+This is an abnormal video EEG due to:
+
+
+
+1. Mild generalized slowing and suboptimal organization, with background alternating between 7-8
+Hz theta/alpha and high amplitude frontal 3 Hz delta
+
+
+2. Slow diffuse spike and wave, frontally predominant
+
+3. Occasional left temporal sharp waves (T3 max)
+
+4. Occasional right temporal sharp waves (T4-T6 max)
+
+
+5. Occasional left frontal sharp waves (F3 max)
+
+6. Occasional left posterior quadrant sharp waves (T5, P3 max)
+
+7. Convulsive seizure captured 7/24
+
+
+
+FINAL CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of multifocal epileptogenic potentials superimposed on a mild
+diffuse cerebral dysfunction. Slow spike and wave with multifocal epileptogenic potential and mild
+diffuse slowing are diagnostic of a symptomatic generalized epilepsy. A single seizure was captured
+on 7/24 as above.  As the study progresses, prevalence of diffuse spike-wave decreased.

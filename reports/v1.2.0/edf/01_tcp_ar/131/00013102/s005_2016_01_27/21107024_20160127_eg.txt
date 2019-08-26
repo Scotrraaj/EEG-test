@@ -1,0 +1,30 @@
+History:	55 year old man who presents with change in mental status.  Patient has a history of
+	 GBM, status post resection in 2015.
+	
+	Patient is agitated early the recording.
+Medications:	Keppra, Ativan
+Sedation:
+EEG Type:	Extended, 40-60 min, portable
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, asleep
+Description:
+There is no PDR or AP gradient.  There is right-to-left interhemispheric asymmetry with slower 
+waveforms over the right.  The background consists of a mixture of polymorphic theta and delta 
+activity with occasional-intermittent triphasics waveforms.  There is paucity of faster frequencies 
+over the right.  No normal sleep architecture is present but periods of quiescence are seen.
+  No electrographic seizures are present.
+Hyperventilation and photic stimulation are not performed.  A single EKG lead demonstrates heart 
+rate of ~ 120 bpm.
+Summary of Findings:
+	Diffuse slowing, polymorphic, moderate
+	Focal slowing, polymorphic, continuous, right hemispheric, moderate-to-severe
+	Triphasic waves, intermittent
+Interpretation:
+This is an ABNORMAL awake and asleep portable 1 hour EEG due to moderate diffuse slowing, 
+continuous right hemispheric moderate-to-severe focal slowing, and intermittent triphasic 
+waveforms. These findings are indicative of a moderate diffuse encephalopathy, which is 
+etiologically nonspecific, but suggestive of a metabolic origin.  Continuous focal is indicative of a 
+focal structural lesion over the right.  Triphasic waves are a nonspecific EEG finding that can be 
+seen in encephalopathy (most notably hepatic), uremia and anoxia.  No clinical or electrographic 
+	
+

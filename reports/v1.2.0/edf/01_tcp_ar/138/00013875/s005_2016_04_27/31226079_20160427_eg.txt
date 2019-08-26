@@ -1,0 +1,762 @@
+START DATE OF STUDY: 04/25/16 at 17:51
+
+END DATE OF STUDY: 04/28/16 at 08:45
+
+
+
+RECORDING ENVIRONMENT: 
+EEG TYPE: Long term recording
+
+
+
+
+
+HISTORY:
+
+a 35 y.o. male admitted for continuous video-electroencephalography (VEEG) monitoring
+with a history of: refractory epilepsy.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+(9) there have been 13 reported deaths during various video-EEG monitoring procedures, so this is
+not a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Additionally, T1, F9, T9, P9, T2, F10, T10, and P10 electrodes were placed in this patient.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For approximately 8 hours each day the
+patient was attended by an EEG technician.  A neurologist was available in person or on call 24
+hours per day.  The patient was monitored via video 24 hours per day by a registered nurse with
+special training in seizure recognition and testing.  During times when a technician was not
+available, EEG recording, video recording, and computer analysis continued, and nursing performed
+seizure testing and electrode maintenance.
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+Zonegran 200-200 (100 mg 2 tab BID)
+
+LTG 100-100 (100 mg 1 tab BID)
+
+
+Onfi 10mg 1 tab daily
+
+Banzel 1200-1200 (400 mg 3 tabs BID [2400mg per day])
+
+Depakote 750-750 (250 mg 3 tabs BID)
+
+
+
+Risperdal 6 mg per day
+
+Fluoxetine 20mg qd
+
+
+
+SEDATION: None
+
+
+DAY 1 (4/25/2016, 17:51 - 4/26/2016, 06:00)
+
+
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is continuous, symmetric, and reactive. There is fair organization with
+fragments of an irregular posterior dominant rhythm approaching 7-8 Hz, with excess quasi-rhythmic
+sharply contoured delta activity frontally.
+
+
+
+Drowsiness and sleep are characterized by attenuation and fragmentation of the posterior dominant
+rhythm, and further slowing of the background.  Rudimentary sleep spindles are seen synchronously
+and symmetrically.
+
+
+
+
+Mild to moderate generalized slowing is present.
+
+No focal slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Frequent right anterior temporal (F8/T2) sharp waves, activated by sleep
+
+
+2. Occasional sharply contoured rhythmic delta waves phase reverse over left temporal region (T3),
+not clearly epileptiform
+
+
+3. Frequent bursts of diffuse frontally predominant spike and wave and polyspike and wave, for up to
+600 msec, activated by sleep.
+
+4. Frequent right frontal spikes, activated by sleep
+
+
+5. Frequent bursts of generalized paroxysmal fast activity in sleep, lasting 1-6 seconds. Some are
+associated with arousal from sleep (see below under "events") and can thus be classified as seizures
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: not performed
+
+
+EVENTS:
+
+
+Note that events were classified by behavioral manifestations.
+
+
+Type #1 - staring event
+
+
+4/25/2016 at 19:20
+
+Push button for staring
+
+Clinical: Behavioral arrest, staring, nonverbal. Duration ~54 sec.
+
+
+EEG: no change in background activity
+
+
+Type #2 - tonic/hypermotor seizure
+
+
+
+
+4/25/2016 at 22:40
+
+Clinical: out of sleep, patient sits up, opens eyes, rocks back and forth, then arches back, sits up
+again, then flips over on his back. He is agitated. Within seconds he calms down and attends to EMU
+tech.
+
+
+
+EEG: burst of frontally predominant diffuse spike and wave and polyspike and wave followed by a
+slow wave, then attenuation. Background then obscured by diffuse muscle activity lasting 27 seconds.
+Duration 27 sec. Postictally, background is attenuated for about 330 seconds.
+
+
+
+Type #3 - arousal from sleep
+
+
+Examples include 4/26/2016 at 01:37, 01:40, 01:49
+
+Clinical: arousal from sleep (eyes open)
+
+EEG: burst of generalized paroxsymal fast activity for 3-7 seconds
+
+
+
+HEART RATE:
+
+A heart rate of 78 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal video EEG due to:
+
+
+1. Mild to moderate diffuse slowing and suboptimal organization
+
+2. Frequent right anterior temporal (F8/T2) sharp waves, activated by sleep
+
+3. Occasional sharply contoured rhythmic delta waves phase reverse over left temporal region (T3),
+not clearly epileptiform
+
+
+4. Frequent bursts of diffuse frontally predominant spike and wave and polyspike and wave, for up to
+600 msec, activated by sleep.
+
+
+5. Frequent right frontal spikes, activated by sleep
+
+6. Frequent bursts of generalized paroxysmal fast activity in sleep, lasting 1-6 seconds. Some are
+associated with arousal from sleep (see below under "events") and can thus be classified as seizures
+
+
+7. Episodes of staring without EEG change in background activity
+
+8. Seizures (hypermotor, tonic) associated with pattern of frontally predominant spike and polyspike
+and slow wave followed by electrodecrement
+
+
+9. Seizures (arousals from sleep) associated with pattern of generalized paroxysmal fast activity
+
+
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings are diagnostic for symptomatic generalized epilepsy with multiple seizure types.
+There is evidence for multifocal epileptogenic potentials, as well as mild to moderate diffuse
+cerebral dysfunction.
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 2 (4/26/2016, 06:00 - 4/27/2016, 06:00)
+
+
+
+AEDs:
+
+Zonegran decreased to 100 mg q12h
+
+All other meds unchanged
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+
+EPILEPTIFORM ACTIVITY: no change
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+SEIZURES/EVENTS:
+
+
+
+Type #1 - staring event
+
+
+
+4/26/2016 at 08:22
+
+Clinical: patient appears distracted while eating. Stops chewing and does not respond to PCA, who
+presses button. Within a minute, he attends to tech and responds verbally.
+
+
+EEG: awake background.
+
+EKG: no change in HR.
+
+
+
+4/26/2016 at 16:19
+
+Clinical: patient staring at mother, who pushes button. He does not respond verbally but attends to
+her. Within a minute he identifies his mother.
+
+
+EEG: awake background.
+
+EKG: no change in HR.
+
+
+
+4/26/2016 at 17:48
+
+Clinical: patient stares at mother and does not respond. She pushes button. Duration 1 min 9 sec
+
+
+
+
+EEG: awake background.
+
+EKG: no change in HR
+
+
+
+4/26/2016 at 19:24
+
+
+Clinical: staring, slumps over slightly but does not fall. slight jerky movement of arms. Within a
+minute he answers questions.
+
+EEG: awake background.
+
+
+EKG: no change in HR
+
+
+---
+
+
+
+Type #2 - tonic/hypermotor seizure
+
+
+
+4/26/2016 at 09:42
+
+Clinical: out of sleep, patient arouses, rocks violently back and forth, trembles, stares. Within a
+minute he attends to MD and answers his name.
+
+
+EEG: asleep background is disrupted by generalized paroxysmal fast activity followed by slow
+wave, electrodecrement, then background is obscured by muscle. Duration 28 sec.
+
+
+EKG: HR up to 140s
+
+
+4/26/2016 at 10:19
+
+
+Clinical: staring, behavioral arrest, dystonic posturing and tremulousness of upper extremities,
+moaning, falls back into bed briefly, then resumes purposeful activity
+
+EEG: attenuation of background with development of generalized paroxysmal fast activity, then
+diffuse muscle artifact. Duration 41 sec.
+
+
+EKG: HR up to 120s
+
+
+
+---
+
+
+Type #3 - arousal from sleep
+
+
+
+4/27/2016 at 01:31 is an example
+
+Clinical: arousal from sleep
+
+
+EEG: generalized paroxysmal fast activity x3-8 seconds
+
+EKG: no change
+
+
+
+---
+
+
+
+
+
+Type #4 - staring
+
+
+
+4/26/2016 at 07:54
+
+
+Clincial: arousal from sleep, sits up, looks around. Note that someone is cleaning his room at the
+time. PCA presses button as patient does not respond to her while staring. Duration 2 min 38 sec.
+
+EEG: delta activity in awake background attenuates
+
+
+EKG: no change in HR.
+
+
+4/26/2016 at 09:53
+
+
+Clinical: patient lying in bed, awake, sits up, appears mildly tremulous (limbs under covers so
+difficult to assess focality). PCA asks, "are you ok?" and he does not respond so she presses button.
+Duration 1 min 31 sec.
+
+
+EEG: awake background, delta activity is attenuated.
+
+EKG: no change in HR.
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 3 (4/27/2016, 06:00 - 4/28/2016, 06:00)
+
+
+
+AEDs:
+
+Zonegran STOPPED
+
+
+Banzel increased to 1600-1600
+
+All other meds unchanged
+
+
+
+INTERICTAL BACKGROUND: no change
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No change
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+SEIZURES/EVENTS:
+
+
+
+Type #1 - staring event
+
+
+
+4/27/2016 at 18:32
+
+Clinical: Staring/behavioral arrest. Duration 32 sec.
+
+EEG: awake background
+
+EKG: no change in HR
+
+
+
+4/27/2016 at 19:50
+
+
+Clinical: staring/behavioral arrest. Duration 47 sec.
+
+EEG: awake background
+
+EKG: no change in HR
+
+
+
+Type #4 - staring
+
+
+
+4/27/2016 at 14:50
+
+Clinical: patient sitting in chair, mom notes patient is staring, then his head slowly slumps down, pt
+does not respond, then stiffens/jerks L arm 2-3x, clenches teeth, and has brief extensor jerks. Then
+patient attends to mother, but does not attend to tech or follow instructions.
+
+
+EEG: background attenuates, then is obscured by diffuse muscle artifact. Duration 2 min 29 sec.
+
+EKG: HR increases from 90s to 120s,
+
+
+
+4/27/2016 at 19:59
+
+Clinical: staring, behavioral arrest
+
+
+EEG: delta activity in background attenuates. Duration 1 min 34 sec.
+
+EKG: HR increases to 130s
+
+
+
+4/27/2016 at 20:53
+
+Clinical: patient off camera in bathroom, but by report of mother, had staring episode. Duration 2
+min 6 sec.
+
+
+EEG: awake background
+
+EKG: HR increases to 140s
+
+
+
+Type #3 - arousal from sleep
+
+*generalized paroxysmal activity continues to occur frequently in sleep on this night as on previous
+nights.
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 4 (4/28/2016, 06:00 - 4/28/2016, 08:45)
+
+
+
+AEDs: no change from day 3
+
+
+
+INTERICTAL BACKGROUND: no change
+
+**Patient pulls off wires on 4/28/2016 08:45
+
+
+EPILEPTIFORM ACTIVITY: no change
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+SEIZURES/EVENTS:
+
+
+
+Type #2 - tonic/hypermotor seizure
+
+
+4/28/2016 at 08:33
+
+Clinical: Patient awake in bed, staff comes in but patient does not attend/answer questions. At 56
+seconds devlops rocking movements of trunk, grimaces. Continues to rock back and forth. Is very
+agitated, not attending to staff, and tries to get out of bed. Calms down by 128 seconds but remains
+nonverbal, though he attends to staff. Does not follow commands. Duration: 3 min 9 sec.
+
+
+
+EEG: Background attenuates, then obscured by diffuse muscle artifact. By 180 seconds, background
+returns to baseline.
+
+
+EKG: HR increases to 120s
+
+
+
+*Patient pulled off the leads on 4/28/2016 08:45.
+
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+
+INTERICTAL FINDINGS:
+
+
+
+The patients interictal findings are significant for mild to moderate generalized slowing, with fair
+organization and fragments of an irregular posterior dominant rhythm approaching 7-8 Hz, with
+excess quasi-rhythmic sharply contoured delta activity frontally. In sleep, rudimentary sleep spindles
+are seen synchronously and symmetrically.
+
+
+
+
+Mild to moderate generalized slowing is present.
+
+
+
+There is multifocal epileptogenic activity as such:
+
+1. Frequent right anterior temporal (F8/T2) sharp waves, activated by sleep
+
+2. Occasional sharply contoured rhythmic delta waves phase reverse over left temporal region (T3),
+not clearly epileptiform
+
+
+3. Frequent bursts of diffuse frontally predominant spike and wave and polyspike and wave, for up to
+600 msec, activated by sleep.
+
+
+4. Frequent right frontal spikes, activated by sleep
+
+5. Frequent bursts of generalized paroxysmal fast activity in sleep, lasting 1-6 seconds. Some are
+associated with arousal from sleep (see below under "events") and can thus be classified as seizures
+
+
+
+
+
+ICTAL FINDINGS:
+
+The patient had multiple clinical events:
+
+
+
+He had staring spells/behavioral arrests.  Many of these (event Type #1) had no clear EEG and/or
+EKG changes and most likely represent behavioral stares. However, others (event Type #4) were
+associated with either attenuation of his background activity and/or significant tachycardia.  These
+latter staring episodes may represent seizures.
+
+
+
+
+The patient also had tonic/hypermotor seizures (event Type #2) which were variably associated with
+a burst of frontally predominant diffuse spike and wave and polyspike and wave followed by a slow
+wave, then attenuation, or by generalized paroxysmal fast activity followed by slow wave,
+electrodecrement, or simply by background attenuation.
+
+
+
+
+
+
+
+
+Lastly, he had frequent bursts of generalized paroxysmal fast activity in sleep, which was at times
+associated with a clinical change in his behavior (arousal from sleep, event Type #3).
+
+
+
+SEIZURE DIAGNOSIS:
+
+
+1. Mixed: atypical absence, tonic/hypermotor
+
+
+EPILEPSY DIAGNOSIS:
+
+
+1. Symptomatic generalized epilepsy in setting of possible TSC
+
+
+CONCLUSION:
+
+
+was admitted to the  for 4 days with continuous video EEG.
+This was an elective monitoring session for evaluation of paroxysmal events.
+
+
+
+The patient was weaned off Zonegran over the course of his admission. His Banzel was increased
+from 1200 mg q12h to 1600 mg q12h.  No other medication changes were made during the
+hospitalization.
+
+
+His findings are diagnostic for multifocal epileptogenic potentials and symptomatic generalized
+epilepsy in setting of possible TSC.
+
+
+
+Patient will follow-up with as an outpatient.
+
+
+
+
+
+
+
+

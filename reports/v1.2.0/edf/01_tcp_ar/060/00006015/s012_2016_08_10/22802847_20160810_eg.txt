@@ -1,0 +1,572 @@
+
+HISTORY:
+
+Patient is a 37 y.o. right handed male with developmental delay, h/o brain abscess and stroke
+admitted to epilepsy monitoring unit for events characterization.
+
+
+He has history of localization related epilepsy since 2005.
+
+
+
+The mother is concerned of an new event when she had a conversation with him while she was
+driving a car and after that he forgot the whole conversation, this happened in 04/2016. She was
+unable to see if he had any automatism or twitching during this event because she was driving. She
+has not noticed any other similar episodes. Patient is unable to describe any different feeling during
+this episode.
+
+
+
+
+
+
+Seizure semiology:
+
+
+
+
+Type 1: Headache, sees pictures (likes scenes), he gets numbness on the left side. He stares. He could
+shake and fall.
+
+
+He had last event like that in 2/2016.
+
+
+
+
+Type 2: Sudden staring and poor responsive for seconds (see above) .
+
+Possible 1 per week.
+
+
+
+
+Seizure risk factors: Normal birth, no pregnancy complications, he had developmental delay and
+needed special education classes, finished high school. He has developmental malformation in brain
+with agenesis of corpus callosum and colpocephaly, had brain abscess drainage in 01/2015 and left
+temporal stroke. No major head trauma, no family history of seizures.
+
+
+
+
+
+Current AEDs:
+
+Levetiracetam 1000 mg BID
+
+
+
+
+Prior AEDs: Phenytoin - changed to levetiracetam after his surgery in 2015.
+
+
+
+EEG awake or drowsy routine (03/10/2016)
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG due to:
+
+1. focal slowing from the left hemisphere noted in drowsiness and
+
+
+intermittently in sleep.
+
+
+
+CT HEAD WO CONTRAST 09/28/09
+
+
+Impression:
+
+1. No acute intracranial abnormalities.
+
+2. Colpocephaly with dysmorphic appearance of the ventricular system
+
+
+and midline developmental anomalies of callosal dysgenesis as
+
+described above.
+
+3. CSF attenuation right frontal parasagittal collection which may
+
+
+represent an arachnoid vs epidermoid vs porencephalic cyst.
+
+4. Rounded, soft tissue mass lesion in the suprasellar region as
+
+described above, possibly causing patient's underlying visual
+
+
+disturbances secondary mass-effect on the optic chiasm. This finding
+
+may also be assessed on an MR examination.
+
+6. Mild soft tissue fullness at the foramen magnum, suggesting
+
+
+tonsillar ectopia possibly due to Chiari I malformation.
+
+
+
+
+
+05/04/16
+
+
+MRI brain with and without contrast
+
+Impression: Further expected evolution of left-sided encephalomalacia
+
+
+and presumed subacute to chronic infarct. Little change otherwise.
+
+
+
+Continuous video EEG is initiated for:  Characterization of seizures.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+LORazepam (ATIVAN) injection 2 mg
+
+
+enoxaparin (LOVENOX) injection 40 mg
+
+metoprolol (TOPROL-XL) 24 hr tablet 25 mg
+
+pantoprazole (PROTONIX) EC tablet 40 mg
+
+levETIRAcetam (KEPPRA) tablet 1,000 mg
+
+
+baclofen (LIORESAL) tablet 10 mg
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+
+
+SEDATION: None
+
+
+
+DAY 1 (08/08/2016, 11:11AM - 8/9/2016, 06:00)
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Intermittent polymorphic delta activity is present in the occipital regions (right more than left) and
+independently in the left mid-temporal region during wakefulness, increasing during drowsiness.
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+Intermittent focal slowing in the  occipital regions (right more than left) and independently in the left
+mid-temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific.
+
+
+
+
+
+
+
+
+------------------------------------------------------
+
+
+DAY 2 (08/09/2016, 08:00AM - 8/10/2016, 08:00AM)
+
+
+
+No change in AEDs.
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Intermittent polymorphic delta activity is present in the occipital regions (right more than left) and
+independently in the left mid-temporal region during wakefulness, increasing during drowsiness.
+
+
+
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+Bifrontal eye movement artifacts seen in the record.
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION:
+
+Intermittent focal slowing in the  occipital regions (right more than left) and independently in the left
+mid-temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific.
+
+
+
+
+
+
+
+
+
+------------------------------------------------------
+
+
+DAY 3 (08/10/2016, 08:00AM - 8/11/2016, 08:00AM)
+
+
+
+No change in AEDs.
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+Intermittent polymorphic delta activity is present in the occipital regions (right more than left) and
+independently in the left mid-temporal region during wakefulness, increasing during drowsiness.
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Bifrontal eye movement artifacts seen in the record.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION:
+
+
+Intermittent focal slowing in the  occipital regions (right more than left) and independently in the left
+mid-temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific.
+
+
+
+
+
+
+
+
+------------------------------------------------------
+
+
+
+DAY 4 (08/11/2016, 08:00AM - 8/12/2016, 10:55AM)
+
+
+
+No change in AEDs.
+
+
+EEG BACKGROUND:
+
+
+
+
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+
+Intermittent polymorphic delta activity is present in the occipital regions (right more than left) and
+independently in the left mid-temporal region during wakefulness, increasing during drowsiness.
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+No epileptiform activity is present.
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+Bifrontal eye movement artifacts seen in the record.
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 66 bpm is captured on a single EKG lead.
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION:
+
+Intermittent focal slowing in the  occipital regions (right more than left) and independently in the left
+mid-temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific.
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------------
+
+
+
+
+Summary:
+
+Intermittent polymorphic delta activity is present in the occipital regions (right more than left) and
+independently in the left mid-temporal region during wakefulness, increasing during drowsiness.
+
+
+
+
+Clinical Correlation
+
+Intermittent focal slowing in the  occipital regions (right more than left) and independently in the left
+mid-temporal region.  This finding is indicative of focal cerebral dysfunction, which is etiologically
+non-specific.
+
+
+
+
+None of the starring events were captured, which suggest that these events may be behavioral but no
+definitive conclusion can be stated because the events were not captured. No changes were made to
+the AEDs.

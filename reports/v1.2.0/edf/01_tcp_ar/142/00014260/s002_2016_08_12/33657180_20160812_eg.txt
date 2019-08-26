@@ -1,0 +1,192 @@
+DATE OF STUDY: 08/12/16
+
+RECORDING ENVIRONMENT: ICU
+
+
+EEG TYPE: 20-40 min, coma study
+
+
+
+
+
+HISTORY:
+
+a 66 y.o. female who is s/p double lung transplant who presented with acute change
+in neurological exam, now referred for routine EEG for evaluation of left arm movements during
+respiration.
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+levETIRAacetam (KEPPRA) 500 mg in sodium chloride 0.9 % 100 mL IVPB
+
+sodium chloride 3 % infusion 500 mL
+
+midazolam (VERSED) 1 mg/mL injection 2 mg
+
+
+mycophenolate (CELLCEPT) 250 mg in dextrose 5 % in water 100 mL IVPB
+
+vancomycin (VANCOCIN) 1,000 mg in sodium chloride 0.9 % 250 mL IVPB MB+
+
+piperacillin-tazobactam (ZOSYN) 3.375 g in dextrose 5 % 50 mL IVPB MB+
+
+
+sodium bicarbonate injection 100 mEq
+
+tacrolimus (PROGRAF) capsule 0.5 mg
+
+white petrolatum-mineral oil (LACRI-LUBE) ophthalmic ointment 1 Application
+
+
+
+
+chlorhexidine (PERIDEX) 0.12 % solution 15 mL
+
+hydrogen peroxide solution 3%
+
+
+albuterol (PROVENTIL) nebulizer solution 5 mg
+
+heparin (5000 units/mL) injection 5,000 Units
+
+
+ganciclovir (CYTOVENE) 150 mg in dextrose 5 % in water 100 mL IVPB
+
+haloperidol lactate (HALDOL) injection 0.25 mg
+
+HYDROmorphone (DILAUDID) injection 0.5 mg
+
+levothyroxine (SYNTHROID, LEVOTHROID) injection 50 mcg
+
+
+amphotericin B lipid (ABELCET) 100 mg nebulizer solution
+
+methylPREDNISolone sodium succinate (Solu-MEDROL) 16 mg in sterile water IV Syringe
+
+
+[START ON 8/19/2016] methylPREDNISolone sodium succinate (Solu-MEDROL) 12 mg in sterile
+water IV Syringe
+
+pantoprazole (PROTONIX) injection 40 mg
+
+
+sodium chloride 0.9 % injection (flush) 2 mL
+
+acetaminophen (TYLENOL) oral solution 650 mg
+
+acetaminophen (TYLENOL) tablet 650 mg
+
+
+bisacodyl (DULCOLAX) EC tablet 5 mg
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+Hydrogen Peroxide 1.5 % Soln 15 mL
+
+
+
+SEDATION: as above
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+The background is continuous but asymmetric.
+
+
+
+The left hemisphere consists of a disorganized mixture of theta, and delta, with admixed alpha.
+
+The right hemisphere consists of a disorganized attenuated mixture of theta and delta.
+
+
+
+There is spontaneous muscle artifact from biting, and this artifact is also elicited during noxious
+stimulation. At times this activity breaks up into what appears most consistent with spikey muscle
+artifact; however there is no cerebral reactivity to noxious stimulation.
+
+
+
+
+
+
+Severe generalized slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+The camera is pointed towards the patient's right side - the left arm is not clearly seen. With each
+breath, the patient's chest rises, then the left side of the body depresses into the bed, then there is an
+exhalation. There is no corresponding cerebral ictal activity on EEG.
+
+
+
+HEART RATE:
+
+
+A heart rate of 54 bpm is captured on a single EKG lead.
+
+
+IMPRESSION:
+
+
+This is an abnormal coma study EEG due to:
+
+1. Severe generalized slowing, with background disorganization and lack of reactivity
+
+2. Continuous slowing over the right hemisphere
+
+
+3. Movements of the left side, described above, without associated cerebral ictal activity
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate the presence of right hemisphere cerebral dysfunction, likely structural in
+etiology, superimposed on a severe diffuse cerebral dysfunction. The movements described above,
+suboptimally captured on video, are not associated with cerebral ictal activity.
+
+
+
+
+
+
+
+
+
+
+

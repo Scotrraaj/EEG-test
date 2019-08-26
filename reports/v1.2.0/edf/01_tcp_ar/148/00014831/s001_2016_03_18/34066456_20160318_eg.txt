@@ -1,0 +1,144 @@
+HISTORY:
+
+23 y.o. female with a history of R
+
+hemispheric AVM, s/p craniotomy and resection, and seizures,
+
+
+referred for routine EEG for characterization of seizures.
+
+
+MEDICATIONS: Keppra
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was
+
+recorded using the International 10-20 system with T1/T2
+
+
+electrodes and utilized a NicOne system. This was a technically
+
+suboptimal record due to abundant muscle artifact, and included a
+
+single channel of EKG and photic stimulation.
+
+
+
+
+
+
+EEG BACKGROUND:
+
+The waking background is reactive but asymmetric.
+
+
+The left hemisphere consists of a well organized mixture of alpha
+
+and beta frequencies with a 10-Hz posterior dominant rhythm
+
+
+(PDR).
+
+There is continuous sharply contoured polymorphic slowing with
+
+superimposed fast frequencies over the right posterior quadrant,
+
+with an ill-defined posterior dominant rhythm and fair
+
+
+organization.
+
+
+
+Drowsiness and sleep are not captured.
+
+
+No generalized slowing is present.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+flashes per second (fps) induces symmetric photic driving, which
+
+
+is a normal finding.
+
+
+
+EVENTS:
+
+The technician notes the patient is anxious and shaking during
+
+the study. There is no EEG correlate to this behavior.
+
+
+
+HEART RATE:
+
+A heart rate of 96 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+
+This is an abnormal awake only  routine EEG due to:
+
+1. Continuous sharply contoured polymorphic slowing and
+
+
+suboptimal organization over the right posterior quadrant
+
+2. Continuous fast frequency activity seen over the right
+
+
+posterior quadrant
+
+
+CLINICAL CORRELATION:
+
+These findings indicate the presence of right posterior quadrant
+
+
+cerebral dysfunction, likely structural in etiology.
+
+The continuous fast frequency activity seen over the right
+
+
+posterior quadrant likely represents a breach rhythm, and is
+
+consistent with this patient's prior history of craniotomy.
+
+This study is somewhat technically limited by abundant muscle
+
+artifact; the technician noted the patient to be quite anxious.
+
+
+This symptom had no EEG correlate.

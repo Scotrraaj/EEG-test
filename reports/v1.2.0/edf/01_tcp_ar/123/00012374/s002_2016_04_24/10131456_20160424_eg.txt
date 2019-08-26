@@ -1,0 +1,88 @@
+HISTORY:
+
+65 y.o. male with a history of CVA, DM2 referred for routine EEG for screening for
+subclinical seizures. Patient presented with acute change in mental status earlier this morning and
+on exam was quite lethargic, with a stiff neck, and a temperature of 102. The technician notes that
+the patient was vocalizing during the hook-up.
+
+
+
+
+MEDICATIONS: metoprolol
+
+
+
+SEDATION: None listed
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG. Note that the patient was not stimulated during the recording.
+
+
+
+
+
+EEG BACKGROUND:
+
+The majority of the study consists of drowsiness and sleep, which consist of 6-7.5 Hz theta alternating
+with diffuse delta. Sleep transients are not captured.
+
+
+
+During very brief arousals, the background reacts with faster frequencies, but a well-formed posterior
+dominant rhythm is not sustained.
+
+
+
+Mild generalized slowing is present.
+
+
+No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+None
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 78 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal drowsy and asleep routine EEG due to:
+
+
+1. Mild generalized slowing and absence of well formed sleep transients
+
+
+CLINICAL CORRELATION:
+
+
+These findings are nonspecific indicators mild diffuse cerebral dysfunction, which may at least in part
+be associated with a suboptimally awake state. If clinically warranted a repeat study with
+stimulation/alerting maneuvers can be performed for further assessment.

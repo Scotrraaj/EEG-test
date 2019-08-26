@@ -1,0 +1,140 @@
+HISTORY:
+
+
+86 y.o. male with a history of R MCA stroke (7/2016), possible seizures on Keppra,
+CAD, and HTN who presents with intermittent left facial twitching and left hemiplegia, referred for
+EEG for evaluation of paroxysmal events and management of exacerbation.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+LORazepam (ATIVAN) injection 2 mg
+
+
+heparin (5000 units/mL) injection 5,000 Units
+
+furosemide (LASIX) injection 10 mg
+
+famotidine (PF) (PEPCID) injection 20 mg
+
+
+propofol (DIPRIVAN) 1000 mg/100 mL IV infusion
+
+phenytoin (DILANTIN) 100 mg in sodium chloride 0.9 % 50 mL IVPB
+
+aspirin suppository 300 mg
+
+
+
+
+warfarin (COUMADIN) tablet 5 mg
+
+[START ON 11/1/2016] warfarin (COUMADIN) tablet 1 mg
+
+
+levETIRAcetam (KEPPRA) 1,000 mg in sodium chloride 0.9 % 100 mL IVPB
+
+ESETT (NCT01960075) infusion
+
+
+
+
+SEDATION: s/p ativan, propofol 40 mcg/kg/min tapered off by 10/31 13:51
+
+
+
+TECHNIQUE:
+
+A 21 channel electroencephalogram (EEG) was recorded using the International 10-20 system with
+T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and
+included a single channel of EKG.
+
+
+
+
+
+DAY 1 (10/31/2016, 08:00 - 11/1/2016, 10:16)
+
+
+
+BACKGROUND:
+
+
+Leads are off between 11/1 03:00-03:20.
+
+
+
+The record opens to a waking background that is discontinuous, with abundant 4-7 second periods of
+attenuation admixed with disorganized theta, alpha, and beta on the left hemisphere and
+disorganized theta and alpha (with attenuated beta) on the right hemisphere, particularly over the
+posterior quadrant.
+
+
+
+
+There is no posterior dominant rhythm.
+
+
+
+As the day progresses, the background becomes increasingly continuous.
+
+Periods of drowsiness and sleep are characterized by increasing prevalence of delta. Rarely runs of
+rudimentary vertex waves are seen in sleep.
+
+
+
+Generalized slowing is present, moderate-severe at start of study, becoming mild-moderate as day
+progresses.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+
+
+None
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single lead captured a heart rate in the 50s-70s, occasionally irregular
+
+
+FINAL IMPRESSION:
+
+This is an abnormal long term video EEG due to:
+
+
+1. Generalized slowing (moderate-severe improving to mild-moderate as day progresses) and
+suboptimal organization
+
+
+2. Continuous attenuation of faster frequencies over the right hemisphere
+
+3. Occasionally irregular heart rate
+
+
+
+FINAL CLINICAL CORRELATION:
+
+These findings are indicative of right hemisphere cortical dysfunction, consistent with this patient's
+known history of stroke. There is additional evidence for diffuse cerebral dysfunction, improving from
+moderate-severe to mild-moderate as study progresses, and which is likely at least in part due to a
+medication effect (i.e., propofol).  An occasionally irregular heart rate was noted on a single EKG
+lead.

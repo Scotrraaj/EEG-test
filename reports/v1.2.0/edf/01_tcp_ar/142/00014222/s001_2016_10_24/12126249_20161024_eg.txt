@@ -1,0 +1,127 @@
+HISTORY:
+
+66 y.o. FEMALE ADMITTED FOR ANOXIC INJURY CODED 4 X TIMES.
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+ipratropium (ATROVENT) 0.02 % nebulizer solution 0.5 mg
+
+
+methylPREDNISolone sodium succinate (PF) (Solu-MEDROL) injection 40 mg
+
+sodium chloride 0.9 % IV bolus
+
+insulin regular 100 units in sodium chloride 0.9 % 100 mL infusion
+
+
+EPINEPHrine (ADRENALIN) 2 mg in dextrose 5 % in water 250 mL infusion
+
+albuterol (PROVENTIL) nebulizer solution 5 mg
+
+piperacillin-tazobactam (ZOSYN) 4.5 g in sodium chloride 0.9 % 100 mL IVPB MB+
+
+
+phenylephrine (NEO-SYNEPHRINE) 160 mg in sodium chloride 0.9 % 250 mL infusion
+
+
+
+
+sodium bicarbonate 150 mEq in dextrose 5 % in water 1,000 mL infusion
+
+norepinephrine (LEVOPHED) 16 mg/250 mL (64 mcg/mL) in D5W infusion
+
+
+[START ON 10/25/2016] famotidine (PF) (PEPCID) injection 20 mg
+
+
+
+SEDATION: none noted.
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+EEG BACKGROUND:
+
+No posterior dominant rhythm is present.
+
+
+
+The normal anterior to posterior gradient of frequencies is not seen.
+
+
+
+There is no electrocerebral activity over 2uV during the recording.
+
+
+There is no spontaneous state change during the recording and no change with visual, auditory, or
+tactile stimuli.
+
+
+
+
+This EEG was not performed according to the guidelines of the American Clinical Neurophysiology
+Society for the determination of electrocerebral inactivity.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal coma routine EEG due to:
+
+
+1. Electro-cerebral silence
+
+
+CLINICAL CORRELATION:
+
+This is an isoelectric EEG which was not performed according the the ACNS guidelines for the
+determination of electrocerebral inactivity.  This EEG reveals severe cortical dysfunction which may
+be due to anoxic injury or alternatively seen as part of a medication/sedative effect.

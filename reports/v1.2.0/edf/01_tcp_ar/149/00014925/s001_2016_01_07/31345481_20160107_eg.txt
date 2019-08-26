@@ -1,0 +1,25 @@
+History:	43 year old woman with a history of a recent seizure.  Patient has a history of 
+	alcohol abuse.  She reports having an alcoholic drink this am.
+	
+	Of note, difficult EEG hook up due to the condition of patient's hair.
+Medications:	Keppra
+Sedation:
+EEG Type:	Awake & asleep
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, hyperventilation, photic
+Description:
+The background consists of diffuse excess beta activity.  During drowsiness, brief bursts of theta 
+activity and vertex waves are captured.
+Hyperventilation is performed for 240 seconds with good cooperation, and produces mild diffuse 
+symmetric background slowing.  Stepped photic stimulation from 1-21 flashes per second (fps) 
+induces symmetric photic driving at multiple flash rates.
+Summary of Findings:
+	No epileptiform discharges
+	No stage 2 sleep
+	Beta, excessive
+Interpretation:
+This is a NORMAL awake and briefly drowsy 21-minute EEG. No epileptiform discharges are 
+present, but stage 2 sleep was not recorded.  If clinically indicated, repeat EEG with sleep 
+recording may provide additional information.  Excessive beta activity could be secondary to the 
+medication effect, such as benzodiazepines or barbiturates.
+

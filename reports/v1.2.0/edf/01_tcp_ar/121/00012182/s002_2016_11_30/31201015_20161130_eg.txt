@@ -1,0 +1,135 @@
+HISTORY:
+
+45 y.o. female with a history of seizures.
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+meloxicam (MOBIC) 15 mg tablet, Take 15 mg by mouth daily.
+
+
+omeprazole (PRILOSEC) 40 mg capsule, Take 1 capsule by mouth 2 times daily.
+
+gabapentin (NEURONTIN) 600 mg tablet, Take 1 tablet by mouth 3 times daily.
+
+traZODone (DESYREL) 100 mg tablet, Take 1 tablet by mouth nightly.
+
+
+alprazolam (XANAX) 1 mg tablet,
+
+atorvastatin (LIPITOR) 20 mg tablet, Take 20 mg by mouth daily.
+
+aspirin 81 mg EC tablet, Take 81 mg by mouth daily.
+
+
+topiramate (TOPAMAX) 25 mg tablet, Take 2 tablets by mouth 2 times daily for 360 days.
+
+Leg Brace (KNEE BRACE) Misc, Hinge brace for left kneeDx: (M22.42) Patellofemoral chondrosis of
+left knee (M25.561,  M25.562) Bilateral anterior knee pain
+
+
+
+No current facility-administered medications for this visit.
+
+
+
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 12 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During brief drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is not captured
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+None
+
+
+ACTIVATION PROCEDURES:
+
+
+
+Hyperventilation: Hyperventilation is performed for 180 seconds with fair cooperation and produces
+no effect.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+
+HEART RATE:
+
+
+A heart rate of 60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is a normal awake and briefly drowsy  routine EEG.  There are no clinical or electrographic
+events reported or detected.
+
+
+
+CLINICAL CORRELATION:
+
+This is a normal awake and briefly drowsy  routine EEG.
+
+
+A normal routine EEG does not support or refute the diagnosis of epilepsy.
+
+
+No epileptiform discharges are present, but stage 2 sleep was not recorded.  If clinically indicated,
+repeat EEG with sleep recording may provide additional information.

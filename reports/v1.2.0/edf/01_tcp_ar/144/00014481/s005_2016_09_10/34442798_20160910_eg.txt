@@ -1,0 +1,164 @@
+HISTORY:
+
+49 y.o. male with a history of presumed autoimmune encephalopathy referred
+for routine EEG for evaluation of paroxysmal events: about 1 hour prior to study, nurse witnessed
+bilateral upper extremity twitching that was nonsuppressible to palpation, along with right gaze
+deviation. By the time patient was examined by on-call MDs, there was no shaking and he appeared
+to have left gaze preference.
+
+
+
+
+
+MEDICATIONS:
+
+Current Facility-Administered Medications:
+
+
+LORazepam (ATIVAN) tablet 0.5 mg
+
+enoxaparin (LOVENOX) injection 60 mg
+
+albumin human 5 % injection 175 g
+
+
+calcium gluconate 3.5 g in sodium chloride 0.9 % 250 mL IVPB
+
+sodium chloride 0.9 % IV bolus
+
+sodium chloride 0.9 % IV bolus
+
+
+famotidine (PEPCID) 40 mg/5 mL (8 mg/mL) suspension 20 mg
+
+white petrolatum-mineral oil (LACRI-LUBE) ophthalmic ointment 1 Application
+
+
+
+ARIPiprazole (ABILIFY) tablet 2 mg
+
+sodium chloride 0.9 % infusion
+
+
+acetaminophen (TYLENOL) oral solution 650 mg
+
+ipratropium-albuterol (DUO-NEB) nebulizer solution 3 mL
+
+
+polyvinyl alcohol (LIQUIFILM TEARS) 1.4 % ophthalmic solution 2 drop
+
+bisacodyl (DULCOLAX) suppository 10 mg
+
+chlorhexidine (PERIDEX) 0.12 % solution 15 mL
+
+polyethylene glycol (GLYCOLAX) packet 17 g
+
+
+senna (SENOKOT) tablet 1 tablet
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+
+
+EEG BACKGROUND:
+
+Background activity was characterized by diffuse low voltage delta activity with absence of the
+expected anterior to posterior gradient of frequencies. No posterior dominant rhythm was present.
+Sleep transients is not captured.
+
+
+
+
+There is no reactivity to noxious stimulation. There is no variability or state change.
+
+
+Approximately every 2 seconds a diffuse burst of delta activity occurs that lasts ~600 msec. This
+activity corresponds to inspiration.
+
+
+
+
+There is severe generalized slowing.
+
+There is no focal slowing.
+
+
+
+EPILEPTIFORM ACTIVITY / EVENTS:
+
+9/10/2016 11:36
+
+EEG: sudden onset of rhythmic 5 Hz activity with 200 msec lead-in over left hemisphere. EEG quickly
+obscured by diffuse muscle artifact. When high cut filter is reduced to 30 Hz, theta activity continues
+over left hemispheric leads and slows to rhythmic delta, with spread over right hemisphere. Offset is
+gradual, with return to attenuated background. Duration approximately 2 min 53 sec.
+
+
+
+
+
+
+CLINICAL: approximately 8 seconds into electrographic onset, patient opens eyes and slightly tilts
+head back, blinks eyes several times. Stares straight ahead. Gaze may deviate to left (but he is not
+tested during this time to see if it can be overcome). Intermittently blinks left eyelid.
+
+
+EKG: no change
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+HEART RATE:
+
+A heart rate of 114 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal coma study portable stat EEG due to:
+
+1. Severe generalized slowing, with lack of reactivity
+
+
+2. Seizure of left hemispheric onset with very subtle clinical signs, as above
+
+3. Tachycardia
+
+
+
+CLINICAL CORRELATION:
+
+
+These findings are diagnostic for left hemispheric seizure activity, resolved by end of study,
+superimposed on a severe diffuse cerebral dysfunction.
+
+
+Tachycardia is captured on a single EKG lead.
+
+
+
+These findings were communicated to the treating team; patient was started on Keppra.

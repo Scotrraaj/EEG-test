@@ -1,0 +1,444 @@
+HISTORY:
+
+53 y.o. right handed male
+
+
+Epilepsy Type: unclear - suspected focal based on L temporoparietal cavernoma, but bifrontal spikes
+on EEG
+
+
+
+
+Seizure Type:
+
+complex partial with secondary generalization:
+
+Seizure in his sleep. He appeared confused and was snoring/sweating in the early morning - normally
+he wakes up easily if she nudges him. But she didn't see the seizure itself - they were both asleep.
+
+
+
+
+
+Taking Dilantin ER 300 mg qhs. Not taking consistently at same time.
+
+
+
+Neuroimaging:
+
+
+
+
+MRI brain +/-c:
+
+1. Redemonstration of a lesion in the left temporoparietal region measuring up to 1.0 cm with signal
+characteristics consistent with a cavernous malformation. No associated AVM or DVA is present.
+
+
+2. No evidence of stenosis, dissection, or aneurysm within the cervical or intracranial vasculature.
+
+
+Personally reviewed; HCTs also reviewed
+
+
+
+Continuous video EEG is initiated for:  Recording of seizures for both classification and if focal
+presurgical evaluation.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+
+
+MEDICATIONS:
+
+
+No current outpatient prescriptions on file.
+
+No current facility-administered medications for this visit.
+
+
+
+SEDATION: None
+
+
+DAY 1 (6/27/2016, 10:13AM - 6/28/2016, 08:00)
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+EVENTS:
+
+
+
+One CPS 2nd T-C seizure at 11:31AM
+
+
+
+EEG: There a diffuse theta discharge that rapidly settles over the left frontal and then later mid
+temporal region with an evolving high amplitude delta sharp wave discharge. Seizure last 8 minutes.
+
+
+
+
+CLINICAL: While in bed sleeping would intermittently move around was not tested. After minutes
+suddenly has versive movement of the head to the right while right arm is dystonic with the left arm
+tonic and intermittent jerks, followed by bilateral arm tonic posturing and a T-C convulsion that slows
+down. Last ictal jerk on the left.
+
+
+
+
+
+
+HR: Increases from the 60's to the 90's
+
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+1. Single seizure likely with left hemispheric onset.
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (06/28/2016, 08:00 - 06/29/2016, 08:00)
+
+
+
+AEDs: None
+
+
+
+EEG BACKGROUND:
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+In sleep there are intermittent low amplitude spikes with a large field maximal over the left frontal
+region.
+
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+
+EVENTS:
+
+1. At 16:04 PM the patient pushes the button while in bed. When questioned he states he feel cold
+and that is what he feel prior to a seizure.
+
+
+
+EEG: During the episode there is a normal awake background. Later had no recollection of the
+episode.
+
+
+2. At 19:38 while sitting on the side of the bed the patient start fluttering his eyes and slumps back in
+the bed unresponsive with eyes closed. He is asked verbal and motor commands but remins
+unresponsice with no movement for about 9 minutes.
+
+
+
+EEG: During the episode there is a normal awake background.
+
+
+
+
+3. One CPS  seizure at 12:39AM
+
+
+
+EEG: Arouses from sleep there is muscle artifact and about  9 seconds later a left hemisphere frontal
+maxiamal delta discharge is seen which evolves to theta then suddenly stops. After the seizure end it
+appears to show diffuse slowing. Seizure last 53 seconds. Minutes after some left temporal focal
+slowing is seen.
+
+
+
+
+CLINICAL: While in bed sleeping would intermittently move and touch his face. Patient is asked are
+you ok at the end of the seizure and he states
+
+
+
+HR: Increases from the 60's to the 90's
+
+
+
+
+
+SEIZURES/EVENTS:
+
+
+There are one push button with no EEG correlate and a single focal seizure from sleep with likely left
+laterarlization.
+
+
+
+
+Reading attending: 
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+DAY 3 (06/29/2016, 06:00 - 06/30/2016, 06:00)
+
+
+
+AEDs: trileptal
+
+
+BACKGROUND:
+
+
+The waking background is symmetric, reactive, and consists of a mixture of alpha and a moderate
+amount of bifrontal beta activity, organized in a normal anterior-to-posterior gradient.  Wakefulness is
+characterized by a symmetric and reactive 10 Hertz posterior dominant rhythm (PDR), which
+attenuates symmetrically with eye opening.
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present.  No focal slowing is present.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+In sleep there are intermittent low amplitude spikes with a large field maximal over the left frontal
+region.
+
+
+Rare left fronto temporal spikes are seen.
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+
+Reading attending: 
+
+
+
+SUMMARY OF VIDEO EEG FINDINGS:
+
+Interictal Findings:
+
+
+
+In sleep there are intermittent low amplitude spikes with a large field maximal over the left frontal
+region.
+
+
+Rare left fronto temporal spikes are seen.
+
+
+
+Ictal Findings:
+
+The patient had Two seizures and two clinical events while hooked up to continuous video EEG
+monitoring in the epilepsy monitoring unit.
+
+
+One cps with secondary T-C and one CPS both likely arising from the left hemisphere.
+
+He also had two nonepileptic events.
+
+
+
+SEIZURE DIAGNOSIS:
+
+1. CPS
+
+2. Non-epileptic events
+
+
+
+EPILEPSY DIAGNOSIS:
+
+1. Localization related epilepsy
+
+
+
+CONCLUSION:
+
+was admitted to the epilepsy monitoring unit for 3 days with continuous video EEG.
+
+
+
+The interictal EEG is characterized by left frontal and rare left fronto temporal epileptiform activity as
+well as seizure likely arising from the left hemisphere, which indicate a potentially epileptogenic
+focus in that region.
+
+
+
+
+He was started on Tegretol on the day of discharge from the hospital. No other medication changes
+were made during the hospitalization.
+
+
+
+After this data is acquired she will be presented at surgical conference to discuss the possibility of
+intracranial monitoring / electrocorticography as a next step in her surgical evaluation.
+

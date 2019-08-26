@@ -1,0 +1,29 @@
+HISTORY: 43 y.o. female with a history of refractory seizures, anorexia, psychosis referred for EEG for evaluation of paroxysmal events. She was transferred from Jeanes Hospital for intermittent focal seizures without impairment of awareness and paroxysmal behaviors which were not typical for seizures.
+MEDICATIONS: Current Facility-Administered Medications: lamotrigine (LAMICTAL) tablet 150 mg topiramate (TOPAMAX) tablet 200 mg topiramate (TOPAMAX) tablet 250 mg gabapentin (NEURONTIN) capsule 900 mg alum-mag hydroxide-simeth (MYLANTA;MAALOX) 200-200-20 mg/5 mL suspension 30 mL sucralfate (CARAFATE) suspension 1 g pantoprazole (PROTONIX) injection 40 mg morphine injection 2 mg tizanidine (ZANAFLEX) tablet 2 mg nitrofurantoin (MACRODANTIN) capsule 50 mg
+TECHNIQUE: A 21 channel electroencephalogram (EEG) monitor was recorded using the International 10-20 system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record and included a single channel of EKG and photic stimulation. The technologist worked to alleviate muscle artifact and the background which was difficult
+
+DAY 1 (10/27/2016) BP 95/61 (BP Location: Left arm, Patient Position: Lying) Pulse 86 Temp 100.3 °F (37.9 °C) (Oral) Resp 18 Ht 1.651 m (5' 5") Wt 49.4 kg (108 lb 12.8 oz) SpO2 99% BMI 18.11 kg/m2
+BACKGROUND: The waking background is continuous, symmetric, well-organized, and consists predominantly of alpha with admixed beta. Posterior dominant rhythm was present. The background is reactive, variable There were no persistent asymmetries in amplitude and frequency. Sleep was characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM):  None
+EPILEPTIFORM ACTIVITY:  Occasional, discrete frontally predominant spike and wave complexes were noted, mostly 5-6 Hz, rarely 3 Hz, some L frontal maximum.  Best seen in sleep, but present in wakefulness, with artifact.
+EVENTS:  12:04 PM Intermittent odd behaviors were noted, with testing by nursing and EEG tech, but without EEG change.
+EKG: A single lead captured 90 BPM 
+DAY 1 IMPRESSION & CLINICAL CORRELATION: This is an abnormal long term video EEG due to: 1. Brief bursts of generalized spike and wave activity, in sleep reaching 1.5 seconds duration 2. Odd behavior, but without EEG change, noted intermittently by staff
+-----------------------------------------------------------------
+
+DAY 2 (10/28/2016, 06:00 - 10/29/2016, 06:00)  AEDs: TPM reduction, LTG
+INTERICTAL BACKGROUND: The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.  Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+EPILEPTIFORM ACTIVITY: Occasional (1/hour to <1min), best identified in sleep (artifact in wake) 1. frontally predominant 5-6 Hz spike and wave, sometimes isolated discharges, most bursts less than 600 msc 2. Polyspike in sleep, frontal spike wave
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):  None
+ACTIVATION PROCEDURES:
+SEIZURES/EVENTS: There are no electrographic events captured during this study. 1. 9:28 AM- unresponsive to verbal stimuli 12 minutes- odd behavior, not answering questions correctly but no EEG change.
+EKG: A single lead captured 90 BPM No clinical seizures, The interictal pattern supports a generalized epilepsy.
+-----------------------------------------------------------------
+
+DAY 3 (10/29/2016, 06:00 - 10/30/2016, 11:00) This section is remarkable for a great deal of artifact AEDs: TPM reduction, LTG
+INTERICTAL BACKGROUND: The bilateral posterior dominant rhythm is symmetric and reaches 10Hz. Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was not captured, patient very sleepy during the day.
+EPILEPTIFORM ACTIVITY: Occasional (1/hour to <1min)  1. frontally predominant 5-6 Hz spike and wave, sometimes isolated discharges, most bursts less than 600 msc 2. Spike and wave complexes which may be F3 Maximum 3. Despite artifact, low amplitude F3 of FP1 FP2 spikes 4. Polyspike in sleep, frontal spike wave
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): none
+ACTIVATION PROCEDURES: n/a
+SEIZURES/EVENTS: There are clinical events without electrographic change captured during this study. 1. 6:18 PM18 minute episode with head bobbing, then R foot movement, followed by vertigo. Patient did not recall code word but did answer questions- no EEG change noted.  2. 7:58 PM- taps her Right hand to head, acts oddly but can use the left. Is interactive with the nurses, though not able to do all motor commands- no EEG change noted. Normal wake EEG.  3. 10/30/2016- house officer verbally reports that the patient was acting oddly but no PB- no epileptiform seizure is found. EKG: A single lead captured 60-90 BPM
+Impression/Clinical Correlation: The interictal EEG is abnormal supportive of a generalized mechanism for epilepsy. Although there are Left frontal focal features to the spike and wave and polyspike/ Fast activity, the pattern can be seen in a genetic or focal frontal epilepsy. At least 4 events were captured, two with focality. None had EEG changes.

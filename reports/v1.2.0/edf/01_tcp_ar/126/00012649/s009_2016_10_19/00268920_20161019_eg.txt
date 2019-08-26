@@ -1,0 +1,69 @@
+HISTORY: This is a 42 y.o. right handed male admitted for continuous video-electroencephalography (VEEG) monitoring with a history of: paroxysmal events of unclear etiology. Recent onset refractory events: Left leg twitches, may fall off chair, legs give out He denies LOC, but (wife) says he does - he wakes up after 1 min or so. Wife says she times them. Patient thinks she is overexaggerating - 30 sec. He does smell smoke before.   Continuous video EEG is initiated for: Evaluation of paroxysmal events.  Inpatient continuous EEG monitoring required due to one or more of the following reasons: - The patient is having medically uncontrolled seizures or clinical events, which poses a significant mortality and morbidity risk. Continuous monitoring will aid in diagnosis and determining best treatment options. If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual mortality rate. - Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures causing injury or status epilepticus; - The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to provide first aid and patient safety during seizures;  - The full hospital team must be present to deal with these medical emergency situations should they arise, including nurses to document patient’s exam There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not a "low risk" service  
+
+CONDITIONS OF THE RECORDING: A routine 21 channel digital EEG was recorded at the onset of monitoring. The patient then underwent continuous CCTV/EEG monitoring using a cable telemetry system. Scalp electrodes were placed and secured with collodion according to the 10-20 international electrode system. Sphenoidal electrodes were not used in this case. Impedances were measured and verified to be below 5 Kohms. EEG activity was recorded referentially to vertex reference, digitized, and stored to computer hard drive. Periods of interest were subsequently reformatted to the montage of interest and reviewed in detail.  Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of epileptiform EEG activity and correlation with behavior. For 24 hours each weekday (and 12-24 hours on weekend) the patient was attended by an EEG technician. A neurologist was available in person or on call 24 hours per day. The patient was monitored via video 24 hours per day by a registered nurse with special training in seizure recognition and testing. During times when a technician was not available, EEG recording, video recording, and computer analysis continued, and nursing performed seizure testing and electrode maintenance.   
+The spike and seizure detection computer program was used to screen the EEG in real time for electrographic seizures and interictal discharges. Samples of EEG were recorded periodically. Detections were reviewed in detail by attending neurologist. All events and detections, as well as selected samples, were stored to external hard drive media.   
+
+MEDICATIONS: Current Facility-Administered Medications: levETIRAcetam (KEPPRA) tablet 500 mg sodium chloride 0.9 % injection (flush) 10 mL heparin (5000 units/mL) injection 5,000 Units gabapentin (NEURONTIN) capsule 600 mg sertraline (ZOLOFT) tablet 50 mg zolpidem (AMBIEN) tablet 10 mg TPM on hold 
+
+SEDATION: None  
+
+DAY 1 (- 10/19/2016,  BP 114/79 (BP Location: Right arm, Patient Position: Lying) Pulse 62 Temp 97.2 °F (36.2 °C) (Oral) Resp 20 Ht 5' 9.02" (1.753 m) Wt 207 lb 14.3 oz (94.3 kg) SpO2 96% BMI 30.69 kg/m2  
+
+BACKGROUND:  The waking background is continuous, symmetric, well-organized, and consists predominantly of 10 Hz alpha with admixed frontocentral beta. Posterior dominant rhythm was Present. Lambda was noted.  The background is reactive, variable. There were no persistent asymmetries in amplitude and frequency. Drowsiness was characterized by slow rolling eye movements and rhythmic alpha and theta frequency activity which was relatively diffuse. Sleep was characterized by vertex waves, POSTS and spindles and a few K complexes
+
+PAROXSYMAL ACTIVITY none 
+
+EPILEPTIFORM ACTIVITY: none  
+
+ACTIVATION PROCEDURES:
+
+Hyperventilation: did not activate the record  Photic Stimulation: elicits a driving response  
+
+EVENTS: No clinical or electrographic events were reported or detected.  
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION: Remarkable for a great deal of muscle artifact. The technologist worked to try and alleviate this. No epileptiform abnormalities were identified    
+
+-----------------------------------------------------------------  
+
+DAY 2 (10/20/2016, 06:00 - 10/20/2016, 06:00) BP 117/81 Pulse 97 Temp 96.8 °F (36 °C) (Oral) Resp 20 Ht 5' 9.02" (1.753 m) Wt 207 lb 14.3 oz (94.3 kg) SpO2 96% BMI 30.69 kg/m2 AEDs: Current Medications:  • levETIRAcetam (KEPPRA) tablet 500 mg, 500 mg, Oral, Q12H SCH, 500 mg at 10/19/16 2121 •• gabapentin (NEURONTIN) capsule 600 mg, 600 mg, Oral, Q8H, 600 mg at 10/20/16 0445 • sertraline (ZOLOFT) tablet 50 mg, 50 mg, Oral, Daily, 50 mg at 10/19/16 0947 • zolpidem (AMBIEN) tablet 10 mg, 10 mg, Oral, QHS, 10 mg at 10/19/16 2121  
+INTERICTAL BACKGROUND: The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.The wake pattern is low voltage LambdaSleep is sustained with early REM sleep 
+
+EPILEPTIFORM ACTIVITY:none 
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM): None 
+
+ACTIVATION PROCEDURES:
+
+SEIZURES/EVENTS:There are no clinical or electrographic events captured during this study.  
+
+EKG: A single lead captured 60-90 BPM    
+
+-----------------------------------------------------------------  
+
+DAY 3(10/21/2016, 06:00 - 10/22/2016, 10:30) BP 121/44 (BP Location: Left arm, Patient Position: Lying) Pulse 61 Temp 97.7 °F (36.5 °C) (Oral) Resp 20 Ht 5' 9.02" (1.753 m) Wt 207 lb 14.3 oz (94.3 kg) SpO2 97% BMI 30.69 kg/m2 AEDs:Current Facility-Administered Medications: gabapentin (NEURONTIN) capsule 400 mg sodium chloride 0.9 % injection (flush) 10 mL heparin (5000 units/mL) injection 5,000 Units sertraline (ZOLOFT) tablet 50 mg 
+
+TECHNICAL: R FT electrodes problemative  
+
+INTERICTAL BACKGROUND: The bilateral posterior dominant rhythm is symmetric and reaches 10 Hz.  Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves, sleep spindles and K-complexes. Slow wave sleep was Captured. Likely REM was identified.  
+
+EPILEPTIFORM ACTIVITY: None  
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):  None  
+
+ACTIVATION PROCEDURES: Did not activate the record  (Hyperventilation & Photic Stimulation) Sleep deprivation   
+
+SEIZURES/EVENTS: There are no clinical or electrographic events captured during this study.  
+
+EKG: A single lead captured 60-90 BPM    
+
+INDUCTION PROCEDURES: None of these produced any events or epileptiform features Sleep deprivation- patient normally takes Ambien for severe insomnia. Without Ambien, sleep onset was reduced and early REM was noted Photic stimulation Hyperventilation Exercise  
+
+SUMMARY OF VIDEO EEG FINDINGS:  Interictal Findings: NORMAL   Ictal Findings:  The patient had NO clinical events while hooked up to continuous video EEG monitoring in the epilepsy monitoring unit.  
+
+SEIZURE DIAGNOSIS:  1. No evidence of epilepsy   
+
+EPILEPSY DIAGNOSIS:  1. No evidence of epilepsy  
+
+CONCLUSION:  This LH male was admitted to the epilepsy monitoring unit for 3 days with continuous video EEG. The patient was weaned off Seizure medicines over the course of his admission. He withdrew consent for CEEG on the 22nd, demanded to go home and was restarted on TPM/GBP medication on the day of discharge from the hospital. Keppra was stopped. No other medication changes were made during the hospitalization.   
+
+Patient is follow-up at the Temple Epilepsy Center as an outpatient. 

@@ -1,0 +1,108 @@
+HISTORY:
+
+52 y.o. male with a history of memory loss following referred for routine EEG for
+assessment of mental status change. R lumbar radiculopathy.
+
+
+
+
+MEDICATIONS:
+
+aspirin (BAYER) 325 mg Tablet tablet, Take 325 mg by mouth daily.
+
+
+BP medicines, others, not identified
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A  Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically  satisfactory
+record and included a single channel of EKG and photic stimulation.  Patient seems to be
+excessively drowsy
+
+
+
+EEG BACKGROUND:
+
+In maximal wakefulness  waking background is symmetric, reactive, and consists of a mixture of alpha
+and a moderate amount of bifrontal beta activity, organized in a normal anterior-to-posterior
+gradient.  Wakefulness is characterized by a symmetric and reactive 9 Hertz posterior dominant
+rhythm (PDR), which attenuates symmetrically with eye opening.
+
+
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.  There are multiple epochs with early
+drowsiness with slowing of the posterior dominant rhythm to approximately 7 Hz.  Additional features
+of drowsiness including shifting slowing, more notably within bit more focal slowing on the left.
+Additionally, very early in drowsiness, bursts of rhythmic frontal high amplitude delta 3-4 seconds
+duration were noted
+
+
+
+
+
+
+Sleep is characterized by normal sleep transients, with POSTS synchronous and symmetric vertex
+waves, sleep spindles and K-complexes. Slow wave sleep was not captured.
+
+
+
+No generalized slowing is present. Shifting  focal slowing is present. L>R
+
+
+EPILEPTIFORM ACTIVITY:
+
+
+No epileptiform activity is present.
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+
+Sharply contoured delta is noted in the left mid temporal region in drowsiness on rare occasions
+
+
+ACTIVATION PROCEDURES:      Photic Stimulation: Stepped photic stimulation from 1-21 flashes
+per second (fps) does not produce any EEG changes.
+
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of  60 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and asleep routine EEG for an adult of this age, who also appears to be
+excessively drowsy
+
+
+1. FIRDA
+
+2. Shifting slowing R<L with sharply contoured slowing left temporal
+
+CLINICAL CORRELATION:
+
+
+This routine EEG can be correlated with imaging and clinical features.  Given the complaint of
+memory loss, the research from metabolic cause, as well as a disorder of hypersomnolence may be
+appropriate correlation with imaging, in regard to the shifting slowing may also be of value.
+
+
+A normal routine EEG does not support or refute the diagnosis of epilepsy.

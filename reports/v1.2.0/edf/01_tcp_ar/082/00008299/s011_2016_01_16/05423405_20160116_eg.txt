@@ -1,0 +1,647 @@
+HISTORY:
+
+This is a 67 y.o. right handed female admitted for continuous
+
+
+video-electroencephalography (VEEG) monitoring with a history of:
+
+paroxysmal events of unclear etiology. Patient reports episodes
+
+of sudden fall with loss of consciousness, unwitnessed. No known
+
+
+tonic or clonic activity. She denies urinary incontinence.
+
+
+
+Continuous video EEG is initiated for:  Differential diagnosis
+
+
+evaluation of paroxysmal events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more
+
+
+of the following reasons:
+
+
+
+
+- The patient is having medically uncontrolled seizures or
+
+clinical events, which poses a significant mortality and
+
+
+morbidity risk.  Continuous monitoring will aid in diagnosis and
+
+determining best treatment options.  If seizures are left
+
+
+untreated, there is a 10-20% annual morbidity and 2% annual
+
+mortality rate.
+
+- Continuous monitoring is required to capture a sufficient
+
+number of clinical events or seizures, while medication are
+
+
+reduced or provoked, which increases the risk of severe seizures
+
+and at risk of seizures causing injury or status epilepticus;
+
+
+- The EMU is set up to monitor and record EEGs during seizures
+
+and it includes nurses trained to provide first aid and patient
+
+safety during seizures;
+
+- The full hospital team must be present to deal with these
+
+
+medical emergency situations should they arise, including nurses
+
+to document patient's exam
+
+
+(9) there have been 13 reported deaths during various video-EEG
+
+monitoring procedures, so this is not a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+
+A routine 21 channel digital EEG was recorded at the onset of
+
+monitoring.  The patient then underwent continuous CCTV/EEG
+
+
+monitoring using a cable telemetry system.  Scalp electrodes were
+
+placed and secured with collodion according to the 10-20
+
+international electrode system.  Additionally, T1 and T2
+
+electrodes were placed in this patient.  Sphenoidal electrodes
+
+
+were not used in this case.  Impedances were measured and
+
+verified to be below 5 Kohms.  EEG activity was recorded
+
+
+referentially to vertex reference, digitized, and stored to
+
+computer hard drive.  Periods of interest were subsequently
+
+reformatted to the montage of interest and reviewed in detail.
+
+
+
+
+Staff supervision, patient-initiated event buttons and
+
+computerized algorithms allowed detection of epileptiform EEG
+
+
+activity and correlation with behavior.  For approximately 8
+
+hours each day the patient was attended by an EEG technician.  A
+
+
+neurologist was available in person or on call 24 hours per day.
+
+The patient was monitored via video 24 hours per day by a
+
+
+registered nurse with special training in seizure recognition and
+
+testing.  During times when a technician was not available, EEG
+
+
+recording, video recording, and computer analysis continued, and
+
+nursing performed seizure testing and electrode maintenance.
+
+
+
+The Gotman spike and seizure detection computer program
+
+
+(trademark named
+
+time for electrographic seizures and interictal discharges.
+
+
+Samples of EEG were recorded periodically.  Detections were
+
+reviewed in detail by attending neurologist.  All events and
+
+detections, as well as selected samples, were stored to external
+
+hard drive media.
+
+
+
+
+MEDICATIONS:
+
+
+Current Outpatient Prescriptions:
+
+traMADol (ULTRAM) 50 mg tablet, Take 1 tablet by mouth every 8
+
+hours as needed for Pain.
+
+omeprazole (PRILOSEC) 20 mg capsule, Take 1 capsule by mouth
+
+
+daily.
+
+cyclobenzaprine (FLEXERIL) 5 mg tablet, Take 1 tablet by mouth 2
+
+
+times daily as needed for Muscle spasms.
+
+ranitidine (ZANTAC) 300 mg tablet,
+
+erythromycin (ROMYCIN) ophthalmic ointment,
+
+mirtazapine (REMERON) 15 mg tablet, Take 15 mg by mouth nightly.
+
+
+Simethicone 180 mg Capsule, Take 180 mg by mouth 2 times daily as
+
+needed.
+
+
+VENTOLIN HFA 90 mcg/actuation inhaler,
+
+albuterol (PROVENTIL) 2.5 mg /3 mL (0.083 %) nebulizer solution,
+
+OYSTER SHELL CALCIUM-VIT D3 250-125 mg-unit Tablet,
+
+zolmitriptan (ZOMIG) 5 mg tablet,
+
+
+folic acid (FOLVITE) 1 mg tablet,
+
+topiramate (TOPAMAX) 50 mg tablet, 1 tablet po bid for headache
+
+
+prevention
+
+naproxen (NAPROSYN) 500 mg tablet, Take 500 mg by mouth 2 times
+
+
+daily (with meals).
+
+alendronate (FOSAMAX) 70 mg tablet, Take 70 mg by mouth every 7
+
+
+days.
+
+tiotropium (SPIRIVA) 18 mcg inhalation capsule, Inhale 18 mcg
+
+
+into the lungs once a week.
+
+ALBUTEROL IN, Inhale  into the lungs.
+
+aspirin 81 mg EC tablet, Take 81 mg by mouth daily.
+
+FLUOXETINE HCL (PROZAC PO), Take  by mouth.
+
+
+cetirizine (ZYRTEC) 10 mg tablet, Take 10 mg by mouth daily.
+
+hydrochlorothiazide (HYDRODIURIL) 25 mg tablet, Take 25 mg by
+
+
+mouth daily.
+
+montelukast (SINGULAIR) 10 mg tablet, Take 10 mg by mouth
+
+nightly.
+
+pravastatin (PRAVACHOL) 40 mg tablet, Take 40 mg by mouth daily.
+
+
+Depakote 500mg BID
+
+
+
+
+No current facility-administered medications for this visit.
+
+
+
+SEDATION: None
+
+
+
+
+DAY 1 (01/11/2016, 10AM - 1/12/2016, 08:00)
+
+
+
+
+BACKGROUND:
+
+
+
+The waking background is continuous, symmetric, moderately
+
+well-organized, and consists predominantly of alpha and beta
+
+
+activity.
+
+
+
+
+Posterior dominant rhythm was 8-9Hz present and reactive.
+
+
+
+The background is reactive and variable.
+
+
+
+
+There were no persistent asymmetries in amplitude and frequency.
+
+However, at times during wakefulness, there was mild excessive
+
+
+theta activity noted.
+
+
+
+
+Sleep was characterized by symmetric sleep spindles and/or
+
+K-complexes.
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): Occasional wicket waves
+
+
+are noted during drowsiness and sleep over the left temporal
+
+region.
+
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+
+ACTIVATION PROCEDURES: No tests of reactivity (visual, auditory,
+
+
+tactile, or painful stimuli) are performed.
+
+
+
+Hyperventilation: Hyperventilation is performed for 180
+
+seconds with good cooperation and produces mild diffuse symmetric
+
+
+background slowing.
+
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21
+
+flashes per second (fps) does not produce any EEG changes.
+
+
+
+EVENTS: No clinical or electrographic events were reported or
+
+
+detected.
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+There were no clinical events noted by the patient or nursing
+
+staff. No seizures were observed or captured. There was mild
+
+intermittent diffuse slowing (theta) noted.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+DAY 2 (01/12/16, 06:00 - 1/13/2016, 06:00)
+
+
+
+
+Depakote was discontinued. The patient was sleep deprived.
+
+
+
+
+BACKGROUND: No change
+
+
+
+
+GENERALIZED SLOWING: No change
+
+
+
+
+FOCAL SLOWING: No change
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+EKG: A single EKG lead captured normal sinus rhythm with
+
+
+occasional premature beats.
+
+
+
+
+
+
+DAY 2 IMPRESSION & CLINICAL CORRELATION
+
+
+
+There were no clinical events noted by the patient or nursing
+
+
+staff. No seizures were observed or captured. There was mild
+
+intermittent diffuse slowing (theta) noted.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+DAY 3 (01/13/2016, 06:00 - 1/14/2016, 06:00)
+
+
+
+
+
+
+BACKGROUND: No change
+
+
+
+
+GENERALIZED SLOWING: No change
+
+
+
+
+FOCAL SLOWING: No change
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None
+
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+
+EKG: A single EKG lead captured normal sinus rhythm.
+
+
+
+
+
+
+DAY 3 IMPRESSION & CLINICAL CORRELATION
+
+
+
+There were no clinical events noted by the patient or nursing
+
+
+staff. No seizures were observed or captured. There was mild
+
+intermittent diffuse slowing (theta) noted.
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+DAY 4 (01/14/2016, 06:00 - 1/15/2016, 06:00)
+
+
+
+The patient was sleep deprived.
+
+
+
+
+BACKGROUND: No change
+
+
+
+
+GENERALIZED SLOWING: No change
+
+
+
+FOCAL SLOWING: No change
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None and Occasional
+
+
+wicket waves are noted during drowsiness over the left temporal
+
+regions.
+
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+
+EKG: A single EKG lead captured normal sinus rhythm.
+
+
+
+
+
+
+DAY 4 IMPRESSION & CLINICAL CORRELATION
+
+
+
+
+There were no clinical events noted by the patient or nursing
+
+staff. No seizures were observed or captured. There was mild
+
+intermittent diffuse slowing (theta) noted.
+
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+DAY 5 (01/15/2016, 06:00 - 1/16/2016, 06:00)
+
+
+
+
+BACKGROUND: No change
+
+
+
+GENERALIZED SLOWING: No change
+
+
+
+
+FOCAL SLOWING: No change
+
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): Occasional wicket waves
+
+are noted during drowsiness over the left temporal regions
+
+
+
+SPORADIC EPILEPTIFORM ACTIVITY: None
+
+
+
+
+EVENTS: No clinical or electrographic events reported or detected
+
+
+
+
+EKG: A single EKG lead captured normal sinus rhytm with rare
+
+
+premature beats.
+
+
+
+
+
+
+DAY 5 IMPRESSION & CLINICAL CORRELATION
+
+
+
+
+There were no clinical events noted by the patient or nursing
+
+staff. No seizures were observed or captured. There was mild
+
+intermittent diffuse slowing (theta) noted.
+
+
+
+
+
+
+Overall Summary and impression: This was a non-diagnostic 5 day
+
+video-EEG recording session. No clinical events were captured
+
+despite medication cessation and two nights of sleep deprivation.
+
+
+Mild inter-ictal abnormalities were noted including wicket
+
+sharps over the left temporal regions during drowsiness and
+
+
+sleep, and mild diffuse slowing during wakefulness. The
+
+differential diagnosis of seizures versus non-epileptic seizures
+
+versus syncope was discussed with the patient and her daughter.
+
+The patient wished to be discharged off of seizure medications.
+
+
+Risk:benefit of medication cessation was discussed in terms of
+
+seizures, falls, injury, and death. Possible need for additional
+
+
+EMU evaluation was discussed.  She will remain on low-dose
+
+topiramate for migraine relief. She will follow up with Dr. Luo
+
+as an outpatient.

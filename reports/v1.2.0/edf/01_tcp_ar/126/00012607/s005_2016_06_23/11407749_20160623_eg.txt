@@ -1,0 +1,264 @@
+HISTORY:
+
+This is a 47 y.o. female undergoing continuous inpatient video-electroencephalography (VEEG)
+monitoring with a history of: gunshot wound to right hemisphere and episodic right arm shaking.
+
+
+
+
+Continuous video EEG is initiated for:  Evaluation of paroxysmal events.
+
+
+
+Inpatient continuous EEG monitoring required due to one or more of the following reasons:
+
+- The patient is having medically uncontrolled seizures or clinical events, which poses a significant
+mortality and morbidity risk.  Continuous monitoring will aid in diagnosis and determining best
+treatment options.  If seizures are left untreated, there is a 10-20% annual morbidity and 2% annual
+mortality rate.
+
+
+
+- Continuous monitoring is required to capture a sufficient number of clinical events or seizures, while
+medication are reduced or provoked, which increases the risk of severe seizures and at risk of seizures
+causing injury or status epilepticus;
+
+
+
+
+
+
+- The EMU is set up to monitor and record EEGs during seizures and it includes nurses trained to
+provide first aid and patient safety during seizures;
+
+
+- The full hospital team must be present to deal with these medical emergency situations should they
+arise, including nurses to document patients exam
+
+
+There have been 13 reported deaths during various video-EEG monitoring procedures, so this is not
+a "low risk" service
+
+
+
+CONDITIONS OF THE RECORDING:
+
+A routine 21 channel digital EEG was recorded at the onset of monitoring.  The patient then
+underwent continuous CCTV/EEG monitoring using a cable telemetry system.  Scalp electrodes were
+placed and secured with collodion according to the 10-20 international electrode system.
+Sphenoidal electrodes were not used in this case.  Impedances were measured and verified to be
+below 5 Kohms.  EEG activity was recorded referentially to vertex reference, digitized, and stored to
+computer hard drive.  Periods of interest were subsequently reformatted to the montage of interest
+and reviewed in detail.
+
+
+
+
+
+Staff supervision, patient-initiated event buttons and computerized algorithms allowed detection of
+epileptiform EEG activity and correlation with behavior.  For 24 hours each weekday (and 12-24
+hours on weekend) the patient was attended by an EEG technician.  A neurologist was available in
+person or on call 24 hours per day.  The patient was monitored via video 24 hours per day by a
+registered nurse with special training in seizure recognition and testing.  During times when a
+technician was not available, EEG recording, video recording, and computer analysis continued, and
+nursing performed seizure testing and electrode maintenance.
+
+
+
+
+
+
+The Gotman spike and seizure detection computer program (trademark named "Stellate") was used
+to screen the EEG in real time for electrographic seizures and interictal discharges.  Samples of EEG
+were recorded periodically.  Detections were reviewed in detail by attending neurologist.  All events
+and detections, as well as selected samples, were stored to external hard drive media.
+
+
+
+
+MEDICATIONS:
+
+Phenobarbital 90 q12h
+
+
+Gabapentin 600 mg q8h
+
+
+SEDATION: Ativan
+
+
+
+DAY 1 (6/23/2016, 23:40 - 6/24/2016, 22:00)
+
+
+
+BACKGROUND:
+
+
+The waking background is continuous, symmetric, well-organized, and consists predominantly of low
+voltage fast frequencies. Posterior dominant rhythm is 10 Hz and attenuates symmetrically with eye
+opening.
+
+
+
+There is occasional subtle polymorphic frequency slowing over the right posterior quadrant seen in
+drowsiness.
+
+
+
+
+Drowsiness is characterized by background slowing with increased theta frequencies.
+
+
+
+Sleep was characterized by symmetric POSTS, sleep spindles and K-complexes.
+
+
+
+PAROXSYMAL ACTIVITY (NON-EPILEPTIFORM): None.
+
+
+EPILEPTIFORM ACTIVITY: None present
+
+
+
+ACTIVATION PROCEDURES: Hyperventilation and photic stimulation are not performed.
+
+
+
+EVENTS:
+
+Technician noted that prior to the beginning of this study, patient had "4 events of body stiffening,
+with her face becoming red, and difficulty breathing.  As the events ended, she took a deep breath,
+then event stopped. Each event lasted about 30 sec to >1 minute."
+
+
+
+
+6/24/2016 at 11:55
+
+CLINICAL: patient lying in bed. Rubs head with right hand. Husband at bedside. Stops rubbing head,
+then resumes several seconds later. Appears uncomfortable.  Stiffens left arm, then tonically holds
+right arm to face. Cries. Husband appears able to move the right arm. Husband says, "she's having a
+seizure right now." Patient is turned away from husband. She shakes right arm intermittently,
+nonrhythmically, when he lets go of it. She is breathing deeply. Eyes are closed. Eventually she
+follows a command to open her eyes. Has waxing-waning left shoulder jerking and nonsynchronous
+right arm jerking. Appears to be crying. Follows some simple commands and verbally responds.
+Duration: ~7 min 32 sec.
+
+
+
+
+
+EEG: no ictal EEG changes, other than muscle artifact, are present. Posterior dominant rhythm is
+seen intermittently.
+
+
+EKG: no change in HR in a single EKG lead
+
+
+6/24/2016 at 12:33
+
+
+CLINICAL: Lying in bed with hand covering eyes. Husband pushes button. patient's right arm bends
+and shakes, nonrhythmically, which husband is able to suppress. She begins crying, pulling away
+from husband. Not responding to questions. Shaking stops and starts and involves right trunk
+intermittently. She is able to be turned on back, moans, breathes deeply. Within 2 minutes she
+responds to command to open eyes, but only left eye opens. She complains of severe headache,
+10/10, and begins crying, says her "eyes feel like they are twitching". Duration: 3 min 55 sec.
+
+
+
+EEG: no ictal EEG changes, other than muscle artifact, are present. Posterior dominant rhythm is
+seen intermittently.
+
+
+EKG: no change in HR in a single EKG lead
+
+
+
+EKG: A single EKG lead captured a heart rate in the 70s
+
+
+
+
+
+DAY 1 IMPRESSION & CLINICAL CORRELATION:
+
+
+This is an abnormal video EEG due to:
+
+1. Occasional subtle polymorphic frequency slowing over the right posterior quadrant, seen in
+drowsiness
+
+
+2. Two episodes described above, consistent semiologically and electrographically with nonepileptic
+behavioral events
+
+
+
+
+
+
+-----------------------------------------------------------------
+
+
+DAY 2 (6/24/2016,  - 6/25/2016, 9:00)
+
+
+
+MEDICATIONS:
+
+Phenobarbital 90 q12h
+
+
+Gabapentin 600 mg q8h
+
+
+INTERICTAL BACKGROUND:
+
+
+The bilateral posterior dominant rhythm is  symmetric and reaches  10 Hz. There is lambda notes on
+the left.
+
+
+
+Sleep is characterized by normal sleep transients, with synchronous and symmetric vertex waves,
+sleep spindles and K-complexes. Slow wave sleep was not captured..
+
+
+Mild asymmetries are noted in sleep.
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES: none
+
+
+
+SEIZURES/EVENTS:
+
+There are  no clinical or electrographic events captured during this study.
+
+
+
+EKG: A single lead captured 90-120 BPM
+
+
+Overall impression and clinical correlation:
+
+
+
+No epileptiform seizures were idenitfied. The behaviors seemed to be emotional in nature. Focal
+slowing may be correlated with imaging.
+
+

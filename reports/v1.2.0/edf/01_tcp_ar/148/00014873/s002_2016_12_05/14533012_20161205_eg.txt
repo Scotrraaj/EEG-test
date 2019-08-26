@@ -1,0 +1,130 @@
+HISTORY:
+
+115 y.o. male with a history of anoxic brain injury, who remains unresponsive off
+sedation.
+
+
+
+MEDICATIONS:
+
+
+Current Facility-Administered Medications:
+
+white petrolatum-mineral oil (LACRI-LUBE) ophthalmic ointment 1 Application
+
+cisatracurium (NIMBEX) 200 mg in sodium chloride 0.9 % 200 mL infusion
+
+
+heparin 25,000 units (100 units/mL) in 0.45% sodium chloride 250 mL infusion (Premix)
+
+midazolam (VERSED) 50 mg in sodium chloride 0.9 % 50 mL infusion
+
+piperacillin-tazobactam (ZOSYN) 4.5 g in sodium chloride 0.9 % 100 mL IVPB MB+
+
+
+[START ON 12/6/2016] levETIRAcetam (KEPPRA) 500 mg in sodium chloride 0.9 % 100 mL IVPB
+
+famotidine (PF) (PEPCID) injection 20 mg
+
+lidocaine-epinephrine (PF) 1 %-1:200,000 injection 1 mL
+
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+sodium chloride 0.9 % injection (flush) 10 mL
+
+
+
+sodium bicarbonate injection 50 mEq
+
+EPINEPHrine (ADRENALIN) 2 mg in dextrose 5 % in water 250 mL infusion
+
+
+
+
+
+
+SEDATION: None
+
+
+TECHNIQUE:
+
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a technically satisfactory record
+and included a single channel of EKG.
+
+
+
+EEG BACKGROUND:
+
+
+There is no PDR or AP gradient.
+
+
+
+
+The background consists of markedly attenuated slow delta activity vs complete burst-suppression
+pattern.  There is no reactivity.
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+None
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+EKG artifact
+
+
+
+ACTIVATION PROCEDURES: There is no change in the background activity to visual, auditory,
+tactile, or noxious stimuli.
+
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation is not performed.
+
+
+EVENTS:
+
+
+There are no clinical or electrographic events captured during this study.
+
+
+HEART RATE:
+
+
+A heart rate of 84 bpm is captured on a single EKG lead.
+
+
+
+
+IMPRESSION:
+
+
+This is an abnormal comatose routine EEG due to:
+
+1. Marked background slowing and attenuation vs complete burst suppression pattern with no
+evidence of reactivity.
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate marked diffuse cerebral dysfunction.  This EEG background is markedly worse
+from the EEG background captured on the 12/02/2016 EEG.
+
+
+
+This is  EEG was not performed according the the ACNS guidelines for the determination of
+electrocerebral inactivity.

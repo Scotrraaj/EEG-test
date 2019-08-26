@@ -1,0 +1,119 @@
+HISTORY:
+
+48 y.o. female with a history of epilepsy since the age of 12. She has not had a
+seizure in 10 years, but is having symtoms like she is going to have one. Now referred to EEG for
+characterization of seizures.
+
+
+
+
+MEDICATIONS:
+
+Current Outpatient Prescriptions:
+
+
+levETIRAcetam (KEPPRA) 500 mg tablet, TAKE 2 TABLETS BY MOUTH 2 TIMES DAILY.
+
+topiramate (TOPAMAX) 50 mg tablet, Take 1 tablet by mouth 2 times daily. Start 1 at bed for 3
+weeks, then 1 BID
+
+
+
+SEDATION: None
+
+
+
+TECHNIQUE:
+
+A Digital Video 21 channel electroencephalogram (EEG) was recorded using the International 10-20
+system with T1/T2 electrodes and utilized a NicOne system. This was a  technically satisfactory record
+and included a single channel of EKG and photic stimulation.
+
+
+
+
+
+
+EEG BACKGROUND:
+
+
+The waking background is characterized by the presence of a fairly organized symmetric mixture of
+alpha and beta frequencies, with a symmetric and reactive 9 Hertz posterior dominant rhythm (PDR).
+The normal anterior-to-posterior gradient of frequency and amplitude is present but suboptimal.
+
+
+
+During drowsiness, slow rolling eye movements, attenuation and fragmentation of the posterior
+dominant rhythm, and diffuse background slowing are seen.
+
+
+
+
+Sleep is not captured.
+
+
+No generalized slowing is present.
+
+
+
+Frequent focal slowing is present at over the left anterior-to-mid temporal region (F7/T3 max).
+
+
+
+EPILEPTIFORM ACTIVITY:
+
+1. Frequent (>1/min to <1/10s) left anterior temporal (T1>F7/T3 max) sharp waves
+
+
+
+OTHER PAROXYSMAL ACTIVITY (NON-EPILEPTIFORM):
+
+None
+
+
+
+ACTIVATION PROCEDURES:
+
+
+Hyperventilation: Hyperventilation is not performed.
+
+
+
+Photic Stimulation: Stepped photic stimulation from 1-21 flashes per second (fps) does not produce
+any EEG changes.
+
+
+
+EVENTS:
+
+There are no clinical or electrographic events captured during this study.
+
+
+
+HEART RATE:
+
+A heart rate of 90 bpm is captured on a single EKG lead.
+
+
+
+IMPRESSION:
+
+This is an abnormal awake and drowsy  routine EEG due to:
+
+
+1. Frequent (>1/min to <1/10s) left anterior temporal (T1>F7/T3 max) sharp waves
+
+
+
+2. Frequent focal slowing over left anterior-to-mid temporal region
+
+3. Suboptimal organization
+
+
+
+CLINICAL CORRELATION:
+
+
+
+These findings indicate of a potential epileptogenic focus in left anterior temporal region,
+superimposed on left temporal cerebral dysfunction and mild diffuse cerebral dysfunction.

@@ -1,0 +1,25 @@
+History:	58 year old woman with a history of right sided tumor removed ~10 years ago.  
+	Patient reports a single seizure some years ago.
+Medications:	GABAPENTIN
+Sedation:
+EEG Type:	Routine, awake & drowsy
+Technique:	International 10-20 System; standard 21 electrodes with T1/T2 electrodes and EKG 
+	electrodes, awake, drowsy, photic
+Description:
+The background consists of a moderate amplitude polymorphic 9 Hz alpha activity that attenuates 
+with eye opening.  The AP gradient is weak.  Diffuse excess beta activity is seen.  During 
+drowsiness, voltages increase, theta activity appears and occasional symmetrical vertex waves are 
+  No clear epileptiform discharges are present.
+Hyperventilation is not performed.  Hyperventilation is performed for 240 seconds with good 
+cooperation, and produces no effect.
+Summary of Findings:
+	Disorganization, mild
+	No epileptiform discharges
+	Beta, excessive
+	No stage 2 sleep
+Interpretation:
+This is an ABNORMAL awake and drowsy 22-minute EEG due to mild background disorganization. 
+These findings are indicative of mild diffuse cerebral dysfunction, which is etiologically nonspecific.
+  Excessive beta activity could be secondary to the medication effect, such as benzodiazepines or 
+barbiturates.
+
