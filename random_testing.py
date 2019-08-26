@@ -22,11 +22,12 @@ import os
 import pandas as pd
 
 count=0
-
 file_path = []
 matches = []
 patient_id = []
 session_id = []
+has_or_had_alzheimer = []
+receive_medication = []
 for root, dirs, files in os.walk(r'reports'):
     for file in files:
         if file.endswith('.txt'):
@@ -42,7 +43,19 @@ for folders in file_path:
     patient_id.append(patient)
     session_id.append(session)
 
-df = pd.DataFrame({'Patient_ID': patient_id , 'Session_ID': session_id , 'File Path': file_path , 'Match' : matches})
+for every_matches in matches:
+    if every_matches == '1':
+        has_or_had_alzheimer.append('')
+    else:
+        has_or_had_alzheimer.append('0')
+
+for every_zero in has_or_had_alzheimer:
+    if every_zero == '0':
+        receive_medication.append('0')
+    else:
+        receive_medication.append('')
+
+df = pd.DataFrame({'Patient_ID': patient_id , 'Session_ID': session_id , 'File Path': file_path , 'Match' : matches, 'Has or Had Alzheimer': has_or_had_alzheimer, 'Receive Medication': receive_medication})
 df.to_csv(r'Filtered.csv')
 print('TOTAL NUMBER OF TEXT FILES:', count)
 print('\n')
